@@ -1,0 +1,21 @@
+title: Just Dhamma
+description: Nepali & English Dhamma teachings
+baseurl: ""
+url: ""
+
+markdown: kramdown
+
+collections:
+  ne_posts:
+    output: true
+    permalink: /ne/:title/
+    
+  en_posts:
+    output: true
+    permalink: /en/:title/
+
+permalink: /:categories/:title/
+permalink: /:title/
+
+# Gemfile
+gem "logger"

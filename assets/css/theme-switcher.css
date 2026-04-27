@@ -1,0 +1,104 @@
+/* -------------------------------------
+Theme Switcher
+---------------------------------------- */
+/* .theme-switcher {
+  position: fixed;
+  right: 25px;
+  bottom: 25px;
+  z-index: 999;
+}
+
+.theme-switcher button {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 8px 12px;
+  cursor: pointer;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.theme-switcher button:hover {
+  opacity: 0.7;
+}
+
+.theme-menu {
+  position: absolute;
+  bottom: 45px;
+  right: 0;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 8px;
+  display: none;
+  z-index: 1000;
+}
+
+.theme-menu button {
+  display: block;
+  width: 100%;
+  padding: 6px 12px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  color: var(--text);
+  cursor: pointer;
+  border-radius: 4px;
+  margin-bottom: 4px;
+}
+
+.theme-menu button:hover {
+  opacity: 0.7;
+}
+
+.theme-switcher:hover .theme-menu {
+  display: block;
+} */
+
+/* -------------------------------------
+Basic Theme Switcher
+---------------------------------------- */
+
+.theme-switcher {
+  position: relative;
+  display: inline-block;
+}
+
+/* main icon */
+#theme-toggle {
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 4px 8px;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+/* dropdown */
+.theme-menu {
+  display: none;
+  position: absolute;
+  top: 30px;
+  right: 0;
+
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+
+  flex-direction: column;
+  min-width: 100px;
+  z-index: 999;
+}
+
+.theme-menu button {
+  background: none;
+  border: none;
+  padding: 8px;
+  text-align: left;
+  cursor: pointer;
+  color: var(--text);
+}
+
+.theme-menu button:hover {
+  background: var(--border);
+}
+

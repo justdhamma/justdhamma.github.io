@@ -1,0 +1,543 @@
+:root {
+  --bg: #ffffff;
+  --text: #111111;
+  --muted: #666;
+  --link: #2563eb;
+  --border: #e5e5e5;
+}
+
+[data-theme="dark"] {
+  /* --bg: #1c1f2b; */
+  --bg: #2d3143;
+  --text: #bdcadb;
+  --muted: #a0a0a0;
+  --link: #8ab4f8;
+  --border: #2a2d33;
+}
+
+/* Smooth reading experience */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.7; /* 1.6 Increased for better readability */
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+
+
+/* Typography (important for reading) */
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 24px;
+  font-size: 18px;
+  border: 1px solid var(--border);
+}
+
+/* Links */
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Nav */
+nav {
+  border-bottom: 1px solid var(--border);
+  padding: 12px 20px;
+}
+
+nav a {
+  margin-right: 12px;
+}
+
+/* Footer */
+footer {
+  border-top: 1px solid var(--border);
+  margin-top: 40px;
+  padding: 20px;
+  text-align: center;
+  color: var(--muted);
+}
+
+/* Toggle button */
+.theme-toggle {
+  float: right;
+  cursor: pointer;
+  font-size: 14px;
+  color: var(--muted);
+}
+
+.nepali {
+  font-family: "Noto Sans Devanagari", sans-serif;
+}
+
+.english {
+  font-family: Georgia, serif;
+}
+
+
+p {
+  margin-bottom: 1.2em;
+}
+
+h1, h2, h3 {
+  line-height: 1.3;
+}
+
+blockquote {
+  border-left: 3px solid var(--border);
+  padding-left: 12px;
+  color: var(--muted);
+}
+
+::selection {
+  background: var(--link);
+  color: white;
+}
+
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 16px;
+}
+
+small {
+  color: var(--muted);
+}
+
+
+/* --------------------------------------------------
+  🟡 3. Upgrade Typography & Spacing (CSS) 
+-------------------------------------------------- */
+
+/* Reading container */
+.reading-container {
+  max-width: 680px;
+  margin: 60px auto;
+  padding: 0 20px;
+  font-size: 19px;
+  line-height: 1.9;
+}
+
+/* Title */
+.post-header h1 {
+  font-size: 34px;
+  margin-bottom: 10px;
+  line-height: 1.3;
+}
+
+/* Meta */
+.post-meta {
+  color: var(--muted);
+  font-size: 14px;
+  margin-bottom: 40px;
+}
+
+/* Paragraphs */
+.post-content p {
+  margin-bottom: 1.4em; /* Paragraph spacing */
+}
+
+/* Headings */
+.post-content h2 {
+  margin-top: 40px;
+  margin-bottom: 10px;
+  font-size: 26px;
+}
+
+.post-content h3 {
+  margin-top: 30px;
+  font-size: 22px;
+}
+
+/* Blockquote (important for Dhamma tone) */
+.post-content blockquote {
+  border-left: 3px solid var(--border);
+  padding-left: 16px;
+  margin: 20px 0;
+  color: var(--muted);
+  font-style: italic;
+}
+
+/* Lists */
+.post-content ul {
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+/* Better spacing for Nepali */
+.nepali {
+  font-family: "Noto Sans Devanagari", sans-serif;
+}
+
+/* Better spacing for English */
+.english {
+  font-family: Georgia, serif;
+}
+
+
+
+/* --------------------------------------------------
+  🟡 4. Add Focus Mode (Key Feature)
+-------------------------------------------------- */
+
+/* Focus mode */
+body.focus-mode nav,
+body.focus-mode footer,
+body.focus-mode .theme-toggle {
+  display: none;
+}
+
+.focus-toggle {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  padding: 8px 12px;
+  cursor: pointer;
+  color: var(--muted);
+}
+
+
+/* --------------------------------------------------
+  🟡 5. Improve Readability (Subtle but powerful)
+-------------------------------------------------- */
+
+/* Limit line length strictly */
+.post-content {
+  max-width: 800px;
+  margin: auto;
+  font-size: 16px;
+  line-height: 1.9;
+}
+
+/* Smooth reading */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Selection */
+::selection {
+  background: var(--link);
+  color: white;
+}
+
+.post-meta {
+  color: var(--muted);
+  font-size: 14px;
+  margin-bottom: 18px;
+}
+
+/* Progress container */
+.progress-container {
+  height: 2px;
+  background: var(--border);
+  margin-bottom: 30px;
+  overflow: hidden;
+}
+
+/* Reading progress bar */
+#progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 5px;
+  width: 0%;
+  background: var(--link);
+  background: linear-gradient(to right, var(--link), #8ab4f8);
+  z-index: 9999;
+  /* transition: width 0.1s ease-out; */
+  transition: width 0.1s linear;
+}
+
+#reading-time {
+  font-style: normal;
+}
+
+#continue-reading {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+
+/* Footer center link */
+.post-footer {
+  text-align: center;
+  margin: 60px 0 40px;
+}
+
+.back-to-essays {
+  color: var(--link);
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.back-to-essays:hover {
+  text-decoration: underline;
+}
+
+/* Back to top button */
+#back-to-top {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  z-index: 999;
+
+  background: var(--bg);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 8px 12px;
+  cursor: pointer;
+  border-radius: 6px;
+  /* opacity: 0; */
+  display: none;
+  transition: opacity 0.2s ease;
+}
+
+#back-to-top:hover {
+  opacity: 0.7;
+}
+
+/* If you still have focus button */
+.focus-toggle {
+  position: fixed;
+  right: 25px;
+  border-radius: 5px;
+  bottom: 70px;  /* pushed above back-to-top */
+  z-index: 999;
+}
+
+
+.fixed-actions {
+  position: fixed;
+  right: 25px;
+  bottom: 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+
+.font-controls {
+  position: fixed;
+  right: 25px;
+  bottom: 120px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  z-index: 999;
+}
+
+.font-controls button {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  color: var(--text);
+
+  width: 38px;
+  height: 38px;
+
+  /* padding: 6px 10px; */
+  cursor: pointer;
+  border-radius: 8px;
+
+  font-size: 14px;
+  line-height: 1;
+}
+
+/* ----------------------------------------
+Clean floating panel
+---------------------------------------- */
+.reader-panel {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+  z-index: 999;
+
+  background: var(--bg);
+  border: 1px solid var(--border);
+}
+
+/* grouped sections */
+.panel-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+
+  background: var(--bg);
+  border: 1px solid var(--border);
+  padding: 8px;
+  border-radius: 10px;
+}
+
+/* buttons */
+.panel-group button {
+  width: 38px;
+  height: 38px;
+
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text);
+
+  border-radius: 8px;
+  cursor: pointer;
+
+  font-size: 14px;
+}
+
+/* hover */
+.panel-group button:hover {
+  opacity: 0.7;
+}
+
+
+/* buttons */
+button {
+  background: var(--bg);
+  color: var(--text);
+  border: 1px solid var(--border);
+}
+
+/* progress bar */
+#progress-bar {
+  background: var(--link);
+}
+
+
+.ne {
+  font-family: "Noto Serif Devanagari", serif;
+  font-size: 24px;
+}
+
+.en {
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 24px;
+}
+
+
+/* Navbar layout */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 12px 20px;
+  border-bottom: 1px solid var(--border);
+}
+
+.nav-left {
+  display: flex;
+  gap: 1rem;
+}
+
+/* left links */
+.nav-left a {
+  margin-right: 12px;
+}
+
+/* right side */
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+
+.navbar-ne {
+  font-family: "Noto Serif Devanagari", serif;
+  font-size: 18px;
+}
+
+.navbar-en {
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 14px;
+}
+
+/* -------------------------------------
+Animated Theme Switcher
+---------------------------------------- */
+
+/* container */
+.theme-switcher {
+  position: relative;
+  display: inline-block;
+}
+
+/* toggle button */
+#theme-toggle {
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 4px 8px;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+/* dropdown */
+.theme-menu {
+  position: absolute;
+  top: 35px;
+  right: 0;
+
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+
+  display: flex;
+  flex-direction: column;
+  min-width: 120px;
+
+  opacity: 0;
+  transform: translateY(-10px);
+  pointer-events: none;
+
+  transition: all 0.2s ease;
+}
+
+/* visible state */
+.theme-menu.show {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+/* buttons */
+.theme-menu button {
+  background: none;
+  border: none;
+  padding: 8px 10px;
+  text-align: left;
+  cursor: pointer;
+  color: var(--text);
+  border-radius: 6px;
+}
+
+/* hover */
+.theme-menu button:hover {
+  background: var(--border);
+}
+
+/* active theme */
+.theme-menu button.active {
+  background: var(--border);
+  font-weight: 600;
+}
