@@ -15,12 +15,15 @@ layout: base
   </div> -->
 
   <script>
-    document.getElementById("continue-reading").onclick = function () {
-      const saved = localStorage.getItem("scrollPosition");
-      if (saved) {
-        window.scrollTo({ top: parseInt(saved, 10), behavior: "smooth" });
-      }
-    };
+    const continueReading = document.getElementById("continue-reading");
+    if (continueReading) {
+      continueReading.onclick = function () {
+        const saved = localStorage.getItem("scrollPosition");
+        if (saved) {
+          window.scrollTo({ top: parseInt(saved, 10), behavior: "smooth" });
+        }
+      };
+    }
   </script>
 
   <header class="post-header">

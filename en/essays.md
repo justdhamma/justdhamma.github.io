@@ -2,20 +2,22 @@
 layout: english
 title: Essays
 lang: en
+permalink: /en/essays/
 ---
 
 ## All Essays
 
-<!-- {% assign en_posts = site.posts | where: "lang", "en" %} -->
-{% assign en_posts = en_posts | where: "category", "essay" %}
+{% assign essays = site.essays | where: "lang", "en" | sort: "date" | reverse %}
+{% assign authors = essays | group_by: "author" | sort_natural: "name" %}
 
-<ul> 
-{% for post in en_posts %} 
-    <li> <a href="{{ post.url }}">{{ post.title }}</a><br>
-    <small>{{ post.date | date: "%Y-%m-%d" }}</small> </li>
-
-    <p>{{ post.excerpt }}</p>
-{% endfor %} 
+{% for author in authors %}
+<h3>{{ author.name }}</h3>
+<ul>
+{% for post in author.items %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a><br>
+      <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+    </li>
+{% endfor %}
 </ul>
-
-👉 New here? Start with any essay.
+{% endfor %}

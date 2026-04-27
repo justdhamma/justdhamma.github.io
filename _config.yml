@@ -14,5 +14,13 @@ collections:
     output: true
     permalink: /en/:title/
 
+  transcripts:
+    output: true
+    permalink: /transcripts/:title/
+
+  essays:
+    output: true
+    permalink: /essays/:title/
+
 permalink: /:categories/:title/
 # permalink: /:title/
