@@ -147,14 +147,17 @@ small {
 /* Meta */
 .post-meta {
   color: var(--muted);
-  font-size: 14px;
+  font-size: smaller;
   margin-bottom: 40px;
+  font-family: "Inter", sans-serif;
+  font-style: italic;
 }
 
 /* Paragraphs */
 .post-content p {
   margin-bottom: 1.4em; /* Paragraph spacing */
 }
+
 
 /* Headings */
 .post-content h2 {
@@ -243,8 +246,12 @@ html {
 
 .post-meta {
   color: var(--muted);
+  /* font-size: 14px; */
+  margin-bottom: 10px;
+}
+
+.post-header p{
   font-size: 14px;
-  margin-bottom: 18px;
 }
 
 /* Progress container */
@@ -568,4 +575,45 @@ Custom
 
 .container.nepali {
   font-family: "Noto Serif Devanagari", serif;
+}
+
+
+.site-logo {
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--text);
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.site-logo:hover {
+  text-decoration: none;
+}
+
+
+.navbar-en .nav-left a:not(:first-of-type) {
+  margin-top: 15px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.lang-switch{
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 16px;
+}
+
+.navbar-ne .nav-left a:not(:first-of-type) {
+  margin-top: 15px;
+  font-size: 19px;
+  /* font-weight: bold; */
+}
+
+.ne p{
+  font-size: 19px;
+}
+
+
+.en p{
+  font-size: 16px;
 }

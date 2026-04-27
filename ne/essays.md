@@ -2,19 +2,22 @@
 layout: nepali
 title: निबन्धहरू
 lang: ne
+permalink: /ne/essays/
 ---
 
 ## सबै निबन्धहरू
 
-{% assign ne_posts = site.posts | where: "lang", "ne" %}
+{% assign essays = site.essays | where: "lang", "ne" | sort: "date" | reverse %}
+{% assign authors = essays | group_by: "author" | sort_natural: "name" %}
 
-<ul> 
-{% for post in ne_posts %} 
-    <li> <a href="{{ post.url }}">{{ post.title }}</a><br>
-    <small>{{ post.date | date: "%Y-%m-%d" }}</small> </li>
-
-    <p>{{ post.excerpt }}</p>
-{% endfor %} 
-</ul>
-
-👉 नयाँ पाठक हुनुहुन्छ? सुरु गर्न केही निबन्ध छान्नुहोस्।
+{% for author in authors %}
+<h3>{{ author.name }}</h3>
+<ul>
+{% for post in author.items %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a><br>
+      <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+    </li>
+{% endfor %}
+</ul>   
+{% endfor %}
