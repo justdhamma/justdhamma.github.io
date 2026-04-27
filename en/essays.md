@@ -6,7 +6,8 @@ lang: en
 
 ## All Essays
 
-{% assign en_posts = site.posts | where: "lang", "en" %}
+<!-- {% assign en_posts = site.posts | where: "lang", "en" %} -->
+{% assign en_posts = en_posts | where: "category", "essay" %}
 
 <ul> 
 {% for post in en_posts %} 

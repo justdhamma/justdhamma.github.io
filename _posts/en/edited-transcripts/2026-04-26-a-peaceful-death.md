@@ -1,0 +1,242 @@
+---
+layout: post
+title: 337hh - A Peaceful Death
+description: This essay explores the concept of a peaceful death.
+lang: en
+excerpt: This essay explores the concept of a peaceful death.
+category: transcript
+video_id: 337
+video_url: 
+---
+
+(Hillside Hermitage Talk no.337hh - edited transcript)
+
+YouTube
+## Aṅguttara Nikāya 5.121 Gilānasutta
+## Saṁyutta Nikāya 36.7 Paṭhamagelaññasutta
+
+Bhikkhu: I have a few questions from a friend, he says, "Bhante, I've received a
+diagnosis of a terminal illness. I understand that we all face mortality, but I now have
+a clearer timeline for my own. I've accepted this reality and feel a strong sense of
+urgency to deepen my spiritual practice. It may be too late, but I want to make the
+most of the time I have left. Could you kindly suggest specific contemplations or
+practices that might aid me on this journey?"
+Ajahn Nyanamoli: The practice doesn't change. Whether you have a lot of time left
+or a little, it is the same gradual process, the same gradual training. The gradual
+training we often talk about—well, now that person will have to condense it into a
+much shorter period of time. Take the precepts even more seriously. Practice sense
+restraint twice as hard. Withdraw from unwholesome states, exerting yourself in
+complete seclusion from others, and grasp the signs of the mind.
+It is always the same pathway. As the Buddha said when he discovered the Dhamma,
+it was like an ancient path that people in the past had walked. It is always the same.
+The Difference Between an Ariya and a Puthujjana
+B: It reminds me of a sutta in the Anguttara Nikaya. It says,
+"Bhikkhus, if five things do not slip away from a frail and sick bhikkhu, it can
+be expected of him in no long time, with the destruction of the taints, he will
+realize for himself the liberation of mind." These five things are: a bhikkhu
+dwells contemplating the unattractiveness of the body, perceiving the
+repulsiveness of food, perceiving non-delight in the entire world,
+
+## 2
+contemplating anicca, and he has the perception of death well established
+internally. If these five things do not slip away from a frail and dying
+bhikkhu, it will be expected that he will...
+Nm: Yes, however, the difference there is that the dying bhikkhu is an ariya. He is
+not a puthujjana. He already has the right view. He just hasn't completely reached
+liberation and the destruction of the taints, as it says there. He would reach the
+destruction of taints if he establishes himself in those five things, having had the
+right view beforehand.
+I presume that this person who says, "My time is short now, I haven't practiced as
+much before, now I have a timeline and want to practice harder," does not even
+have the right view. For that, again, the answer is the gradual training. There is no
+shortcut. It is just that the long journey can be traveled faster if you double down on
+your efforts.
+Increase the amount, double them up, and take it seriously. Do not look at anything
+unwholesome. Do not think about anything unwholesome. Withdraw yourself, exert
+yourself in seclusion and secluded places for as long as you can, and grasp the signs
+of the mind. Listen to our talks about the signs of the mind, because that is a
+precursor to the right view.
+Sure, you can contemplate illness and repulsiveness. But that only results in
+liberation from the destruction of taints if you already know what the practice is. If
+you have the right view, then those contemplations will amplify it.
+B: An ordinary person facing death is obviously afraid, thinking, "I haven't been
+practicing."
+Nm: That is the thing, really. Everybody is facing death. That terminally ill person
+might actually live longer than somebody else who is not terminally ill. It is really
+just the recognition of the inevitable in their case. Sometimes that is what people
+need to make them take the practice seriously.
+But there is no special contemplation that can provide a shortcut for you. It is still the
+same path you have to walk, the same distance. But yes, you can walk it faster if you
+
+## 3
+take the steps of the gradual training more seriously. Seeing danger in the slightest
+fault, moderation in eating—all of that is building up, intensifying, and amplifying.
+Physical Seclusion and Grasping the Sign of the Mind
+And physical seclusion is a prerequisite for grasping the signs of the mind. For
+somebody to grasp the signs of the mind without having been physically secluded is
+impossible.
+If you do have physical seclusion and have been practicing sense restraint, virtue,
+and everything leading up to it, and you are able to endure it rightly, it is quite
+possible you will grasp the signs of your mind. You will start seeing your own mind as
+a phenomenon, as an entity that exists parallel to this body, neither of which really
+belongs to you. You will be able to see it in a correct third-person sense, like a wild
+animal that needs taming.
+You will be able to unidentify yourself with it by default. Usually, you are identified
+by default. You don't even see the mind. You don't even see it as a thing. You might
+have conceptual ideas about it, but you don't see it as a phenomenon existing there
+while you are thinking about it. To see it, you need to develop that gradual training
+and solitude, and then these things can become apparent. That would be my advice:
+strive for that before time runs out.
+The Illusion of a Peaceful Death
+B: I have sometimes heard advice like, "Be grateful for the things that have
+happened in your life. Think about all the good things, and in this way you will
+have a peaceful death."
+Nm: The idea of a peaceful death usually comes from people who do not
+contemplate death correctly; they are still intoxicated with life. They project this
+fantasy of dying peacefully—peaceful from the point of view of an external observer,
+what looks peaceful.
+The only peaceful death is the death of an arahant. That is the only state of the five
+aggregates that has been freed from any traces of resistance, of patigha. If there is
+still resistance, there will be tension felt when death occurs, because it is not
+
+## 4
+completely dispassionate. If you want to experience a peaceful death, you need to
+become an arahant. If you want to experience a largely peaceful, less unpeaceful
+death, become at least a sotapanna.
+That is the true measure of peace, not how you look externally. Sometimes people
+look externally peaceful just because they have been wiped away by their illness and
+there is absolutely no energy or strength left. It just looks peaceful. But internally, if
+the mind has not been developed in dispassion and disenchantment, there will be no
+peace.
+That is pretty much what I am describing. Develop the sign of the mind, acquire the
+right view, and you are already a step closer to being unmoved by death. If in your
+spare time you want to practice gratitude, visualize happy, lofty ideas, and so on, do
+that. But do not conflate that with the practice of the right view and the gradual
+training, because it has nothing to do with it. It is more about making yourself feel
+better because you still do not know the escape. And admitting to yourself that you
+do not know the escape, is a good place to start.
+If your concern is just about making yourself feel better, you won't be practicing
+towards the right view, because practicing towards the right view won't make you feel
+better initially. It is just going to make you feel worse, because you are uncovering
+things that you have been covering up through various means such as thinking
+thoughts of gratitude.
+They do not need to be mutually exclusive in theory, but practically they are mutually
+exclusive for somebody at that stage. You would not be able to make yourself feel
+better and simultaneously practice for the right view if the value of feeling good is
+still more important to you. But I think this person has realized that. Having been
+diagnosed with a terminal illness, they are asking the right things: "What do I do to
+speed up what I haven't done before?"
+
+
+
+## 5
+## Aṅguttara Nikāya 5.121 Gilānasutta
+At one time, the Blessed One was dwelling in Vesālī, at the Peaked-Roof Hall in the
+Great Wood. Then, having arisen from seclusion in the evening, the Blessed One
+approached the sick-ward.
+The Blessed One saw a certain bhikkhu who was weak and sick. Upon seeing him, he
+sat down on the prepared seat. Having sat down, the Blessed One addressed them:
+"If five things are not neglected by any weak and sick bhikkhu, this is to be expected
+for him:
+'Before long, through the destruction of the taints, the taintless liberation of citta and
+liberation by wisdom will be realized, attained, and experienced by oneself with
+direct knowledge in this very seen dhamma.'
+"What are the five?
+"Here, a bhikkhu lives discerning asubha in the physical body; he has the perception
+of repulsiveness of food; he has the perception of non-delight in the entire world; he
+lives discerning anicca in all sankharas; and the perception of death is
+well-established internally for him.
+"If those five things are not neglected by any weak and sick bhikkhu, this is to be
+expected for him:
+'Before long, through the destruction of the taints, the taintless liberation of citta and
+liberation by wisdom will be realized, attained, and experienced by oneself with
+direct knowledge in this very seen dhamma.'
+
+
+## Saṁyutta Nikāya 36.7 Paṭhamagelaññasutta
+On one occasion, the Blessed One was dwelling at Vesālī in the Great Wood, in the
+Hall with the Peaked Roof. Emerging from seclusion in the evening, he approached
+
+## 6
+the sick ward and sat down on the prepared seat. Having sat down, the Blessed One
+addressed them:
+"A bhikkhu should await his time (death) with sati and clear comprehension. This is
+our instruction to you.
+Instruction on Sati and Clear Comprehension
+"And how is a bhikkhu with sati?
+Here, a bhikkhu dwells discerning the kāya in the kāya—ardent, clearly
+comprehending, and possessed of sati—having removed covetousness and
+domanassa regarding the world. He dwells discerning vedanā in vedanās... He dwells
+discerning citta in citta... He dwells discerning dhammās in dhammās—ardent,
+clearly comprehending, and possessed of sati—having removed covetousness and
+domanassa regarding the world. This is how a bhikkhu is with sati.
+"And how does a bhikkhu act with clear comprehension?
+Here, a bhikkhu acts with clear comprehension when going forward and returning;
+when looking ahead and looking away; when bending and stretching his limbs; when
+wearing his outer robe, carrying his bowl, and wearing his robes; when eating,
+drinking, chewing, and tasting; when defecating and urinating; and when walking,
+standing, sitting, falling asleep, waking up, speaking, and remaining silent. This is
+how a bhikkhu acts with clear comprehension.
+"A bhikkhu should await his time with sati and clear comprehension. This is our
+instruction to you.
+Contemplation of Sukhā Vedanā
+"If, while a bhikkhu is dwelling thus—with sati, clearly comprehending, diligent,
+ardent, and resolute—a sukhā vedanā arises, he understands:
+'This sukhā vedanā has arisen in me. And it is dependent, not independent.
+Dependent on what? Dependent on this very kāya. But this kāya is anicca, saṅkhata,
+and dependently arisen. Since this sukhā vedanā has arisen dependent on a kāya that
+is anicca, saṅkhata, and dependently arisen, how could it be niccā?'
+"He dwells discerning anicca, vanishing, virāga, cessation, and relinquishment in the
+kāya and in the sukhā vedanā. As he dwells discerning (the aspects of) anicca, decay,
+
+## 7
+fading away, ceasing, and relinquishment in the kāya and in the sukhā vedanā, the
+underlying tendency to rāga towards the kāya and the sukhā vedanā is abandoned.
+Contemplation of Dukkhā Vedanā
+"If, while dwelling thus with sati, clearly comprehending, diligent, ardent, and
+resolute, a dukkhā vedanā arises, he understands:
+'This dukkhā vedanā has arisen in me. And it is dependent, not independent.
+Dependent on what? Dependent on this very kāya. But this kāya is anicca, saṅkhata,
+and dependently arisen. Since this dukkhā vedanā has arisen dependent on a kāya
+that is anicca, saṅkhata, and dependently arisen, how could it be niccā?'
+"He dwells discerning anicca, decay, fading away, ceasing, and relinquishment in the
+kāya and in the dukkhā vedanā. As he dwells discerning anicca... and relinquishment
+in the kāya and in the dukkhā vedanā, the underlying tendency to paṭigha towards
+the kāya and the dukkhā vedanā is abandoned.
+Contemplation of Adukkhamasukhā Vedanā
+"If, while dwelling thus with sati, clearly comprehending, diligent, ardent, and
+resolute, an adukkhamasukhā vedanā arises, he understands:
+'This adukkhamasukhā vedanā has arisen in me. And it is dependent, not
+independent. Dependent on what? Dependent on this very kāya. But this kāya is
+anicca, saṅkhata, and dependently arisen. Since this adukkhamasukhā vedanā has
+arisen dependent on a kāya that is anicca, saṅkhata, and dependently arisen, how
+could it be niccā?'
+"He dwells discerning anicca, decay, fading away, ceasing, and relinquishment in the
+kāya and in the adukkhamasukhā vedanā. As he dwells discerning anicca... and
+relinquishment in the kāya and in the adukkhamasukhā vedanā, the underlying
+tendency to avijjā towards the kāya and the adukkhamasukhā vedanā is abandoned.
+Detachment from Vedanā
+"If he experiences a sukha vedanā, he understands that it is anicca, not held to, and
+not delighted in.
+If he experiences a dukkha vedanā, he understands that it is anicca, not held to, and
+not delighted in.
+
+## 8
+If he experiences an adukkhamasukha vedanā, he understands that it is anicca, not
+held to, and not delighted in.
+"If he experiences a sukha vedanā, he experiences it detached.
+If he experiences a dukkha vedanā, he experiences it detached.
+If he experiences an adukkhamasukha vedanā, he experiences it detached.
+"Experiencing a vedanā terminating with the kāya, he understands: 'I am
+experiencing a vedanā terminating with the kāya.' Experiencing a vedanā
+terminating with life, he understands: 'I am experiencing a vedanā terminating with
+life.' He understands: 'With the breakup of the kāya and the exhaustion of life, right
+here all felt experience, being not delighted in, will become cool.'
+The Simile of the Oil Lamp
+"Just as an oil lamp burns dependent on oil and a wick, and from the exhaustion of
+that very oil and wick, it is extinguished through lack of fuel; even so, experiencing a
+vedanā terminating with the kāya, a bhikkhu understands: 'I experience a vedanā
+terminating with the kāya.' Experiencing a vedanā terminating with life, he
+understands: 'I experience a vedanā terminating with life.' He understands: 'With the
+breakup of the kāya and the exhaustion of life, right here all felt experience, being not
+delighted in, will become cool.'"

@@ -1,0 +1,35 @@
+justdhamma.github.io/
+│
+├── _config.yml
+├── index.html                # language landing page
+│
+├── _layouts/
+│   ├── base.html
+│   ├── nepali.html
+│   └── english.html
+│
+├── _includes/
+│   ├── nav-ne.html
+│   ├── nav-en.html
+│   └── footer.html
+│
+├── _posts/
+│   ├── ne/
+│   └── en/
+│
+├── ne/
+│   ├── index.md
+│   ├── essays.md
+│   └── about.md
+│
+├── en/
+│   ├── index.md
+│   ├── essays.md
+│   └── about.md
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   └── images/
+│
+└── README.md

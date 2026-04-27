@@ -15,4 +15,4 @@ collections:
     permalink: /en/:title/
 
 permalink: /:categories/:title/
-permalink: /:title/
+# permalink: /:title/
