@@ -59,6 +59,12 @@
           closeMenu(navbar);
         }
       });
+
+      if (backdrop) {
+        backdrop.addEventListener("click", function () {
+          closeMenu(navbar);
+        });
+      }
     });
 
     document.addEventListener("click", function (event) {
@@ -67,12 +73,6 @@
           closeMenu(navbar);
         }
       });
-
-      if (backdrop) {
-        backdrop.addEventListener("click", function () {
-          closeMenu(navbar);
-        });
-      }
     });
 
     document.addEventListener("keydown", function (event) {

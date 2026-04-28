@@ -9,82 +9,33 @@ layout: base
 {% endif %}
 
 <article class="reading-container {{ page.lang }}">
-
-  <!-- <div id="continue-reading" style="display:none;">
-    Continue reading from where you left off →
-  </div> -->
-
-  <script>
-    const continueReading = document.getElementById("continue-reading");
-    if (continueReading) {
-      continueReading.onclick = function () {
-        const saved = localStorage.getItem("scrollPosition");
-        if (saved) {
-          window.scrollTo({ top: parseInt(saved, 10), behavior: "smooth" });
-        }
-      };
-    }
-  </script>
-
   <header class="post-header">
     <h1>{{ page.title }}</h1>
 
     <p class="post-meta">
-      {{ page.author }} · {{page.category}} ·
+      {{ page.author }} · {{ page.category }} ·
       {{ page.date | date: "%B %d, %Y" }} ·
       <span id="reading-time"></span>
     </p>
 
-    <!-- Progress bar (inside header for cleaner integration) -->
     <div class="progress-container">
       <div id="progress-bar"></div>
     </div>
-
   </header>
 
   <div class="post-content {{ page.lang }}">
     {{ content }}
   </div>
 
-  <!-- <div class="post-footer">
-    <a class="back-to-essays" href="/{{ page.lang }}/essays">
-      ← Back to Essays
-    </a>
-
-    <div class="fixed-actions">
-      <button class="focus-toggle" onclick="toggleFocus()">Focus</button>
-      <button id="back-to-top" onclick="scrollToTop()">↑</button>
-    </div>
-
-    <div class="font-controls">
-      <button onclick="changeFontSize(1)">A+</button>
-      <button onclick="changeFontSize(-1)">A−</button>
-    </div>
-
-  </div> -->
-
-
   <div class="reader-panel">
-
-    <!-- FONT -->
     <div class="panel-group">
-        <button onclick="changeFontSize(1)">A+</button>
-        <button onclick="changeFontSize(-1)">A−</button>
+      <button type="button" onclick="changeFontSize(1)">A+</button>
+      <button type="button" onclick="changeFontSize(-1)">A-</button>
     </div>
 
-    <!-- THEME -->
-    <!-- <div class="panel-group">
-        <button onclick="setTheme('light')">☀</button>
-        <button onclick="setTheme('sepia')">☕</button>
-        <button onclick="setTheme('dark')">🌙</button>
-    </div> -->
-
-    <!-- NAV -->
     <div class="panel-group">
-        <button onclick="toggleFocus()">🧘</button>
-        <button onclick="scrollToTop()">↑</button>
+      <button type="button" onclick="toggleFocus()" aria-label="Toggle focus mode">Focus</button>
+      <button type="button" onclick="scrollToTop()" aria-label="Scroll to top">Top</button>
     </div>
-
   </div>
-
 </article>

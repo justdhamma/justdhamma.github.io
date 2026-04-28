@@ -1,0 +1,58 @@
+---
+layout: null
+---
+[
+{% assign first = true %}
+{% assign searchable_pages = site.pages | where_exp: "item", "item.url != '/search/' and item.url != '/404.html' and item.url != '/'" %}
+{% for item in searchable_pages %}
+  {% assign item_title = item.title | default: item.name %}
+  {% if item_title and item.content != blank %}
+    {% unless first %},{% endunless %}
+    {
+      "title": {{ item_title | strip_html | normalize_whitespace | jsonify }},
+      "url": {{ item.url | relative_url | jsonify }},
+      "content": {{ item.content | markdownify | strip_html | normalize_whitespace | jsonify }},
+      "lang": {{ item.lang | default: "en" | jsonify }},
+      "category": {{ item.category | default: "page" | jsonify }},
+      "type": "page"
+    }
+    {% assign first = false %}
+  {% endif %}
+{% endfor %}
+{% for item in site.posts %}
+  {% unless first %},{% endunless %}
+  {
+    "title": {{ item.title | strip_html | normalize_whitespace | jsonify }},
+    "url": {{ item.url | relative_url | jsonify }},
+    "content": {{ item.content | markdownify | strip_html | normalize_whitespace | jsonify }},
+    "lang": {{ item.lang | default: "en" | jsonify }},
+    "category": {{ item.category | default: "post" | jsonify }},
+    "type": "post"
+  }
+  {% assign first = false %}
+{% endfor %}
+{% for item in site.essays %}
+  {% unless first %},{% endunless %}
+  {
+    "title": {{ item.title | strip_html | normalize_whitespace | jsonify }},
+    "url": {{ item.url | relative_url | jsonify }},
+    "content": {{ item.content | markdownify | strip_html | normalize_whitespace | jsonify }},
+    "lang": {{ item.lang | default: "en" | jsonify }},
+    "category": {{ item.category | default: "essay" | jsonify }},
+    "type": "essay"
+  }
+  {% assign first = false %}
+{% endfor %}
+{% for item in site.transcripts %}
+  {% unless first %},{% endunless %}
+  {
+    "title": {{ item.title | strip_html | normalize_whitespace | jsonify }},
+    "url": {{ item.url | relative_url | jsonify }},
+    "content": {{ item.content | markdownify | strip_html | normalize_whitespace | jsonify }},
+    "lang": {{ item.lang | default: "en" | jsonify }},
+    "category": {{ item.category | default: "transcript" | jsonify }},
+    "type": "transcript"
+  }
+  {% assign first = false %}
+{% endfor %}
+]

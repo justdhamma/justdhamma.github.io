@@ -19,7 +19,7 @@ permalink: /en/transcripts/
 </ul> -->
 
 
-<ul>
+<ul class="transcript-list">
 {% for post in transcripts %}
   <li>
     <a href="{{ post.url }}">

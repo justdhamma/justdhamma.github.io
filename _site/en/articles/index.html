@@ -4,13 +4,12 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Devanagari:wght@400;600;700&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Gentium+Plus:wght@400;700&family=Noto+Serif+Devanagari:wght@400;600;700&display=swap" rel="stylesheet">
   <title>Essays</title>
   
   <link rel="stylesheet" href="/assets/css/style.css">
 </head>
-<body>
+<body class="lang-en">
   <nav class="navbar navbar-en">
   <button
     class="nav-toggle"
@@ -24,16 +23,20 @@
     <span></span>
   </button>
 
-  <a href="/en/" class="site-logo">JUST DHAMMA</a>
+  <a href="/en/" class="site-logo">
+    <span class="site-logo__tagline">No sugar, no escape.</span>
+    <span class="site-logo__title">JUST DHAMMA</span>
+  </a>
 
   <div class="nav-backdrop" hidden></div>
 
   <div class="nav-menu" id="nav-menu-en">
     <div class="nav-left">
-      <a href="/en/essays">Essays</a>
-      <a href="/en/transcripts">Transcripts</a>
-      <a href="/en/articles">Articles</a>
-      <a href="/en/about">About</a>
+      <a href="/en/essays"><span class="nav-emoji" aria-hidden="true">📜</span>Essays</a>
+      <a href="/en/transcripts"><span class="nav-emoji" aria-hidden="true">🎧</span>Transcripts</a>
+      <a href="/en/articles"><span class="nav-emoji" aria-hidden="true">📝</span>Articles</a>
+      <a href="/en/about"><span class="nav-emoji" aria-hidden="true">🌿</span>About</a>
+      <a href="/search/" class="nav-search-link"><span class="nav-emoji" aria-hidden="true">🔎</span>Search</a>
     </div>
 
     <div class="nav-right">
@@ -80,21 +83,37 @@
 
 </main>
 
-  <footer>
-  <p>© 2026 Just Dhamma</p>
+  <footer class="site-footer">
+  <div class="site-footer__inner">
+    <div class="site-footer__eyebrow">Just Dhamma</div>
+    <p class="site-footer__note">
+      
+        A quiet place for study, reflection, and practice.
+      
+    </p>
+
+    <div class="site-footer__links">
+      
+        <a href="/en/essays">Essays</a>
+        <a href="/en/transcripts">Transcripts</a>
+        <a href="/en/about">About</a>
+      
+      <a href="/search/">Search</a>
+    </div>
+
+    <p class="site-footer__copyright">© 2026 Just Dhamma</p>
+  </div>
 </footer>
 
+
   <script src="/assets/js/focus-mode.js"></script>
-  <!-- <script src="/assets/js/reading-progress-bar.js"></script> -->
-  <!-- <script src="/assets/js/estimated-reading.js"></script> -->
   <script src="/assets/js/reading-time-progress-bar.js"></script>
   <script src="/assets/js/continue-reading.js"></script>
   <script src="/assets/js/back-to-top.js"></script>
   <script src="/assets/js/font-size-control.js"></script>
   <script src="/assets/js/mobile-menu.js"></script>
-  <!-- <script src="/assets/js/theme-system.js"></script> -->
-    <!-- <script src="/assets/js/global-theme-system.js"></script> -->
-    <script src="/assets/js/animated-theme-switcher.js"></script>
+  <script src="/assets/js/site-search.js"></script>
+  <script src="/assets/js/animated-theme-switcher.js"></script>
 
 </body>
 </html>
