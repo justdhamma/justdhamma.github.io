@@ -3,10 +3,9 @@ layout: null
 ---
 [
 {% assign first = true %}
-{% assign searchable_pages = site.pages | where_exp: "item", "item.url != '/search/' and item.url != '/404.html' and item.url != '/'" %}
-{% for item in searchable_pages %}
+{% for item in site.pages %}
   {% assign item_title = item.title | default: item.name %}
-  {% if item_title and item.content != blank %}
+  {% if item.url != '/search/' and item.url != '/404.html' and item.url != '/' and item_title and item.content != blank %}
     {% unless first %},{% endunless %}
     {
       "title": {{ item_title | strip_html | normalize_whitespace | jsonify }},
