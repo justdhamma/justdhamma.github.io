@@ -16,7 +16,7 @@ permalink: /en/essays/
 {% for post in author.items %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a><br>
-      <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+      <!-- <small>{{ post.date | date: "%Y-%m-%d" }}</small> -->
     </li>
 {% endfor %}
 </ul>

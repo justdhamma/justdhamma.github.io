@@ -1,18 +1,19 @@
 ---
-layout: post
-lang: en
-category: essays
-title: Feelings are Suffering
-description: an essay
-author: Ajahn Nyanamoli Thero
-# date: 2010-12-10
-doc_url: "https://www.hillsidehermitage.org/feelings-are-suffering/"
 alt_doc_url: "https://pathpress.org/1/"
+author: Ajahn Nyanamoli Thero
+category: Essays
+date: 2010-12-10
+description: an essay
+doc_url: "https://www.hillsidehermitage.org/feelings-are-suffering/"
+layout: post
+title: Feelings are Suffering
 ---
 
 an essay
 
 by **Ajahn Nyanamoli Thero**
+
+
 
 How should one free oneself from suffering?
 
@@ -52,22 +53,30 @@ impossible since the discrepancy is actually being constantly
 *generated* by the presence of <span lang="pi">*taṇha*</span>, and *not*
 by the various objects in the world.
 
-> “Thought and lust are a man’s sensuality,    
-> Not the various things in the world; 
+<div lang="en">
+
+> “Thought and lust are a man’s sensuality,  
+> Not the various things in the world;  
 > Thought and lust are a man’s sensuality,  
 > The various things just stand there in the world;  
 > But the wise get rid of desire therein.”
+>
+> — <cite>AN VI 63 / iii, 411</cite>
 
-— <cite>AN VI 63 / iii, 411</cite>
+</div>
 
 When it comes to third type, neither-pleasant-nor-unpleasant feelings
 (i.e. neutral), suffering is experienced as a result of one craving *for
 feelings* themselves, since neutral feeling is not recognized at all:
 
-> “Neutral feeling is pleasant when known \[as such\],  
-> and unpleasant when not-known \[as such\]”  
+<div lang="en">
 
-— <cite>MN 44 / i, 303</cite>
+> “Neutral feeling is pleasant when known \[as such\],  
+> and unpleasant when not-known \[as such\]”
+>
+> — <cite>MN 44 / i, 303</cite>
+
+</div>
 
 So, to summarize, one’s experience of pain is *not* the reason for one’s
 suffering. It is rather the presence of craving, in one’s experience,
