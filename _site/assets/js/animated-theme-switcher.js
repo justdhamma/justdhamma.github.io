@@ -1,11 +1,7 @@
 (function () {
-
   const root = document.documentElement;
   const STORAGE_KEY = "theme";
-
-  const toggle = document.getElementById("theme-toggle");
-  const menu = document.getElementById("theme-menu");
-  const buttons = menu ? menu.querySelectorAll("button") : [];
+  const switchers = document.querySelectorAll(".theme-switcher");
 
   const icons = {
     light: "☀",
@@ -41,49 +37,67 @@
     const theme = themes[name];
     if (!theme) return;
 
-    Object.keys(theme).forEach(key => {
+    Object.keys(theme).forEach(function (key) {
       root.style.setProperty("--" + key, theme[key]);
     });
 
     localStorage.setItem(STORAGE_KEY, name);
 
-    // update icon
-    if (toggle) toggle.textContent = icons[name];
+    switchers.forEach(function (switcher) {
+      const toggle = switcher.querySelector(".theme-toggle-button");
+      const buttons = switcher.querySelectorAll(".theme-menu button");
 
-    // highlight active
-    buttons.forEach(btn => {
-      btn.classList.toggle("active", btn.dataset.theme === name);
+      if (toggle) {
+        toggle.textContent = icons[name];
+      }
+
+      buttons.forEach(function (button) {
+        button.classList.toggle("active", button.dataset.theme === name);
+      });
+    });
+  }
+
+  function closeMenus() {
+    switchers.forEach(function (switcher) {
+      const menu = switcher.querySelector(".theme-menu");
+      if (menu) {
+        menu.classList.remove("show");
+      }
     });
   }
 
   window.setTheme = function (name) {
     applyTheme(name);
-    if (menu) menu.classList.remove("show");
+    closeMenus();
   };
 
-  /* dropdown toggle */
-  if (toggle && menu) {
-    toggle.addEventListener("click", function (e) {
-      e.stopPropagation();
-      menu.classList.toggle("show");
-    });
+  switchers.forEach(function (switcher) {
+    const toggle = switcher.querySelector(".theme-toggle-button");
+    const menu = switcher.querySelector(".theme-menu");
+    const buttons = switcher.querySelectorAll(".theme-menu button");
 
-    document.addEventListener("click", function () {
-      menu.classList.remove("show");
-    });
-  }
+    if (toggle && menu) {
+      toggle.addEventListener("click", function (event) {
+        if (window.innerWidth <= 640) return;
 
-  /* attach click to buttons */
-  buttons.forEach(btn => {
-    btn.addEventListener("click", function () {
-      setTheme(btn.dataset.theme);
+        event.stopPropagation();
+        menu.classList.toggle("show");
+      });
+    }
+
+    buttons.forEach(function (button) {
+      button.addEventListener("click", function () {
+        setTheme(button.dataset.theme);
+      });
     });
   });
 
-  /* init */
+  document.addEventListener("click", function () {
+    closeMenus();
+  });
+
   document.addEventListener("DOMContentLoaded", function () {
     const saved = localStorage.getItem(STORAGE_KEY) || "light";
     applyTheme(saved);
   });
-
 })();

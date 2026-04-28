@@ -5,7 +5,10 @@
   const DEFAULT_SIZE = 19; // matches your reading font size
 
   function applyFontSize(size) {
-    document.querySelector(".post-content").style.fontSize = size + "px";
+    const content = document.querySelector(".post-content");
+    if (!content) return;
+
+    content.style.fontSize = size + "px";
   }
 
   function getSavedSize() {

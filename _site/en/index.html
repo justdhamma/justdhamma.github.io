@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Devanagari:wght@400;600;700&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
@@ -11,23 +12,40 @@
 </head>
 <body>
   <nav class="navbar navbar-en">
-  <div class="nav-left">
-    <a href="/en/" class="site-logo">JUST DHAMMA</a>
-    <a href="/en/essays">Essays</a>
-    <a href="/en/transcripts">Transcripts</a>
-    <a href="/en/articles">Articles</a>
-    <a href="/en/about">About</a>
-  </div>
+  <button
+    class="nav-toggle"
+    type="button"
+    aria-expanded="false"
+    aria-controls="nav-menu-en"
+    aria-label="Open menu"
+  >
+    <span></span>
+    <span></span>
+    <span></span>
+  </button>
 
-  <div class="nav-right">
-    <a class="lang-switch" href="/ne/">NE</a> 
-    <div class="theme-switcher">
-      <button id="theme-toggle">☀</button>
+  <a href="/en/" class="site-logo">JUST DHAMMA</a>
 
-      <div class="theme-menu" id="theme-menu">
-        <button data-theme="light">☀ Day</button>
-        <button data-theme="sepia">☕ Sepia</button>
-        <button data-theme="dark">🌙 Night</button>
+  <div class="nav-backdrop" hidden></div>
+
+  <div class="nav-menu" id="nav-menu-en">
+    <div class="nav-left">
+      <a href="/en/essays">Essays</a>
+      <a href="/en/transcripts">Transcripts</a>
+      <a href="/en/articles">Articles</a>
+      <a href="/en/about">About</a>
+    </div>
+
+    <div class="nav-right">
+      <a class="lang-switch" href="/ne/">NE</a>
+      <div class="theme-switcher">
+        <button class="theme-toggle-button" id="theme-toggle" type="button">☀</button>
+
+        <div class="theme-menu" id="theme-menu">
+          <button type="button" data-theme="light">☀ Day</button>
+          <button type="button" data-theme="sepia">☕ Sepia</button>
+          <button type="button" data-theme="dark">🌙 Night</button>
+        </div>
       </div>
     </div>
   </div>
@@ -60,6 +78,7 @@
   <script src="/assets/js/continue-reading.js"></script>
   <script src="/assets/js/back-to-top.js"></script>
   <script src="/assets/js/font-size-control.js"></script>
+  <script src="/assets/js/mobile-menu.js"></script>
   <!-- <script src="/assets/js/theme-system.js"></script> -->
     <!-- <script src="/assets/js/global-theme-system.js"></script> -->
     <script src="/assets/js/animated-theme-switcher.js"></script>

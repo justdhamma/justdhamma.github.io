@@ -2,23 +2,36 @@
 <html>
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@100..900&display=swap" rel="stylesheet">
   <title>Dhamma for Living</title>
   <style>
+    * {
+      box-sizing: border-box;
+    }
+
     body {
       display: flex;
-      height: 100vh;
+      min-height: 100vh;
       align-items: center;
       justify-content: center;
       font-family: sans-serif;
       flex-direction: column;
+      padding: 24px;
+      text-align: center;
     }
     a {
       margin: 10px;
-      font-size: 20px;
+      font-size: clamp(18px, 4vw, 20px);
       text-decoration: none;
+    }
+
+    h1, h2, p {
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 24rem;
     }
 
     .ne{
