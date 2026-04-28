@@ -1,18 +1,15 @@
 ---
-layout: post
-alt_doc_url: "https://pathpress.org/papanca-sanna-sankha/"
-doc_url: "https://www.hillsidehermitage.org/papanca-sanna-sankha/"
-author: Ajahn Thaniyo
 lang: en
+layout: post
 category: essays
-date: 2010-08-01
-title: sdffsfsf
+author: Ajahn Nyanamoli Thero
+title: Papañca-Saññā-Sankhā
 description: an essay
+# date: 2010-08-01
+ne_url: "/essays/ne-papanca-sanna-sankha/"
+doc_url: "https://www.hillsidehermitage.org/papanca-sanna-sankha/"
+alt_doc_url: "https://pathpress.org/papanca-sanna-sankha/"
 ---
-
-an essay
-
-by **Ajahn Nyanamoli Thero**
 
 
 

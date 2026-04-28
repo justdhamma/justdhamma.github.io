@@ -1,21 +1,15 @@
 ---
-layout: post
 lang: en
+layout: post
 category: essays
+author: Ajahn Nyanamoli Thero
 title: Existence Means Control
 description: an essay
-author: Ajahn Nyanamoli Thero
 # date: 2010-12-14
+ne_url: "/essays/ne-existence-means-control/"
 doc_url: "https://www.hillsidehermitage.org/existence-means-control/"
 alt_doc_url: "https://pathpress.org/2/"
 ---
-
-
-an essay
-
-by **Ajahn Nyanamoli Thero**
-
-
 
 In order for something to exist (<span lang="pi">*bhava*</span>), in
 order for it to be, in a full and appropriated sense, that thing has to

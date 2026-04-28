@@ -13,9 +13,18 @@ layout: base
     <h1>{{ page.title }}</h1>
 
     <p class="post-meta">
-      {{ page.author }} · {{ page.category }} ·
-      {{ page.date | date: "%B %d, %Y" }} ·
-      <span id="reading-time"></span>
+      {{ page.author }} · {{ page.category | capitalize }} ·
+      {{ page.date | date: "%B %d, %Y" }} · 
+      <span id="reading-time"></span> 
+      
+      {% if page.ne_url %}
+         · <a href="{{ page.ne_url }}">Nepali</a>
+      {% endif %}
+
+      {% if page.en_url %}
+         · <a href="{{ page.en_url }}">English</a>
+      {% endif %}
+
     </p>
 
     <div class="progress-container">

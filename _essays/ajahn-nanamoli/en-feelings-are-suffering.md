@@ -1,20 +1,21 @@
 ---
-layout: post
 lang: en
+layout: post
 category: essays
+author: Ajahn Nyanamoli Thero
 title: Feelings are Suffering
 description: an essay
-author: Ajahn Nyanamoli Thero
 # date: 2010-12-10
+ne_url: "/essays/ne-feelings-are-suffering/"
 doc_url: "https://www.hillsidehermitage.org/feelings-are-suffering/"
 alt_doc_url: "https://pathpress.org/1/"
 ---
 
-an essay
+<!-- an essay
 
-by **Ajahn Nyanamoli Thero**
+by **Ajahn Nyanamoli Thero** -->
 
-How should one free oneself from suffering?
+**How should one free oneself from suffering?**
 
 The very first step that one should make is to learn how not to *crave*
 the cessation of suffering. At first glance this might seem simple, but

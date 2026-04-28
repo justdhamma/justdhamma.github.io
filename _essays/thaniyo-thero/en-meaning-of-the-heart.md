@@ -6,6 +6,7 @@ description: an essay
 doc_url: "https://t.me/HillsideHermitage/170"
 layout: post
 title: Meaning of the Heart
+tags: ["heart", "earth element"]
 ---
 
 an essay

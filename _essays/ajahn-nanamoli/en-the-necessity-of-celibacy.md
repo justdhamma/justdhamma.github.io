@@ -8,12 +8,6 @@ layout: post
 title: The Necessity of Celibacy
 ---
 
-an essay
-
-by **Ajahn Nyanamoli Thero**
-
-
-
 Practice of celibacy is always beneficial. Even for a lay person, who is
 not necessarily Buddhist or familiar with the Dhamma. The obvious reason
 for its benefits is the inevitable increase of the mental strength that

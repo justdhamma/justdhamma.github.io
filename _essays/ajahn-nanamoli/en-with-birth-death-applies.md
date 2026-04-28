@@ -1,10 +1,11 @@
 ---
+site_url: 
+doc_url: "https://www.hillsidehermitage.org/with-birth-death-applies/"
 alt_doc_url: "https://pathpress.org/with-birth-death-applies/"
 author: Ajahn Nyanamoli Thero
 category: Essays
 date: 2010-12-23
 description: an essay
-doc_url: "https://www.hillsidehermitage.org/with-birth-death-applies/"
 layout: post
 title: With Birth Death Applies
 ---
