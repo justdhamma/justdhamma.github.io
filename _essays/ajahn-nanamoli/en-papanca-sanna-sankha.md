@@ -11,8 +11,6 @@ doc_url: "https://www.hillsidehermitage.org/papanca-sanna-sankha/"
 alt_doc_url: "https://pathpress.org/papanca-sanna-sankha/"
 ---
 
-
-
 This compound has represented, to paraphrase John D. Ireland from his
 Udāna translation notes, a stumbling block which even the ancient
 commentaries find difficult to define. If the importance of the term is

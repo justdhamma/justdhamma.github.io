@@ -1,18 +1,15 @@
 ---
-alt_doc_url: "https://pathpress.org/the-infinity-of-the-mind-notes-on-an-1-51/"
-author: Ajahn Nyanamoli Thero
-category: Essays
-date: 2013-03-19
-description: an essay
-doc_url: "https://www.hillsidehermitage.org/the-infinity-of-the-mind-notes-on-an-1-51/"
+lang: en
 layout: post
+category: essays
+author: Ajahn Nyanamoli Thero
 title: The Infinity of the Mind (Notes on AN 1.51)
+description: an essay
+# date: 2013-03-19
+ne_url: "/essays/ne-the-infinity-of-the-mind/"
+doc_url: "https://www.hillsidehermitage.org/the-infinity-of-the-mind-notes-on-an-1-51/"
+alt_doc_url: "https://pathpress.org/the-infinity-of-the-mind-notes-on-an-1-51/"
 ---
-
-an essay
-
-by **Ajahn Nyanamoli Thero**
-
 
 
 <span id="the-infinity-of-the-mind"></span>

@@ -1,18 +1,14 @@
 ---
-author: Bhikkhu Anīgha
-category: Essays
-date: 2023-08-28
-description: an essay
-doc_url: "https://www.hillsidehermitage.org/sila-is-samadhi/"
+lang: en
 layout: post
+category: essays
+author: Bhikkhu Anīgha
 title: Sīla is Samādhi
+description: an essay
+# date: 2023-08-28
+ne_url: "/essays/ne-sila-is-samadhi/"
+doc_url: "https://www.hillsidehermitage.org/sila-is-samadhi/"
 ---
-
-an essay
-
-by **Bhikkhu Anīgha**
-
-
 
 What exactly is the connection between *sīla* and *samādhi*? Is it that
 virtue *aids* or *facilitates* the development of mental composure[^1],

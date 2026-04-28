@@ -153,11 +153,13 @@ footer {
 }
 
 .container li {
-  margin-bottom: 12px;
+  /* margin-bottom: 12px; */
+  margin-bottom: 0px;
 }
 
 .transcript-list li {
   margin-bottom: 6px;
+  margin-bottom: 0px;
 }
 
 .reading-container {

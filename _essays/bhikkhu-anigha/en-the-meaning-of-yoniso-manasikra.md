@@ -1,18 +1,14 @@
 ---
-author: Bhikkhu Anīgha
-category: Essays
-date: 2023-06-22
-description: an essay
-doc_url: "https://www.hillsidehermitage.org/wp-content/uploads/2023/06/The-Meaning-of-Yoniso-Manasikara-Bhikkhu-Anigha.pdf"
+lang: en
 layout: post
+category: essays
+author: Bhikkhu Anīgha
 title: The Meaning of Yoniso Manasikāra
+description: an essay
+# date: 2023-06-22
+ne_url: "/essays/ne-the-meaning-of-yoniso-manasikara/"
+doc_url: "https://www.hillsidehermitage.org/wp-content/uploads/2023/06/The-Meaning-of-Yoniso-Manasikara-Bhikkhu-Anigha.pdf"
 ---
-
-an essay
-
-by **Bhikkhu Anīgha**
-
-
 
 It’s common knowledge that the literal meaning of “*yoni*” in “*yoniso
 manasikāra*” is “womb; origin; source”. However, the Buddha’s clearly

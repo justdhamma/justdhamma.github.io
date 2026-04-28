@@ -1,18 +1,15 @@
 ---
-author: Ajahn Nyanamoli Thero
-category: Essays
-date: 2018-05-01
-description: an essay
-doc_url: "https://www.hillsidehermitage.org/breathing-towards-death/"
+lang: en
 layout: post
+category: essays
+author: Ajahn Nyanamoli Thero
 title: Breathing Towards Death
+description: an essay
+# date: 2018-05-01
+ne_url: "/essays/ne-breathing-towards-death/"
+doc_url: "https://www.hillsidehermitage.org/breathing-towards-death/"
+alt_doc_url: 
 ---
-
-an essay
-
-by **Ajahn Nyanamoli Thero**
-
-
 
 Practising the mindfulness of breathing correctly, means practising the
 mindfulness of death correctly.

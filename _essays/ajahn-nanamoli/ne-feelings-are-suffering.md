@@ -1,17 +1,15 @@
 ---
-layout: post
-alt_doc_url: "https://pathpress.org/papanca-sanna-sankha/"
-doc_url: "https://www.hillsidehermitage.org/papanca-sanna-sankha/"
-en_url: "/essays/en-feelings-are-suffering/"
-author: Ajahn Nyanamoli Thero
 lang: ne
+layout: post
 category: essays
-date: 2010-08-01
+author: Ajahn Nyanamoli Thero
 title: अनुभूति (वेदना) नै दुःख हो
 description: an essay
+# date: 2010-08-01
+en_url: "/essays/en-feelings-are-suffering/"
+doc_url: "https://www.hillsidehermitage.org/feelings-are-suffering/"
+alt_doc_url: "https://pathpress.org/feelings-are-suffering/"
 ---
-
-<!-- *अजान ञाणमोली थेरोको एक निबन्ध* -->
 
 **दुःखबाट कसरी मुक्त हुने?**
 

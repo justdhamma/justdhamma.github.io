@@ -1,19 +1,15 @@
 ---
-alt_doc_url: "https://t.me/HillsideHermitage/284"
-author: Ajahn Nyanamoli Thero
-category: Essays
-date: 2023-07-11
-description: an essay
-doc_url: "https://www.hillsidehermitage.org/seeing-beneath-the-surface/"
+lang: en
 layout: post
+category: essays
+author: Ajahn Nyanamoli Thero
 title: Seeing Beneath the Surface
+description: an essay
+# date: 2023-07-11
+ne_url: "/essays/ne-seeing-beneath-the-surface/"
+doc_url: "https://www.hillsidehermitage.org/seeing-beneath-the-surface/"
+alt_doc_url: "https://t.me/HillsideHermitage/284/"
 ---
-
-an essay
-
-by **Ajahn Nyanamoli Thero**
-
-
 
 > *Bhikkhus*, these seven perceptions or contexts, when developed and
 > frequently practiced, are of great fruit and great benefit. They are

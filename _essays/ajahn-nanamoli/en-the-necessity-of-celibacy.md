@@ -1,11 +1,13 @@
 ---
-author: Ajahn Nyanamoli Thero
-category: Essays
-date: 2018-08-02
-description: an essay
-doc_url: "https://www.hillsidehermitage.org/the-necessity-of-celibacy/"
+lang: en
 layout: post
+category: essays
+author: Ajahn Nyanamoli Thero
 title: The Necessity of Celibacy
+description: an essay
+# date: 2018-08-02
+ne_url: "/essays/ne-the-necessity-of-celibacy/"
+doc_url: "https://www.hillsidehermitage.org/the-necessity-of-celibacy/"
 ---
 
 Practice of celibacy is always beneficial. Even for a lay person, who is

@@ -1,18 +1,14 @@
 ---
-author: Bhikkhu Anīgha
-category: Essays
-date: 2023-10-30
-description: an essay
-doc_url: "https://www.hillsidehermitage.org/seeing-a-body-within-the-body/"
+lang: en
 layout: post
+category: essays
+author: Bhikkhu Anīgha
 title: Seeing a Body Within the Body
+description: an essay
+# date: 2023-10-30
+ne_url: "/essays/ne-seeing-a-body-within-the-body/"
+doc_url: "https://www.hillsidehermitage.org/seeing-a-body-within-the-body/"
 ---
-
-an essay
-
-by **Bhikkhu Anīgha**
-
-
 
 <div lang="en">
 

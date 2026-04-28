@@ -11,10 +11,6 @@ doc_url: "https://www.hillsidehermitage.org/feelings-are-suffering/"
 alt_doc_url: "https://pathpress.org/1/"
 ---
 
-<!-- an essay
-
-by **Ajahn Nyanamoli Thero** -->
-
 **How should one free oneself from suffering?**
 
 The very first step that one should make is to learn how not to *crave*

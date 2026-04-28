@@ -1,19 +1,15 @@
 ---
-alt_doc_url: "https://pathpress.org/determining-determinations/"
-author: Ajahn Nyanamoli Thero
-category: Essays
-date: 2013-04-07
-description: an essay
-doc_url: "https://www.hillsidehermitage.org/determining-determinations/"
+lang: en
 layout: post
+category: essays
+author: Ajahn Nyanamoli Thero
 title: Determining Determinations
+description: an essay
+# date: 2013-04-07
+ne_url: "/essays/ne-determining-determinations/"
+doc_url: "https://www.hillsidehermitage.org/determining-determinations/"
+alt_doc_url: "https://pathpress.org/determining-determinations/"
 ---
-
-an essay
-
-by **Ajahn Nyanamoli Thero**
-
-
 
 1\. Feeling, perception and consciousness are always there together.[^1]
 It is impossible to have them arising independently and on their own;

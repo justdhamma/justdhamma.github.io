@@ -1,17 +1,14 @@
 ---
-author: Ajahn Nyanamoli Thero
-category: Essays
-date: 2010-08-14
-description: an essay
-doc_url: "https://pathpress.org/hierarchy-of-awareness/"
+lang: en
 layout: post
+category: essays
+author: Ajahn Nyanamoli Thero
 title: Hierarchy of Awareness
+description: an essay
+# date: 2010-08-14
+ne_url: "/essays/ne-hierarchy-of-awareness/"
+doc_url: "https://www.hillsidehermitage.org/hierarchy-of-awareness/"
 ---
-
-an essay
-
-by **Ajahn Nyanamoli Thero**
-
 
 
 The fundamental nature of our experience can be described as a

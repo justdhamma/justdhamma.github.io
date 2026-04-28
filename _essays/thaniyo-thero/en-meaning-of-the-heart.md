@@ -1,18 +1,14 @@
 ---
-author: Thaniyo Thero
-category: Essays
-date: 2022-04-01
-description: an essay
-doc_url: "https://t.me/HillsideHermitage/170"
+lang: en
 layout: post
+category: essays
+author: Thaniyo Thero
 title: Meaning of the Heart
-tags: ["heart", "earth element"]
+description: an essay
+# date: 2022-04-01
+ne_url: "/essays/ne-meaning-of-the-heart/"
+doc_url: "https://t.me/HillsideHermitage/170"
 ---
-
-an essay
-
-by **Thaniyo Thero**
-
 
 
 <div lang="en">
