@@ -1,3 +1,22 @@
+---
+lang: ne
+layout: post
+category: essays
+author: Thaniyo Thero
+en_title: Making Peace with Feeling
+ne_title: संवेगसँग मेलमिलाप
+description: an essay
+type: translation
+translator: perplexity
+# date: 2010-08-01
+en_url: "/essays/en-making-peace-with-feeling/"
+gem_url: "essays/ne-making-peace-with-feeling-gem/"
+gpt_url: "essays/ne-making-peace-with-feeling-gpt/"
+cld_url: "essays/ne-making-peace-with-feeling-cld/"
+ppx_url: "essays/ne-making-peace-with-feeling-ppx/"
+# doc_url: "https://www.hillsidehermitage.org/making-peace-with-feeling/"
+---
+
 **भावनासँग शान्ति बसाउने**
 
 जो महसुस भइरहेको छ त्यससँग शान्ति बसाउँदा, तपाईं *मेत्ता* वा द्वेषरहित भाव विकास गरिरहनु भएको हुन्छ। यसको मतलब हो, अब त्यसलाई हस्तक्षेप नगर्नु, बदल्ने कोसिस नगर्नु, बरु त्यसलाई सहनु, लोभ नगर्नु, पूर्ण रूपमा बुझ्नु।

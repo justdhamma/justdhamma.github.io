@@ -5,14 +5,14 @@ category: essays
 author: Thaniyo Thero
 en_title: Going Through Dukkha
 ne_title: दुःखलाई झेल्दै (अघि बढ्ने बाटो)
+description: an essay
 type: translation
 translator: gemini
-gpt_url: "essays/ne-goint-through-dukkha-gpt/"
-# gem_url: "essays/ne-goint-through-dukkha-gem/"
-cld_ulr: "essays/ne-goint-through-dukkha-cld/"
-description: an essay
 # date: 2010-08-01
 en_url: "/essays/en-going-through-dukkha/"
+# gem_url: "essays/ne-goint-through-dukkha-gem/"
+gpt_url: "essays/ne-goint-through-dukkha-gpt/"
+cld_ulr: "essays/ne-goint-through-dukkha-cld/"
 # doc_url: ""
 ---
 

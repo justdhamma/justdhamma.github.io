@@ -66,6 +66,7 @@
 
 
 
+
 <article class="reading-container en">
   <header class="post-header">
     
@@ -279,16 +280,17 @@ mine through that sense of I am.</p>
   </div>
 
   <div class="reader-panel">
-    <div class="panel-group">
-      <button type="button" onclick="changeFontSize(1)">A+</button>
-      <button type="button" onclick="changeFontSize(-1)">A-</button>
-    </div>
-
-    <div class="panel-group">
-      <button type="button" onclick="toggleFocus()" aria-label="Toggle focus mode">Focus</button>
-      <button type="button" onclick="scrollToTop()" aria-label="Scroll to top">Top</button>
-    </div>
+  <div class="panel-group">
+    <button type="button" onclick="changeFontSize(1)" aria-label="Increase font size">A+</button>
+    <button type="button" onclick="changeFontSize(-1)" aria-label="Decrease font size">A-</button>
   </div>
+
+  <div class="panel-group">
+    <button id="focus-toggle" type="button" onclick="toggleFocus()" aria-label="Enter reading mode">📖</button>
+    <button id="top-toggle" type="button" onclick="scrollToTop()" aria-label="Dharma wheel">☸</button>
+  </div>
+</div>
+
 </article>
 
 

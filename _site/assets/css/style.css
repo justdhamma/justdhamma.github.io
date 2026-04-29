@@ -36,8 +36,8 @@ body.lang-en {
   font-family: var(--font-english);
 }
 
-body.focus-mode nav,
-body.focus-mode footer {
+body.read-mode nav,
+body.read-mode footer {
   display: none;
 }
 
@@ -345,12 +345,13 @@ footer {
   background: transparent;
   color: var(--text);
   cursor: pointer;
-  font-size: 12px;
+  font-size: 15px;
 }
 
 .panel-group button:hover {
   opacity: 0.7;
 }
+
 
 .navbar {
   display: flex;
@@ -1029,4 +1030,19 @@ Nepali Essays Page Styling
 .essay-translation-links a {
   color: var(--muted);
   font-size: 0.92em;
+}
+
+
+hr {
+  width: 450px;
+  margin: 0 auto; /* Centers the hr */
+  border: none; /* Removes default styling */
+  border-top: 0.8px dashed #3b62d7; /* Sets dashed, 1px style */
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+cite {
+  font-style: normal;
+  font-family: var(--font-english);
 }

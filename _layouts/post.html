@@ -24,6 +24,7 @@ layout: base
 {% assign gpt_translation = nepali_translations | where: "translator", "gpt" | first %}
 {% assign gemini_translation = nepali_translations | where: "translator", "gemini" | first %}
 {% assign claude_translation = nepali_translations | where: "translator", "claude" | first %}
+{% assign perplexity_translation = nepali_translations | where: "translator", "perplexity" | first %}
 
 <article class="reading-container {{ page.lang }}">
   <header class="post-header">
@@ -53,6 +54,9 @@ layout: base
         {% if claude_translation %}
           · <a href="{{ claude_translation.url }}">Claude</a>
         {% endif %}
+        {% if perplexity_translation %}
+          · <a href="{{ perplexity_translation.url }}">Perplexity</a>
+        {% endif %}
       {% elsif page.lang == "ne" and page.translator %}
         · <span class="meta-current-version">{{ page.translator | capitalize }}</span>
         {% if gemini_translation and gemini_translation.url != page.url %}
@@ -63,6 +67,9 @@ layout: base
         {% endif %}
         {% if claude_translation and claude_translation.url != page.url %}
           · <a href="{{ claude_translation.url }}">Claude</a>
+        {% endif %}
+        {% if perplexity_translation and perplexity_translation.url != page.url %}
+          · <a href="{{ perplexity_translation.url }}">Perplexity</a>
         {% endif %}
       {% elsif page.ne_url %}
         · <a href="{{ page.ne_url }}">Nepali</a>
@@ -82,15 +89,5 @@ layout: base
     {{ content }}
   </div>
 
-  <div class="reader-panel">
-    <div class="panel-group">
-      <button type="button" onclick="changeFontSize(1)">A+</button>
-      <button type="button" onclick="changeFontSize(-1)">A-</button>
-    </div>
-
-    <div class="panel-group">
-      <button type="button" onclick="toggleFocus()" aria-label="Toggle focus mode">Focus</button>
-      <button type="button" onclick="scrollToTop()" aria-label="Scroll to top">Top</button>
-    </div>
-  </div>
+  {% include reader-panel.html %}
 </article>

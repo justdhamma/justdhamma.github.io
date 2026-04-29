@@ -7,7 +7,7 @@
   };
 
   function getContent() {
-    return document.querySelector(".post-content");
+    return document.querySelector(".post-content") || document.querySelector("main.container");
   }
 
   function getLanguage() {

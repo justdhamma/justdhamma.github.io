@@ -18,6 +18,7 @@ permalink: /en/essays/
     {% assign gpt_translation = nepali_translations | where: "translator", "gpt" | first %}
     {% assign gemini_translation = nepali_translations | where: "translator", "gemini" | first %}
     {% assign claude_translation = nepali_translations | where: "translator", "claude" | first %}
+    {% assign perplexity_translation = nepali_translations | where: "translator", "perplexity" | first %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       {% if nepali_translations.size > 0 %}
@@ -34,6 +35,11 @@ permalink: /en/essays/
         {% endif %}
         {% if claude_translation %}
           {{ comma }}<a href="{{ claude_translation.url }}">Claude</a>
+          {% assign comma = ", " %}
+        {% endif %}
+        {% if perplexity_translation %}
+          {{ comma }}<a href="{{ perplexity_translation.url }}">Perplexity</a>
+          {% assign comma = ", " %}
         {% endif %}
         </span>
       {% endif %}

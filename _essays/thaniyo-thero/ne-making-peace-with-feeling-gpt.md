@@ -1,3 +1,21 @@
+---
+lang: ne
+layout: post
+category: essays
+author: Thaniyo Thero
+en_title: Making Peace with Feeling
+ne_title: संवेगसँग मेलमिलाप
+description: an essay
+type: translation
+translator: gpt
+# date: 2010-08-01
+en_url: "/essays/en-making-peace-with-feeling/"
+gem_url: "essays/ne-making-peace-with-feeling-gem/"
+gpt_url: "essays/ne-making-peace-with-feeling-gpt/"
+cld_url: "essays/ne-making-peace-with-feeling-cld/"
+ppx_url: "essays/ne-making-peace-with-feeling-ppx/"
+# doc_url: "https://www.hillsidehermitage.org/making-peace-with-feeling/"
+---
 **अनुभूतिसँग शान्ति बसाल्नु**
 
 जे अनुभूति भइरहेको छ त्यससँग शान्ति बनाउनु (कायम गर्नु) भनेको *मेट्टा* (मैत्रीभाव) वा अनिष्टभावको अभाव विकास गर्नु हो। यसको अर्थ—अनुभूतिमा हस्तक्षेप नगर्नु, त्यसलाई बदल्ने प्रयास नगर्नु, बरु त्यसलाई धैर्यपूर्वक सहनु, त्यसप्रति तृष्णा नराख्नु, र त्यसलाई पूर्ण रूपमा बुझ्नु हो।

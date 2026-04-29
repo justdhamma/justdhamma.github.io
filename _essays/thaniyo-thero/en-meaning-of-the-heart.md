@@ -10,33 +10,30 @@ ne_url: "/essays/ne-meaning-of-the-heart/"
 doc_url: "https://t.me/HillsideHermitage/170"
 ---
 
+## Meaning of the Heart
 
-<div lang="en">
-
-> “What, friends, is the earth element? The earth element may be either
-> internal or external. What is the internal earth element? Whatever
-> internally, belonging to oneself, is solid, solidified, and
-> appropriated; that is, head-hairs, body-hairs, nails, teeth, skin,
-> flesh, sinews, bones, bone-marrow, kidneys, heart, liver, diaphragm,
-> spleen, lungs, intestines, mesentery, contents of the stomach, feces,
-> or whatever else internally, belonging to oneself, is solid,
-> solidified, and appropriated: this is called the internal earth
-> element. Now both the internal earth element and the external earth
-> element are simply earth element. And that should be seen as it
-> actually is with proper wisdom thus: ‘This is not mine, this I am not,
-> this is not my self.’ When one sees it thus as it actually is with
-> proper wisdom, one becomes disenchanted with the earth element and
-> makes the mind dispassionate toward the earth element.\\”Now there
-> comes a time when the water element is disturbed and then the external
-> earth element vanishes. When even this external earth element, great
-> as it is, is seen to be impermanent, subject to destruction,
-> disappearance, and changeˌ what of this body, which is appropriated by
-> craving and lasts but a while? There can be no consideration of that
+> “What, friends, is the earth element? The earth element may be either  
+> internal or external. What is the internal earth element? Whatever  
+> internally, belonging to oneself, is solid, solidified, and  
+> appropriated; that is, head-hairs, body-hairs, nails, teeth, skin,  
+> flesh, sinews, bones, bone-marrow, kidneys, heart, liver, diaphragm,  
+> spleen, lungs, intestines, mesentery, contents of the stomach, feces,  
+> or whatever else internally, belonging to oneself, is solid,  
+> solidified, and appropriated: this is called the internal earth  
+> element. Now both the internal earth element and the external earth  
+> element are simply earth element. And that should be seen as it  
+> actually is with proper wisdom thus: ‘This is not mine, this I am not,  
+> this is not my self.’ When one sees it thus as it actually is with  
+> proper wisdom, one becomes disenchanted with the earth element and  
+> makes the mind dispassionate toward the earth element.\\”Now there  
+> comes a time when the water element is disturbed and then the external  
+> earth element vanishes. When even this external earth element, great  
+> as it is, is seen to be impermanent, subject to destruction,  
+> disappearance, and changeˌ what of this body, which is appropriated by  
+> craving and lasts but a while? There can be no consideration of that  
 > as ‘I’ or ‘mine’ or ‘I am.’ ”
 >
-> — <cite>[MN 28](https://suttacentral.net/mn28)</cite>
-
-</div>
+> <cite>– [MN 28](https://suttacentral.net/mn28)</cite>
 
 Bring your attention to your heart. It’s situated almost at the centre
 of your torso, to the left just under the rib cage. Sense its movements.
@@ -79,16 +76,13 @@ yours. You realise, “My whole sense of self is situated on top of, or
 undermined by organs which do not belong to me or to anyone else
 anywhere.”
 
-<div lang="en">
-
-> “I don’t belong to anyone anywhere. And nothing belongs to me
-> anywhere.” By often practicing and living in this way, their mind
-> becomes confident in that dimension. Being confident, they either
-> attain the dimension of nothingness now, or are freed by wisdom.”
+> “I don’t belong to anyone anywhere. And nothing belongs to me  
+> anywhere.” By often practicing and living in this way, their mind  
+> becomes confident in that dimension. Being confident, they either  
+> attain the dimension of nothingness now, or are freed by wisdom.”  
 >
-> — <cite>[MN 106](https://suttacentral.net/mn106)</cite>
+> <cite>– [MN 106](https://suttacentral.net/mn106)</cite>
 
-</div>
 
 ------------------------------------------------------------------------
 
@@ -99,16 +93,14 @@ speak. It slowly falls apart, it fades away, because it needs
 *something* to assume to be itself. Something accessible, something
 mine. Yet there is no-thing here that we can find as such.
 
-<div lang="en">
 
-> “Bhikkhus, that assumption(of ownership, of self ) is neither the same
-> as these five aggregates subject to assumption, nor is the assumption
-> something apart from the five aggregates subject to assumption. But
-> rather, the desire and lust for them, that is the assumption there.”
+> “Bhikkhus, that assumption(of ownership, of self ) is neither the same  
+> as these five aggregates subject to assumption, nor is the assumption  
+> something apart from the five aggregates subject to assumption. But  
+> rather, the desire and lust for them, that is the assumption there.”  
 >
-> — <cite>[SN 22.82](https://suttacentral.net/sn22.82)</cite>
+> <cite>– [SN 22.82](https://suttacentral.net/sn22.82)</cite>
 
-</div>
 
 ------------------------------------------------------------------------
 
@@ -135,32 +127,25 @@ dangerous position that you are in. In other words, discern the
 <span lang="pi">*paticcasamuppada*</span> principle - with my heart
 beating, my life is; when there is my life, there is my heart beating…
 
-<div lang="en">
-
 > “Bhikkhus, do you see: ‘This’?”—“Yes, venerable sir.”—“Bhikkhus, do
 > you see: ‘This manifests with that as a nutriment’?”—“Yes, venerable
 > sir.”—“Bhikkhus, do you see: ‘With the cessation of that nutriment,
 > what has come to be is subject to cessation’?”—“Yes, venerable sir.”
 >
-> — <cite>[MN 38](https://suttacentral.net/mn38)</cite>
+> <cite>– [MN 38](https://suttacentral.net/mn38)</cite>
 
-</div>
-
-<div lang="en">
-
-> “And which is the noble method which is properly seen by him \[i.e.
-> the noble disciple\], properly penetrated with understanding? Here,
-> householder, a noble disciple attends properly, with perspective on
+> “And which is the noble method which is properly seen by him \[i.e.  
+> the noble disciple\], properly penetrated with understanding? Here,  
+> householder, a noble disciple attends properly, with perspective on  
 > the source, to this very dependent origination:
 >
-> When there is this, there is this.  
-> When there isn’t this, there isn’t this.  
+> When there is this, there is this.   
+> When there isn’t this, there isn’t this.   
 > When this arises, this arises.  
-> When this ceases, this ceases.”
+> When this ceases, this ceases.”  
 >
-> — <cite>[SN 12.41](https://suttacentral.net/sn12.41)</cite>
+> <cite>– [SN 12.41](https://suttacentral.net/sn12.41)</cite>
 
-</div>
 
 or
 
@@ -168,7 +153,7 @@ While keeping that situation in mind, seeing in that “simultaneously
 dependent principle” way. Reflect how that beating heart here can stop
 now, or…now or maybe later…and so on. Try to discern the meaning of
 that. Meaning of being liable to death. —
-<cite>[*Marananussati*](https://suttacentral.net/an6.19)</cite>
+[*Marananussati*](https://suttacentral.net/an6.19)
 
 or
 
@@ -178,8 +163,8 @@ Discern the meaning of that. That this body, all its parts, are all
 dependent on each other, and your gratuitous ownership of them is not
 even a requirement for them to continue their mindless task of being
 bodily organs. —
-<cite>[*Paṭikūlamanasikāra*](https://suttacentral.net/dn22)</cite> &
-<cite>[*(32parts meditation)*](https://suttacentral.net/kp3)</cite>
+[*Paṭikūlamanasikāra*](https://suttacentral.net/dn22) &
+[*(32parts meditation)*](https://suttacentral.net/kp3)
 
 or
 
@@ -191,7 +176,7 @@ able to manipulate the breath, the bodily-intention to breathe is not
 your own. Develop those discernments, uncover their meaning more and
 more. See the phenomena of <span lang="pi">*anicca-dukkha-anatta*</span>
 and make that clear as day. —
-<cite>[*Anapanasati*](https://suttacentral.net/mn118)</cite>.
+[*Anapanasati*](https://suttacentral.net/mn118).
 
 Such contemplations into the nature of your existence and your
 attachments, will most likely unnerve you at first, but if you are
@@ -228,67 +213,64 @@ upon it. Both the fleshy heart and its *energy* do not know me, they are
 both not mine, not my friend or enemy. They are both there, doing what
 they do, when both are there.
 
-<div lang="en">
 
-> “Now tell me, friend Sāriputta: Is name-&-form self-made or other-made
-> or both self-made & other-made, or—without self-making or
-> other-making—does it arise spontaneously?”
+> “Now tell me, friend Sāriputta: Is name-&-form self-made or other-made  
+> or both self-made & other-made, or—without self-making or  
+> other-making—does it arise spontaneously?”  
 >
-> “It’s not the case, Koṭṭhita my friend, that name-&-form is self-made,
-> that it is other-made, that it is both self-made & other-made, or
-> that—without self-making or other-making—it arises spontaneously.
-> However, from consciousness as a requisite condition comes
-> name-&-form.”
+> “It’s not the case, Koṭṭhita my friend, that name-&-form is self-made,  
+> that it is other-made, that it is both self-made & other-made, or  
+> that—without self-making or other-making—it arises spontaneously.  
+> However, from consciousness as a requisite condition comes  
+> name-&-form.”  
 >
-> “Now tell me, friend Sāriputta: Is consciousness self-made or
-> other-made or both self-made & other-made, or—without self-making or
-> other-making, does it arise spontaneously?”
+> “Now tell me, friend Sāriputta: Is consciousness self-made or  
+> other-made or both self-made & other-made, or—without self-making or  
+> other-making, does it arise spontaneously?”  
 >
-> “It’s not the case, Koṭṭhita my friend, that consciousness is
-> self-made, that it is other-made, that it is both self-made &
-> other-made, or that—without self-making or other-making—it arises
-> spontaneously. However, from name-&-form as a requisite condition
-> comes consciousness.”
+> “It’s not the case, Koṭṭhita my friend, that consciousness is  
+> self-made, that it is other-made, that it is both self-made &  
+> other-made, or that—without self-making or other-making—it arises  
+> spontaneously. However, from name-&-form as a requisite condition  
+> comes consciousness.”  
 >
 > “….Now how is the meaning of these statements to be understood?”
 >
-> “Very well then, Koṭṭhita my friend, I will give you an analogy; for
-> there are cases where it is through the use of an analogy that
-> intelligent people can understand the meaning of what is being said.
-> It is as if two sheaves of reeds were to stand leaning against one
-> another. In the same way, from name-&-form as a requisite condition
-> comes consciousness, from consciousness as a requisite condition comes
-> name-&-form. From name & form as a requisite condition come the six
-> sense media. From the six sense media as a requisite condition comes
-> contact. From contact as a requisite condition comes feeling. From
-> feeling as a requisite condition comes craving. From craving as a
-> requisite condition comes clinging/sustenance. From
-> clinging/sustenance as a requisite condition comes becoming. From
-> becoming as a requisite condition comes birth. From birth as a
-> requisite condition, then aging-&-death, sorrow, lamentation, pain,
+> “Very well then, Koṭṭhita my friend, I will give you an analogy; for  
+> there are cases where it is through the use of an analogy that  
+> intelligent people can understand the meaning of what is being said.  
+> It is as if two sheaves of reeds were to stand leaning against one  
+> another. In the same way, from name-&-form as a requisite condition  
+> comes consciousness, from consciousness as a requisite condition comes  
+> name-&-form. From name & form as a requisite condition come the six  
+> sense media. From the six sense media as a requisite condition comes  
+> contact. From contact as a requisite condition comes feeling. From  
+> feeling as a requisite condition comes craving. From craving as a  
+> requisite condition comes clinging/sustenance. From  
+> clinging/sustenance as a requisite condition comes becoming. From  
+> becoming as a requisite condition comes birth. From birth as a  
+> requisite condition, then aging-&-death, sorrow, lamentation, pain,  
 > distress, & despair come into play. Such is the origination of this
-> entire mass of suffering & stress.
+> entire mass of suffering & stress.  
 >
-> “If one were to pull away one of those sheaves of reeds, the other
-> would fall; if one were to pull away the other, the first one would
-> fall. In the same way, from the cessation of name-&-form comes the
-> cessation of consciousness, from the cessation of consciousness comes
-> the cessation of name-&-form. From the cessation of name-&-form comes
-> the cessation of the six sense media. From the cessation of the six
-> sense media comes the cessation of contact. From the cessation of
-> contact comes the cessation of feeling. From the cessation of feeling
-> comes the cessation of craving. From the cessation of craving comes
-> the cessation of clinging/sustenance. From the cessation of
-> clinging/sustenance comes the cessation of becoming. From the
-> cessation of becoming comes the cessation of birth. From the cessation
-> of birth, then aging-&-death, sorrow, lamentation, pain, distress, &
-> despair all cease. Such is the cessation of this entire mass of
+> “If one were to pull away one of those sheaves of reeds, the other  
+> would fall; if one were to pull away the other, the first one would  
+> fall. In the same way, from the cessation of name-&-form comes the  
+> cessation of consciousness, from the cessation of consciousness comes  
+> the cessation of name-&-form. From the cessation of name-&-form comes  
+> the cessation of the six sense media. From the cessation of the six  
+> sense media comes the cessation of contact. From the cessation of  
+> contact comes the cessation of feeling. From the cessation of feeling  
+> comes the cessation of craving. From the cessation of craving comes  
+> the cessation of clinging/sustenance. From the cessation of  
+> clinging/sustenance comes the cessation of becoming. From the  
+> cessation of becoming comes the cessation of birth. From the cessation  
+> of birth, then aging-&-death, sorrow, lamentation, pain, distress, &  
+> despair all cease. Such is the cessation of this entire mass of  
 > suffering & stress.”
 >
-> — <cite>[SN
-> 12.67](https://www.dhammatalks.org/suttas/SN/SN12_67.html)</cite>
+> <cite>– [SN 12.67](https://www.dhammatalks.org/suttas/SN/SN12_67.html)</cite>
 
-</div>
 
 That *energy* which the body depends on, is itself dependent on the body
 being available. Neither aspect of this situation as a whole can be seen
@@ -346,5 +328,4 @@ operating, on its own. My self, then, is not my own because the things
 which my self depends on for its existence, *cannot* be my own.
 
 Sense the rhythm of the heart throughout your day, tune into its meaning
-of <span lang="pi">*anicca-dukkha-anatta*</span>, and let your *Self*
-fall apart.
+of <span lang="pi">*anicca-dukkha-anatta*</span>, and let your *Self* fall apart.
