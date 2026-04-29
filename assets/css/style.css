@@ -104,7 +104,7 @@ footer {
 }
 
 .container {
-  padding: clamp(20px, 3vw, 24px);
+  padding: clamp(4px, 1vw, 10px) clamp(20px, 3vw, 24px) clamp(20px, 3vw, 24px);
 }
 
 .container.nepali,
@@ -138,6 +138,10 @@ footer {
   font-size: 22px;
 }
 
+.container > :first-child {
+  margin-top: 0;
+}
+
 .container ul,
 .container ol {
   margin: 0 0 20px;
@@ -163,7 +167,7 @@ footer {
 }
 
 .reading-container {
-  margin-top: clamp(28px, 6vw, 60px);
+  margin-top: clamp(4px, 1.5vw, 12px);
   margin-bottom: clamp(28px, 6vw, 60px);
   padding: 0 clamp(8px, 2vw, 20px);
   font-size: 19px;
@@ -175,11 +179,38 @@ footer {
   font-size: clamp(30px, 5vw, 34px);
 }
 
+.post-source-title {
+  margin: 0 0 8px;
+  color: var(--muted);
+  font-family: var(--font-english);
+  font-size: 0.92em;
+}
+
+.post-source-title a {
+  color: var(--muted);
+}
+
+.post-subtitle {
+  margin: -2px 0 12px;
+  color: var(--muted);
+  font-family: var(--font-english);
+  font-size: 0.95em;
+}
+
+.post-subtitle a {
+  color: var(--muted);
+}
+
 .post-meta {
   margin-bottom: 10px;
   color: var(--muted);
   font-size: 14px;
-  font-family: inherit;
+  font-family: var(--font-english);
+}
+
+.meta-current-version {
+  font-weight: 600;
+  letter-spacing: 0.04em;
 }
 
 .post-content {
@@ -189,8 +220,22 @@ footer {
   line-height: 1.75;
 }
 
+.post-content.en {
+  font-size: 18px;
+}
+
+.post-content.ne {
+  font-size: 19px;
+}
+
 .post-content p {
   margin-bottom: 1.05em;
+}
+
+.post-content .en,
+.post-content [lang="en"] {
+  font-family: var(--font-english);
+  font-size: inherit;
 }
 
 .post-content h2 {
@@ -660,7 +705,7 @@ footer {
   }
 
   .container {
-    padding: 18px 0 24px;
+    padding: 4px 0 24px;
     font-size: 16px;
   }
 
@@ -681,7 +726,7 @@ footer {
   }
 
   .reading-container {
-    margin-top: 24px;
+    margin-top: 4px;
     padding: 0 0 96px;
   }
 
@@ -692,6 +737,11 @@ footer {
   .post-content {
     font-size: 16px;
     line-height: 1.7;
+  }
+
+  .post-content.en,
+  .post-content.ne {
+    font-size: 16px;
   }
 
   .post-content h2 {
@@ -927,4 +977,48 @@ footer {
   .theme-toggle-button {
     display: inline-block;
   }
+}
+
+
+/* ------------------------
+Nepali Essays Page Styling
+------------------------ */
+
+.author-name {
+  margin-top: 24px;
+  margin-bottom: 12px;
+  font-size: 1.25rem;
+  font-weight: 600;
+  font-family: var(--font-english);
+}
+
+.lang-ne p,
+.lang-ne li,
+.container.nepali p,
+.container.nepali li,
+.post-content.ne p,
+.post-content.ne li {
+  font-family: var(--font-nepali);
+}
+
+.lang-en p,
+.lang-en li,
+.container.english p,
+.container.english li,
+.post-content.en p,
+.post-content.en li {
+  font-family: var(--font-english);
+}
+
+.container.nepali .essay-translation-list,
+.container.nepali .essay-translation-list li,
+.container.nepali .essay-translation-list li a,
+.container.nepali .essay-translation-list li * {
+  font-family: var(--font-english);
+}
+
+.essay-translation-links,
+.essay-translation-links a {
+  color: var(--muted);
+  font-size: 0.92em;
 }

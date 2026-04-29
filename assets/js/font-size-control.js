@@ -1,22 +1,48 @@
 (function () {
 
-  const STORAGE_KEY = "font-size";
+  const STORAGE_KEY_PREFIX = "font-size";
+  const DEFAULT_SIZES = {
+    en: 18,
+    ne: 19
+  };
 
-  const DEFAULT_SIZE = 19; // matches your reading font size
+  function getContent() {
+    return document.querySelector(".post-content");
+  }
+
+  function getLanguage() {
+    const content = getContent();
+    if (content) {
+      if (content.classList.contains("ne")) return "ne";
+      if (content.classList.contains("en")) return "en";
+    }
+
+    if (document.body.classList.contains("lang-ne")) return "ne";
+    return "en";
+  }
+
+  function getStorageKey() {
+    return STORAGE_KEY_PREFIX + "-" + getLanguage();
+  }
+
+  function getDefaultSize() {
+    return DEFAULT_SIZES[getLanguage()] || DEFAULT_SIZES.en;
+  }
 
   function applyFontSize(size) {
-    const content = document.querySelector(".post-content");
+    const content = getContent();
     if (!content) return;
 
     content.style.fontSize = size + "px";
   }
 
   function getSavedSize() {
-    return parseInt(localStorage.getItem(STORAGE_KEY)) || DEFAULT_SIZE;
+    const saved = parseInt(localStorage.getItem(getStorageKey()), 10);
+    return Number.isNaN(saved) ? getDefaultSize() : saved;
   }
 
   function saveSize(size) {
-    localStorage.setItem(STORAGE_KEY, size);
+    localStorage.setItem(getStorageKey(), size);
   }
 
   // exposed globally for buttons

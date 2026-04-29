@@ -8,23 +8,69 @@ layout: base
   {% include nav-en.html %}
 {% endif %}
 
+{% assign english_source = nil %}
+{% if page.en_url %}
+  {% assign english_source = site.essays | where: "lang", "en" | where: "url", page.en_url | first %}
+{% endif %}
+
+{% if page.lang == "en" %}
+  {% assign nepali_translations = site.essays | where: "lang", "ne" | where: "en_url", page.url %}
+{% elsif page.lang == "ne" and page.en_url %}
+  {% assign nepali_translations = site.essays | where: "lang", "ne" | where: "en_url", page.en_url %}
+{% else %}
+  {% assign nepali_translations = "" | split: "" %}
+{% endif %}
+
+{% assign gpt_translation = nepali_translations | where: "translator", "gpt" | first %}
+{% assign gemini_translation = nepali_translations | where: "translator", "gemini" | first %}
+{% assign claude_translation = nepali_translations | where: "translator", "claude" | first %}
+
 <article class="reading-container {{ page.lang }}">
   <header class="post-header">
-    <h1>{{ page.title }}</h1>
+    {% if page.lang == "ne" and english_source %}
+      <p class="post-source-title">
+        <a href="{{ english_source.url }}">
+          {% if page.en_title %}{{ page.en_title }}{% else %}{{ english_source.title }}{% endif %}
+        </a>
+      </p>
+      <h1>{% if page.ne_title %}{{ page.ne_title }}{% else %}{{ page.title }}{% endif %}</h1>
+    {% else %}
+      <h1>{{ page.title }}</h1>
+    {% endif %}
 
     <p class="post-meta">
       {{ page.author }} · {{ page.category | capitalize }} ·
-      {{ page.date | date: "%B %d, %Y" }} · 
-      <span id="reading-time"></span> 
-      
-      {% if page.ne_url %}
-         · <a href="{{ page.ne_url }}">Nepali</a>
+      {{ page.date | date: "%Y-%m-%d" }} ·
+      <span id="reading-time"></span>
+
+      {% if page.lang == "en" and nepali_translations.size > 0 %}
+        {% if gemini_translation %}
+          · <a href="{{ gemini_translation.url }}">Gemini</a>
+        {% endif %}
+        {% if gpt_translation %}
+          · <a href="{{ gpt_translation.url }}">GPT</a>
+        {% endif %}
+        {% if claude_translation %}
+          · <a href="{{ claude_translation.url }}">Claude</a>
+        {% endif %}
+      {% elsif page.lang == "ne" and page.translator %}
+        · <span class="meta-current-version">{{ page.translator | capitalize }}</span>
+        {% if gemini_translation and gemini_translation.url != page.url %}
+          · <a href="{{ gemini_translation.url }}">Gemini</a>
+        {% endif %}
+        {% if gpt_translation and gpt_translation.url != page.url %}
+          · <a href="{{ gpt_translation.url }}">GPT</a>
+        {% endif %}
+        {% if claude_translation and claude_translation.url != page.url %}
+          · <a href="{{ claude_translation.url }}">Claude</a>
+        {% endif %}
+      {% elsif page.ne_url %}
+        · <a href="{{ page.ne_url }}">Nepali</a>
       {% endif %}
 
-      {% if page.en_url %}
-         · <a href="{{ page.en_url }}">English</a>
+      {% if page.en_url and page.lang != "ne" %}
+        · <a href="{{ page.en_url }}">English</a>
       {% endif %}
-
     </p>
 
     <div class="progress-container">

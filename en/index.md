@@ -4,8 +4,6 @@ title: Home
 lang: en
 ---
 
-# Dhamma — To Be Seen
-
 This site offers:
 
 - Clear and direct teachings

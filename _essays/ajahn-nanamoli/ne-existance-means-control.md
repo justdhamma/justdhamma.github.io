@@ -6,7 +6,7 @@ author: Ajahn Nyanamoli Thero
 title: अस्तित्व भनेकै नियन्त्रण हो
 description: an essay
 # date: 2010-08-01
-en_url: "/essays/en-existance-means-control/"
+en_url: "/essays/en-existence-means-control/"
 doc_url: "https://www.hillsidehermitage.org/existance-means-control/"
 alt_doc_url: "https://pathpress.org/existance-means-control/"
 ---
