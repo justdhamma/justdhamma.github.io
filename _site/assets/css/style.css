@@ -216,6 +216,64 @@ footer {
   font-family: var(--font-english);
 }
 
+.transcript-video-trigger {
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--link);
+  cursor: pointer;
+  font: inherit;
+}
+
+.transcript-video-trigger:hover {
+  text-decoration: underline;
+}
+
+.transcript-video-embed {
+  margin: 0 0 18px;
+}
+
+.transcript-video-embed iframe {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  border-radius: 14px;
+}
+
+.transcript-tag-row {
+  margin: -2px 0 12px;
+  color: var(--muted);
+  font-family: var(--font-english);
+  font-size: 14px;
+}
+
+.transcript-tag-row a {
+  color: var(--muted);
+}
+
+.transcript-tag-section {
+  margin-bottom: 28px;
+}
+
+.transcript-tag-section.is-hidden {
+  display: none;
+}
+
+.transcript-tag-index {
+  margin: 0 0 18px;
+  color: var(--muted);
+}
+
+.transcript-tag-index a {
+  color: var(--muted);
+}
+
+.transcript-tag-divider {
+  margin-left: 0;
+  margin-right: auto;
+}
+
 .meta-current-version {
   font-weight: 600;
   letter-spacing: 0.04em;
@@ -1001,6 +1059,40 @@ Nepali Essays Page Styling
   font-family: var(--font-english);
 }
 
+.author-section {
+  margin: 0 0 20px;
+}
+
+.author-section[open] {
+  margin-bottom: 24px;
+}
+
+.author-section summary {
+  cursor: pointer;
+  list-style: none;
+}
+
+.author-section summary::-webkit-details-marker {
+  display: none;
+}
+
+.author-section summary::before {
+  content: "+";
+  display: inline-block;
+  width: 1.1em;
+  margin-right: 0.2em;
+  color: var(--muted);
+  font-weight: 700;
+}
+
+.author-section[open] summary::before {
+  content: "-";
+}
+
+.author-section .essay-translation-list {
+  margin-top: 6px;
+}
+
 .lang-ne p,
 .lang-ne li,
 .container.nepali p,
@@ -1024,6 +1116,24 @@ Nepali Essays Page Styling
 .container.nepali .essay-translation-list li a,
 .container.nepali .essay-translation-list li * {
   font-family: var(--font-english);
+}
+
+.essay-translation-list {
+  margin-left: 1.1rem;
+  padding-left: 0.4rem;
+}
+
+.essay-translation-list li {
+  list-style: none;
+  position: relative;
+}
+
+.essay-translation-list li::before {
+  content: "☸";
+  position: absolute;
+  left: -1.3rem;
+  color: var(--text);
+  font-size: 0.85em;
 }
 
 .essay-translation-links,

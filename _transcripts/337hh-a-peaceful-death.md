@@ -4,6 +4,7 @@ episode: 337
 category: transcripts
 title: A Peaceful Death
 description: This essay explores the concept of a peaceful death.
+pli_tag: marana, marananusati
 excerpt: This essay explores the concept of a peaceful death.
 lang: en
 video_url: 

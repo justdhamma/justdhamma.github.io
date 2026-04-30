@@ -2,6 +2,7 @@
 lang: en
 layout: post
 category: essays
+author_id: 3
 author: Thaniyo Thero
 title: Going Through Dukkha
 description: an essay

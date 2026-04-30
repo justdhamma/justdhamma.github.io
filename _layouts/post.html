@@ -25,6 +25,13 @@ layout: base
 {% assign gemini_translation = nepali_translations | where: "translator", "gemini" | first %}
 {% assign claude_translation = nepali_translations | where: "translator", "claude" | first %}
 {% assign perplexity_translation = nepali_translations | where: "translator", "perplexity" | first %}
+{% assign page_path_parts = page.path | split: "/" %}
+{% assign author_key = page_path_parts[1] %}
+{% assign author_record = site.data.authors | where: "key", author_key | first %}
+{% assign author_name = page.author %}
+{% if author_record %}
+  {% assign author_name = author_record.name %}
+{% endif %}
 
 <article class="reading-container {{ page.lang }}">
   <header class="post-header">
@@ -35,14 +42,27 @@ layout: base
         </a>
       </p>
       <h1>{% if page.ne_title %}{{ page.ne_title }}{% else %}{{ page.title }}{% endif %}</h1>
+    {% elsif page.category == "transcripts" and page.episode %}
+      <h1>{{ page.episode }}{{ page.editor | default: "" }} - {{ page.title }}</h1>
     {% else %}
       <h1>{{ page.title }}</h1>
     {% endif %}
 
     <p class="post-meta">
-      {{ page.author }} · {{ page.category | capitalize }} ·
+      {{ author_name }} · {{ page.category | capitalize }} ·
       {{ page.date | date: "%Y-%m-%d" }} ·
       <span id="reading-time"></span>
+
+      {% if page.category == "transcripts" and page.youtube_url and page.youtube_url != "" %}
+        | <button
+          type="button"
+          class="transcript-video-trigger"
+          data-youtube-url="{{ page.youtube_url }}"
+          aria-expanded="false"
+          aria-controls="transcript-video-embed"
+        >Watch Here</button>
+        · <a href="{{ page.youtube_url }}" target="_blank" rel="noopener noreferrer">Watch on YT</a>
+      {% endif %}
 
       {% if page.lang == "en" and nepali_translations.size > 0 %}
         {% if gemini_translation %}
@@ -79,6 +99,24 @@ layout: base
         · <a href="{{ page.en_url }}">English</a>
       {% endif %}
     </p>
+
+    {% if page.category == "transcripts" and page.pli_tag %}
+      {% assign transcript_tags = page.pli_tag | split: "," %}
+      <p class="transcript-tag-row">
+        {% assign separator = "" %}
+        {% for raw_tag in transcript_tags %}
+          {% assign tag = raw_tag | strip %}
+          {% if tag != "" %}
+            {{ separator }}<a href="/en/transcript-tags/#tag-{{ tag | slugify }}">{{ tag }}</a>
+            {% assign separator = " · " %}
+          {% endif %}
+        {% endfor %}
+      </p>
+    {% endif %}
+
+    {% if page.category == "transcripts" and page.youtube_url and page.youtube_url != "" %}
+      <div id="transcript-video-embed" class="transcript-video-embed" hidden></div>
+    {% endif %}
 
     <div class="progress-container">
       <div id="progress-bar"></div>

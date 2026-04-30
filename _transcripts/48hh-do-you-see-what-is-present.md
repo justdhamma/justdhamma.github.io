@@ -1,11 +1,13 @@
 ---
+lang: en
 layout: post
 category: transcripts
 episode: 48
 title: Do You See What Is Present
 description: This essay explores the root of suffering.
+pli_tag: vinnana, vedana, tanha,
+eng_tag: consciousness, feeling, craving
 excerpt: This essay explores the root of suffering.
-lang: en
 youtube_url: https://www.youtube.com/watch?v=lPk_dXveXSU
 editor: hh
 status: draft

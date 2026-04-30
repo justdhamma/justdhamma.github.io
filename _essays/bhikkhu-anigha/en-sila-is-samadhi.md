@@ -2,6 +2,7 @@
 lang: en
 layout: post
 category: essays
+author_id: 2
 author: Bhikkhu Anīgha
 title: Sīla is Samādhi
 description: an essay
