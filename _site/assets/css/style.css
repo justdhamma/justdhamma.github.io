@@ -1147,7 +1147,7 @@ hr {
   width: 450px;
   margin: 0 auto; /* Centers the hr */
   border: none; /* Removes default styling */
-  border-top: 0.8px dashed #3b62d7; /* Sets dashed, 1px style */
+  border-top: 2px dashed #3b62d7; /* Sets dashed, 1px style */
   margin-top: 20px;
   margin-bottom: 20px;
 }

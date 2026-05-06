@@ -1,0 +1,52 @@
+authors:
+  
+  bhikkhu-k-nanananda:
+    folder: bhikkhu-k-nanananda
+    books:
+      - key: nibbana-the-mind-stilled
+        title: Nibbana - The Mind Stilled
+      
+      - key: the-law-of-dependent-origination
+        title: The Law of Dependent Origination
+        chapters:
+          - en-sermon-1
+          - en-sermon-2
+          - en-sermon-3
+          - en-sermon-4
+          - en-sermon-5
+          - en-sermon-6
+          - en-sermon-7
+          - en-sermon-8
+          - en-sermon-9
+          - en-sermon-10
+          - en-sermon-11
+          - en-sermon-12
+          - en-sermon-14
+          - en-sermon-15
+          - en-sermon-16
+          - en-sermon-17
+          - en-sermon-18
+          - en-sermon-19
+          - en-sermon-20
+      
+      - key: ideal-solitude
+        title: Ideal Solitude
+        chapters:
+          - en-ideal-solitude
+  
+  ajahn-nanamoli:
+    folder: ajahn-nanamoli
+    books:
+      - key: meanings
+        title: Meanings
+        chapters:
+          - en-feelings-are-suffering
+          - en-existence-means-control
+          - en-with-birth-death-applies
+          - en-appearance-and-existence
+          - en-hierarchy-of-awareness
+          - en-papanca-sanna-sankha
+          - en-the-infinity-of-the-mind
+          - en-not-perceiving-the-feeling
+          - en-resistance-and-designation
+          - en-determining-determinations

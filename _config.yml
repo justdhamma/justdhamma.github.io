@@ -22,5 +22,9 @@ collections:
     output: true
     permalink: /essays/:title/
 
+  books:
+    output: true
+    permalink: /books/:title/
+
 permalink: /:categories/:title/
 # permalink: /:title/
