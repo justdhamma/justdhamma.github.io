@@ -1,0 +1,103 @@
+{% assign path_parts = page.path | split: "/" %}
+{% if page.category == "books" and path_parts[0] == "_books" and path_parts.size > 3 %}
+  {% assign author_key = path_parts[1] %}
+  {% assign book_key = path_parts[2] %}
+  {% assign current_slug = path_parts | last | remove: ".md" %}
+  {% capture book_folder %}/{{ author_key }}/{{ book_key }}/{% endcapture %}
+  {% assign same_book_pages = site.books | where_exp: "item", "item.path contains book_folder" | sort_natural: "path" %}
+  {% assign author_config = site.data.book_order.authors[author_key] %}
+  {% assign configured_book = nil %}
+
+  {% if author_config and author_config.books %}
+    {% for book in author_config.books %}
+      {% if book.key == book_key %}
+        {% assign configured_book = book %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+  {% assign previous_doc = nil %}
+  {% assign next_doc = nil %}
+  {% assign found_current = false %}
+
+  {% if configured_book and configured_book.chapters %}
+    {% for chapter_slug in configured_book.chapters %}
+      {% assign matched_doc = nil %}
+
+      {% for chapter in same_book_pages %}
+        {% assign chapter_slug_from_path = chapter.path | split: "/" | last | remove: ".md" %}
+        {% if chapter_slug_from_path == chapter_slug %}
+          {% assign matched_doc = chapter %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+
+      {% if matched_doc %}
+        {% if found_current and next_doc == nil %}
+          {% assign next_doc = matched_doc %}
+          {% break %}
+        {% endif %}
+
+        {% if chapter_slug == current_slug %}
+          {% assign found_current = true %}
+        {% elsif found_current == false %}
+          {% assign previous_doc = matched_doc %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  {% else %}
+    {% for chapter in same_book_pages %}
+      {% if found_current and next_doc == nil %}
+        {% assign next_doc = chapter %}
+        {% break %}
+      {% endif %}
+
+      {% if chapter.path == page.path %}
+        {% assign found_current = true %}
+      {% elsif found_current == false %}
+        {% assign previous_doc = chapter %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+  {% if found_current and (previous_doc or next_doc) %}
+    <nav class="book-chapter-nav" aria-label="Chapter navigation">
+      {% if previous_doc %}
+        <a class="book-chapter-link prev" href="{{ previous_doc.url }}">
+          <span class="book-chapter-arrow" aria-hidden="true">&lt;</span>
+          <span class="book-chapter-copy">
+            <span class="book-chapter-label">Previous chapter</span>
+            <span class="book-chapter-title">{{ previous_doc.title }}</span>
+          </span>
+        </a>
+      {% else %}
+        <span class="book-chapter-link is-disabled prev" aria-hidden="true">
+          <span class="book-chapter-arrow">&lt;</span>
+          <span class="book-chapter-copy">
+            <span class="book-chapter-label">Previous chapter</span>
+            <span class="book-chapter-title">Start of book</span>
+          </span>
+        </span>
+      {% endif %}
+
+      {% if next_doc %}
+        <a class="book-chapter-link next" href="{{ next_doc.url }}">
+          <span class="book-chapter-copy">
+            <span class="book-chapter-label">Next chapter</span>
+            <span class="book-chapter-title">{{ next_doc.title }}</span>
+          </span>
+          <span class="book-chapter-arrow" aria-hidden="true">&gt;</span>
+        </a>
+      {% else %}
+        <span class="book-chapter-link is-disabled next" aria-hidden="true">
+          <span class="book-chapter-copy">
+            <span class="book-chapter-label">Next chapter</span>
+            <span class="book-chapter-title">End of book</span>
+          </span>
+          <span class="book-chapter-arrow">&gt;</span>
+        </span>
+      {% endif %}
+    </nav>
+  {% endif %}
+{% endif %}

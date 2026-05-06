@@ -37,6 +37,25 @@ authors:
   ajahn-nanamoli:
     folder: ajahn-nanamoli
     books:
+      - key: dhamma-within-reach
+        title: Dhamma Within Reach
+        chapters:
+          - en-preface
+          - en-prey-to-suffering
+          - en-the-uprooting-of-the-suffering
+          - en-intentions-behind-actions
+          - en-right-endurance
+          - en-addiction-to-sensuality
+          - en-no-need-to-say-no-to-everything
+          - en-contemplation-of-anger
+          - en-overcoming-depression
+          - en-how-to develop-solitude
+          - en-appointment-to-death
+          - en-truth-about-five-hindrances
+          - en-how-to-calm-your-mind
+          - en-gateway-to-nibbana
+          - pali-glossary
+          - en-abbreviations
       - key: meanings
         title: Meanings
         chapters:

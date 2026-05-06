@@ -315,6 +315,70 @@ footer {
   font-size: 22px;
 }
 
+.book-chapter-nav {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 36px;
+}
+
+.book-chapter-link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  min-width: 0;
+  padding: 14px 16px;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: var(--bg);
+  color: var(--text);
+  text-decoration: none;
+  transition: border-color 0.2s ease, transform 0.2s ease;
+}
+
+.book-chapter-link:hover {
+  border-color: var(--link);
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+.book-chapter-link.next {
+  text-align: right;
+}
+
+.book-chapter-link.is-disabled {
+  opacity: 0.45;
+  cursor: default;
+  pointer-events: none;
+}
+
+.book-chapter-arrow {
+  flex: 0 0 auto;
+  font-size: 24px;
+  line-height: 1;
+}
+
+.book-chapter-copy {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.book-chapter-label {
+  color: var(--muted);
+  font-family: var(--font-english);
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.book-chapter-title {
+  overflow-wrap: anywhere;
+  font-size: 17px;
+  line-height: 1.4;
+}
+
 .post-content ul,
 .post-content ol {
   margin: 0 0 20px;
@@ -819,6 +883,21 @@ footer {
   .post-content h3 {
     margin-top: 24px;
     font-size: 20px;
+  }
+
+  .book-chapter-nav {
+    grid-template-columns: 1fr;
+    gap: 10px;
+    margin-top: 28px;
+    margin-bottom: 8px;
+  }
+
+  .book-chapter-link {
+    padding: 12px 14px;
+  }
+
+  .book-chapter-title {
+    font-size: 16px;
   }
 
   .navbar {
