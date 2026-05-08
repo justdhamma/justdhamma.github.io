@@ -4,6 +4,25 @@
   {% assign book_key = path_parts[2] %}
   {% assign current_slug = path_parts | last | remove: ".md" %}
   {% assign normalized_current_slug = current_slug | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
+  
+  {% comment %} Determine the current translator/language variant {% endcomment %}
+  {% assign current_variant = "" %}
+  {% if current_slug contains "-ne-gem" %}
+    {% assign current_variant = "-ne-gem" %}
+  {% elsif current_slug contains "-ne-gpt" %}
+    {% assign current_variant = "-ne-gpt" %}
+  {% elsif current_slug contains "-ne-cld" %}
+    {% assign current_variant = "-ne-cld" %}
+  {% elsif current_slug contains "-ne-ppx" %}
+    {% assign current_variant = "-ne-ppx" %}
+  {% elsif current_slug contains "-ne" %}
+    {% assign current_variant = "-ne" %}
+  {% elsif current_slug contains "-en" %}
+    {% assign current_variant = "-en" %}
+  {% else %}
+    {% assign current_variant = "-en" %}
+  {% endif %}
+  
   {% capture book_folder %}/{{ author_key }}/{{ book_key }}/{% endcapture %}
   {% assign same_book_pages = site.books | where_exp: "item", "item.path contains book_folder" | sort_natural: "path" %}
   {% assign author_config = site.data.book_order.authors[author_key] %}
@@ -30,7 +49,26 @@
       {% for chapter in same_book_pages %}
         {% assign chapter_slug_from_path = chapter.path | split: "/" | last | remove: ".md" %}
         {% assign normalized_chapter_slug_from_path = chapter_slug_from_path | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
-        {% if chapter_slug_from_path == chapter_slug or normalized_chapter_slug_from_path == normalized_chapter_slug %}
+        
+        {% comment %} Check if this chapter matches the chapter slug and has the same variant {% endcomment %}
+        {% assign chapter_variant = "" %}
+        {% if chapter_slug_from_path contains "-ne-gem" %}
+          {% assign chapter_variant = "-ne-gem" %}
+        {% elsif chapter_slug_from_path contains "-ne-gpt" %}
+          {% assign chapter_variant = "-ne-gpt" %}
+        {% elsif chapter_slug_from_path contains "-ne-cld" %}
+          {% assign chapter_variant = "-ne-cld" %}
+        {% elsif chapter_slug_from_path contains "-ne-ppx" %}
+          {% assign chapter_variant = "-ne-ppx" %}
+        {% elsif chapter_slug_from_path contains "-ne" %}
+          {% assign chapter_variant = "-ne" %}
+        {% elsif chapter_slug_from_path contains "-en" %}
+          {% assign chapter_variant = "-en" %}
+        {% else %}
+          {% assign chapter_variant = "-en" %}
+        {% endif %}
+        
+        {% if (chapter_slug_from_path == chapter_slug or normalized_chapter_slug_from_path == normalized_chapter_slug) and chapter_variant == current_variant %}
           {% assign matched_doc = chapter %}
           {% break %}
         {% endif %}
@@ -42,7 +80,7 @@
           {% break %}
         {% endif %}
 
-        {% if chapter_slug == current_slug or normalized_chapter_slug == normalized_current_slug %}
+        {% if chapter_slug == current_slug or (normalized_chapter_slug == normalized_current_slug and matched_doc.path == page.path) %}
           {% assign found_current = true %}
         {% elsif found_current == false %}
           {% assign previous_doc = matched_doc %}
@@ -51,15 +89,35 @@
     {% endfor %}
   {% else %}
     {% for chapter in same_book_pages %}
-      {% if found_current and next_doc == nil %}
-        {% assign next_doc = chapter %}
-        {% break %}
+      {% assign chapter_variant = "" %}
+      {% assign chapter_slug_from_path = chapter.path | split: "/" | last | remove: ".md" %}
+      {% if chapter_slug_from_path contains "-ne-gem" %}
+        {% assign chapter_variant = "-ne-gem" %}
+      {% elsif chapter_slug_from_path contains "-ne-gpt" %}
+        {% assign chapter_variant = "-ne-gpt" %}
+      {% elsif chapter_slug_from_path contains "-ne-cld" %}
+        {% assign chapter_variant = "-ne-cld" %}
+      {% elsif chapter_slug_from_path contains "-ne-ppx" %}
+        {% assign chapter_variant = "-ne-ppx" %}
+      {% elsif chapter_slug_from_path contains "-ne" %}
+        {% assign chapter_variant = "-ne" %}
+      {% elsif chapter_slug_from_path contains "-en" %}
+        {% assign chapter_variant = "-en" %}
+      {% else %}
+        {% assign chapter_variant = "-en" %}
       {% endif %}
+      
+      {% if chapter_variant == current_variant %}
+        {% if found_current and next_doc == nil %}
+          {% assign next_doc = chapter %}
+          {% break %}
+        {% endif %}
 
-      {% if chapter.path == page.path %}
-        {% assign found_current = true %}
-      {% elsif found_current == false %}
-        {% assign previous_doc = chapter %}
+        {% if chapter.path == page.path %}
+          {% assign found_current = true %}
+        {% elsif found_current == false %}
+          {% assign previous_doc = chapter %}
+        {% endif %}
       {% endif %}
     {% endfor %}
   {% endif %}

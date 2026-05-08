@@ -40,26 +40,22 @@ authors:
       - key: dhamma-within-reach
         title: Dhamma Within Reach
         chapters:
-          - en-preface
-          - en-prey-to-suffering
-          - prey-to-suffering-ne-gem
-          - prey-to-suffering-ne-gpt
-          - en-the-uprooting-of-the-suffering
-          - en-intentions-behind-actions
-          - en-right-endurance
-          - en-addiction-to-sensuality
-          - en-no-need-to-say-no-to-everything
-          - en-contemplation-of-anger
-          - en-overcoming-depression
-          - en-how-to develop-solitude
-          - en-appointment-to-death
-          - en-truth-about-five-hindrances
-          - en-how-to-calm-your-mind
-          - gateway-to-nibbana-en
-          - gateway-to-nibbana-ne-gem
-          - gateway-to-nibbana-ne-gpt
+          - preface
+          - prey-to-suffering
+          - the-uprooting-of-the-suffering
+          - intentions-behind-actions
+          - right-endurance
+          - addiction-to-sensuality
+          - no-need-to-say-no-to-everything
+          - contemplation-of-anger
+          - overcoming-depression
+          - how-to develop-solitude
+          - appointment-to-death
+          - truth-about-five-hindrances
+          - how-to-calm-your-mind
+          - gateway-to-nibbana
           - pali-glossary
-          - en-abbreviations
+          - abbreviations
       - key: meanings
         title: Meanings
         chapters:
