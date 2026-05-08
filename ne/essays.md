@@ -25,30 +25,38 @@ permalink: /ne/essays/
       {% assign claude_post = group.items | where: "translator", "claude" | first %}
       {% assign perplexity_post = group.items | where: "translator", "perplexity" | first %}
       <li>
-        {% if english_post %}
-          {{ english_post.title }}
-        {% elsif canonical.en_title %}
-          {{ canonical.en_title }}
-        {% else %}
-          {{ canonical.title }}
-        {% endif %}
+        <span class="essay-translation-title">
+          {% if canonical.ne_title %}
+            {{ canonical.ne_title }}
+          {% elsif canonical.title %}
+            {{ canonical.title }}
+          {% elsif english_post %}
+            {{ english_post.title }}
+          {% elsif canonical.en_title %}
+            {{ canonical.en_title }}
+          {% else %}
+            {{ canonical.title }}
+          {% endif %}
+        </span>
 
-        {% assign separator = " - " %}
-        {% if gemini_post %}
-          {{ separator }}<a href="{{ gemini_post.url }}">Gemini</a>
-          {% assign separator = " · " %}
-        {% endif %}
-        {% if gpt_post %}
-          {{ separator }}<a href="{{ gpt_post.url }}">GPT</a>
-          {% assign separator = " · " %}
-        {% endif %}
-        {% if claude_post %}
-          {{ separator }}<a href="{{ claude_post.url }}">Claude</a>
-          {% assign separator = " · " %}
-        {% endif %}
-        {% if perplexity_post %}
-          {{ separator }}<a href="{{ perplexity_post.url }}">Perplexity</a>
-        {% endif %}
+        <span class="essay-translation-links">
+          {% assign separator = " - " %}
+          {% if gemini_post %}
+            {{ separator }}<a href="{{ gemini_post.url }}">Gemini</a>
+            {% assign separator = " · " %}
+          {% endif %}
+          {% if gpt_post %}
+            {{ separator }}<a href="{{ gpt_post.url }}">GPT</a>
+            {% assign separator = " · " %}
+          {% endif %}
+          {% if claude_post %}
+            {{ separator }}<a href="{{ claude_post.url }}">Claude</a>
+            {% assign separator = " · " %}
+          {% endif %}
+          {% if perplexity_post %}
+            {{ separator }}<a href="{{ perplexity_post.url }}">Perplexity</a>
+          {% endif %}
+        </span>
       </li>
   {% endfor %}
   </ul>

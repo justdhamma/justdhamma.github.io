@@ -32,10 +32,41 @@ layout: base
 {% if author_record %}
   {% assign author_name = author_record.name %}
 {% endif %}
+{% assign book_context = false %}
+{% assign book_title = nil %}
+{% assign book_toc_url = nil %}
+{% if page.category == "books" and page_path_parts[0] == "_books" and page_path_parts.size > 3 %}
+  {% assign book_context = true %}
+  {% assign book_key = page_path_parts[2] %}
+  {% assign author_config = site.data.book_order.authors[author_key] %}
+  {% if author_config and author_config.books %}
+    {% for book in author_config.books %}
+      {% if book.key == book_key %}
+        {% assign book_title = book.title %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+  {% if book_title == nil %}
+    {% assign book_title = page.book_name | default: book_key | replace: "-", " " | capitalize %}
+  {% endif %}
+  {% assign book_toc_url = "/en/books/" | append: author_key | append: "/" | append: book_key | append: "/" %}
+{% endif %}
 
 <article class="reading-container {{ page.lang }}">
   <header class="post-header">
-    {% if page.lang == "ne" and english_source %}
+    {% if book_context %}
+      {% if page.lang == "ne" and page.en_title %}
+        <p class="post-source-title book-source-title"><a href="{{ book_toc_url }}">{{ book_title }}</a></p>
+        <div class="book-title-line">
+          <h1 class="book-title-main">{% if page.lang == "ne" and page.ne_title %}{{ page.ne_title }}{% else %}{{ page.title }}{% endif %}</h1>
+          <h3 class="book-title-sub">{{ page.en_title }}</h3>
+        </div>
+      {% else %}
+        <p class="post-source-title book-source-title"><a href="{{ book_toc_url }}">{{ book_title }}</a></p>
+        <h1>{% if page.lang == "ne" and page.ne_title %}{{ page.ne_title }}{% else %}{{ page.title }}{% endif %}</h1>
+      {% endif %}
+    {% elsif page.lang == "ne" and english_source %}
       <p class="post-source-title">
         <a href="{{ english_source.url }}">
           {% if page.en_title %}{{ page.en_title }}{% else %}{{ english_source.title }}{% endif %}
@@ -49,7 +80,7 @@ layout: base
     {% endif %}
 
     <p class="post-meta">
-      {{ author_name }} · {{ page.category | capitalize }} ·
+      {{ author_name }} · {% if book_context %}Book{% else %}{{ page.category | capitalize }}{% endif %} ·
       {{ page.date | date: "%Y-%m-%d" }} ·
       <span id="reading-time"></span>
 
@@ -64,7 +95,15 @@ layout: base
         · <a href="{{ page.youtube_url }}" target="_blank" rel="noopener noreferrer">Watch on YT</a>
       {% endif %}
 
-      {% if page.lang == "en" and nepali_translations.size > 0 %}
+      {% if book_context %}
+        {% capture book_translation_links %}{% include translation-links.html doc=page %}{% endcapture %}
+        {% assign book_translation_links = book_translation_links | strip %}
+        {% if book_translation_links != "" %}
+          · {{ book_translation_links }}
+        {% elsif page.ne_url %}
+          · <a href="{{ page.ne_url }}">Nepali</a>
+        {% endif %}
+      {% elsif page.lang == "en" and nepali_translations.size > 0 %}
         {% if gemini_translation %}
           · <a href="{{ gemini_translation.url }}">Gemini</a>
         {% endif %}

@@ -1,0 +1,91 @@
+---
+layout: base
+---
+
+{% if page.lang == "ne" %}
+  {% include nav-ne.html %}
+{% else %}
+  {% include nav-en.html %}
+{% endif %}
+
+{% assign author_config = site.data.book_order.authors[page.book_author] %}
+{% assign author_folder = author_config.folder | default: page.book_author %}
+{% assign configured_book = nil %}
+
+{% if author_config and author_config.books %}
+  {% for book in author_config.books %}
+    {% if book.key == page.book_key %}
+      {% assign configured_book = book %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+{% assign author_record = site.data.authors | where: "key", page.book_author | first %}
+{% assign author_name = page.author_name | default: author_record.name | default: page.book_author %}
+{% assign book_title = page.book_title | default: configured_book.title | default: page.title %}
+{% capture book_folder %}/{{ author_folder }}/{{ page.book_key }}/{% endcapture %}
+{% assign book_docs = site.books | where: "lang", page.lang | where_exp: "item", "item.path contains book_folder" | sort_natural: "path" %}
+
+<main class="container english">
+  <article class="book-toc-shell">
+    <header class="book-toc-header">
+      <p class="book-toc-eyebrow"><a href="/en/books/">Books</a> / {{ author_name }}</p>
+      <h1>{{ book_title }}</h1>
+      <h2 class="book-toc-subtitle">Table of Contents</h2>
+    </header>
+
+    <ol class="book-toc-list">
+      {% if configured_book and configured_book.chapters %}
+        {% for chapter_slug in configured_book.chapters %}
+          {% assign chapter_doc = nil %}
+          {% assign normalized_chapter_slug = chapter_slug | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
+          {% for chapter in book_docs %}
+            {% assign chapter_filename = chapter.path | split: "/" | last | remove: ".md" %}
+            {% assign normalized_chapter_filename = chapter_filename | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
+            {% if chapter_filename == chapter_slug or normalized_chapter_filename == normalized_chapter_slug %}
+              {% assign chapter_doc = chapter %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+
+          {% if chapter_doc %}
+            {% capture toc_translation_links %}{% include translation-links.html doc=chapter_doc %}{% endcapture %}
+            {% assign toc_translation_links = toc_translation_links | strip %}
+            <li class="book-toc-item">
+              <span class="book-toc-number">{{ forloop.index }}</span>
+              <div class="book-toc-copy">
+                <p class="book-toc-line">
+                  <a class="book-toc-title" href="{{ chapter_doc.url }}">{{ chapter_doc.title }}</a>
+                  {% if toc_translation_links != "" %}
+                    <span class="book-toc-dash"> - </span>
+                    <span class="book-toc-links">{{ toc_translation_links }}</span>
+                  {% endif %}
+                </p>
+              </div>
+            </li>
+          {% endif %}
+        {% endfor %}
+      {% else %}
+        {% for chapter_doc in book_docs %}
+          {% capture toc_translation_links %}{% include translation-links.html doc=chapter_doc %}{% endcapture %}
+          {% assign toc_translation_links = toc_translation_links | strip %}
+          <li class="book-toc-item">
+            <span class="book-toc-number">{{ forloop.index }}</span>
+            <div class="book-toc-copy">
+              <p class="book-toc-line">
+                <a class="book-toc-title" href="{{ chapter_doc.url }}">{{ chapter_doc.title }}</a>
+                {% if toc_translation_links != "" %}
+                  <span class="book-toc-dash"> - </span>
+                  <span class="book-toc-links">{{ toc_translation_links }}</span>
+                {% endif %}
+              </p>
+            </div>
+          </li>
+        {% endfor %}
+      {% endif %}
+    </ol>
+  </article>
+</main>
+
+{% include reader-panel.html %}

@@ -4,6 +4,8 @@ layout: post
 category: books
 author: Ajahn Nyanamoli Thero
 title: Prey to Suffering
+gem_url: "/books/prey-to-suffering-ne-gem/"
+gpt_url: "/books/prey-to-suffering-ne-gpt/"
 ---
 
 ### PREY TO SUFFERING

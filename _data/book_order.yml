@@ -42,6 +42,8 @@ authors:
         chapters:
           - en-preface
           - en-prey-to-suffering
+          - prey-to-suffering-ne-gem
+          - prey-to-suffering-ne-gpt
           - en-the-uprooting-of-the-suffering
           - en-intentions-behind-actions
           - en-right-endurance
@@ -53,7 +55,9 @@ authors:
           - en-appointment-to-death
           - en-truth-about-five-hindrances
           - en-how-to-calm-your-mind
-          - en-gateway-to-nibbana
+          - gateway-to-nibbana-en
+          - gateway-to-nibbana-ne-gem
+          - gateway-to-nibbana-ne-gpt
           - pali-glossary
           - en-abbreviations
       - key: meanings

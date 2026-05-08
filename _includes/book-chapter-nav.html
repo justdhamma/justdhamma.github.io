@@ -3,6 +3,7 @@
   {% assign author_key = path_parts[1] %}
   {% assign book_key = path_parts[2] %}
   {% assign current_slug = path_parts | last | remove: ".md" %}
+  {% assign normalized_current_slug = current_slug | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
   {% capture book_folder %}/{{ author_key }}/{{ book_key }}/{% endcapture %}
   {% assign same_book_pages = site.books | where_exp: "item", "item.path contains book_folder" | sort_natural: "path" %}
   {% assign author_config = site.data.book_order.authors[author_key] %}
@@ -24,10 +25,12 @@
   {% if configured_book and configured_book.chapters %}
     {% for chapter_slug in configured_book.chapters %}
       {% assign matched_doc = nil %}
+      {% assign normalized_chapter_slug = chapter_slug | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
 
       {% for chapter in same_book_pages %}
         {% assign chapter_slug_from_path = chapter.path | split: "/" | last | remove: ".md" %}
-        {% if chapter_slug_from_path == chapter_slug %}
+        {% assign normalized_chapter_slug_from_path = chapter_slug_from_path | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
+        {% if chapter_slug_from_path == chapter_slug or normalized_chapter_slug_from_path == normalized_chapter_slug %}
           {% assign matched_doc = chapter %}
           {% break %}
         {% endif %}
@@ -39,7 +42,7 @@
           {% break %}
         {% endif %}
 
-        {% if chapter_slug == current_slug %}
+        {% if chapter_slug == current_slug or normalized_chapter_slug == normalized_current_slug %}
           {% assign found_current = true %}
         {% elsif found_current == false %}
           {% assign previous_doc = matched_doc %}
@@ -65,7 +68,7 @@
     <nav class="book-chapter-nav" aria-label="Chapter navigation">
       {% if previous_doc %}
         <a class="book-chapter-link prev" href="{{ previous_doc.url }}">
-          <span class="book-chapter-arrow" aria-hidden="true">&lt;</span>
+          <span class="book-chapter-arrow book-chapter-arrow-prev" aria-hidden="true"></span>
           <span class="book-chapter-copy">
             <span class="book-chapter-label">Previous chapter</span>
             <span class="book-chapter-title">{{ previous_doc.title }}</span>
@@ -73,7 +76,7 @@
         </a>
       {% else %}
         <span class="book-chapter-link is-disabled prev" aria-hidden="true">
-          <span class="book-chapter-arrow">&lt;</span>
+          <span class="book-chapter-arrow book-chapter-arrow-prev"></span>
           <span class="book-chapter-copy">
             <span class="book-chapter-label">Previous chapter</span>
             <span class="book-chapter-title">Start of book</span>
@@ -87,7 +90,7 @@
             <span class="book-chapter-label">Next chapter</span>
             <span class="book-chapter-title">{{ next_doc.title }}</span>
           </span>
-          <span class="book-chapter-arrow" aria-hidden="true">&gt;</span>
+          <span class="book-chapter-arrow book-chapter-arrow-next" aria-hidden="true"></span>
         </a>
       {% else %}
         <span class="book-chapter-link is-disabled next" aria-hidden="true">
@@ -95,7 +98,7 @@
             <span class="book-chapter-label">Next chapter</span>
             <span class="book-chapter-title">End of book</span>
           </span>
-          <span class="book-chapter-arrow">&gt;</span>
+          <span class="book-chapter-arrow book-chapter-arrow-next"></span>
         </span>
       {% endif %}
     </nav>

@@ -1,0 +1,173 @@
+{% assign doc = include.doc %}
+{% assign separator = include.separator | default: " · " %}
+{% assign gemini_link = doc.gemini_url | default: doc.gem_url %}
+{% assign gpt_link = doc.gpt_url %}
+{% assign claude_link = doc.claude_url | default: doc.cld_url | default: doc.cld_ulr %}
+{% assign perplexity_link = doc.perplexity_url | default: doc.ppx_url %}
+{% assign seed_translation = nil %}
+{% assign filename = doc.path | split: "/" | last | remove: ".md" %}
+
+{% comment %} Normalize internal book/essay paths to absolute URLs so relative links do not nest. {% endcomment %}
+{% if gemini_link and gemini_link contains "://" == false %}
+  {% assign gemini_link = gemini_link | replace_first: "//", "/" %}
+  {% if gemini_link | slice: 0, 1 != "/" %}
+    {% assign gemini_link = "/" | append: gemini_link %}
+  {% endif %}
+{% endif %}
+{% if gpt_link and gpt_link contains "://" == false %}
+  {% assign gpt_link = gpt_link | replace_first: "//", "/" %}
+  {% if gpt_link | slice: 0, 1 != "/" %}
+    {% assign gpt_link = "/" | append: gpt_link %}
+  {% endif %}
+{% endif %}
+{% if claude_link and claude_link contains "://" == false %}
+  {% assign claude_link = claude_link | replace_first: "//", "/" %}
+  {% if claude_link | slice: 0, 1 != "/" %}
+    {% assign claude_link = "/" | append: claude_link %}
+  {% endif %}
+{% endif %}
+{% if perplexity_link and perplexity_link contains "://" == false %}
+  {% assign perplexity_link = perplexity_link | replace_first: "//", "/" %}
+  {% if perplexity_link | slice: 0, 1 != "/" %}
+    {% assign perplexity_link = "/" | append: perplexity_link %}
+  {% endif %}
+{% endif %}
+
+{% if doc.lang == "en" and doc.ne_url %}
+  {% assign seed_translation = site.essays | where: "url", doc.ne_url | first %}
+  {% if seed_translation == nil %}
+    {% assign seed_translation = site.books | where: "url", doc.ne_url | first %}
+  {% endif %}
+{% elsif doc.lang == "ne" %}
+  {% assign seed_translation = doc %}
+{% endif %}
+
+{% if seed_translation %}
+  {% case seed_translation.translator %}
+    {% when "gemini" %}
+      {% assign gemini_link = gemini_link | default: seed_translation.url %}
+    {% when "gpt" %}
+      {% assign gpt_link = gpt_link | default: seed_translation.url %}
+    {% when "claude" %}
+      {% assign claude_link = claude_link | default: seed_translation.url %}
+    {% when "perplexity" %}
+      {% assign perplexity_link = perplexity_link | default: seed_translation.url %}
+  {% endcase %}
+
+  {% if seed_translation.en_url %}
+    {% assign sibling_essays = site.essays | where: "lang", "ne" | where: "en_url", seed_translation.en_url %}
+    {% assign sibling_books = site.books | where: "lang", "ne" | where: "en_url", seed_translation.en_url %}
+
+    {% for translation in sibling_essays %}
+      {% case translation.translator %}
+        {% when "gemini" %}
+          {% assign gemini_link = gemini_link | default: translation.url %}
+        {% when "gpt" %}
+          {% assign gpt_link = gpt_link | default: translation.url %}
+        {% when "claude" %}
+          {% assign claude_link = claude_link | default: translation.url %}
+        {% when "perplexity" %}
+          {% assign perplexity_link = perplexity_link | default: translation.url %}
+      {% endcase %}
+    {% endfor %}
+
+    {% for translation in sibling_books %}
+      {% case translation.translator %}
+        {% when "gemini" %}
+          {% assign gemini_link = gemini_link | default: translation.url %}
+        {% when "gpt" %}
+          {% assign gpt_link = gpt_link | default: translation.url %}
+        {% when "claude" %}
+          {% assign claude_link = claude_link | default: translation.url %}
+        {% when "perplexity" %}
+          {% assign perplexity_link = perplexity_link | default: translation.url %}
+      {% endcase %}
+    {% endfor %}
+  {% endif %}
+{% endif %}
+
+{% assign is_book_doc = false %}
+{% if doc.path and doc.path contains "_books/" %}
+  {% assign is_book_doc = true %}
+{% endif %}
+
+{% if is_book_doc and doc.lang == "en" %}
+  {% assign path_parts = doc.path | split: "/" %}
+  {% assign sibling_folder = "" %}
+  {% for part in path_parts %}
+    {% unless forloop.last %}
+      {% assign sibling_folder = sibling_folder | append: "/" | append: part %}
+    {% endunless %}
+  {% endfor %}
+  {% assign chapter_stem = filename | remove_first: "en-" | replace: "-en", "" %}
+  {% assign sibling_books = site.books | where_exp: "item", "item.path contains sibling_folder" %}
+  {% capture expected_gem %}ne-{{ chapter_stem }}-gem{% endcapture %}
+  {% capture expected_gpt %}ne-{{ chapter_stem }}-gpt{% endcapture %}
+  {% capture expected_cld %}ne-{{ chapter_stem }}-cld{% endcapture %}
+  {% capture expected_ppx %}ne-{{ chapter_stem }}-ppx{% endcapture %}
+  {% capture expected_plain %}ne-{{ chapter_stem }}{% endcapture %}
+
+  {% for translation in sibling_books %}
+    {% assign translation_filename = translation.path | split: "/" | last | remove: ".md" %}
+    {% if translation_filename == expected_gem %}
+      {% assign gemini_link = gemini_link | default: translation.url %}
+    {% elsif translation_filename == expected_gpt %}
+      {% assign gpt_link = gpt_link | default: translation.url %}
+    {% elsif translation_filename == expected_cld %}
+      {% assign claude_link = claude_link | default: translation.url %}
+    {% elsif translation_filename == expected_ppx %}
+      {% assign perplexity_link = perplexity_link | default: translation.url %}
+    {% elsif translation_filename == expected_plain %}
+      {% assign gemini_link = gemini_link | default: translation.url %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+{% if gemini_link or gpt_link or claude_link or perplexity_link %}
+  {% assign current_url = page.url | default: doc.url %}
+  {% assign active_translator = nil %}
+  
+  {% if current_url == gemini_link %}
+    {% assign active_translator = "gemini" %}
+  {% elsif current_url == gpt_link %}
+    {% assign active_translator = "gpt" %}
+  {% elsif current_url == claude_link %}
+    {% assign active_translator = "claude" %}
+  {% elsif current_url == perplexity_link %}
+    {% assign active_translator = "perplexity" %}
+  {% endif %}
+  
+  {% assign link_separator = "" %}
+  
+  {% comment %} Render active translator first {% endcomment %}
+  {% if active_translator == "gemini" and gemini_link %}
+    {{ link_separator }}<span class="translation-link-active">Gemini</span>
+    {% assign link_separator = separator %}
+  {% elsif active_translator == "gpt" and gpt_link %}
+    {{ link_separator }}<span class="translation-link-active">GPT</span>
+    {% assign link_separator = separator %}
+  {% elsif active_translator == "claude" and claude_link %}
+    {{ link_separator }}<span class="translation-link-active">Claude</span>
+    {% assign link_separator = separator %}
+  {% elsif active_translator == "perplexity" and perplexity_link %}
+    {{ link_separator }}<span class="translation-link-active">Perplexity</span>
+    {% assign link_separator = separator %}
+  {% endif %}
+  
+  {% comment %} Render other translators {% endcomment %}
+  {% if active_translator != "gemini" and gemini_link %}
+    {{ link_separator }}<a href="{{ gemini_link }}">Gemini</a>
+    {% assign link_separator = separator %}
+  {% endif %}
+  {% if active_translator != "gpt" and gpt_link %}
+    {{ link_separator }}<a href="{{ gpt_link }}">GPT</a>
+    {% assign link_separator = separator %}
+  {% endif %}
+  {% if active_translator != "claude" and claude_link %}
+    {{ link_separator }}<a href="{{ claude_link }}">Claude</a>
+    {% assign link_separator = separator %}
+  {% endif %}
+  {% if active_translator != "perplexity" and perplexity_link %}
+    {{ link_separator }}<a href="{{ perplexity_link }}">Perplexity</a>
+  {% endif %}
+{% endif %}

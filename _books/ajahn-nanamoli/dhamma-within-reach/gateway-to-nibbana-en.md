@@ -4,12 +4,14 @@ layout: post
 category: books
 author: Ajahn Nyanamoli Thero
 title: Gateway to Nibbana
+gem_url: "/books/gateway-to-nibbana-ne-gem/"
+gpt_url: "/books/gateway-to-nibbana-ne-gpt/"
 ---
 
 
-### GATEWAY TO _NIBBĀNA_
+<!-- ### GATEWAY TO _NIBBĀNA_ -->
 
-We spoke a lot about the _enduring_ of unpleasant or pleasant feelings. So how would you, practically, do that? If something bothers you and you fail to endure it, how do you know that you failed to endure it? What qualifies as failure in enduring it?
+We spoke a lot about the *enduring* of unpleasant or pleasant feelings. So how would you, practically, do that? If something bothers you and you fail to endure it, how do you know that you failed to endure it? What qualifies as failure in enduring it?
 
 It is when you act out of that thing that bothers you. Acting out of anger or lust, means you failed to endure it. Even if your action is “small” and not a coarse breach of restraint, it is still rooted in a failure to endure the arisen feeling.
 
@@ -47,6 +49,3 @@ Thus the entire Dhamma can be boiled down to the simple instruction from the Bud
 > —Dhp. 14, verse 183-184
 
 Do it or not, it’s your choice, but if you cultivate the right choices sufficiently you will come to understand and uproot the nature of lust, aversion and delusion. You will fully discern the gateway and be unable to ever lose sight of it. It’s only then that you can reach the true peace.
-
-
-

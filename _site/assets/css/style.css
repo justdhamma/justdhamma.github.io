@@ -198,6 +198,17 @@ footer {
   color: var(--muted);
 }
 
+.book-source-title {
+  margin-bottom: 6px;
+  font-size: 0.85em;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.book-source-title a {
+  color: var(--link);
+}
+
 .post-subtitle {
   margin: -2px 0 12px;
   color: var(--muted);
@@ -207,6 +218,34 @@ footer {
 
 .post-subtitle a {
   color: var(--muted);
+}
+
+.book-title-line {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5em;
+  margin-bottom: 10px;
+}
+
+.book-title-line .book-title-main {
+  margin: 0;
+  font-size: clamp(30px, 5vw, 34px);
+  font-weight: 700;
+  font-family: var(--font-nepali);
+}
+
+.book-title-line .book-title-sub {
+  margin: 0;
+  font-size: 0.95em;
+  font-weight: 400;
+  color: var(--muted);
+  font-family: var(--font-english);
+  white-space: nowrap;
+}
+
+.book-title-line .book-title-sub::before {
+  content: " – ";
 }
 
 .post-meta {
@@ -354,9 +393,31 @@ footer {
 }
 
 .book-chapter-arrow {
+  position: relative;
   flex: 0 0 auto;
-  font-size: 24px;
+  width: 22px;
+  height: 22px;
   line-height: 1;
+}
+
+.book-chapter-arrow::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 10px;
+  height: 10px;
+  border-top: 2px solid currentColor;
+  border-right: 2px solid currentColor;
+  transform-origin: center;
+}
+
+.book-chapter-arrow-prev::before {
+  transform: translate(-35%, -50%) rotate(-135deg);
+}
+
+.book-chapter-arrow-next::before {
+  transform: translate(-65%, -50%) rotate(45deg);
 }
 
 .book-chapter-copy {
@@ -377,6 +438,138 @@ footer {
   overflow-wrap: anywhere;
   font-size: 17px;
   line-height: 1.4;
+}
+
+.books-by-author {
+  display: grid;
+  gap: 34px;
+}
+
+.book-index-author {
+  display: grid;
+  gap: 14px;
+}
+
+.book-index-grid {
+  display: grid;
+  gap: 12px;
+}
+
+.book-index-card {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 12px 14px;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: transparent;
+  color: var(--text);
+  text-decoration: none;
+  transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.book-index-card:hover {
+  border-color: var(--link);
+  box-shadow: 0 14px 30px rgba(37, 99, 235, 0.1);
+  text-decoration: none;
+  transform: translateY(-2px);
+}
+
+.book-index-card__title {
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+
+.book-index-card__meta {
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.book-toc-shell {
+  width: min(760px, 100%);
+  margin: 0 auto;
+}
+
+.book-toc-header {
+  margin-bottom: 26px;
+}
+
+.book-toc-header h1 {
+  text-align: center;
+}
+
+.book-toc-eyebrow {
+  margin-bottom: 8px;
+  color: var(--muted);
+  font-family: var(--font-english);
+  font-size: 0.9rem;
+}
+
+.book-toc-subtitle {
+  margin: 10px 0 0;
+  font-size: 1.15rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.book-toc-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.book-toc-item {
+  display: grid;
+  grid-template-columns: 52px minmax(0, 1fr);
+  gap: 14px;
+  align-items: start;
+  padding: 16px 0;
+  border-top: 1px solid var(--border);
+}
+
+.book-toc-item:last-child {
+  border-bottom: 1px solid var(--border);
+}
+
+.book-toc-number {
+  color: var(--muted);
+  font-family: var(--font-english);
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.book-toc-copy {
+  min-width: 0;
+}
+
+.book-toc-line {
+  margin: 0;
+  color: var(--text);
+  line-height: 1.55;
+}
+
+.book-toc-title {
+  color: var(--text);
+  font-size: 1.08rem;
+  font-weight: 600;
+}
+
+.book-toc-links {
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.book-toc-dash {
+  color: var(--muted);
+}
+
+.book-toc-links a {
+  color: var(--muted);
+}
+
+.translation-link-active {
+  color: var(--muted);
+  font-weight: bold;
 }
 
 .post-content ul,
@@ -511,6 +704,22 @@ footer {
 
 .nav-left a {
   margin-right: 12px;
+  color: var(--text);
+  text-shadow:
+    0 0 0.35rem rgba(138, 180, 248, 0.18),
+    0 0 0.7rem rgba(138, 180, 248, 0.08);
+  transition: color 0.2s ease, text-shadow 0.2s ease, opacity 0.2s ease;
+}
+
+.nav-left a:hover,
+.nav-left a:focus-visible,
+.nav-right a:hover,
+.nav-right a:focus-visible {
+  color: var(--link);
+  text-decoration: none;
+  text-shadow:
+    0 0 0.45rem rgba(138, 180, 248, 0.38),
+    0 0 0.95rem rgba(138, 180, 248, 0.18);
 }
 
 .nav-right {
@@ -900,6 +1109,20 @@ footer {
     font-size: 16px;
   }
 
+  .book-toc-item {
+    grid-template-columns: 38px minmax(0, 1fr);
+    gap: 12px;
+  }
+
+  .book-toc-title {
+    font-size: 1rem;
+  }
+
+  .book-toc-links {
+    font-size: 0.9rem;
+    line-height: 1.5;
+  }
+
   .navbar {
     position: relative;
     gap: 0;
@@ -1190,13 +1413,6 @@ Nepali Essays Page Styling
   font-family: var(--font-english);
 }
 
-.container.nepali .essay-translation-list,
-.container.nepali .essay-translation-list li,
-.container.nepali .essay-translation-list li a,
-.container.nepali .essay-translation-list li * {
-  font-family: var(--font-english);
-}
-
 .essay-translation-list {
   margin-left: 1.1rem;
   padding-left: 0.4rem;
@@ -1215,9 +1431,14 @@ Nepali Essays Page Styling
   font-size: 0.85em;
 }
 
+.essay-translation-title {
+  font-family: var(--font-nepali);
+}
+
 .essay-translation-links,
 .essay-translation-links a {
   color: var(--muted);
+  font-family: var(--font-english);
   font-size: 0.92em;
 }
 
