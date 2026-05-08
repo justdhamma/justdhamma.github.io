@@ -32,16 +32,36 @@ permalink: /ne/books/
   <ul class="book-chapter-list">
     {% if book_config.chapters %}
       {% for chapter_slug in book_config.chapters %}
+        {% assign normalized_chapter_slug = chapter_slug | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
+        {% assign chapter_found = false %}
         {% for chapter in book_chapters %}
           {% assign chapter_filename = chapter.path | split: "/" | last | remove: ".md" %}
-          {% if chapter_filename == chapter_slug %}
-            <li><a href="{{ chapter.url }}">{{ chapter.title }}</a></li>
+          {% assign normalized_chapter_filename = chapter_filename | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
+          {% if normalized_chapter_filename == normalized_chapter_slug and chapter_found == false %}
+            {% capture toc_translation_links %}{% include translation-links.html doc=chapter %}{% endcapture %}
+            {% assign toc_translation_links = toc_translation_links | strip %}
+            <li>
+              <a href="{{ chapter.url }}">{{ chapter.title }}</a>
+              {% if toc_translation_links != "" %}
+                <span class="book-toc-dash"> - </span>
+                <span class="book-toc-links">{{ toc_translation_links }}</span>
+              {% endif %}
+            </li>
+            {% assign chapter_found = true %}
           {% endif %}
         {% endfor %}
       {% endfor %}
     {% else %}
       {% for chapter in book_chapters %}
-        <li><a href="{{ chapter.url }}">{{ chapter.title }}</a></li>
+        {% capture toc_translation_links %}{% include translation-links.html doc=chapter %}{% endcapture %}
+        {% assign toc_translation_links = toc_translation_links | strip %}
+        <li>
+          <a href="{{ chapter.url }}">{{ chapter.title }}</a>
+          {% if toc_translation_links != "" %}
+            <span class="book-toc-dash"> - </span>
+            <span class="book-toc-links">{{ toc_translation_links }}</span>
+          {% endif %}
+        </li>
       {% endfor %}
     {% endif %}
   </ul>

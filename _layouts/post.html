@@ -60,7 +60,7 @@ layout: base
         <p class="post-source-title book-source-title"><a href="{{ book_toc_url }}">{{ book_title }}</a></p>
         <div class="book-title-line">
           <h1 class="book-title-main">{% if page.lang == "ne" and page.ne_title %}{{ page.ne_title }}{% else %}{{ page.title }}{% endif %}</h1>
-          <h3 class="book-title-sub">{{ page.en_title }}</h3>
+          <h3 class="book-title-sub">{% if page.en_url %}<a href="{{ page.en_url }}">{{ page.en_title }}</a>{% else %}{{ page.en_title }}{% endif %}</h3>
         </div>
       {% else %}
         <p class="post-source-title book-source-title"><a href="{{ book_toc_url }}">{{ book_title }}</a></p>

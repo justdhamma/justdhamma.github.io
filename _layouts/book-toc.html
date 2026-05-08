@@ -25,7 +25,8 @@ layout: base
 {% assign author_name = page.author_name | default: author_record.name | default: page.book_author %}
 {% assign book_title = page.book_title | default: configured_book.title | default: page.title %}
 {% capture book_folder %}/{{ author_folder }}/{{ page.book_key }}/{% endcapture %}
-{% assign book_docs = site.books | where: "lang", page.lang | where_exp: "item", "item.path contains book_folder" | sort_natural: "path" %}
+{% assign all_book_docs = site.books | where_exp: "item", "item.path contains book_folder" | sort_natural: "path" %}
+{% assign book_docs = all_book_docs | where: "lang", page.lang %}
 
 <main class="container english">
   <article class="book-toc-shell">
@@ -37,33 +38,61 @@ layout: base
 
     <ol class="book-toc-list">
       {% if configured_book and configured_book.chapters %}
-        {% for chapter_slug in configured_book.chapters %}
-          {% assign chapter_doc = nil %}
-          {% assign normalized_chapter_slug = chapter_slug | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
-          {% for chapter in book_docs %}
-            {% assign chapter_filename = chapter.path | split: "/" | last | remove: ".md" %}
-            {% assign normalized_chapter_filename = chapter_filename | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
-            {% if chapter_filename == chapter_slug or normalized_chapter_filename == normalized_chapter_slug %}
-              {% assign chapter_doc = chapter %}
-              {% break %}
-            {% endif %}
-          {% endfor %}
+        {% comment %} Collect all available chapters by normalizing filenames {% endcomment %}
+        {% assign available_chapters = "" %}
+        {% for chapter in all_book_docs %}
+          {% assign chapter_filename = chapter.path | split: "/" | last | remove: ".md" %}
+          {% assign normalized_chapter_filename = chapter_filename | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
+          {% unless available_chapters contains normalized_chapter_filename %}
+            {% assign available_chapters = available_chapters | append: normalized_chapter_filename | append: "," %}
+          {% endunless %}
+        {% endfor %}
 
-          {% if chapter_doc %}
-            {% capture toc_translation_links %}{% include translation-links.html doc=chapter_doc %}{% endcapture %}
-            {% assign toc_translation_links = toc_translation_links | strip %}
-            <li class="book-toc-item">
-              <span class="book-toc-number">{{ forloop.index }}</span>
-              <div class="book-toc-copy">
-                <p class="book-toc-line">
-                  <a class="book-toc-title" href="{{ chapter_doc.url }}">{{ chapter_doc.title }}</a>
-                  {% if toc_translation_links != "" %}
-                    <span class="book-toc-dash"> - </span>
-                    <span class="book-toc-links">{{ toc_translation_links }}</span>
-                  {% endif %}
-                </p>
-              </div>
-            </li>
+        {% for chapter_slug in configured_book.chapters %}
+          {% assign normalized_chapter_slug = chapter_slug | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
+          
+          {% comment %} Only process if this chapter exists in the available chapters {% endcomment %}
+          {% if available_chapters contains normalized_chapter_slug %}
+            {% assign chapter_doc = nil %}
+            
+            {% comment %} First try to find a chapter matching the current page language {% endcomment %}
+            {% for chapter in book_docs %}
+              {% assign chapter_filename = chapter.path | split: "/" | last | remove: ".md" %}
+              {% assign normalized_chapter_filename = chapter_filename | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
+              {% if normalized_chapter_filename == normalized_chapter_slug %}
+                {% assign chapter_doc = chapter %}
+                {% break %}
+              {% endif %}
+            {% endfor %}
+
+            {% comment %} If not found in current language, look for any language version {% endcomment %}
+            {% if chapter_doc == nil %}
+              {% for chapter in all_book_docs %}
+                {% assign chapter_filename = chapter.path | split: "/" | last | remove: ".md" %}
+                {% assign normalized_chapter_filename = chapter_filename | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
+                {% if normalized_chapter_filename == normalized_chapter_slug %}
+                  {% assign chapter_doc = chapter %}
+                  {% break %}
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+
+            {% if chapter_doc %}
+              {% capture toc_translation_links %}{% include translation-links.html doc=chapter_doc %}{% endcapture %}
+              {% assign toc_translation_links = toc_translation_links | strip %}
+              <li class="book-toc-item">
+                <span class="book-toc-number">{{ forloop.index }}</span>
+                <div class="book-toc-copy">
+                  <p class="book-toc-line">
+                    <a class="book-toc-title" href="{{ chapter_doc.url }}">{{ chapter_doc.title }}</a>
+                    {% if toc_translation_links != "" %}
+                      <span class="book-toc-dash"> - </span>
+                      <span class="book-toc-links">{{ toc_translation_links }}</span>
+                    {% endif %}
+                  </p>
+                </div>
+              </li>
+            {% endif %}
           {% endif %}
         {% endfor %}
       {% else %}

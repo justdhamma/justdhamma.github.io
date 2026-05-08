@@ -4,6 +4,9 @@ layout: post
 category: books
 author: Ajahn Nyanamoli Thero
 title: Addiction to Sensuality
+gem_url: "/books/addiction-to-sensuality-ne-gem/"
+gpt_url: "/books/addiction-to-sensuality-ne-gpt/"
+cld_url: "/books/addiction-to-sensuality-ne-cld/"
 ---
 
 

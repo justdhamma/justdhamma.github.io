@@ -4,6 +4,8 @@ layout: post
 category: books
 author: Ajahn Nyanamoli Thero
 title: Preface
+gem_url: "/books/preface-ne-gem/"
+gpt_url: "/books/preface-ne-gpt/"
 ---
 
 ### PREFACE

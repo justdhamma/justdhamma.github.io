@@ -101,11 +101,11 @@
   {% endfor %}
   {% assign chapter_stem = filename | remove_first: "en-" | replace: "-en", "" %}
   {% assign sibling_books = site.books | where_exp: "item", "item.path contains sibling_folder" %}
-  {% capture expected_gem %}ne-{{ chapter_stem }}-gem{% endcapture %}
-  {% capture expected_gpt %}ne-{{ chapter_stem }}-gpt{% endcapture %}
-  {% capture expected_cld %}ne-{{ chapter_stem }}-cld{% endcapture %}
-  {% capture expected_ppx %}ne-{{ chapter_stem }}-ppx{% endcapture %}
-  {% capture expected_plain %}ne-{{ chapter_stem }}{% endcapture %}
+  {% capture expected_gem %}{{ chapter_stem }}-ne-gem{% endcapture %}
+  {% capture expected_gpt %}{{ chapter_stem }}-ne-gpt{% endcapture %}
+  {% capture expected_cld %}{{ chapter_stem }}-ne-cld{% endcapture %}
+  {% capture expected_ppx %}{{ chapter_stem }}-ne-ppx{% endcapture %}
+  {% capture expected_plain %}{{ chapter_stem }}-ne{% endcapture %}
 
   {% for translation in sibling_books %}
     {% assign translation_filename = translation.path | split: "/" | last | remove: ".md" %}
@@ -137,37 +137,95 @@
     {% assign active_translator = "perplexity" %}
   {% endif %}
   
+  {% comment %} Helper to find proofread status from a link {% endcomment %}
+  {% assign gemini_proofread = nil %}
+  {% assign gpt_proofread = nil %}
+  {% assign claude_proofread = nil %}
+  {% assign perplexity_proofread = nil %}
+  
+  {% if gemini_link %}
+    {% for book in site.books %}
+      {% if book.url == gemini_link %}
+        {% assign gemini_proofread = book.proofread %}
+      {% endif %}
+    {% endfor %}
+    {% for essay in site.essays %}
+      {% if essay.url == gemini_link %}
+        {% assign gemini_proofread = essay.proofread %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+  
+  {% if gpt_link %}
+    {% for book in site.books %}
+      {% if book.url == gpt_link %}
+        {% assign gpt_proofread = book.proofread %}
+      {% endif %}
+    {% endfor %}
+    {% for essay in site.essays %}
+      {% if essay.url == gpt_link %}
+        {% assign gpt_proofread = essay.proofread %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+  
+  {% if claude_link %}
+    {% for book in site.books %}
+      {% if book.url == claude_link %}
+        {% assign claude_proofread = book.proofread %}
+      {% endif %}
+    {% endfor %}
+    {% for essay in site.essays %}
+      {% if essay.url == claude_link %}
+        {% assign claude_proofread = essay.proofread %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+  
+  {% if perplexity_link %}
+    {% for book in site.books %}
+      {% if book.url == perplexity_link %}
+        {% assign perplexity_proofread = book.proofread %}
+      {% endif %}
+    {% endfor %}
+    {% for essay in site.essays %}
+      {% if essay.url == perplexity_link %}
+        {% assign perplexity_proofread = essay.proofread %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+  
   {% assign link_separator = "" %}
   
   {% comment %} Render active translator first {% endcomment %}
   {% if active_translator == "gemini" and gemini_link %}
-    {{ link_separator }}<span class="translation-link-active">Gemini</span>
+    {{ link_separator }}<span class="translation-link-active">Gemini<span class="proofread-indicator{% if gemini_proofread == "finished" %} is-finished{% else %} is-incomplete{% endif %}">{% if gemini_proofread == "finished" %}✓{% else %}✗{% endif %}</span></span>
     {% assign link_separator = separator %}
   {% elsif active_translator == "gpt" and gpt_link %}
-    {{ link_separator }}<span class="translation-link-active">GPT</span>
+    {{ link_separator }}<span class="translation-link-active">GPT<span class="proofread-indicator{% if gpt_proofread == "finished" %} is-finished{% else %} is-incomplete{% endif %}">{% if gpt_proofread == "finished" %}✓{% else %}✗{% endif %}</span></span>
     {% assign link_separator = separator %}
   {% elsif active_translator == "claude" and claude_link %}
-    {{ link_separator }}<span class="translation-link-active">Claude</span>
+    {{ link_separator }}<span class="translation-link-active">Claude<span class="proofread-indicator{% if claude_proofread == "finished" %} is-finished{% else %} is-incomplete{% endif %}">{% if claude_proofread == "finished" %}✓{% else %}✗{% endif %}</span></span>
     {% assign link_separator = separator %}
   {% elsif active_translator == "perplexity" and perplexity_link %}
-    {{ link_separator }}<span class="translation-link-active">Perplexity</span>
+    {{ link_separator }}<span class="translation-link-active">Perplexity<span class="proofread-indicator{% if perplexity_proofread == "finished" %} is-finished{% else %} is-incomplete{% endif %}">{% if perplexity_proofread == "finished" %}✓{% else %}✗{% endif %}</span></span>
     {% assign link_separator = separator %}
   {% endif %}
   
   {% comment %} Render other translators {% endcomment %}
   {% if active_translator != "gemini" and gemini_link %}
-    {{ link_separator }}<a href="{{ gemini_link }}">Gemini</a>
+    {{ link_separator }}<a href="{{ gemini_link }}">Gemini<span class="proofread-indicator{% if gemini_proofread == "finished" %} is-finished{% else %} is-incomplete{% endif %}">{% if gemini_proofread == "finished" %}✓{% else %}✗{% endif %}</span></a>
     {% assign link_separator = separator %}
   {% endif %}
   {% if active_translator != "gpt" and gpt_link %}
-    {{ link_separator }}<a href="{{ gpt_link }}">GPT</a>
+    {{ link_separator }}<a href="{{ gpt_link }}">GPT<span class="proofread-indicator{% if gpt_proofread == "finished" %} is-finished{% else %} is-incomplete{% endif %}">{% if gpt_proofread == "finished" %}✓{% else %}✗{% endif %}</span></a>
     {% assign link_separator = separator %}
   {% endif %}
   {% if active_translator != "claude" and claude_link %}
-    {{ link_separator }}<a href="{{ claude_link }}">Claude</a>
+    {{ link_separator }}<a href="{{ claude_link }}">Claude<span class="proofread-indicator{% if claude_proofread == "finished" %} is-finished{% else %} is-incomplete{% endif %}">{% if claude_proofread == "finished" %}✓{% else %}✗{% endif %}</span></a>
     {% assign link_separator = separator %}
   {% endif %}
   {% if active_translator != "perplexity" and perplexity_link %}
-    {{ link_separator }}<a href="{{ perplexity_link }}">Perplexity</a>
+    {{ link_separator }}<a href="{{ perplexity_link }}">Perplexity<span class="proofread-indicator{% if perplexity_proofread == "finished" %} is-finished{% else %} is-incomplete{% endif %}">{% if perplexity_proofread == "finished" %}✓{% else %}✗{% endif %}</span></a>
   {% endif %}
 {% endif %}

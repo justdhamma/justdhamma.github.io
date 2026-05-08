@@ -4,6 +4,8 @@ layout: post
 category: books
 author: Ajahn Nyanamoli Thero
 title: The Right Endurance
+gem_url: "/books/right-endurance-ne-gem/"
+gpt_url: "/books/right-endurance-ne-gpt/"
 ---
 
 

@@ -244,6 +244,16 @@ footer {
   white-space: nowrap;
 }
 
+.book-title-line .book-title-sub a {
+  color: var(--muted);
+  text-decoration: none;
+}
+
+.book-title-line .book-title-sub a:hover {
+  color: var(--link);
+  text-decoration: underline;
+}
+
 .book-title-line .book-title-sub::before {
   content: " – ";
 }
@@ -570,6 +580,21 @@ footer {
 .translation-link-active {
   color: var(--muted);
   font-weight: bold;
+}
+
+.proofread-indicator {
+  display: inline-block;
+  margin-left: 4px;
+  font-size: 0.9em;
+  font-weight: normal;
+}
+
+.proofread-indicator.is-finished {
+  color: #22c55e;
+}
+
+.proofread-indicator.is-incomplete {
+  color: #ef4444;
 }
 
 .post-content ul,

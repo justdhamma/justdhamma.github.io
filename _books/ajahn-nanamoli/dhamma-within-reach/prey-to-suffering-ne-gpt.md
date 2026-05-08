@@ -14,6 +14,7 @@ gem_url: "/books/prey-to-suffering-ne-gem/"
 gpt_url: "/books/prey-to-suffering-ne-gpt/"
 cld_ulr: "/books/prey-to-suffering-ne-cld/"
 # doc_url: ""
+proofread: dfsdsdf
 ---
 ## दुःखको सिकार
 
