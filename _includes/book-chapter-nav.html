@@ -3,7 +3,18 @@
   {% assign author_key = path_parts[1] %}
   {% assign book_key = path_parts[2] %}
   {% assign current_slug = path_parts | last | remove: ".md" %}
-  {% assign normalized_current_slug = current_slug | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
+  {% assign normalized_current_slug = current_slug %}
+  {% for i in (1..5) %}
+    {% assign current_char = normalized_current_slug | slice: 0, 1 %}
+    {% if "0123456789" contains current_char %}
+      {% assign normalized_current_slug = normalized_current_slug | slice: 1, 999 %}
+    {% endif %}
+  {% endfor %}
+  {% assign first_char = normalized_current_slug | slice: 0, 1 %}
+  {% if first_char == "-" %}
+    {% assign normalized_current_slug = normalized_current_slug | slice: 1, 999 %}
+  {% endif %}
+  {% assign normalized_current_slug = normalized_current_slug | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
   
   {% comment %} Determine the current translator/language variant {% endcomment %}
   {% assign current_variant = "" %}
@@ -45,10 +56,31 @@
     {% for chapter_slug in configured_book.chapters %}
       {% assign matched_doc = nil %}
       {% assign normalized_chapter_slug = chapter_slug | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
+    {% for i in (1..5) %}
+      {% assign current_char = normalized_chapter_slug | slice: 0, 1 %}
+      {% if "0123456789" contains current_char %}
+        {% assign normalized_chapter_slug = normalized_chapter_slug | slice: 1, 999 %}
+      {% endif %}
+    {% endfor %}
+    {% assign first_char = normalized_chapter_slug | slice: 0, 1 %}
+    {% if first_char == "-" %}
+      {% assign normalized_chapter_slug = normalized_chapter_slug | slice: 1, 999 %}
+    {% endif %}
 
       {% for chapter in same_book_pages %}
         {% assign chapter_slug_from_path = chapter.path | split: "/" | last | remove: ".md" %}
-        {% assign normalized_chapter_slug_from_path = chapter_slug_from_path | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
+        {% assign normalized_chapter_slug_from_path = chapter_slug_from_path %}
+        {% for i in (1..5) %}
+          {% assign current_char = normalized_chapter_slug_from_path | slice: 0, 1 %}
+          {% if "0123456789" contains current_char %}
+            {% assign normalized_chapter_slug_from_path = normalized_chapter_slug_from_path | slice: 1, 999 %}
+          {% endif %}
+        {% endfor %}
+        {% assign first_char = normalized_chapter_slug_from_path | slice: 0, 1 %}
+        {% if first_char == "-" %}
+          {% assign normalized_chapter_slug_from_path = normalized_chapter_slug_from_path | slice: 1, 999 %}
+        {% endif %}
+        {% assign normalized_chapter_slug_from_path = normalized_chapter_slug_from_path | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
         
         {% comment %} Check if this chapter matches the chapter slug and has the same variant {% endcomment %}
         {% assign chapter_variant = "" %}

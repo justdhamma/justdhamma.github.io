@@ -272,6 +272,8 @@ footer {
   color: var(--link);
   cursor: pointer;
   font: inherit;
+  font-size: 14px;
+  font-family: var(--font-english);
 }
 
 .transcript-video-trigger:hover {
@@ -501,22 +503,23 @@ footer {
 }
 
 .book-toc-header {
-  margin-bottom: 26px;
+  margin-bottom: 0px;
 }
 
 .book-toc-header h1 {
   text-align: center;
+  margin-bottom: 0px;
 }
 
 .book-toc-eyebrow {
-  margin-bottom: 8px;
+  margin-bottom: 5px;
   color: var(--muted);
   font-family: var(--font-english);
   font-size: 0.9rem;
 }
 
 .book-toc-subtitle {
-  margin: 10px 0 0;
+  margin: -5px 0 0;
   font-size: 1.15rem;
   font-weight: 700;
   text-align: center;
@@ -1461,7 +1464,9 @@ Nepali Essays Page Styling
 }
 
 .essay-translation-links,
-.essay-translation-links a {
+.essay-translation-links a,
+.transcript-translation-links,
+.transcript-translation-links a {
   color: var(--muted);
   font-family: var(--font-english);
   font-size: 0.92em;

@@ -7,6 +7,51 @@
 {% assign seed_translation = nil %}
 {% assign filename = doc.path | split: "/" | last | remove: ".md" %}
 
+{% comment %} Discard stale manual translation URLs if they no longer match any generated page URL {% endcomment %}
+{% for target in "gemini,gpt,claude,perplexity" | split: "," %}
+  {% assign link_var = target | append: "_link" %}
+  {% assign link_value = nil %}
+  {% if link_var == "gemini_link" %}
+    {% assign link_value = gemini_link %}
+  {% elsif link_var == "gpt_link" %}
+    {% assign link_value = gpt_link %}
+  {% elsif link_var == "claude_link" %}
+    {% assign link_value = claude_link %}
+  {% elsif link_var == "perplexity_link" %}
+    {% assign link_value = perplexity_link %}
+  {% endif %}
+
+  {% if link_value %}
+    {% assign found_target = false %}
+    {% for book in site.books %}
+      {% if book.url == link_value %}
+        {% assign found_target = true %}
+      {% endif %}
+    {% endfor %}
+    {% for transcript in site.transcripts %}
+      {% if transcript.url == link_value %}
+        {% assign found_target = true %}
+      {% endif %}
+    {% endfor %}
+    {% for essay in site.essays %}
+      {% if essay.url == link_value %}
+        {% assign found_target = true %}
+      {% endif %}
+    {% endfor %}
+    {% unless found_target %}
+      {% if link_var == "gemini_link" %}
+        {% assign gemini_link = nil %}
+      {% elsif link_var == "gpt_link" %}
+        {% assign gpt_link = nil %}
+      {% elsif link_var == "claude_link" %}
+        {% assign claude_link = nil %}
+      {% elsif link_var == "perplexity_link" %}
+        {% assign perplexity_link = nil %}
+      {% endif %}
+    {% endunless %}
+  {% endif %}
+{% endfor %}
+
 {% comment %} Normalize internal book/essay paths to absolute URLs so relative links do not nest. {% endcomment %}
 {% if gemini_link and gemini_link contains "://" == false %}
   {% assign gemini_link = gemini_link | replace_first: "//", "/" %}
@@ -44,11 +89,15 @@
 
 {% if seed_translation %}
   {% case seed_translation.translator %}
+    {% when "gem" %}
+      {% assign gemini_link = gemini_link | default: seed_translation.url %}
     {% when "gemini" %}
       {% assign gemini_link = gemini_link | default: seed_translation.url %}
     {% when "gpt" %}
       {% assign gpt_link = gpt_link | default: seed_translation.url %}
     {% when "claude" %}
+      {% assign claude_link = claude_link | default: seed_translation.url %}
+    {% when "cld" %}
       {% assign claude_link = claude_link | default: seed_translation.url %}
     {% when "perplexity" %}
       {% assign perplexity_link = perplexity_link | default: seed_translation.url %}
@@ -57,14 +106,36 @@
   {% if seed_translation.en_url %}
     {% assign sibling_essays = site.essays | where: "lang", "ne" | where: "en_url", seed_translation.en_url %}
     {% assign sibling_books = site.books | where: "lang", "ne" | where: "en_url", seed_translation.en_url %}
+    {% assign sibling_transcripts = site.transcripts | where: "lang", "ne" | where: "en_url", seed_translation.en_url %}
 
     {% for translation in sibling_essays %}
       {% case translation.translator %}
+        {% when "gem" %}
+          {% assign gemini_link = gemini_link | default: translation.url %}
         {% when "gemini" %}
           {% assign gemini_link = gemini_link | default: translation.url %}
         {% when "gpt" %}
           {% assign gpt_link = gpt_link | default: translation.url %}
         {% when "claude" %}
+          {% assign claude_link = claude_link | default: translation.url %}
+        {% when "cld" %}
+          {% assign claude_link = claude_link | default: translation.url %}
+        {% when "perplexity" %}
+          {% assign perplexity_link = perplexity_link | default: translation.url %}
+      {% endcase %}
+    {% endfor %}
+
+    {% for translation in sibling_transcripts %}
+      {% case translation.translator %}
+        {% when "gem" %}
+          {% assign gemini_link = gemini_link | default: translation.url %}
+        {% when "gemini" %}
+          {% assign gemini_link = gemini_link | default: translation.url %}
+        {% when "gpt" %}
+          {% assign gpt_link = gpt_link | default: translation.url %}
+        {% when "claude" %}
+          {% assign claude_link = claude_link | default: translation.url %}
+        {% when "cld" %}
           {% assign claude_link = claude_link | default: translation.url %}
         {% when "perplexity" %}
           {% assign perplexity_link = perplexity_link | default: translation.url %}
@@ -73,11 +144,15 @@
 
     {% for translation in sibling_books %}
       {% case translation.translator %}
+        {% when "gem" %}
+          {% assign gemini_link = gemini_link | default: translation.url %}
         {% when "gemini" %}
           {% assign gemini_link = gemini_link | default: translation.url %}
         {% when "gpt" %}
           {% assign gpt_link = gpt_link | default: translation.url %}
         {% when "claude" %}
+          {% assign claude_link = claude_link | default: translation.url %}
+        {% when "cld" %}
           {% assign claude_link = claude_link | default: translation.url %}
         {% when "perplexity" %}
           {% assign perplexity_link = perplexity_link | default: translation.url %}
@@ -85,6 +160,117 @@
     {% endfor %}
   {% endif %}
 {% endif %}
+
+{% comment %} Auto-discover translations by normalized filename when explicit URLs are missing {% endcomment %}
+{% assign doc_filename = doc.path | split: "/" | last | remove: ".md" %}
+{% assign normalized_doc_slug = doc_filename %}
+{% for i in (1..5) %}
+  {% assign current_char = normalized_doc_slug | slice: 0, 1 %}
+  {% if "0123456789" contains current_char %}
+    {% assign normalized_doc_slug = normalized_doc_slug | slice: 1, 999 %}
+  {% endif %}
+{% endfor %}
+{% assign first_char = normalized_doc_slug | slice: 0, 1 %}
+{% if first_char == "-" %}
+  {% assign normalized_doc_slug = normalized_doc_slug | slice: 1, 999 %}
+{% endif %}
+{% assign normalized_doc_slug = normalized_doc_slug | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
+
+{% for book in site.books %}
+  {% assign book_filename = book.path | split: "/" | last | remove: ".md" %}
+  {% assign normalized_book_slug = book_filename %}
+  {% for i in (1..5) %}
+    {% assign current_char = normalized_book_slug | slice: 0, 1 %}
+    {% if "0123456789" contains current_char %}
+      {% assign normalized_book_slug = normalized_book_slug | slice: 1, 999 %}
+    {% endif %}
+  {% endfor %}
+  {% assign first_char = normalized_book_slug | slice: 0, 1 %}
+  {% if first_char == "-" %}
+    {% assign normalized_book_slug = normalized_book_slug | slice: 1, 999 %}
+  {% endif %}
+  {% assign normalized_book_slug = normalized_book_slug | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
+  {% if normalized_book_slug == normalized_doc_slug %}
+    {% case book.translator %}
+      {% when "gem" %}
+        {% assign gemini_link = book.url %}
+      {% when "gemini" %}
+        {% assign gemini_link = book.url %}
+      {% when "gpt" %}
+        {% assign gpt_link = book.url %}
+      {% when "claude" %}
+        {% assign claude_link = book.url %}
+      {% when "cld" %}
+        {% assign claude_link = book.url %}
+      {% when "perplexity" %}
+        {% assign perplexity_link = book.url %}
+    {% endcase %}
+  {% endif %}
+{% endfor %}
+
+{% for essay in site.essays %}
+  {% assign essay_filename = essay.path | split: "/" | last | remove: ".md" %}
+  {% assign normalized_essay_slug = essay_filename %}
+  {% for i in (1..5) %}
+    {% assign current_char = normalized_essay_slug | slice: 0, 1 %}
+    {% if "0123456789" contains current_char %}
+      {% assign normalized_essay_slug = normalized_essay_slug | slice: 1, 999 %}
+    {% endif %}
+  {% endfor %}
+  {% assign first_char = normalized_essay_slug | slice: 0, 1 %}
+  {% if first_char == "-" %}
+    {% assign normalized_essay_slug = normalized_essay_slug | slice: 1, 999 %}
+  {% endif %}
+  {% assign normalized_essay_slug = normalized_essay_slug | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
+  {% if normalized_essay_slug == normalized_doc_slug %}
+    {% case essay.translator %}
+      {% when "gem" %}
+        {% assign gemini_link = essay.url %}
+      {% when "gemini" %}
+        {% assign gemini_link = essay.url %}
+      {% when "gpt" %}
+        {% assign gpt_link = essay.url %}
+      {% when "claude" %}
+        {% assign claude_link = essay.url %}
+      {% when "cld" %}
+        {% assign claude_link = essay.url %}
+      {% when "perplexity" %}
+        {% assign perplexity_link = essay.url %}
+    {% endcase %}
+  {% endif %}
+{% endfor %}
+
+{% for transcript in site.transcripts %}
+  {% assign transcript_filename = transcript.path | split: "/" | last | remove: ".md" %}
+  {% assign normalized_transcript_slug = transcript_filename %}
+  {% for i in (1..5) %}
+    {% assign current_char = normalized_transcript_slug | slice: 0, 1 %}
+    {% if "0123456789" contains current_char %}
+      {% assign normalized_transcript_slug = normalized_transcript_slug | slice: 1, 999 %}
+    {% endif %}
+  {% endfor %}
+  {% assign first_char = normalized_transcript_slug | slice: 0, 1 %}
+  {% if first_char == "-" %}
+    {% assign normalized_transcript_slug = normalized_transcript_slug | slice: 1, 999 %}
+  {% endif %}
+  {% assign normalized_transcript_slug = normalized_transcript_slug | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
+  {% if normalized_transcript_slug == normalized_doc_slug %}
+    {% case transcript.translator %}
+      {% when "gem" %}
+        {% assign gemini_link = transcript.url %}
+      {% when "gemini" %}
+        {% assign gemini_link = transcript.url %}
+      {% when "gpt" %}
+        {% assign gpt_link = transcript.url %}
+      {% when "claude" %}
+        {% assign claude_link = transcript.url %}
+      {% when "cld" %}
+        {% assign claude_link = transcript.url %}
+      {% when "perplexity" %}
+        {% assign perplexity_link = transcript.url %}
+    {% endcase %}
+  {% endif %}
+{% endfor %}
 
 {% assign is_book_doc = false %}
 {% if doc.path and doc.path contains "_books/" %}
@@ -99,7 +285,18 @@
       {% assign sibling_folder = sibling_folder | append: "/" | append: part %}
     {% endunless %}
   {% endfor %}
-  {% assign chapter_stem = filename | remove_first: "en-" | replace: "-en", "" %}
+  {% assign chapter_stem = filename %}
+  {% for i in (1..5) %}
+    {% assign current_char = chapter_stem | slice: 0, 1 %}
+    {% if "0123456789" contains current_char %}
+      {% assign chapter_stem = chapter_stem | slice: 1, 999 %}
+    {% endif %}
+  {% endfor %}
+  {% assign first_char = chapter_stem | slice: 0, 1 %}
+  {% if first_char == "-" %}
+    {% assign chapter_stem = chapter_stem | slice: 1, 999 %}
+  {% endif %}
+  {% assign chapter_stem = chapter_stem | remove_first: "en-" | replace: "-en", "" %}
   {% assign sibling_books = site.books | where_exp: "item", "item.path contains sibling_folder" %}
   {% capture expected_gem %}{{ chapter_stem }}-ne-gem{% endcapture %}
   {% capture expected_gpt %}{{ chapter_stem }}-ne-gpt{% endcapture %}
@@ -127,13 +324,20 @@
   {% assign current_url = page.url | default: doc.url %}
   {% assign active_translator = nil %}
   
-  {% if current_url == gemini_link %}
-    {% assign active_translator = "gemini" %}
-  {% elsif current_url == gpt_link %}
+  {% comment %} Normalize URLs for comparison by removing trailing slashes {% endcomment %}
+  {% assign current_url_normalized = current_url | replace: "/$", "" %}
+  {% assign gemini_link_normalized = gemini_link | replace: "/$", "" %}
+  {% assign gpt_link_normalized = gpt_link | replace: "/$", "" %}
+  {% assign claude_link_normalized = claude_link | replace: "/$", "" %}
+  {% assign perplexity_link_normalized = perplexity_link | replace: "/$", "" %}
+  
+  {% if current_url_normalized == gemini_link_normalized %}
+    {% assign active_translator = "gem" %}
+  {% elsif current_url_normalized == gpt_link_normalized %}
     {% assign active_translator = "gpt" %}
-  {% elsif current_url == claude_link %}
-    {% assign active_translator = "claude" %}
-  {% elsif current_url == perplexity_link %}
+  {% elsif current_url_normalized == claude_link_normalized %}
+    {% assign active_translator = "cld" %}
+  {% elsif current_url_normalized == perplexity_link_normalized %}
     {% assign active_translator = "perplexity" %}
   {% endif %}
   
@@ -154,6 +358,11 @@
         {% assign gemini_proofread = essay.proofread %}
       {% endif %}
     {% endfor %}
+    {% for transcript in site.transcripts %}
+      {% if transcript.url == gemini_link %}
+        {% assign gemini_proofread = transcript.proofread %}
+      {% endif %}
+    {% endfor %}
   {% endif %}
   
   {% if gpt_link %}
@@ -165,6 +374,11 @@
     {% for essay in site.essays %}
       {% if essay.url == gpt_link %}
         {% assign gpt_proofread = essay.proofread %}
+      {% endif %}
+    {% endfor %}
+    {% for transcript in site.transcripts %}
+      {% if transcript.url == gpt_link %}
+        {% assign gpt_proofread = transcript.proofread %}
       {% endif %}
     {% endfor %}
   {% endif %}
@@ -180,6 +394,11 @@
         {% assign claude_proofread = essay.proofread %}
       {% endif %}
     {% endfor %}
+    {% for transcript in site.transcripts %}
+      {% if transcript.url == claude_link %}
+        {% assign claude_proofread = transcript.proofread %}
+      {% endif %}
+    {% endfor %}
   {% endif %}
   
   {% if perplexity_link %}
@@ -193,18 +412,23 @@
         {% assign perplexity_proofread = essay.proofread %}
       {% endif %}
     {% endfor %}
+    {% for transcript in site.transcripts %}
+      {% if transcript.url == perplexity_link %}
+        {% assign perplexity_proofread = transcript.proofread %}
+      {% endif %}
+    {% endfor %}
   {% endif %}
   
   {% assign link_separator = "" %}
   
   {% comment %} Render active translator first {% endcomment %}
-  {% if active_translator == "gemini" and gemini_link %}
+  {% if active_translator == "gem" and gemini_link %}
     {{ link_separator }}<span class="translation-link-active">Gemini<span class="proofread-indicator{% if gemini_proofread == "finished" %} is-finished{% else %} is-incomplete{% endif %}">{% if gemini_proofread == "finished" %}✓{% else %}✗{% endif %}</span></span>
     {% assign link_separator = separator %}
   {% elsif active_translator == "gpt" and gpt_link %}
     {{ link_separator }}<span class="translation-link-active">GPT<span class="proofread-indicator{% if gpt_proofread == "finished" %} is-finished{% else %} is-incomplete{% endif %}">{% if gpt_proofread == "finished" %}✓{% else %}✗{% endif %}</span></span>
     {% assign link_separator = separator %}
-  {% elsif active_translator == "claude" and claude_link %}
+  {% elsif active_translator == "cld" and claude_link %}
     {{ link_separator }}<span class="translation-link-active">Claude<span class="proofread-indicator{% if claude_proofread == "finished" %} is-finished{% else %} is-incomplete{% endif %}">{% if claude_proofread == "finished" %}✓{% else %}✗{% endif %}</span></span>
     {% assign link_separator = separator %}
   {% elsif active_translator == "perplexity" and perplexity_link %}
@@ -213,7 +437,7 @@
   {% endif %}
   
   {% comment %} Render other translators {% endcomment %}
-  {% if active_translator != "gemini" and gemini_link %}
+  {% if active_translator != "gem" and gemini_link %}
     {{ link_separator }}<a href="{{ gemini_link }}">Gemini<span class="proofread-indicator{% if gemini_proofread == "finished" %} is-finished{% else %} is-incomplete{% endif %}">{% if gemini_proofread == "finished" %}✓{% else %}✗{% endif %}</span></a>
     {% assign link_separator = separator %}
   {% endif %}
@@ -221,7 +445,7 @@
     {{ link_separator }}<a href="{{ gpt_link }}">GPT<span class="proofread-indicator{% if gpt_proofread == "finished" %} is-finished{% else %} is-incomplete{% endif %}">{% if gpt_proofread == "finished" %}✓{% else %}✗{% endif %}</span></a>
     {% assign link_separator = separator %}
   {% endif %}
-  {% if active_translator != "claude" and claude_link %}
+  {% if active_translator != "cld" and claude_link %}
     {{ link_separator }}<a href="{{ claude_link }}">Claude<span class="proofread-indicator{% if claude_proofread == "finished" %} is-finished{% else %} is-incomplete{% endif %}">{% if claude_proofread == "finished" %}✓{% else %}✗{% endif %}</span></a>
     {% assign link_separator = separator %}
   {% endif %}

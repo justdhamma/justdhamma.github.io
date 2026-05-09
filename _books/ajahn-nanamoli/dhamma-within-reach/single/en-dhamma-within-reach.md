@@ -1,5 +1,8 @@
 ---
 title: Dhamma Within Reach
+book_author: ajahn-nanamoli
+book_key: dhamma-within-reach
+permalink: /books/ajahn-nanamoli/dhamma-within-reach/en-dhamma-within-reach/
 author: Ajahn Nyanamoli Thero
 date: 2021-07-14
 category: Dhamma Within Reach
@@ -897,3 +900,5 @@ Do it or not, it’s your choice, but if you cultivate the right choices suffici
 ***
 
 ![backcover](/hillside_hermitage_archive/images/Dhamma_Within_Reacher_backcover.jpg)
+
+

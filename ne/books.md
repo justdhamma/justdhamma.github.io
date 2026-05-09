@@ -33,10 +33,31 @@ permalink: /ne/books/
     {% if book_config.chapters %}
       {% for chapter_slug in book_config.chapters %}
         {% assign normalized_chapter_slug = chapter_slug | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
+        {% for i in (1..5) %}
+          {% assign slug_char = normalized_chapter_slug | slice: 0, 1 %}
+          {% if "0123456789" contains slug_char %}
+            {% assign normalized_chapter_slug = normalized_chapter_slug | slice: 1, 999 %}
+          {% endif %}
+        {% endfor %}
+        {% assign first_char = normalized_chapter_slug | slice: 0, 1 %}
+        {% if first_char == "-" %}
+          {% assign normalized_chapter_slug = normalized_chapter_slug | slice: 1, 999 %}
+        {% endif %}
         {% assign chapter_found = false %}
         {% for chapter in book_chapters %}
           {% assign chapter_filename = chapter.path | split: "/" | last | remove: ".md" %}
-          {% assign normalized_chapter_filename = chapter_filename | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
+          {% assign normalized_chapter_filename = chapter_filename %}
+          {% for i in (1..5) %}
+            {% assign current_char = normalized_chapter_filename | slice: 0, 1 %}
+            {% if "0123456789" contains current_char %}
+              {% assign normalized_chapter_filename = normalized_chapter_filename | slice: 1, 999 %}
+            {% endif %}
+          {% endfor %}
+          {% assign first_char = normalized_chapter_filename | slice: 0, 1 %}
+          {% if first_char == "-" %}
+            {% assign normalized_chapter_filename = normalized_chapter_filename | slice: 1, 999 %}
+          {% endif %}
+          {% assign normalized_chapter_filename = normalized_chapter_filename | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
           {% if normalized_chapter_filename == normalized_chapter_slug and chapter_found == false %}
             {% capture toc_translation_links %}{% include translation-links.html doc=chapter %}{% endcapture %}
             {% assign toc_translation_links = toc_translation_links | strip %}

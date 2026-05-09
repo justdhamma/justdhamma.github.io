@@ -42,7 +42,18 @@ layout: base
         {% assign available_chapters = "" %}
         {% for chapter in all_book_docs %}
           {% assign chapter_filename = chapter.path | split: "/" | last | remove: ".md" %}
-          {% assign normalized_chapter_filename = chapter_filename | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
+          {% assign normalized_chapter_filename = chapter_filename %}
+          {% for i in (1..5) %}
+            {% assign current_char = normalized_chapter_filename | slice: 0, 1 %}
+            {% if "0123456789" contains current_char %}
+              {% assign normalized_chapter_filename = normalized_chapter_filename | slice: 1, 999 %}
+            {% endif %}
+          {% endfor %}
+          {% assign first_char = normalized_chapter_filename | slice: 0, 1 %}
+          {% if first_char == "-" %}
+            {% assign normalized_chapter_filename = normalized_chapter_filename | slice: 1, 999 %}
+          {% endif %}
+          {% assign normalized_chapter_filename = normalized_chapter_filename | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
           {% unless available_chapters contains normalized_chapter_filename %}
             {% assign available_chapters = available_chapters | append: normalized_chapter_filename | append: "," %}
           {% endunless %}
@@ -50,6 +61,17 @@ layout: base
 
         {% for chapter_slug in configured_book.chapters %}
           {% assign normalized_chapter_slug = chapter_slug | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
+          {% assign normalized_chapter_slug = normalized_chapter_slug %}
+          {% for i in (1..5) %}
+            {% assign slug_char = normalized_chapter_slug | slice: 0, 1 %}
+            {% if "0123456789" contains slug_char %}
+              {% assign normalized_chapter_slug = normalized_chapter_slug | slice: 1, 999 %}
+            {% endif %}
+          {% endfor %}
+          {% assign first_char = normalized_chapter_slug | slice: 0, 1 %}
+          {% if first_char == "-" %}
+            {% assign normalized_chapter_slug = normalized_chapter_slug | slice: 1, 999 %}
+          {% endif %}
           
           {% comment %} Only process if this chapter exists in the available chapters {% endcomment %}
           {% if available_chapters contains normalized_chapter_slug %}
@@ -58,7 +80,18 @@ layout: base
             {% comment %} First try to find a chapter matching the current page language {% endcomment %}
             {% for chapter in book_docs %}
               {% assign chapter_filename = chapter.path | split: "/" | last | remove: ".md" %}
-              {% assign normalized_chapter_filename = chapter_filename | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
+              {% assign normalized_chapter_filename = chapter_filename %}
+              {% for i in (1..5) %}
+                {% assign current_char = normalized_chapter_filename | slice: 0, 1 %}
+                {% if "0123456789" contains current_char %}
+                  {% assign normalized_chapter_filename = normalized_chapter_filename | slice: 1, 999 %}
+                {% endif %}
+              {% endfor %}
+              {% assign first_char = normalized_chapter_filename | slice: 0, 1 %}
+              {% if first_char == "-" %}
+                {% assign normalized_chapter_filename = normalized_chapter_filename | slice: 1, 999 %}
+              {% endif %}
+              {% assign normalized_chapter_filename = normalized_chapter_filename | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
               {% if normalized_chapter_filename == normalized_chapter_slug %}
                 {% assign chapter_doc = chapter %}
                 {% break %}
@@ -69,7 +102,18 @@ layout: base
             {% if chapter_doc == nil %}
               {% for chapter in all_book_docs %}
                 {% assign chapter_filename = chapter.path | split: "/" | last | remove: ".md" %}
-                {% assign normalized_chapter_filename = chapter_filename | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
+                {% assign normalized_chapter_filename = chapter_filename %}
+                {% for i in (1..5) %}
+                  {% assign current_char = normalized_chapter_filename | slice: 0, 1 %}
+                  {% if "0123456789" contains current_char %}
+                    {% assign normalized_chapter_filename = normalized_chapter_filename | slice: 1, 999 %}
+                  {% endif %}
+                {% endfor %}
+                {% assign first_char = normalized_chapter_filename | slice: 0, 1 %}
+                {% if first_char == "-" %}
+                  {% assign normalized_chapter_filename = normalized_chapter_filename | slice: 1, 999 %}
+                {% endif %}
+                {% assign normalized_chapter_filename = normalized_chapter_filename | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
                 {% if normalized_chapter_filename == normalized_chapter_slug %}
                   {% assign chapter_doc = chapter %}
                   {% break %}

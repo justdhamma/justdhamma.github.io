@@ -5,7 +5,56 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Gentium+Plus:wght@400;700&family=Noto+Serif+Devanagari:wght@400;600;700&display=swap" rel="stylesheet">
-  <title>{{ page.title }}</title>
+  {% comment %} Dynamic title formatting for books, essays, and transcripts {% endcomment %}
+  {% if page.category == "books" %}
+    {% assign filename = page.path | split: "/" | last | remove: ".md" %}
+    {% assign chapter_number = filename | split: "-" | first %}
+    {% assign chapter_name = page.en_title | default: page.title %}
+    {% if page.lang == "ne" %}
+      {% assign chapter_name = page.ne_title | default: chapter_name %}
+    {% endif %}
+    {% assign language_name = "English" %}
+    {% if page.lang == "ne" %}
+      {% assign language_name = "Nepali" %}
+    {% endif %}
+    {% assign translator_name = page.translator | capitalize | default: "" %}
+    {% if translator_name != "" %}
+      {% assign translator_name = " (" | append: translator_name | append: ")" %}
+    {% endif %}
+    <title>{{ chapter_number }} - {{ chapter_name }} - {{ language_name }}{{ translator_name }}</title>
+  {% elsif page.category == "essays" %}
+    {% assign essay_title = page.title %}
+    {% if page.lang == "ne" and page.en_url %}
+      {% comment %} Try to get English title from en_url {% endcomment %}
+      {% assign en_filename = page.en_url | split: "/" | last | remove: "/" %}
+      {% assign en_essay = site.essays | where: "url", page.en_url | first %}
+      {% if en_essay %}
+        {% assign essay_title = en_essay.title %}
+      {% endif %}
+    {% endif %}
+    {% assign language_name = "English" %}
+    {% if page.lang == "ne" %}
+      {% assign language_name = "Nepali" %}
+    {% endif %}
+    {% assign translator_name = page.translator | capitalize | default: "" %}
+    {% if translator_name != "" %}
+      {% assign translator_name = " (" | append: translator_name | append: ")" %}
+    {% endif %}
+    <title>{{ essay_title }} - {{ language_name }}{{ translator_name }}</title>
+  {% elsif page.category == "transcripts" %}
+    {% assign transcript_title = page.title %}
+    {% assign language_name = "English" %}
+    {% if page.lang == "ne" %}
+      {% assign language_name = "Nepali" %}
+    {% endif %}
+    {% if page.episode %}
+      <title>Episode {{ page.episode }} - {{ transcript_title }} - {{ language_name }}</title>
+    {% else %}
+      <title>{{ transcript_title }} - {{ language_name }}</title>
+    {% endif %}
+  {% else %}
+    <title>{{ page.title }}</title>
+  {% endif %}
   
   <link rel="stylesheet" href="/assets/css/style.css">
 </head>
