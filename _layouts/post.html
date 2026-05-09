@@ -2,11 +2,7 @@
 layout: base
 ---
 
-{% if page.lang == "ne" %}
-  {% include nav-ne.html %}
-{% else %}
-  {% include nav-en.html %}
-{% endif %}
+{% include nav-en.html %}
 
 {% assign english_source = nil %}
 {% if page.en_url %}

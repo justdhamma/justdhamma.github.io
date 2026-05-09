@@ -1,20 +1,25 @@
 ---
-layout: post
 lang: en
-video_id: 364
-title: Ascetic Vs Aesthetic
-description: This essay explores the concept of asceticism vs aestheticism.
-excerpt: This essay explores the concept of asceticism vs aestheticism.
+layout: post
 category: transcripts
-youtube_url: 
-status: published
+episode: 364
+title: Ascetic Vs Aesthetic
+pli_tag: pema
+eng_tag: love
+description: Hillside Hermitage Talk no.364hh - edited transcript
+excerpt: 
+youtube_url: https://www.youtube.com/watch?v=tCYWGlw3cSE
+gem_url: /transcripts/hillside-hermitage/364hh-ascetic-vs-aesthetic-ne-gem/
+gpt_url: /transcripts/hillside-hermitage/364hh-ascetic-vs-aesthetic-ne-gpt/
+cld_url: /transcripts/hillside-hermitage/364hh-ascetic-vs-aesthetic-ne-cld/
+permalink: /transcripts/hillside-hermitage/364hh-ascetic-vs-aesthetic-en/
 channel: hillside-hermitage
-permalink: /transcripts/hillside-hermitage/364hh-ascetic-vs-aesthetic/
+previous: /transcripts/hillside-hermitage/363hh-the-three-ways-to-be-free-en/
+status: finished
+editor: hh
 ---
 
-## Ascetic Vs Aesthetic
-(Hillside Hermitage Talk no.364hh - edited transcript)
-YouTube Talk
+<!-- ## Ascetic Vs Aesthetic -->
 
 ## Saṁyutta Nikāya 42.1 Caṇḍasutta
 

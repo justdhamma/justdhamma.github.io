@@ -1,7 +1,7 @@
 (function () {
   const root = document.documentElement;
   const STORAGE_KEY = "theme";
-  const switchers = document.querySelectorAll(".theme-switcher");
+  const themeOptionContainers = document.querySelectorAll(".theme-options-in-row");
 
   const icons = {
     light: "☀",
@@ -43,13 +43,8 @@
 
     localStorage.setItem(STORAGE_KEY, name);
 
-    switchers.forEach(function (switcher) {
-      const toggle = switcher.querySelector(".theme-toggle-button");
-      const buttons = switcher.querySelectorAll(".theme-menu button");
-
-      if (toggle) {
-        toggle.textContent = icons[name];
-      }
+    themeOptionContainers.forEach(function (container) {
+      const buttons = container.querySelectorAll("button");
 
       buttons.forEach(function (button) {
         button.classList.toggle("active", button.dataset.theme === name);
@@ -57,43 +52,18 @@
     });
   }
 
-  function closeMenus() {
-    switchers.forEach(function (switcher) {
-      const menu = switcher.querySelector(".theme-menu");
-      if (menu) {
-        menu.classList.remove("show");
-      }
-    });
-  }
-
   window.setTheme = function (name) {
     applyTheme(name);
-    closeMenus();
   };
 
-  switchers.forEach(function (switcher) {
-    const toggle = switcher.querySelector(".theme-toggle-button");
-    const menu = switcher.querySelector(".theme-menu");
-    const buttons = switcher.querySelectorAll(".theme-menu button");
-
-    if (toggle && menu) {
-      toggle.addEventListener("click", function (event) {
-        if (window.innerWidth <= 640) return;
-
-        event.stopPropagation();
-        menu.classList.toggle("show");
-      });
-    }
+  themeOptionContainers.forEach(function (container) {
+    const buttons = container.querySelectorAll("button");
 
     buttons.forEach(function (button) {
       button.addEventListener("click", function () {
         setTheme(button.dataset.theme);
       });
     });
-  });
-
-  document.addEventListener("click", function () {
-    closeMenus();
   });
 
   document.addEventListener("DOMContentLoaded", function () {
