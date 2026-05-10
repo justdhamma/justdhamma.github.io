@@ -1,0 +1,19 @@
+---
+lang: ne
+layout: post
+category: books
+book_author: bhikkhu-k-nanananda
+book_key: the-law-of-dependent-origination
+en_title: Sermon 11
+ne_title: पटिच्चसमुप्पाद उपदेश ११
+en_url: "/books/bhikkhu-k-nanananda/the-law-of-dependent-origination/sermon-11-en/"
+permalink: /books/bhikkhu-k-nanananda/the-law-of-dependent-origination/sermon-11-ne-gpt/
+gem_url: "/books/bhikkhu-k-nanananda/the-law-of-dependent-origination/sermon-11-ne-gem/"
+gpt_url: "/books/bhikkhu-k-nanananda/the-law-of-dependent-origination/sermon-11-ne-gpt/"
+cld_url: "/books/bhikkhu-k-nanananda/the-law-of-dependent-origination/sermon-11-ne-cld/"
+description: a book
+type: translation
+translator: gpt
+# date: 2010-08-01
+proofread: unfinished
+---

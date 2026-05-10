@@ -176,6 +176,18 @@
 {% endif %}
 {% assign normalized_doc_slug = normalized_doc_slug | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
 
+{% assign doc_path_parts = doc.path | split: "/" %}
+{% assign doc_folder = "" %}
+{% for part in doc_path_parts %}
+  {% unless forloop.last %}
+    {% if doc_folder == "" %}
+      {% assign doc_folder = part %}
+    {% else %}
+      {% assign doc_folder = doc_folder | append: "/" | append: part %}
+    {% endif %}
+  {% endunless %}
+{% endfor %}
+
 {% for book in site.books %}
   {% assign book_filename = book.path | split: "/" | last | remove: ".md" %}
   {% assign normalized_book_slug = book_filename %}
@@ -190,7 +202,18 @@
     {% assign normalized_book_slug = normalized_book_slug | slice: 1, 999 %}
   {% endif %}
   {% assign normalized_book_slug = normalized_book_slug | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
-  {% if normalized_book_slug == normalized_doc_slug %}
+  {% assign book_path_parts = book.path | split: "/" %}
+  {% assign book_folder = "" %}
+  {% for part in book_path_parts %}
+    {% unless forloop.last %}
+      {% if book_folder == "" %}
+        {% assign book_folder = part %}
+      {% else %}
+        {% assign book_folder = book_folder | append: "/" | append: part %}
+      {% endif %}
+    {% endunless %}
+  {% endfor %}
+  {% if book_folder == doc_folder and normalized_book_slug == normalized_doc_slug %}
     {% case book.translator %}
       {% when "gem" %}
         {% assign gemini_link = book.url %}
@@ -222,7 +245,18 @@
     {% assign normalized_essay_slug = normalized_essay_slug | slice: 1, 999 %}
   {% endif %}
   {% assign normalized_essay_slug = normalized_essay_slug | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
-  {% if normalized_essay_slug == normalized_doc_slug %}
+  {% assign essay_path_parts = essay.path | split: "/" %}
+  {% assign essay_folder = "" %}
+  {% for part in essay_path_parts %}
+    {% unless forloop.last %}
+      {% if essay_folder == "" %}
+        {% assign essay_folder = part %}
+      {% else %}
+        {% assign essay_folder = essay_folder | append: "/" | append: part %}
+      {% endif %}
+    {% endunless %}
+  {% endfor %}
+  {% if essay_folder == doc_folder and normalized_essay_slug == normalized_doc_slug %}
     {% case essay.translator %}
       {% when "gem" %}
         {% assign gemini_link = essay.url %}
@@ -254,7 +288,18 @@
     {% assign normalized_transcript_slug = normalized_transcript_slug | slice: 1, 999 %}
   {% endif %}
   {% assign normalized_transcript_slug = normalized_transcript_slug | remove_first: "en-" | remove_first: "ne-" | replace: "-en", "" | replace: "-ne-gem", "" | replace: "-ne-gpt", "" | replace: "-ne-cld", "" | replace: "-ne-ppx", "" | replace: "-ne", "" %}
-  {% if normalized_transcript_slug == normalized_doc_slug %}
+  {% assign transcript_path_parts = transcript.path | split: "/" %}
+  {% assign transcript_folder = "" %}
+  {% for part in transcript_path_parts %}
+    {% unless forloop.last %}
+      {% if transcript_folder == "" %}
+        {% assign transcript_folder = part %}
+      {% else %}
+        {% assign transcript_folder = transcript_folder | append: "/" | append: part %}
+      {% endif %}
+    {% endunless %}
+  {% endfor %}
+  {% if transcript_folder == doc_folder and normalized_transcript_slug == normalized_doc_slug %}
     {% case transcript.translator %}
       {% when "gem" %}
         {% assign gemini_link = transcript.url %}

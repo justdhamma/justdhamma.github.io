@@ -5,34 +5,69 @@ authors:
     books:
       - key: nibbana-the-mind-stilled
         title: Nibbana - The Mind Stilled
+        chapters:
+          - sermon-1
+          - sermon-2
+          - sermon-3
+          - sermon-4
+          - sermon-5
+          - sermon-6
+          - sermon-7
+          - sermon-8
+          - sermon-9
+          - sermon-10
+          - sermon-11
+          - sermon-12
+          - sermon-13
+          - sermon-14
+          - sermon-15
+          - sermon-16
+          - sermon-17
+          - sermon-18
+          - sermon-19
+          - sermon-20
+          - sermon-21
+          - sermon-22
+          - sermon-23
+          - sermon-24
+          - sermon-25
+          - sermon-26
+          - sermon-27
+          - sermon-28
+          - sermon-29
+          - sermon-30
+          - sermon-31
+          - sermon-32
+          - sermon-33
       
       - key: the-law-of-dependent-origination
         title: The Law of Dependent Origination
         chapters:
-          - en-sermon-1
-          - en-sermon-2
-          - en-sermon-3
-          - en-sermon-4
-          - en-sermon-5
-          - en-sermon-6
-          - en-sermon-7
-          - en-sermon-8
-          - en-sermon-9
-          - en-sermon-10
-          - en-sermon-11
-          - en-sermon-12
-          - en-sermon-14
-          - en-sermon-15
-          - en-sermon-16
-          - en-sermon-17
-          - en-sermon-18
-          - en-sermon-19
-          - en-sermon-20
+          - sermon-1
+          - sermon-2
+          - sermon-3
+          - sermon-4
+          - sermon-5
+          - sermon-6
+          - sermon-7
+          - sermon-8
+          - sermon-9
+          - sermon-10
+          - sermon-11
+          - sermon-12
+          - sermon-13
+          - sermon-14
+          - sermon-15
+          - sermon-16
+          - sermon-17
+          - sermon-18
+          - sermon-19
+          - sermon-20
       
       - key: ideal-solitude
         title: Ideal Solitude
         chapters:
-          - en-ideal-solitude
+          - ideal-solitude
   
   ajahn-nanamoli:
     folder: ajahn-nanamoli
@@ -56,16 +91,32 @@ authors:
           - gateway-to-nibbana
           - pali-glossary
           - abbreviations
+      - key: the-only-way-to-jhana
+        title: The Only Way to Jhana
+        chapters:
+          - jhana-is-a-lifestyle
+          - lay-life-does-not-justify-sensuality
+          - no-one-wants-sensuality
+          - desire-to-end-desire
+          - the-simile-of-the-wet-sticks
+          - discerning-the-body
+          - sensuality-versus-agreeability
+          - the-pleasure-of-boredom
+          - calming-the-pain-not-avoiding-it
+          - recollection-of-breathing-and-subduing-of-aversion
+          - escape-from-the-body
+          - jhana-is-virtue
+      
       - key: meanings
         title: Meanings
         chapters:
-          - en-feelings-are-suffering
-          - en-existence-means-control
-          - en-with-birth-death-applies
-          - en-appearance-and-existence
-          - en-hierarchy-of-awareness
-          - en-papanca-sanna-sankha
-          - en-the-infinity-of-the-mind
-          - en-not-perceiving-the-feeling
-          - en-resistance-and-designation
-          - en-determining-determinations
+          - feelings-are-suffering
+          - existence-means-control
+          - with-birth-death-applies
+          - appearance-and-existence
+          - hierarchy-of-awareness
+          - papanca-sanna-sankha
+          - the-infinity-of-the-mind
+          - not-perceiving-the-feeling
+          - resistance-and-designation
+          - determining-determinations

@@ -9,19 +9,20 @@ eng_tag: celibacy
 description: Talk no.06hh - a condensed transcript
 excerpt: 
 youtube_url: https://www.youtube.com/watch?v=lTuxOUOPfgk
-gem_url: /transcripts/hillside-hermitage/03hh-how-to-overcome-attachments-ne-gem/
-gpt_url: /transcripts/hillside-hermitage/03hh-how-to-overcome-attachments-ne-gpt/
-cld_url: /transcripts/hillside-hermitage/03hh-how-to-overcome-attachments-ne-cld/
-permalink: /transcripts/hillside-hermitage/03hh-how-to-overcome-attachments-en/
-previous: /transcripts/hillside-hermitage/02hh-why-is-celibacy-important-en/
+gem_url: /transcripts/hillside-hermitage/06hh-why-is-generosity-good-ne-gem/
+gpt_url: /transcripts/hillside-hermitage/06hh-why-is-generosity-good-ne-gpt/
+cld_url: /transcripts/hillside-hermitage/06hh-why-is-generosity-good-ne-cld/
+permalink: /transcripts/hillside-hermitage/06hh-why-is-generosity-good-en/
+previous: /transcripts/hillside-hermitage/05hh-purpose-of-the-precepts-en/
 channel: hillside-hermitage
 status: finished
 editor: hh
 ---
 
-## Why Is Generosity Good?
+<!-- ## Why Is Generosity Good? -->
 
-- [Youtube](https://youtu.be/lTuxOUOPfgk?feature=shared) - - [suttacentral](https://suttacentral.net/an9.20)
+- [Youtube](https://youtu.be/lTuxOUOPfgk?feature=shared)
+- [Suttacentral](https://suttacentral.net/an9.20)
 
 On the most fundamental level, generosity is wholesome because it is founded on non-self-centeredness, or selflessness. Even if a person isn't aware of it, the act of generosity has this principle at its core.
 
@@ -44,7 +45,6 @@ This is why the Buddha, for example, would actively encourage people by saying, 
 ## **Aṅguttara Nikāya 9.20**
 
 > ## The Discourse on Velāma
-> 
 > On one occasion, the Blessed One was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park. Then the householder Anāthapiṇḍika went to the Blessed One, bowed, and sat down to one side. The Blessed One then said to him, “Householder, is giving practiced in your family?”
 > 
 > “Yes, venerable sir,” replied Anāthapiṇḍika, “giving is practiced in my family. But it is only coarse food—sour rice-gruel with just some more sour gruel as a side dish.”
