@@ -26,17 +26,17 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
  
 
-*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[[807\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn807)
+*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[^807]
 
 "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction."
 
 With the permission of the Most Venerable Great Preceptor and the assembly of the venerable meditative monks. This is the twentyfifth sermon in the series of sermons on *Nibbāna*. The other day we made an attempt to understand, in the light of the *Kāḷakārāmasutta*, the enlightened attitude of the *Tathāgata*, who has realized the cessation of the six bases of sense-contact, towards the view-points of the worldlings, who find themselves confined within those six bases.
 
-In that discourse, the Buddha declared with the words *tam ahaṃ jānāmi*, "[all]that do I know",[[808\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn808) the fact that he has understood all what the world with its gods, *Māras* and Brahmas, and the progeny consisting of recluses and Brahmins, gods and men, have seen, heard, sensed, cognized, thought after and pondered over by the mind.
+In that discourse, the Buddha declared with the words *tam ahaṃ jānāmi*, "[all]that do I know",[^808] the fact that he has understood all what the world with its gods, *Māras* and Brahmas, and the progeny consisting of recluses and Brahmins, gods and men, have seen, heard, sensed, cognized, thought after and pondered over by the mind.
 
 By his next assertion *tam ahaṃ abbhaññāsiṃ*, the Buddha proclaimed that he not only knows all that, but knows it thoroughly in some special way. With the words *taṃ tathāgatassa viditaṃ*, he declares that by virtue of this special knowledge he has understood all what the world claims to know. Despite this special knowledge and understanding, the *Tathāgata* takes no stance and has no inclination or partiality towards those sensory data, as is evident from the expression *taṃ tathāgato na upaṭṭhāsi.*
 
-Worldings in general are in the habit of asserting dogmatically 'I know, I see, it is verily so', *jānāmi passāmi tath' eva etaṃ*,[[809\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn809) when they have a special knowledge or understanding of something or other. But according to this discourse, it seems that the Buddha takes no stance and has no inclination or partiality towards those sensory data, precisely because he has a special knowledge and understanding with regard to them. This fact is highlighted by the concluding summary verses, particularly by the lines:
+Worldings in general are in the habit of asserting dogmatically 'I know, I see, it is verily so', *jānāmi passāmi tath' eva etaṃ*,[^809] when they have a special knowledge or understanding of something or other. But according to this discourse, it seems that the Buddha takes no stance and has no inclination or partiality towards those sensory data, precisely because he has a special knowledge and understanding with regard to them. This fact is highlighted by the concluding summary verses, particularly by the lines:
 
  *Jānāmi passāmi tath' eva etaṃ,*
 
@@ -52,7 +52,7 @@ What is called *maññanā* is the imagining in egoistic terms, imparting realit
 
 *Tathāgatas* have no clinging or entanglement, *ajjhositaṃ*, precisely because they entertain no imaginings. In regard to things seen, heard, etc. the *Tathāgatas* have no clinging, binding or entanglement by way of craving, conceit and views, respectively.
 
-We happened to mention the other day that those peculiar declarations, with which the *Kāḷakārāmasutta* opens, bear some resemblance to the tetralemma discussed in our treatment of the undetermined points.[[810\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn810)
+We happened to mention the other day that those peculiar declarations, with which the *Kāḷakārāmasutta* opens, bear some resemblance to the tetralemma discussed in our treatment of the undetermined points.[^810]
 
 The set of four alternative propositions concerning the *Tathāgata's* after death state may be cited as a paradigm for the tetralemma.
 
@@ -70,7 +70,7 @@ The set of four alternative propositions concerning the *Tathāgata's* after dea
 
 4) *n'eva hoti na na hoti tathāgato paraṃ maraṇā,*
 
- "the *Tathāgata* neither exists nor does not exist after death".[[811\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn811)
+ "the *Tathāgata* neither exists nor does not exist after death".[^811]
 
 The declarations found in this discourse bear some affinity to the above-mentioned tetralemma. However, we find here the Buddha making the first declaration in several stages. Firstly, he makes the statement that whatever is seen, heard, sensed, and cognized, thought after and pondered over by all beings in the world, that he knows.
 
@@ -92,11 +92,11 @@ So it seems, in this context too, we have the negation of the first alternative,
 
 There is a difference of opinion as to the correct reading of this second declaration. Deep *Suttas* often present difficulties in determining the exact reading, and this is especially the case with the *Kāḷakārāmasutta*.
 
-In this instance, the commentary has followed the reading *tam ahaṃ 'jānāmī'ti vadeyyaṃ, taṃ mama assa musā*, "if I were to say 'that I know', it would be a falsehood in me". But as we have pointed out earlier, this reading is not meaningful.[[812\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn812) That is probably why the *Chaṭṭhasaṅgīti-piṭaka* edition has followed the variant reading *tam ahaṃ 'na jānāmī'ti vadeyyaṃ*, "if I were to say 'that I do not know'. This departure from the commentarial tradition seems justifiable, since the Buddha has already declared that he knows all that.
+In this instance, the commentary has followed the reading *tam ahaṃ 'jānāmī'ti vadeyyaṃ, taṃ mama assa musā*, "if I were to say 'that I know', it would be a falsehood in me". But as we have pointed out earlier, this reading is not meaningful.[^812] That is probably why the *Chaṭṭhasaṅgīti-piṭaka* edition has followed the variant reading *tam ahaṃ 'na jānāmī'ti vadeyyaṃ*, "if I were to say 'that I do not know'. This departure from the commentarial tradition seems justifiable, since the Buddha has already declared that he knows all that.
 
 It stands to reason, therefore, that in the second declaration he makes it clear that to say 'I do not know' would be a contradiction, a falsehood. But why this clarification?
 
-Generally the worldlings expect one to unequivocally assert and take one's stand upon one's viewpoint in categorical terms, as expressed by the dictum *idam eva saccaṃ, mogham aññaṃ*, "this alone is true, all else is false".[[813\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn813) Failure to do so is recognized as a lack of knowledge or precision. The second declaration is meant to forestall such an objection, since the first declaration ends with the clause *taṃ tathāgato na upaṭṭhāsi*, but "the *Tathāgata* has not taken his stand upon it". So it amounts to a statement like 'it is not because I do not know that I take no stance'. In the same strain, we can explain the declarations that follow.
+Generally the worldlings expect one to unequivocally assert and take one's stand upon one's viewpoint in categorical terms, as expressed by the dictum *idam eva saccaṃ, mogham aññaṃ*, "this alone is true, all else is false".[^813] Failure to do so is recognized as a lack of knowledge or precision. The second declaration is meant to forestall such an objection, since the first declaration ends with the clause *taṃ tathāgato na upaṭṭhāsi*, but "the *Tathāgata* has not taken his stand upon it". So it amounts to a statement like 'it is not because I do not know that I take no stance'. In the same strain, we can explain the declarations that follow.
 
 It seems, then, that the second declaration *tam ahaṃ 'na jānāmī'ti vadeyyaṃ, taṃ mama assa musā*, "if I were to say, 'all that I do not know', it would be a falsehood in me", amounts to the second alternative of the tetralemma.
 
@@ -108,9 +108,9 @@ Now we come to the fourth statement. The Buddha declares, "if I were to say 'I n
 
 We can understand that position, too. Generally the worldlings think that a refusal to make a categorical statement is either due to partial knowledge, or to an attitude of wriggling out. In fact, this attitude of wriggling out had already assumed the status of a philosophy in itself in *Sañjaya Belaṭṭhiputta*, a contemporary of the Buddha.
 
-When he was interrogated, he would respond with such a series of negations like "I do not say it is, I do not say it is thus, I do not say it is otherwise, nor do I say it is neither", etc.[[814\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn814) The attempt here is to evade the issue by a sort of 'eel-wriggling'. That school of philosophy, which resorted to such an evasive legerdemain, came to be known as *amarā-vikkhepa-vāda*. The Buddha refuses to subscribe to such tactical sophistry by rejecting the fourth alternative 'I neither know it, nor am ignorant of it'.
+When he was interrogated, he would respond with such a series of negations like "I do not say it is, I do not say it is thus, I do not say it is otherwise, nor do I say it is neither", etc.[^814] The attempt here is to evade the issue by a sort of 'eel-wriggling'. That school of philosophy, which resorted to such an evasive legerdemain, came to be known as *amarā-vikkhepa-vāda*. The Buddha refuses to subscribe to such tactical sophistry by rejecting the fourth alternative 'I neither know it, nor am ignorant of it'.
 
-Here, then, we have the same tetralemma, presented in a different guise. It smacks of a riddle that the Buddha was confronted with - the riddle of coming to terms with worldly parlance. As we have already mentioned, the commentary analyses the main theme of the discourse into five planes. It also records that the earth shook at five points of the discourse, that is, at the end of the proclamation for each plane.[[815\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn815)
+Here, then, we have the same tetralemma, presented in a different guise. It smacks of a riddle that the Buddha was confronted with - the riddle of coming to terms with worldly parlance. As we have already mentioned, the commentary analyses the main theme of the discourse into five planes. It also records that the earth shook at five points of the discourse, that is, at the end of the proclamation for each plane.[^815]
 
 According to the commentary, the first plane is the plane of omniscience, *sabbaññutabhūmi*. The phrases representative of that plane are said to be *tam ahaṃ jānāmi,* "that I know", *tam aham abbhaññāsiṃ*, "that have I fully understood", and *taṃ tathāgatassa viditaṃ*, "that is known to the *Tathāgata*".
 
@@ -122,7 +122,7 @@ What comes next as the fourth plane is the deepest of all. The commentary calls 
 
 *Iti kho, bhikkhave, tathāgato diṭṭhā daṭṭhabbaṃ diṭṭhaṃ na maññati, adiṭṭhaṃ na maññati, daṭṭhabbaṃ na maññati, daṭṭhāraṃ na maññati. Sutā sotabbaṃ sutaṃ na maññati, asutaṃ na maññati, sotabbaṃ na maññati, sotāraṃ na maññati. Mutā motabbaṃ mutaṃ na maññati, amutaṃ na maññati, motabbaṃ na maññati, motāraṃ na maññati. Viññātā viññātabbaṃ viññātaṃ na maññati, aviññātaṃ na maññati, viññātabbaṃ na maññati, viññātāraṃ na maññati.*
 
-Here, too, we are confronted with the question of variant readings. To begin with, here we have given the phrase *diṭṭhā daṭṭhabbaṃ diṭṭhaṃ*, whereas the commentary takes it as *daṭṭhā daṭṭhabbaṃ diṭṭhaṃ*. According to the commentary, *daṭṭhā* is a hypothetical variant of the absolutive form *disvā*, for it paraphrases *'daṭṭhā daṭṭhabban' ti disvā daṭṭhabbaṃ*,[[816\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn816) that is, "*daṭṭhā daṭṭhabbaṃ* stands for *disvā daṭṭhabbaṃ*. So the whole sentence in question is said to convey the sense "having seen, he does not imagine a seen worth seeing". But the variant reading *diṭṭha* is granted, though the commentator prefers the reading *daṭṭha* as it is suggestive of an absolutive *dṛṣṭvā*.
+Here, too, we are confronted with the question of variant readings. To begin with, here we have given the phrase *diṭṭhā daṭṭhabbaṃ diṭṭhaṃ*, whereas the commentary takes it as *daṭṭhā daṭṭhabbaṃ diṭṭhaṃ*. According to the commentary, *daṭṭhā* is a hypothetical variant of the absolutive form *disvā*, for it paraphrases *'daṭṭhā daṭṭhabban' ti disvā daṭṭhabbaṃ*,[^816] that is, "*daṭṭhā daṭṭhabbaṃ* stands for *disvā daṭṭhabbaṃ*. So the whole sentence in question is said to convey the sense "having seen, he does not imagine a seen worth seeing". But the variant reading *diṭṭha* is granted, though the commentator prefers the reading *daṭṭha* as it is suggestive of an absolutive *dṛṣṭvā*.
 
 Taking the cue from this commentarial preference, the Burmese *Chaṭṭhasaṅgīti* edition goes a step further in substituting *sutvā, mutvā* and *viññatvā* rather arbitrarily to give an absolutive twist to the three phrases that follow as *sutvā sotabbaṃ sutaṃ*, *mutvā motabbaṃ mutaṃ*, and *viññatvā viññātabbaṃ viññātaṃ*. Probably the editors thought that in this context the terms *diṭṭha suta muta* and *viññāta* could not be interpreted as they are.
 
@@ -130,11 +130,11 @@ But we may point out that, in keeping with the line of interpretation we have fo
 
 The statement *diṭṭhā daṭṭhabbaṃ diṭṭhaṃ na maññati* has to be interpreted as an assertion that the *Tathāgata* "does not imagine a sight worthwhile seeing as apart from the seen", that there is nothing substantial in the seen. So also the other statements, *sutā sotabbaṃ sutaṃ na maññati*, "does not imagine a worthwhile hearing apart from the heard"; *mutā motabbaṃ mutaṃ na maññati*, "does not imagine a worthwhile sensing apart from the sensed"; *viññātā viññātabbaṃ viññātaṃ na maññati*, "does not imagine a worthwhile cognition apart from the cognized".
 
-In case our interpretation still appears problematic, we may hark back to the *Bāhiyasutta* we have already explained at length.[[817\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn817) The philosophy behind the Buddha's exhortation to the ascetic *Bāhiya* could be summed up in the words *diṭṭhe diṭṭhamattaṃ bhavissati, sute sutamattaṃ bhavissati, mute mutamattaṃ bhavissati, viññāte viññātamattaṃ bhavissati*,[[818\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn818) "in the seen there will be just the seen, in the heard there will be just the heard, in the sensed there will be just the sensed, in the cognized there will be just the cognized".
+In case our interpretation still appears problematic, we may hark back to the *Bāhiyasutta* we have already explained at length.[^817] The philosophy behind the Buddha's exhortation to the ascetic *Bāhiya* could be summed up in the words *diṭṭhe diṭṭhamattaṃ bhavissati, sute sutamattaṃ bhavissati, mute mutamattaṃ bhavissati, viññāte viññātamattaṃ bhavissati*,[^818] "in the seen there will be just the seen, in the heard there will be just the heard, in the sensed there will be just the sensed, in the cognized there will be just the cognized".
 
 What is meant is that one has to stop at just the seen, without discursively imagining that there is some-'thing' seen, some-'thing' substantial behind the seen. Similarly in regard to the heard, one has to take it as just a heard, not some-'thing' heard.
 
-In the case of the phrase *diṭṭhā daṭṭhabbaṃ diṭṭhaṃ na maññati* the word *diṭṭhā*, being in the ablative case, we may render it as "does not imagine a sight worthwhile seeing 'as apart from' the seen". By way of further clarification of this point, we may revert to the simile of the dog on the plank, which we gave in our explanation of *nāma-rūpa*.[[819\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn819) The simile, of course, is not canonical, but of fable origin.
+In the case of the phrase *diṭṭhā daṭṭhabbaṃ diṭṭhaṃ na maññati* the word *diṭṭhā*, being in the ablative case, we may render it as "does not imagine a sight worthwhile seeing 'as apart from' the seen". By way of further clarification of this point, we may revert to the simile of the dog on the plank, which we gave in our explanation of *nāma-rūpa*.[^819] The simile, of course, is not canonical, but of fable origin.
 
 When a dog, while crossing a stream, stops halfway on the plank and starts wagging its tail and peeping curiously down, the reason is the sight of its own image in the water. It imagines a dog there, a 'water-dog'. The dog thinks that there is something worthwhile seeing, apart from the seen.
 
@@ -144,7 +144,7 @@ We have here a very subtle point in the law of dependent arising, one that is in
 
 No such imagining is there in the *Tathāgata*, *diṭṭhā daṭṭhabbaṃ diṭṭhaṃ na maññati*, "he does not imagine a sight worth seeing as apart from the seen". In short, for him the seen is the be all and the end all of it.
 
-The seen is dependently arisen, it comes about due to a collocation of conditions, apart from which it has no existence per se. Every instance of looking down at the water is a fresh experience and every time an image of the dog in the water and of another looking at it is created. The dog is seeing its own image. Everything is dependently arisen, *phassapaccayā*, says the *Brahmajāla-sutta*, "dependent on contact".[[820\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn820)
+The seen is dependently arisen, it comes about due to a collocation of conditions, apart from which it has no existence per se. Every instance of looking down at the water is a fresh experience and every time an image of the dog in the water and of another looking at it is created. The dog is seeing its own image. Everything is dependently arisen, *phassapaccayā*, says the *Brahmajāla-sutta*, "dependent on contact".[^820]
 
 Here there is something really deep. It is because of the personality-view, *sakkāyadiṭṭhi*, that the world is carried away by this illusion. One goes on looking saying that one is doing so as there is something to be seen. But the seen is there because of the looking.
 
@@ -172,13 +172,13 @@ Music is just a word. By taking seriously the concept behind that word, one imag
 
 Then comes the phrase *daṭṭhāraṃ na maññati*, "does not imagine a seer". Here we have the direct expression of voidness - the voidness of a self or anything belonging to a self. Now that dog on the plank has not understood the fact that there is a mutual relationship between the looking dog and the seen dog. It is because of the looking dog that the seen dog is seen. There is a conditioned relationship between the two.
 
-In other words, dependent on eye and forms arises eye-consciousness, *cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ*.[[821\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn821) The mere presence of the eye is not enough for eye consciousness to arise, but dependent on eye and forms, arises eye-consciousness.
+In other words, dependent on eye and forms arises eye-consciousness, *cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ*.[^821] The mere presence of the eye is not enough for eye consciousness to arise, but dependent on eye and forms, arises eye-consciousness.
 
 Though stated simply, it has a depth that is not easy to fathom. To say that it is dependent on eye and form is to admit that it is dependently arisen. The law of dependent arising is already implicated. There is therefore no seer, apart from the phenomenon of seeing, according to the *Tathāgata*. He does not imagine a seer, *daṭṭhāraṃ na maññati*. For the worldling, the bare act of seeing carries with it a perception of 'one who sees'. He has a notion of a self and something belonging to a self.
 
 The same teaching is found in the *Bāhiya-sutta*. After instructing *Bāhiya* to stop at just the seen, the heard, the sensed and the cognized, the Buddha goes on to outline the end result of that training.
 
-*Yato kho te, Bāhiya, diṭṭhe diṭṭhamattaṃ bhavissati, sute sutamattaṃ bhavissati, mute mutamattaṃ bhavissati, viññāte viññātamattaṃ bhavissati, tato tvaṃ Bāhiya na tena. Yato tvaṃ Bāhiya na tena, tato tvaṃ Bāhiya na tattha. Yato tvaṃ Bāhiya na tattha, tato tvaṃ Bāhiya nev' idha na huraṃ na ubhayamantarena. Es' ev' anto dukkhassa*.[[822\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn822)
+*Yato kho te, Bāhiya, diṭṭhe diṭṭhamattaṃ bhavissati, sute sutamattaṃ bhavissati, mute mutamattaṃ bhavissati, viññāte viññātamattaṃ bhavissati, tato tvaṃ Bāhiya na tena. Yato tvaṃ Bāhiya na tena, tato tvaṃ Bāhiya na tattha. Yato tvaṃ Bāhiya na tattha, tato tvaṃ Bāhiya nev' idha na huraṃ na ubhayamantarena. Es' ev' anto dukkhassa*.[^822]
 
 "And when to you, *Bāhiya*, there will be in the seen just the seen, in the heard just the heard, in the sensed just the sensed, in the cognized just the cognized, then, *Bāhiya*, you are not by it. And when, *Bāhiya*, you are not by it, then, *Bāhiya*, you are not in it. And when, *Bāhiya*, you are not in it, then, *Bāhiya*, you are neither here nor there nor in between. This, itself, is the end of suffering."
 
@@ -200,15 +200,15 @@ The way of the worldlings, however, is to follow the subject-object relationship
 
 "Thus, monks, the *Tathāgata*, being such in regard to all phenomena, seen, heard, sensed and cognized, is such. Moreover than he who is such there is none other higher or more excellent, I declare."
 
-The most difficult word, here, is *tādī*. We have already explained it to some extent. It can be rendered by "such" or "thus". The commentary explains it by the phrase *tāditā nāma ekasadisatā*,[[823\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn823) "suchness means to be always alike".
+The most difficult word, here, is *tādī*. We have already explained it to some extent. It can be rendered by "such" or "thus". The commentary explains it by the phrase *tāditā nāma ekasadisatā*,[^823] "suchness means to be always alike".
 
-By way of illustration, the commentary states *Tathāgato ca yādiso lābhādīsu, tādisova alābhādīsu*, "as he is in regard to gain etc., so is the *Tathāgata* in regard to loss etc.". The allusion here is to the eight worldly vicissitudes, gain/loss, fame/ill-fame, praise/blame, and pleasure/pain.[[824\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn824)
+By way of illustration, the commentary states *Tathāgato ca yādiso lābhādīsu, tādisova alābhādīsu*, "as he is in regard to gain etc., so is the *Tathāgata* in regard to loss etc.". The allusion here is to the eight worldly vicissitudes, gain/loss, fame/ill-fame, praise/blame, and pleasure/pain.[^824]
 
 But this explanation is rather misleading, as it ignores a certain deep dimension of the meaning of the term *tādī*. When it is said "as he is in regard to gain, so is he in regard to loss", one can ask: 'how is he in regard to gain?' This is imprecise as a meaning.
 
-However, the commentator happens to quote from the *Mahāniddesa* another explanation, which is more to the point. It is briefly stated as *iṭṭhāniṭṭhe tādī*, "such in regard to the desirable and the undesirable"; and explained as *lābhepi tādī, alābhepi tādī, yasepi tādī, ayasepi tādī, nindāyapi tādī, pasaṃsāyapi tādī, sukhepi tādī, dukkhepi tādī*,[[825\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn825) "he is such in gain as well as in loss, he is such in fame as well as in ill-fame ..." etc. That is the correct explanation. Instead of saying "as he is in gain, so is he in loss", we have here a continuous suchness in regard to all vicissitudes. He is such in gain as well as in loss, he is such in fame as well as in ill-fame, he is such in praise as well as in blame, he is such in pleasure as well as in pain.
+However, the commentator happens to quote from the *Mahāniddesa* another explanation, which is more to the point. It is briefly stated as *iṭṭhāniṭṭhe tādī*, "such in regard to the desirable and the undesirable"; and explained as *lābhepi tādī, alābhepi tādī, yasepi tādī, ayasepi tādī, nindāyapi tādī, pasaṃsāyapi tādī, sukhepi tādī, dukkhepi tādī*,[^825] "he is such in gain as well as in loss, he is such in fame as well as in ill-fame ..." etc. That is the correct explanation. Instead of saying "as he is in gain, so is he in loss", we have here a continuous suchness in regard to all vicissitudes. He is such in gain as well as in loss, he is such in fame as well as in ill-fame, he is such in praise as well as in blame, he is such in pleasure as well as in pain.
 
-The reason for this suchness we have explained on an earlier occasion.[[826\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn826) In one sense, the term *tādī* stands for the understanding of the norm called *tathatā*. The other implication is the abstinence from the tendency towards identification or acquisition, meant by *tammayatā*. This exemplary trait is called *atammayatā*. This is an extremely important term, occurring in the discourses, which, however, has fallen into neglect at present.
+The reason for this suchness we have explained on an earlier occasion.[^826] In one sense, the term *tādī* stands for the understanding of the norm called *tathatā*. The other implication is the abstinence from the tendency towards identification or acquisition, meant by *tammayatā*. This exemplary trait is called *atammayatā*. This is an extremely important term, occurring in the discourses, which, however, has fallen into neglect at present.
 
 In the case of music, for instance, *tammayatā* would imply an attachment to it that amounts to an identification with it. *Tammayo* means "made of that", as in *suvaṇṇamaya*, "made of gold", and *rajatamaya*, "made of silver". To be free from this *tammayatā*, is to be *tādī*, "such", that is to say, not to be of that stuff, *atammayatā*. The attitude of not leaning on or grasping is meant by it.
 
@@ -220,7 +220,7 @@ The quality of being *tādī*, or "such", is often rendered by "firmness", "stea
 
 *ubhayeneva so tādī,*
 
-*rukkhaṃ va upanivattati.*[[827\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn827)
+*rukkhaṃ va upanivattati.*[^827]
 
 "Suppose I got it, well and good,
 
@@ -236,7 +236,7 @@ This is a wonderful quality in *Tathāgatas* and *arahants*. We may compare it t
 
 *Phuṭṭhassa lokadhammehi,*
 
-*cittam yassa na kampati*,[[828\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn828)
+*cittam yassa na kampati*,[^828]
 
 "Whose mind remains unshaken,
 
@@ -244,7 +244,7 @@ When touched by worldly vicissitudes."
 
 This quality of being unshaken, this immovability, is the result of not grasping. It comes when there is no tenacious clinging. It is to one who rests on or leans on something that there is dislodgement or instability.
 
-Now I am leaning on the wall, if someone does damage to the wall, I would get shaken, that is what is suggested by the axiom *nissitassa calitaṃ, anissitassa calitaṃ n'atthi*, "to one who is attached, there is dislodgement, to the one detached, there is no dislodgement".[[829\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn829) The worldling, on the other hand, thinks that to lean on or to rely on something is the mark of stability.
+Now I am leaning on the wall, if someone does damage to the wall, I would get shaken, that is what is suggested by the axiom *nissitassa calitaṃ, anissitassa calitaṃ n'atthi*, "to one who is attached, there is dislodgement, to the one detached, there is no dislodgement".[^829] The worldling, on the other hand, thinks that to lean on or to rely on something is the mark of stability.
 
 So it seems that the term *tādī* has an extraordinary dimension of meaning. In this particular context, however, the suchness spoken of does not concern the eight worldly vicissitudes like gain and loss. Here it carries a special nuance as is evident from the statement:
 
@@ -276,13 +276,13 @@ In the final verse, he declares that he has seen well in advance "the barb on wh
 
 The precise meaning of some words and phrases here is a matter of controversy. A discussion of them might throw more light on their deeper nuances. The most difficult term seems to be *sayasaṃvuta*. The commentary gives the following explanation:
 
-*'Sayasaṃvutesu'ti 'sayameva saṃvaritvā piyāyitvā gahitagahaṇesu diṭṭhigatikesū'ti attho. Diṭṭhigatikā hi 'sayaṃ saṃvutā'ti vuccanti.*[[830\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn830)"*Sayasaṃvutesu* means among those dogmatic view-holders, who have grasped those views, having recollected them and cherished them. Dogmatic view-holders are called *sayasaṃvuta*."
+*'Sayasaṃvutesu'ti 'sayameva saṃvaritvā piyāyitvā gahitagahaṇesu diṭṭhigatikesū'ti attho. Diṭṭhigatikā hi 'sayaṃ saṃvutā'ti vuccanti.*[^830]"*Sayasaṃvutesu* means among those dogmatic view-holders, who have grasped those views, having recollected them and cherished them. Dogmatic view-holders are called *sayasaṃvuta*."
 
 According to the commentary, the term *sayasaṃvuta* refers to persons who hold dogmatic views. But we interpreted it as a reference to such views themselves.
 
 By way of clarification, we may allude to some discourses in the *Aṭṭhakavagga* of the *Suttanipāta*, which bring up a wealth of material to substantiate the salient points in the *Kāḷakārāmasutta*, while throwing more light on the particular term in question. The chapter called *Aṭṭhakavagga* in the *Suttanipāta* in particular embodies a deep analysis of the controversies among contemporary dogmatists.
 
-Let us, first of all, take up for comment some verses that throw more light on the meaning of the term *sayasaṃvuta* from the *Cūḷaviyūhasutta*. That discourse unfolds itself in the form of question and answer. The commentary explains, that this medium of dialogue was adopted by the Buddha to resolve the clash of philosophical moot points current in the society, and that the interlocutor is a replica of the Buddha himself, created by his psychic power.[[831\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn831) Be that as it may, the relevant question for the present context is presented as follows.
+Let us, first of all, take up for comment some verses that throw more light on the meaning of the term *sayasaṃvuta* from the *Cūḷaviyūhasutta*. That discourse unfolds itself in the form of question and answer. The commentary explains, that this medium of dialogue was adopted by the Buddha to resolve the clash of philosophical moot points current in the society, and that the interlocutor is a replica of the Buddha himself, created by his psychic power.[^831] Be that as it may, the relevant question for the present context is presented as follows.
 
 *Kasmā nu saccāni vadanti nānā,*
 
@@ -290,7 +290,7 @@ Let us, first of all, take up for comment some verses that throw more light on t
 
 *saccāni su tāni bahūni nānā,*
 
-*udāhu te takkam anussaranti*.[[832\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn832)
+*udāhu te takkam anussaranti*.[^832]
 
 "Why do they proclaim various truths,
 
@@ -328,7 +328,7 @@ The dichotomy between truth and falsehood has arisen in the world due to a manip
 
 *evam pi viggayha vivādiyanti,*
 
-*sakaṃ sakaṃ sammutim āhu sacaṃ*.[[833\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn833)
+*sakaṃ sakaṃ sammutim āhu sacaṃ*.[^833]
 
 This verse describes how debating parties go on clashing with each other. They call their own system of thought perfect, and the other system of thought inferior. Thus they quarrel and dispute. Their own individual viewpoint they assert as true. The phrase *sakaṃ sakaṃ sammutim*, "each his own viewpoint", is somewhat suggestive of *sayasaṃvutesu*, the problematic term in the *Kāḷakārāmasutta*.
 
@@ -340,7 +340,7 @@ Yet another verse from the *Pasūrasutta* in the *Aṭṭhakavagga* exposes the 
 
 *yaṃ nissitā tattha subhaṃ vadānā,*
 
-*paccekasaccesu puthū niviṭṭhā*.[[834\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn834)
+*paccekasaccesu puthū niviṭṭhā*.[^834]
 
 "'Here in this system is purity', they assert polemically,
 
@@ -358,7 +358,7 @@ Another lapse in the commentary to the *Kāḷakārāmasutta* is its comment on 
 
 *Yen' eva 'bālo 'ti paraṃ dahāti,*
 
-*tenātumānaṃ 'kusalo 'ti cāha.*[[835\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn835)
+*tenātumānaṃ 'kusalo 'ti cāha.*[^835]
 
 "That by which one dubs the other a fool,
 
@@ -378,7 +378,7 @@ Worldlings dogmatically grasp the data heaped up by their six sense-bases, but t
 
 By way of illustration, we may compare this seeing of the cessation of the six sense-bases to an exposure of the inner mechanism of a high-speed engine by removing the bonnet. In the *Dvayamsutta*, from which we quoted in our last sermon, the Buddha showed us the functioning of the gigantic machine called the six-fold sense-base, its vibrations, revolutions, beats and running gears. The discourse analyses the mechanism in such words as.
 
-*Cakkhu aniccaṃ vipariṇāmi aññathābhāvi. Rūpā aniccā vipariṇāmino aññathābhāvino. Itthetaṃ dvayaṃ calañceva vyayañca aniccaṃ vipariṇāmi aññathābhāvi*.[[836\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn836)
+*Cakkhu aniccaṃ vipariṇāmi aññathābhāvi. Rūpā aniccā vipariṇāmino aññathābhāvino. Itthetaṃ dvayaṃ calañceva vyayañca aniccaṃ vipariṇāmi aññathābhāvi*.[^836]
 
 "Eye is impermanent, changing, becoming otherwise. Forms are impermanent, changing, becoming otherwise. Thus this dyad is unstable, evanescent, impermanent, changing, becoming otherwise."
 
@@ -394,7 +394,7 @@ The sum total of percepts is indicated by the words *diṭṭha suta muta* and *
 
 The Buddha understood the made up or prepared nature, *saṅkhata*, of all these, as well as the preparations, *saṅkhārā*, that go into it. That is why the Buddha has no dogmatic involvement in regard to the products of this machine, the totality of all what is seen, heard, sensed and cognized, *diṭṭha suta muta viññāta.* None of them is substantial. They are essenceless and insubstantial. There is nothing worthwhile grasping here as apart from the activities or preparations that are dynamic in themselves.
 
-So far we have tried to understand the state of affairs with reference to this discourse. But now let us take up a canonical simile that facilitates our understanding. The Buddha has compared consciousness to a magic show in the *Pheṇapiṇḍūpamasutta* of the *Khandhasaṃyutta* we had already cited.[[837\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn837)
+So far we have tried to understand the state of affairs with reference to this discourse. But now let us take up a canonical simile that facilitates our understanding. The Buddha has compared consciousness to a magic show in the *Pheṇapiṇḍūpamasutta* of the *Khandhasaṃyutta* we had already cited.[^837]
 
 *Pheṇapiṇḍūpamaṃ rūpaṃ,*
 

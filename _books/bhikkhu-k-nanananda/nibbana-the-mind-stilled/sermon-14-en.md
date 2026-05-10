@@ -26,13 +26,13 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
  
 
-*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[[477\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn477)
+*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[^477]
 
 "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction."
 
 With the permission of the Most Venerable Great Preceptor and the assembly of the venerable meditative monks. This is the fourteenth sermon in the series of sermons on *Nibbāna*.
 
-In our last sermon we gave a description of the forms of imaginings or methinkings, which the Buddha had compared to an extremely subtle bondage of *Māra*. The *Yavakalāpisutta* of the *Saḷāyatanasaṃyutta* in the *Saṃyutta Nikāya* has shown us that all kinds of thoughts concerning existence that stem from this subtle conceit 'am', *asmimāna*, are mere imaginings or methinkings, and that they are called a bondage of *Māra*, because they have the power to keep beings shackled to existence.[[478\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn478)
+In our last sermon we gave a description of the forms of imaginings or methinkings, which the Buddha had compared to an extremely subtle bondage of *Māra*. The *Yavakalāpisutta* of the *Saḷāyatanasaṃyutta* in the *Saṃyutta Nikāya* has shown us that all kinds of thoughts concerning existence that stem from this subtle conceit 'am', *asmimāna*, are mere imaginings or methinkings, and that they are called a bondage of *Māra*, because they have the power to keep beings shackled to existence.[^478]
 
 We have seen how they follow a dichotomy, even like the dilemma posed by the fivefold bondage of *Vepacitti*, the king of demons. Whether one thinks 'I shall be' or 'I shall not be', one is in bondage to *Māra*. Whether one thinks 'I shall be percipient' or 'I shall be non-percipient', or 'I shall be neither-percipient-nor-non-percipient', one is still in bondage to *Māra*.
 
@@ -48,7 +48,7 @@ There is a pithy passage, forming the grand finale of this discourse, in which t
 
 *Muni kho pana, bhikkhu, santo na jāyati na jiyyati na miyyati na kuppati na piheti. Tam pi'ssa bhikkhu natthi yena jāyetha, ajāyamāno kiṃ jiyyissati, ajiyyamāno kiṃ miyyissati, amiyyamāno kiṃ kuppissati, akuppamāno kissa pihessati?*
 
-*Yatthaṭṭhitaṃ maññussavā nappavattanti, maññussave kho pana nappavattamāne muni santo ti vuccatīti, iti yaṃ taṃ vuttaṃ, idam etaṃ paṭicca vuttaṃ*. [[479\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn479)
+*Yatthaṭṭhitaṃ maññussavā nappavattanti, maññussave kho pana nappavattamāne muni santo ti vuccatīti, iti yaṃ taṃ vuttaṃ, idam etaṃ paṭicca vuttaṃ*. [^479]
 
 In the *Dhātuvibhaṅgasutta* we find the Buddha presenting some points as the theme and gradually developing it, analysing, clarifying, and expatiating, as the discourse proceeds. The opening sentence in the above paragraph is a quotation of a part of that original statement of the Buddha, which forms the theme. Here is the rendering:
 
@@ -66,7 +66,7 @@ All this goes to show how relevant the question of imaginings is to the path lea
 
 It is in this light that we have to interpret the above statement "even that is not in him whereby he might be born". Dependent on existence is birth. Due to whatever postulate of existence one can speak of a 'birth', even that existence is not in him. Not being born, how can he age? How can he grow old or decay? This is because of the implicit interrelation between conditions.
 
-Here we can flash back to our analogy of a tree, mentioned earlier.[[480\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn480) In order to explain the mutual interrelation between the concepts of birth, decay and death, we brought up a simile, which however is not canonical. That is to say, supposing there is some kind of a tree, the buds, the leaves, the flowers, the fruits and the wood of which could be sold for making one's livelihood.
+Here we can flash back to our analogy of a tree, mentioned earlier.[^480] In order to explain the mutual interrelation between the concepts of birth, decay and death, we brought up a simile, which however is not canonical. That is to say, supposing there is some kind of a tree, the buds, the leaves, the flowers, the fruits and the wood of which could be sold for making one's livelihood.
 
 If five men trading in those items respectively are made to line up at some particular stage in the growth of this tree and asked whether the tree is too young or too old, the answers given might differ according to the individual standpoint grasped in each case.
 
@@ -76,7 +76,7 @@ Now, as for this sage, he has given up everything that he had grasped. Grasping 
 
 It is a well known fact that the term *jarā* implies both growth and decay. It is after setting a limit that we speak of a process of 'decay', after 'growth'. This limit, however, varies according to our individual standpoint grasped - according to our point of view. That is what we have tried to illustrate by this analogy.
 
-Then we have the statement "not aging, how shall he die?" Since decay is an approach to death, where there is no decay, there is no death. The fact that there is no death we have already seen in our exposition of the significance of the verses quoted above from the *Adhimutta Theragāthā*.[[481\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn481) When the bandits got round to kill the Venerable *Adhimutta*, he declared:
+Then we have the statement "not aging, how shall he die?" Since decay is an approach to death, where there is no decay, there is no death. The fact that there is no death we have already seen in our exposition of the significance of the verses quoted above from the *Adhimutta Theragāthā*.[^481] When the bandits got round to kill the Venerable *Adhimutta*, he declared:
 
 *Na me hoti ahosin'ti,*
 
@@ -84,7 +84,7 @@ Then we have the statement "not aging, how shall he die?" Since decay is an appr
 
 *saṅkhārā vibhavissanti,*
 
-*tattha kā paridevanā*?[[482\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn482)
+*tattha kā paridevanā*?[^482]
 
 "It does not occur to me 'I was',
 
@@ -98,7 +98,7 @@ This declaration exemplifies the above statement. When all graspings are given u
 
 *Amiyyamāno kiṃ kuppissati,* "not dying, how shall he be shaken?" The verb *kuppati* does not necessarily mean "getting annoyed". Here it means to be "shaken up" or "moved". When one holds on to a standpoint, one gets shaken up if someone else tries to dislodge him from that standpoint.  
 
-The deliverance in *Nibbāna* is called *akuppā cetovimutti*, the unshakeable deliverance of the mind.[[483\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn483) All other deliverances of the mind, known to the world, are shakeable, *kuppa*. They are unsteady. They shake before the pain of death. Only *Nibbāna* is called *akuppā cetovimutti*, the unshakeable deliverance of the mind.
+The deliverance in *Nibbāna* is called *akuppā cetovimutti*, the unshakeable deliverance of the mind.[^483] All other deliverances of the mind, known to the world, are shakeable, *kuppa*. They are unsteady. They shake before the pain of death. Only *Nibbāna* is called *akuppā cetovimutti*, the unshakeable deliverance of the mind.
 
 So this peaceful sage, the *arahant*, established in that concentration of the fruit of *arahant-*hood, *arahatta phalasamādhi*, which is known as the influx-free deliverance of the mind, *anāsavā cetovimutti*, and is endowed with the wisdom proper to *arahant*-hood, *paññāvimutti*, "deliverance through wisdom", is unshaken before death. His mind remains unshaken. That is why the *arahant Thera* Venerable *Adhimutta* fearlessly made the above declaration to the bandits.
 
@@ -114,9 +114,9 @@ This is something extremely wonderful about the *arahant*. He realizes the cessa
 
 From the foregoing we could well infer that all those concepts like birth, decay, death, sorrow, lamentation, pain, grief and despair, come about as a result of a heap of pervert perceptions, pervert thoughts and pervert views, based on the conceit of an existence, the conceit 'am'.
 
-These three kinds of perversions known as *saññāvipallāsa*, *cittavipallāsa* and *diṭṭhivipallāsa* give rise to a mass of concepts of an imaginary nature.[[484\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn484) The entire mass of suffering, summed up by the terms birth, decay, death, sorrow, lamentation, pain, grief and despair, are basically of a mental origin.
+These three kinds of perversions known as *saññāvipallāsa*, *cittavipallāsa* and *diṭṭhivipallāsa* give rise to a mass of concepts of an imaginary nature.[^484] The entire mass of suffering, summed up by the terms birth, decay, death, sorrow, lamentation, pain, grief and despair, are basically of a mental origin.
 
-For an illustration of this fact, we can go back to our analogy of winding some strands into a rope, mentioned earlier.[[485\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn485) We pointed out that in the case of some strands that are being mistakenly wound in the same direction, it is the grasp in the middle that gives at least a semblance of a rope to it. So long as there is no such grasping, the strands do not become knotty or tense, as they go round and round. It is only when someone grasps it in the middle that the strands begin to get winded up, knotty and tense. What is called existence, or becoming, *bhava*, follows the same norm.
+For an illustration of this fact, we can go back to our analogy of winding some strands into a rope, mentioned earlier.[^485] We pointed out that in the case of some strands that are being mistakenly wound in the same direction, it is the grasp in the middle that gives at least a semblance of a rope to it. So long as there is no such grasping, the strands do not become knotty or tense, as they go round and round. It is only when someone grasps it in the middle that the strands begin to get winded up, knotty and tense. What is called existence, or becoming, *bhava*, follows the same norm.
 
 True to the law of impermanence, everything in the world changes. But there is something innocent in this change. Impermanence is innocuous in itself. We say it is innocuous because it means no harm to anyone. It is simply the nature of this world, the suchness, the norm. It can do us harm only when we grasp, just as in the case of that quasi rope.
 
@@ -124,7 +124,7 @@ The tenseness between winding and unwinding, arising out of that grasp in the mi
 
 Now we can form an idea of the relationship between these two even from this analogy of the rope. The grasp in the middle creates two ends, giving rise to a dilemma. In the case of existence, too, grasping leads to an antinomian conflict. To become a thing, is to disintegrate into another thing.
 
-On a previous occasion we happened to discuss the significance of the term *maññanā*, me-thinking or imagining, with reference to the verse *yena yena hi maññati, tato taṃ hoti aññathā.*[[486\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn486) *Maññanā* itself gives rise to a 'thing', which from its very inception goes on disintegrating into another thing.
+On a previous occasion we happened to discuss the significance of the term *maññanā*, me-thinking or imagining, with reference to the verse *yena yena hi maññati, tato taṃ hoti aññathā.*[^486] *Maññanā* itself gives rise to a 'thing', which from its very inception goes on disintegrating into another thing.
 
 Just as much as grasping leads to the concept of two ends, to become a thing is to start changing into another thing, that is, it comes under the sway of the law of impermanence. Illustrations of this norm are sometimes to be met with in the discourses, but their significance is often ignored.
 
@@ -146,7 +146,7 @@ As a good illustration, we may take up the following two verses from the *Mettag
 
 *jātijaraṃ sokapariddavañca*
 
-*idh'eva vidvā pajaheyya dukkhaṃ*.[[487\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn487)
+*idh'eva vidvā pajaheyya dukkhaṃ*.[^487]
 
 "Whatever you may know to be
 
@@ -168,15 +168,15 @@ Birth, decay, sorrow, lamentation and suffering."
 
 The word *idh'eva* occurring in the second verse is highly significant, in that it means the abandonment of all those things here and now, not leaving it for an existence to come.
 
-In the *MahāViyūhasutta* of the *Sutta Nipāta* also a similar emphasis is laid on this idea of 'here and now'. About the *arahant* it is said that he has no death or birth here and now - *cutūpapāto idha yassa natthi*, "to whom, even here, there is no death or birth".[[488\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn488) In this very world he has transcended them by making those two concepts meaningless.
+In the *MahāViyūhasutta* of the *Sutta Nipāta* also a similar emphasis is laid on this idea of 'here and now'. About the *arahant* it is said that he has no death or birth here and now - *cutūpapāto idha yassa natthi*, "to whom, even here, there is no death or birth".[^488] In this very world he has transcended them by making those two concepts meaningless.
 
-The word *nivesanaṃ*, occurring in the first verse, is also significant. It means "dwelling". In consciousness there is a tendency to 'dwell in'. That is why in some contexts it is said that form is the abode or dwelling place of consciousness, *rūpadhātu kho, gahapati, viññāṇassa oko*, "the form element, householder, is the abode of consciousness".[[489\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn489) The terms *oka, niketa* and *nivesana* are synonymous, meaning "abode", "home", or "dwelling place".
+The word *nivesanaṃ*, occurring in the first verse, is also significant. It means "dwelling". In consciousness there is a tendency to 'dwell in'. That is why in some contexts it is said that form is the abode or dwelling place of consciousness, *rūpadhātu kho, gahapati, viññāṇassa oko*, "the form element, householder, is the abode of consciousness".[^489] The terms *oka, niketa* and *nivesana* are synonymous, meaning "abode", "home", or "dwelling place".
 
 The nature of consciousness in general is to abide or dwell in. That non-manifestative consciousness, *anidassana viññāṇa*, however, has got rid of the tendency to abide or dwell in.
 
 Now we can revert to the passage in the *Dhatuvibhaṅgasutta*, which speaks of an occurrence of tides of imaginings. The passage actually begins with the words *yatthaṭṭhitaṃ maññussavā nappavattanti*, "steadied whereon the tides of imaginings occur no more in him". The idea behind this occurrence of tides of imaginings is quite often represented by the concept of *āsava*, influx. Sensuality, *kāma*, existence, *bhava*, views, *diṭṭhi* and ignorance, *avijjā*, are referred to as "influxes", *āsavā*, or "floods", *oghā*. These are the four kinds of *samsāric* habits that continuously flow into the minds of beings.
 
-The above mentioned *sutta* passage refers to a place steadied whereon the tides of imaginings do not occur or flow in, a place that is free from their 'influence'. This is none other than *Nibbāna*, for which one of the epithets used is *dīpa*, or island.[[490\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn490) 
+The above mentioned *sutta* passage refers to a place steadied whereon the tides of imaginings do not occur or flow in, a place that is free from their 'influence'. This is none other than *Nibbāna*, for which one of the epithets used is *dīpa*, or island.[^490] 
 
 Since *Nibbāna* is called an island, some might take it literally to mean some sort of a place in this world. In fact, this is the general concept of *Nibbāna* some are prone to uphold in their interpretation of *Nibbāna*.
 
@@ -192,7 +192,7 @@ But why it is called an island is clearly explained for us by a discourse in the
 
 *Tvañca me dīpam akkhāhi*
 
-*yathayidaṃ nāparaṃ siyā*.[[491\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn491)
+*yathayidaṃ nāparaṃ siyā*.[^491]
 
 "To them that stand midstream,
 
@@ -214,7 +214,7 @@ And this is the Buddha's reply to it:
 
 *'nibbānam' iti naṃ brūmi*
 
-*jarāmaccuparikkhayaṃ.*[[492\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn492)
+*jarāmaccuparikkhayaṃ.*[^492]
 
 "Owning naught, grasping naught,
 
@@ -230,7 +230,7 @@ It is indubitably clear, then, that the epithet *dīpaṃ*, or island, has to be
 
 Though we have yet to finish the discussion of the *Dhatuvibhaṅgasutta*, the stage is already set now to understand the significance of a certain brief discourse in the *Udāna*, which is very often quoted in discussions on *Nibbāna*. For facility of understanding, we shall take it up now, as it somehow fits into the context.
 
-*Atthi, bhikkhave, ajātaṃ abhūtaṃ akataṃ asaṅkhataṃ. No ce taṃ, bhikkhave, abhavissa ajātaṃ abhūtaṃ akataṃ asaṅkhataṃ, nayidha jātassa bhūtassa katassa saṅkhatassa nissaraṇaṃ paññāyetha. Yasmā ca kho, bhikkhave, atthi ajātaṃ abhūtaṃ akataṃ asaṅkhataṃ, tasmā jātassa bhūtassa katassa saṅkhatassa nissaraṇaṃ paññāyati*.[[493\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn493)
+*Atthi, bhikkhave, ajātaṃ abhūtaṃ akataṃ asaṅkhataṃ. No ce taṃ, bhikkhave, abhavissa ajātaṃ abhūtaṃ akataṃ asaṅkhataṃ, nayidha jātassa bhūtassa katassa saṅkhatassa nissaraṇaṃ paññāyetha. Yasmā ca kho, bhikkhave, atthi ajātaṃ abhūtaṃ akataṃ asaṅkhataṃ, tasmā jātassa bhūtassa katassa saṅkhatassa nissaraṇaṃ paññāyati*.[^493]
 
 "Monks, there is a not-born, a not-become, a not-made, a not-compounded. Monks, if that not-born, not-become, not-made, not-compounded were not, there would be no stepping out here from what is born, become, made and compounded. But since, monks, there is a not-born, a not-become, a not-made, a not-compounded, therefore there is a stepping out from what is born, become, made and compounded."
 
@@ -248,7 +248,7 @@ Existence is a conceit deep rooted in the mind, which gives rise to a heap of pe
 
 Let us now come back to the *Dhatuvibhaṅgasutta* to discuss another facet of it. We started our discussion with the grand finale of that discourse, because of its relevance to the question of *maññanā*. However, as a matter of fact, this discourse preached by the Buddha to the Venerable *Pukkusāti* is an exposition of a systematic path of practice for the emancipation of the mind from imaginings or *maññanā*.
 
-The discourse begins with the declaration *chadhāturo ayaṃ, bhikkhu, puriso*, "monk, man as such is a combination of six elements".[[494\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn494) The worldling thinks that a being, *satta* (Sanskrit *sattva*), exists at a higher level of reality than inanimate objects.
+The discourse begins with the declaration *chadhāturo ayaṃ, bhikkhu, puriso*, "monk, man as such is a combination of six elements".[^494] The worldling thinks that a being, *satta* (Sanskrit *sattva*), exists at a higher level of reality than inanimate objects.
 
 Now what did the Buddha do to explode this concept of a being in his discourse to Venerable *Pukkusāti*? He literally thrashed out that concept, by breaking up this 'man' into his basic elements and defining him as a bundle of six elements, namely earth, water, fire, air, space and consciousness.  
 
@@ -258,7 +258,7 @@ The meditation subject of elements, which grew in complexity at the hands of lat
 
 For instance in describing the earth element, the Buddha gives as examples of the internal earth element such parts of the body as head hairs, body hairs, nails and teeth. Because the external earth element hardly needs illustration, nothing in particular has been mentioned as to that aspect. Anyone can easily understand what is meant by it. There is no attempt at atomistic analysis.
 
-However, the Buddha draws special attention to a certain first principle of great significance. *Yā c'eva kho pana ajjhattikā paṭhavīdhātu, yā ca bāhirā paṭhavīdhātu, paṭhavīdhātur ev'esā. Taṃ n'etaṃ mama, n'eso ham asmi, na me so attā ti evam etaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ. Evam etaṃ yathābhūtaṃ sammappaññāya disvā paṭhavīdhātuyā nibbindati, paṭhavīdhātuyā cittaṃ virājeti*.[[495\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn495)
+However, the Buddha draws special attention to a certain first principle of great significance. *Yā c'eva kho pana ajjhattikā paṭhavīdhātu, yā ca bāhirā paṭhavīdhātu, paṭhavīdhātur ev'esā. Taṃ n'etaṃ mama, n'eso ham asmi, na me so attā ti evam etaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ. Evam etaṃ yathābhūtaṃ sammappaññāya disvā paṭhavīdhātuyā nibbindati, paṭhavīdhātuyā cittaṃ virājeti*.[^495]
 
 "That which is the internal earth element, and that which is the external earth element, they are both just the earth element itself. And that should be seen as it is with right wisdom, thus: 'this is not mine', 'I am not this', 'this is not my self'. Having seen thus with right wisdom as it is, he becomes dejected with the earth element, he detaches his mind from the earth element."
 
@@ -266,7 +266,7 @@ It is this first principle that is truly important and not any kind of atomic th
 
 Now in the case of a vortex, what is found inside and outside is simply water. But all the same there is such a vehement speed and activity and a volley of changes going on there. So it is the case with this 'man'. What is found in his body is the earth element. What is to be found outside is also the earth element. And yet, the ordinary person sees quite a wide disparity between the two. Why is that? That is because of the illusory nature of consciousness.
 
-We have devoted a number of sermons to explain the relationship between consciousness and name-and-form. We happened to speak of name-and-form as a reflection or a self-image.[[496\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn496) Even as one who comes before a mirror, on seeing his reflection on it, would say: 'this is mine', 'this am I', 'this is my self', the worldling is in the habit of entertaining cravings, conceits and views.
+We have devoted a number of sermons to explain the relationship between consciousness and name-and-form. We happened to speak of name-and-form as a reflection or a self-image.[^496] Even as one who comes before a mirror, on seeing his reflection on it, would say: 'this is mine', 'this am I', 'this is my self', the worldling is in the habit of entertaining cravings, conceits and views.
 
 In fact the purpose of cravings, conceits and views is to reinforce the distinction between an internal and an external. Already when one says 'this is mine', one discriminates between the 'this' and 'I', taking them to be separate realities. 'This am I' and 'this is my self' betray the same tacit assumption.
 
@@ -282,7 +282,7 @@ The fact that with the resolution of this conflict between the internal and the 
 
 *ajjhattikān' eva ca bāhirāni ca*
 
-*samaṃ tuleyyaṃ, tad idaṃ kadā me*?[[497\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn497)
+*samaṃ tuleyyaṃ, tad idaṃ kadā me*?[^497]
 
 This verse gives expression to Venerable *Tālapuṭa Thera's* aspiration to become an *arahant*. It says:
 
@@ -298,7 +298,7 @@ It is at the stage of *arahant*-hood that the internal and the external appear a
 
 *Tiṇakaṭṭhasamaṃ lokaṃ,*
 
-*yadā paññāya passati*.[[498\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn498)
+*yadā paññāya passati*.[^498]
 
 "When one sees through wisdom,
 
@@ -308,19 +308,19 @@ The comparison is between the internal world of the five aggregates, or this con
 
 Just as in the case of the four elements earth, water, fire and air, the Buddha pointed out a way of liberating one's mind from the space element with the help of similar illustrations. In explaining the space element, too, he gave easily intelligible examples.
 
-The internal space element is explained in terms of some apertures in the body that are well known, namely those in the ears, nose and the mouth.[[499\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn499) Apart from such instances, he did not speak of any microscopic space element, as in scientific explanations, probably because it is irrelevant. Such an analysis is irrelevant for this kind of reflection.
+The internal space element is explained in terms of some apertures in the body that are well known, namely those in the ears, nose and the mouth.[^499] Apart from such instances, he did not speak of any microscopic space element, as in scientific explanations, probably because it is irrelevant. Such an analysis is irrelevant for this kind of reflection.
 
-Here we have to bear in mind the fact that perception as such is a mirage.[[500\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn500) However far one may go on analysing, form and space are relative to each other like a picture and its background. A picture is viewed against its background, which is relative to it. So also are these two concepts of form and space. Consciousness provides the framework for the entire picture.
+Here we have to bear in mind the fact that perception as such is a mirage.[^500] However far one may go on analysing, form and space are relative to each other like a picture and its background. A picture is viewed against its background, which is relative to it. So also are these two concepts of form and space. Consciousness provides the framework for the entire picture.
 
 By way of clarification we may allude to the pre-Buddhistic attempts of Yogins to solve this problem, solely through the method of serenity, *samatha*, ignoring the method of insight, *vipassanā*. The procedure they followed was somewhat on these lines:
 
-They would first of all surmount the concept of form or matter through the first four mental absorptions, or *jhānas*. Then as they inclined towards the formless, what confronted them first was space. A very appropriate illustration in this context would be the method of removing the sign of the *kasiṇa* and attending to the space left by that removal as 'infinite' or 'boundless', in order to arouse the base of infinity of space.[[501\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn501)
+They would first of all surmount the concept of form or matter through the first four mental absorptions, or *jhānas*. Then as they inclined towards the formless, what confronted them first was space. A very appropriate illustration in this context would be the method of removing the sign of the *kasiṇa* and attending to the space left by that removal as 'infinite' or 'boundless', in order to arouse the base of infinity of space.[^501]
 
 This mode of contemplation of space betrays the fact that space is also something made up, or prepared, *saṅkhata*. Whatever is prepared, *saṅkhata*, is thought out and mind made, *abhisaṅkhataṃ abhisañcetayitaṃ.*
 
-The Buddha proclaimed that there is only one *asaṅkhata*, unprepared, that is *Nibbāna*.[[502\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn502) But later philosophers confounded the issue by taking space also to be *asaṅkhata*.[[503\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn503) They seem to have ignored its relation to the mind in regarding causes and conditions as purely external things.
+The Buddha proclaimed that there is only one *asaṅkhata*, unprepared, that is *Nibbāna*.[^502] But later philosophers confounded the issue by taking space also to be *asaṅkhata*.[^503] They seem to have ignored its relation to the mind in regarding causes and conditions as purely external things.
 
-Here we see the relativity between form and space. Like the picture and its background, form and space stand relative to each other. All this is presented to us by attention, *manasikārasambhavā sabbe dhammā*, [[504\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn504) "all things originate from attention".
+Here we see the relativity between form and space. Like the picture and its background, form and space stand relative to each other. All this is presented to us by attention, *manasikārasambhavā sabbe dhammā*, [^504] "all things originate from attention".
 
 Some of the later speculations about the nature of the space element are not in consonance with the basic principles outlined in the *Dhamma*. Such confusion arose probably due to a lack of understanding of the term *asaṅkhata*.
 
@@ -332,7 +332,7 @@ Now that the five elements earth, water, fire, air and space, which create discr
 
 The sage who has arrived at this stage of progress on the path to *Nibbāna* takes the next step by observing these three kinds of feelings, pleasant, unpleasant and neither-unpleasant-nor-pleasant, as they arise and cease dependent on specific contacts, thereby gradually bringing the mind to equanimity.
 
-He brings his mind to a stage of radiant equanimity. But even this equanimity he does not grasp by way of me-thinking or imagining. The phrase used in this connection is *visaṃyutto naṃ vedeti*, "being detached he experiences it".[[505\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn505) There is a detachment, an aloofness, even in going through those sensations. This is clearly expressed in that context.
+He brings his mind to a stage of radiant equanimity. But even this equanimity he does not grasp by way of me-thinking or imagining. The phrase used in this connection is *visaṃyutto naṃ vedeti*, "being detached he experiences it".[^505] There is a detachment, an aloofness, even in going through those sensations. This is clearly expressed in that context.
 
 For instance, in the case of a pleasant feeling, it is said: *aniccā ti pajānāti, anajjhositā ti pajānāti, anabhinanditā ti pajānāti*, "he understands it to be impermanent, he understands it to be uninvolved, he understands it to be unrejoiced". With the understanding of impermanence, conceit goes down. The non-involvement does away with the views. The absence of rejoicing suggests the extinction of craving.
 
@@ -342,7 +342,7 @@ The term *visaṃyutto* connotes disjunction, suggestive of dispassion and detac
 
 In some contexts, this practice of desisting from me-thinking or imagining is called *atammayatā*, non-identification. This is the term used by the Buddha throughout the *Sappurisasutta* of the *Majjhima Nikāya*. For instance we read there:
 
-*Sappuriso ca kho, bhikkhave, iti paṭisañcikkhati: nevasaññānāsaññāyatanasamāpattiyā pi kho atammayatā vuttā Bhagavatā. Yena yena hi maññanti, tato taṃ hoti aññathā ti*.[[506\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn506) "The good man reflects thus: the principle of non-identification has been recommended by the Buddha even with regard to the attainment of the sphere of neither-perception-nor-non-perception thus: in whatever way they imagine about it, thereby it turns otherwise."
+*Sappuriso ca kho, bhikkhave, iti paṭisañcikkhati: nevasaññānāsaññāyatanasamāpattiyā pi kho atammayatā vuttā Bhagavatā. Yena yena hi maññanti, tato taṃ hoti aññathā ti*.[^506] "The good man reflects thus: the principle of non-identification has been recommended by the Buddha even with regard to the attainment of the sphere of neither-perception-nor-non-perception thus: in whatever way they imagine about it, thereby it turns otherwise."
 
 The 'good man' referred to here is the noble disciple on the supramundane path.
 
@@ -360,7 +360,7 @@ The *arahant* is called *atammayo* in the sense that he does not identify himsel
 
 *sa tādiso lokavidū sumedho*
 
-*sabbesu dhammesu atammayo muni.*[[507\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn507)
+*sabbesu dhammesu atammayo muni.*[^507]
 
 "That ardent sage who has touched the extinction of birth,
 
@@ -378,11 +378,11 @@ The Buddha, however, seemed not so responsive, when he remarked: "Now it is unti
 
 *Bāhiya* repeated his request for the second time, adding: "I do not know whether there will be a danger to the Exalted One's life or to my own life." For the second time the Buddha refused.
 
-It was when *Bāhiya* made his request for the third time that the Buddha acceded to it by giving a terse discourse, *saṅkhitta Dhammadesanā*, of extraordinary depth. The exhortation, brief and deep as it is, was quite apt, since *Bāhiya Dārucīriya* belonged to that rare category of persons with quick understanding, *khippābhiññā*.[[508\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn508)
+It was when *Bāhiya* made his request for the third time that the Buddha acceded to it by giving a terse discourse, *saṅkhitta Dhammadesanā*, of extraordinary depth. The exhortation, brief and deep as it is, was quite apt, since *Bāhiya Dārucīriya* belonged to that rare category of persons with quick understanding, *khippābhiññā*.[^508]
 
 *Tasmātiha te, Bāhiya, evaṃ sikkhitabbaṃ: diṭṭhe diṭṭhamattaṃ bhavissati, sute sutamattaṃ bhavissati, mute mutamattaṃ bhavissati, viññāte viññātamattaṃ bhavissati. Evaṃ hi te, Bāhiya,, sikkhitabbaṃ.*
 
-*Yato kho te, Bāhiya, diṭṭhe diṭṭhamattaṃ bhavissati, sute sutamattaṃ bhavissati, mute mutamattaṃ bhavissati, viññāte viññātamattaṃ bhavissati, tato tvaṃ Bāhiya na tena. Yato tvaṃ Bāhiya na tena, tato tvaṃ Bāhiya na tattha. Yato tvaṃ Bāhiya na tattha, tato tvaṃ Bāhiya nev'idha na huraṃ na ubhayamantarena. Es'ev'anto dukkhassa*.[[509\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn509)
+*Yato kho te, Bāhiya, diṭṭhe diṭṭhamattaṃ bhavissati, sute sutamattaṃ bhavissati, mute mutamattaṃ bhavissati, viññāte viññātamattaṃ bhavissati, tato tvaṃ Bāhiya na tena. Yato tvaṃ Bāhiya na tena, tato tvaṃ Bāhiya na tattha. Yato tvaṃ Bāhiya na tattha, tato tvaṃ Bāhiya nev'idha na huraṃ na ubhayamantarena. Es'ev'anto dukkhassa*.[^509]
 
 No sooner had the Buddha finished his exhortation, the ascetic *Bāhiya* attained *arahant*-hood then and there. Let us now try to unravel the meaning of this abstruse discourse.
 
@@ -402,7 +402,7 @@ This kind of imagining 'in terms of' is indicated by the elliptical *tena*, for 
 
 *Dhono na hi tena maññati*
 
-*yad idaṃ diṭṭhasutaṃ mutesu vā*.[[510\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn510)
+*yad idaṃ diṭṭhasutaṃ mutesu vā*.[^510]
 
 *Dhona* is a term for the *arahant* as one who has "shaken off" all defilements. So these lines could be rendered as follows:
 

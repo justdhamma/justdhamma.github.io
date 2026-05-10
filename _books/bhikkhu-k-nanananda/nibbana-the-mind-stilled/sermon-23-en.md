@@ -26,7 +26,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
  
 
-*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[[753\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn753)
+*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[^753]
 
 "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction."
 
@@ -44,7 +44,7 @@ To remind ourselves of the relevant section of that quotation, we may hark back 
 
 *Loke samaññaṃ kusalo viditvā,*
 
-*Vohāramattena so vohareyya.*[[754\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn754)
+*Vohāramattena so vohareyya.*[^754]
 
 "He might still say: 'I speak',
 
@@ -64,7 +64,7 @@ Of course there is no explicit reference to such a fire ordeal in the discourses
 
 *Vidhūpayaṃ tiṭṭhati Mārasenaṃ,*
 
-*Suriyo 'va obhāsayam antalikkhaṃ*.[[755\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn755)
+*Suriyo 'va obhāsayam antalikkhaṃ*.[^755]
 
 "When *dhammas* manifest themselves,
 
@@ -76,7 +76,7 @@ Like the sun irradiating the firmament."
 
 The dispelling of the hordes of *Māra* is rather suggestive of a smoking out. In some other discourses, this verb *vidhūpeti* is found contrasted with *sandhūpeti*. The meaning of both these verbs, which have the *dhūpa* element in common, is not quite clear. It is likely that the two words imply two functions of the ritual associated with incense. While some fragrant kinds of incense are used for propitiating benevolent spirits, certain caustic types are utilized for exorcising evil spirits.
 
-For instance in the *Khajjanīyasutta* of the *Saṃyutta Nikāya*, with reference to the noble disciple, the phrase *vidhūpeti na sandhūpeti* occurs.[[756\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn756) Since the implicit reference is again to the hordes of *Māra*, the phrase could be rendered as "he exorcises and does not propitiate".
+For instance in the *Khajjanīyasutta* of the *Saṃyutta Nikāya*, with reference to the noble disciple, the phrase *vidhūpeti na sandhūpeti* occurs.[^756] Since the implicit reference is again to the hordes of *Māra*, the phrase could be rendered as "he exorcises and does not propitiate".
 
 The ordinary worldling's mode of recognition of the *Tathāgata* is comparable to the recognition of a vortex that has already ceased with the help of the flotsam and jetsam lightly floating around it. Even after the vortex has ceased, flotsam and jetsam could still go on rotating, giving the wrong impression that the vortex is still there. If one understands that the vortex has actually ceased deep down at its centre, and that what remains there, now, is the great ocean, undifferentiated and unique, one can get rid of the unfounded fear arising from the statement that there is no *Tathāgata* in truth and fact.
 
@@ -108,7 +108,7 @@ This idea comes up, for instance, in the section on flowers in the *Dhammapada*.
 
 *atirocati paññāya,*
 
-*sammāsambuddhasāvako.*[[757\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn757)
+*sammāsambuddhasāvako.*[^757]
 
 "As on top of a rubbish heap,
 
@@ -128,9 +128,9 @@ In point of wisdom bright."
 
 So, then, the *arahant* is that charming lotus, arising out of the cesspool of *saṃsāra*. Surely there cannot be anything frightful about it. There is nothing to get scared about this prospect.
 
-In our last sermon we quoted from a discourse that gives some new definitions and new concepts of the world.[[758\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn758) We brought up two statements from the *Lokakāmaguṇasutta* (No. 1) of the *Saḷāyatanavagga* in the *Saṃyutta Nikāya*. The first statement is somewhat riddle-like. There the Buddha addresses the monks and declares:
+In our last sermon we quoted from a discourse that gives some new definitions and new concepts of the world.[^758] We brought up two statements from the *Lokakāmaguṇasutta* (No. 1) of the *Saḷāyatanavagga* in the *Saṃyutta Nikāya*. The first statement is somewhat riddle-like. There the Buddha addresses the monks and declares:
 
-*Nāhaṃ, bhikkhave, gamanena lokassa antaṃ ñātayyaṃ, daṭṭhayyaṃ, pattayyan'ti vadāmi. Na ca panāhaṃ, bhikkhave, appatvā lokassa antaṃ dukkhassa antakiriyaṃ vadāmi*.[[759\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn759)
+*Nāhaṃ, bhikkhave, gamanena lokassa antaṃ ñātayyaṃ, daṭṭhayyaṃ, pattayyan'ti vadāmi. Na ca panāhaṃ, bhikkhave, appatvā lokassa antaṃ dukkhassa antakiriyaṃ vadāmi*.[^759]
 
 "Monks, I do not say that by travelling one can come to know or see or reach the end of the world. Nor do I say that without reaching the end of the world one can put an end to suffering."
 
@@ -152,7 +152,7 @@ The six sense-bases are therefore so many scales of measurement. It is with the 
 
 This does not amount to a negation of the role of materiality. All we mean to say is that the concept of the world is actually an outcome of these six sense bases. To that extent it is something prepared, a thought-construct.
 
-While discussing the ten indeterminate points on a previous occasion, we happened to mention that the first four among them concern the world.[[760\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn760)
+While discussing the ten indeterminate points on a previous occasion, we happened to mention that the first four among them concern the world.[^760]
 
 1. "The world is eternal".
 2. "The world is not eternal".
@@ -169,9 +169,9 @@ The ordinary concept of the world carries with it the same fallacy. The worldlin
 
 Whether such a world is eternal or not, is the point at issue in the case of the first set of questions mentioned above, while the next set poses the dilemma whether it is finite or infinite. What is at the root of all those ill-conceived notions, is the premise that it is possible to posit an absolute existence or an absolute non-existence. In other words, the two extreme views 'everything exists' and 'nothing exists'.
 
-The unique norm of dependent arising, which the Buddha discovered, dismisses both those extreme views. It is set forth in the *Kaccāyanagottasutta* of the *Nidānasaṃyutta* in the *Saṃyutta Nikāya*, which we have quoted earlier too.[[761\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn761) We shall, however, bring up again the relevant section to elucidate this point.
+The unique norm of dependent arising, which the Buddha discovered, dismisses both those extreme views. It is set forth in the *Kaccāyanagottasutta* of the *Nidānasaṃyutta* in the *Saṃyutta Nikāya*, which we have quoted earlier too.[^761] We shall, however, bring up again the relevant section to elucidate this point.
 
-*Dvayanissito khvāyaṃ, Kaccāyana, loko yebhuyyena: atthitañceva natthitañca. Lokasamudayaṃ kho, Kaccāyana, yathābhūtaṃ sammappaññāya passato yā loke natthitā sā na hoti. Lokanirodhaṃ kho, Kaccāyana, yathābhūtaṃ sammappaññāya passato yā loke atthitā sā na hoti*.[[762\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn762)
+*Dvayanissito khvāyaṃ, Kaccāyana, loko yebhuyyena: atthitañceva natthitañca. Lokasamudayaṃ kho, Kaccāyana, yathābhūtaṃ sammappaññāya passato yā loke natthitā sā na hoti. Lokanirodhaṃ kho, Kaccāyana, yathābhūtaṃ sammappaññāya passato yā loke atthitā sā na hoti*.[^762]
 
 "This world, *Kaccāyana*, for the most part, bases its views on two things: on existence and non-existence. Now, *Kaccāyana*, to one who with right wisdom sees the arising of the world as it is, the view of non-existence regarding the world does not occur. And to one who with right wisdom sees the cessation of the world as it really is, the view of existence regarding the world does not occur."
 
@@ -199,7 +199,7 @@ This discourse is about two *Lokāyatikābrāhmins.* The term *Lokāyatika* is a
 
 "Sire Gotama, now there is this teacher *Pūraṇa Kassapa* who claims omniscience, saying that he sees everything and has knowledge and vision of everything while walking or standing, whether asleep or awake. With these claims to omniscience, he makes the following declaration:"
 
-*Ahaṃ anantena ñāṇena anantaṃ lokaṃ jānaṃ passaṃ viharāmi*.[[763\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn763) "I dwell knowing and seeing an infinite world with an infinite knowledge."
+*Ahaṃ anantena ñāṇena anantaṃ lokaṃ jānaṃ passaṃ viharāmi*.[^763] "I dwell knowing and seeing an infinite world with an infinite knowledge."
 
 "But then there is this teacher *Nigaṇṭha Nāthaputta* who also has similar claims to omniscience, but declares: *Ahaṃ antavantena ñāṇena antavantaṃ lokaṃ jānaṃ passaṃ viharāmi*. "I dwell knowing and seeing a finite world with a finite knowledge."
 
@@ -229,15 +229,15 @@ Going by these discourses, one might conclude that the cessation of perceptions 
 
 This fact comes to light in the following answer of Venerable *Dhammadiṇṇā Therī* to the question raised by the lay-follower *Visākha*, her former husband, in the *Cūḷavedalla Sutta*.
 
-*Saññāvedayitanirodhasamāpattiyā vuṭṭhitaṃ, kho āvuso Visākha, bhikkhuṃ tayo phassā phusanti: suññato phasso, animitta phasso, appaṇihito phasso.*[[764\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn764) "Friend Visākha, when a monk has emerged from the attainment of the cessation of perceptions and feelings, three kinds of contact touch him: voidness contact, signless contact, desireless contact."
+*Saññāvedayitanirodhasamāpattiyā vuṭṭhitaṃ, kho āvuso Visākha, bhikkhuṃ tayo phassā phusanti: suññato phasso, animitta phasso, appaṇihito phasso.*[^764] "Friend Visākha, when a monk has emerged from the attainment of the cessation of perceptions and feelings, three kinds of contact touch him: voidness contact, signless contact, desireless contact."
 
-On this point, the commentary too, gives the explanation *suññatā nāma phalasamāpatti*,[[765\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn765) "'voidness' means the attainment of the fruit of *arahant-*hood".
+On this point, the commentary too, gives the explanation *suññatā nāma phalasamāpatti*,[^765] "'voidness' means the attainment of the fruit of *arahant-*hood".
 
 In answer to another question, Venerable *Dhammadiṇṇā Therī* says, *Saññāvedayitanirodhasamāpattiyā vuṭṭhitassa, kho āvuso Visākha, bhikkhuno vivekaninnaṃ cittaṃ hoti vivekapoṇaṃ vivekapabbhāraṃ*, "Friend Visākha, when a monk has emerged from the attainment of the cessation of perceptions and feelings, his mind inclines to seclusion, slants to seclusion, tends to seclusion".
 
 Here the commentary explains *nibbānaṃ viveko nāma*, "what is called seclusion is *Nibbāna*".
 
-So it is on emerging from the attainment of the cessation of perceptions and feelings, that is in the *arahattaphalasamādhi*, references to which we have cited earlier,[[766\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn766) that *Nibbāna* is realized. It is then that one actually sees the end of the world.
+So it is on emerging from the attainment of the cessation of perceptions and feelings, that is in the *arahattaphalasamādhi*, references to which we have cited earlier,[^766] that *Nibbāna* is realized. It is then that one actually sees the end of the world.
 
 So from this we can well infer that in advancing a new definition of the world, in introducing a new concept of the world, the Buddha was not trying to sidetrack the moot point of the worldlings by bringing in something totally irrelevant. He was simply rejecting for some sound reason the worldlings' concept of the world, which is born of wrong reflection, and illustrating the correct measuring rod, the true criterion of judgement regarding the origin of the concept of the world according to radical reflection.
 
@@ -245,7 +245,7 @@ Out of all the discourses dealing with the question of the end of the world and 
 
 The Buddha replies: "Where, friend, one does not get born, nor grow old, nor die, nor pass away, nor get reborn, that end of the world, I say, one is not able by travelling to come to know or to see or to arrive at."
 
-When the Buddha gave this brief answer, the deity *Rohitassa* praised him with the following words of approbation: *Acchariyaṃ bhante, abbhutaṃ bhante, yāva subhāsitam idaṃ bhagavatā*,[[767\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn767) "it is wonderful, Lord, it is marvellous, Lord, how well it is said by the Exalted One."
+When the Buddha gave this brief answer, the deity *Rohitassa* praised him with the following words of approbation: *Acchariyaṃ bhante, abbhutaṃ bhante, yāva subhāsitam idaṃ bhagavatā*,[^767] "it is wonderful, Lord, it is marvellous, Lord, how well it is said by the Exalted One."
 
 Why did he express his approbation? Because he had already realized the truth of the Buddha's statement by his own experience. Then he goes on to relate the whole story of his past life.
 
@@ -263,7 +263,7 @@ This momentous declaration, which is comparable to a fearless lion's roar that p
 
 Such misinterpretations are the result of taking seriously various far-fetched speculations of later origin about *Nibbāna*. According to them, *Nibbāna* is some mysterious non-descript place of rest for the *arahants* after their demise. One who goes by that kind of speculation is not ready to accept the Buddha's declaration that it is in this very fathom-long body with its perceptions and mind that a cessation of the world can be realized.
 
-The commentary in this context simply observes that the four noble truths are to be found not in grass and twigs outside, but in this body consisting of the four elements.[[768\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn768) It has nothing more to add. A certain modern scholar has rightly pointed out that the commentator has missed a great opportunity for exegesis.[[769\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn769) The reason for the commentator's lack of interest, in the case of such a discourse of paramount importance, is probably his predilection for these later speculations on *Nibbāna*.
+The commentary in this context simply observes that the four noble truths are to be found not in grass and twigs outside, but in this body consisting of the four elements.[^768] It has nothing more to add. A certain modern scholar has rightly pointed out that the commentator has missed a great opportunity for exegesis.[^769] The reason for the commentator's lack of interest, in the case of such a discourse of paramount importance, is probably his predilection for these later speculations on *Nibbāna*.
 
 All what we have so far stated in explaining the significance of discourses dealing with the subject of *Nibbāna*, could even be treated as a fitting commentary to the *Rohitassasutta*.
 
@@ -273,15 +273,15 @@ As we saw above, Venerable *Ānanda* defines the term 'world' as follows: *yena 
 
 While discussing the significance of *arahattaphalasamāpatti*, also known as *aññāphalasamādhi*, and *aññāvimokkha*, we had occasion to bring up such quotations as the following:
 
-*Siyā nu kho, bhante, bhikkhuno tathārūpo samādhipaṭilābho yathā neva paṭhaviyaṃ paṭhavīsaññī assa, na āpasmiṃ āposaññī assa, na tejasmiṃ tejosaññī assa, na vāyasmiṃ vāyosaññī assa, na ākāsānañcāyatane ākāsānañcāyatanasaññī assa, na viññāṇañcāyatane viññāṇancāyatanasaññī assa, na ākiñcaññāyatane ākiñcaññāyatanasaññī assa, na nevasaññānāsaññāyatane nevasaññānāsaññāyatanasaññī assa, na idhaloke idhalokasaññī assa, na paraloke paralokasaññī assa, yam p'idaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā tatrāpi na saññī assa, saññī ca pana assa?*[[770\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn770)
+*Siyā nu kho, bhante, bhikkhuno tathārūpo samādhipaṭilābho yathā neva paṭhaviyaṃ paṭhavīsaññī assa, na āpasmiṃ āposaññī assa, na tejasmiṃ tejosaññī assa, na vāyasmiṃ vāyosaññī assa, na ākāsānañcāyatane ākāsānañcāyatanasaññī assa, na viññāṇañcāyatane viññāṇancāyatanasaññī assa, na ākiñcaññāyatane ākiñcaññāyatanasaññī assa, na nevasaññānāsaññāyatane nevasaññānāsaññāyatanasaññī assa, na idhaloke idhalokasaññī assa, na paraloke paralokasaññī assa, yam p'idaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā tatrāpi na saññī assa, saññī ca pana assa?*[^770]
 
 "Could there be, Lord, for a monk such an attainment of concentration wherein he will not be conscious (literally: 'percipient') of earth in earth, nor of water in water, nor of fire in fire, nor of air in air, nor will he be conscious of the sphere of infinite space in the sphere of infinite space, nor of the sphere of infinite consciousness in the sphere of infinite consciousness, nor of the sphere of nothingness in the sphere of nothingness, nor of the sphere of neither-perception-nor-non-perception in the sphere of neither-perception-nor-non-perception, nor will he be conscious of a this world in this world, nor of a world beyond in a world beyond, whatever is seen, heard, sensed, cognized, attained, sought after, traversed by the mind, even of that he will not be conscious - and yet he will be conscious?"
 
 The *arahattaphalasamādhi* is so extraordinary that while in it one has no perception of earth, water, fire and air, or of this world, or of the other world, of whatever is seen, heard, sensed and cognized, but one is all the same percipient or conscious, *saññī ca pana assa*.
 
-To the question: 'Of what is he percipient?', *kiṃ saññī*?, once Venerable *Sāriputta* gave the answer that the perception is of *Nibbāna* as the cessation of existence, *bhavanirodho nibbānaṃ*. [[771\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn771)
+To the question: 'Of what is he percipient?', *kiṃ saññī*?, once Venerable *Sāriputta* gave the answer that the perception is of *Nibbāna* as the cessation of existence, *bhavanirodho nibbānaṃ*. [^771]
 
-In another discourse that we happened to quote, the mode of questioning has the following sequence: "Could there be, Lord, for a monk such an attainment of concentration wherein he will not be attending to the eye, nor to form, nor to the ear, nor to sound" etc., but ends with the riddle like phrase "and yet he will be attending", *manasi ca pana kareyya*. [[772\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn772)
+In another discourse that we happened to quote, the mode of questioning has the following sequence: "Could there be, Lord, for a monk such an attainment of concentration wherein he will not be attending to the eye, nor to form, nor to the ear, nor to sound" etc., but ends with the riddle like phrase "and yet he will be attending", *manasi ca pana kareyya*. [^772]
 
 When the Buddha grants the possibility of such a concentration, Venerable *Ānanda* rejoins with an inquisitive "how could there be, Lord?", and the Buddha explains that what a monk attends to while in that attainment could be summed up in the stereotyped phrase:
 
@@ -291,9 +291,9 @@ It is *Nibbāna*, then, that one attends to while in that attainment. So we find
 
 Therefore, *Nibbāna* is not an experience as dry as a log of wood, but a state of serene awareness of its true significance. It is a transcendence of the world by realization of its cessation. That is why the two words *sasaññimhi samanake*, "with its perceptions and mind", have been used to qualify, *kaḷevare*, "physical frame", or "body", in the momentous declaration.
 
-We also came across some instances in the discourses where the Buddha calls the cessation of the six sense-spheres itself *Nibbāna*. The most notable instance is perhaps the *Kāmaguṇasutta* we had already quoted.[[773\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn773) As we saw, even its presentation is rather enigmatic. It runs.
+We also came across some instances in the discourses where the Buddha calls the cessation of the six sense-spheres itself *Nibbāna*. The most notable instance is perhaps the *Kāmaguṇasutta* we had already quoted.[^773] As we saw, even its presentation is rather enigmatic. It runs.
 
-*Tasmātiha, bhikkhave, se āyatane veditabbe yattha cakkhuñca nirujjhati rūpasaññā ca virajjati, se āyatane veditabbe yattha sotañca nirujjhati saddasaññā ca virajjati, se āyatane veditabbe yattha ghānañca nirujjhati gandhasaññā ca virajjati, se āyatane veditabbe yattha jivhā ca nirujjhati rasasaññā ca virajjati, se āyatane veditabbe yattha kāyo ca nirujjhati phoṭṭabbasaññā ca virajjati, se āyatane veditabbe yattha mano ca nirujjhati dhammasaññā ca virajjati, se āyatane veditabbe.*[[774\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn774)
+*Tasmātiha, bhikkhave, se āyatane veditabbe yattha cakkhuñca nirujjhati rūpasaññā ca virajjati, se āyatane veditabbe yattha sotañca nirujjhati saddasaññā ca virajjati, se āyatane veditabbe yattha ghānañca nirujjhati gandhasaññā ca virajjati, se āyatane veditabbe yattha jivhā ca nirujjhati rasasaññā ca virajjati, se āyatane veditabbe yattha kāyo ca nirujjhati phoṭṭabbasaññā ca virajjati, se āyatane veditabbe yattha mano ca nirujjhati dhammasaññā ca virajjati, se āyatane veditabbe.*[^774]
 
 "Therefore, monks, that sphere should be known wherein the eye ceases and the perception of forms fades away, the ear ceases and the perception of sounds fades away, the nose ceases and the perception of smells fades away, the tongue ceases and the perception of tastes fades away, the body ceases and the perception of tangibles fades away, the mind ceases and the perception of ideas fades away, that sphere should be known."
 
@@ -309,7 +309,7 @@ Now this world, which is a product of the spheres of sense-contact, is a world o
 
 There is a discourse in the section of the Fours in the *Aṅguttara Nikāya* which clearly brings out this fact. There we find Venerable *Mahākoṭṭhita* putting a question to Venerable *Sāriputta* on this point. Venerable *Mahākoṭṭhita* and Venerable *Sāriputta* are often found discussing intricate points in the *Dhamma*, not because they are in doubt, but in order to clarify matters for us. They are thrashing out problems for our sake. In this particular instance, Venerable *Mahākoṭṭhita* puts the following question to Venerable *Sāriputta*:
 
-*Channaṃ, āvuso, phassāyatanānaṃ asesavirāganirodhā atth'aññaṃ kiñci*?[[775\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn775) "Friend, with the remainderless fading away and cessation of the six spheres of sense-contact, is there something left?"
+*Channaṃ, āvuso, phassāyatanānaṃ asesavirāganirodhā atth'aññaṃ kiñci*?[^775] "Friend, with the remainderless fading away and cessation of the six spheres of sense-contact, is there something left?"
 
 Venerable *Sāriputta's* response was: *Mā hevaṃ āvuso*, "do not say so, friend." Venerable *Mahākoṭṭhita* follows it up with three other possible alternatives, all of which Venerable *Sāriputta* dismisses with the same curt reply. The three alternatives are:
 
@@ -329,7 +329,7 @@ The mode of questioning takes the form of a tetralemma and Venerable *Sāriputta
 
 Friend, whatever is the range of the six spheres of sense-contact, that itself is the range of conceptual proliferation, and whatever is the range of conceptual proliferation, that itself is the range of the six spheres of sense-contact. By the remainderless fading away and cessation of the six spheres of sense-contact, there comes to be the cessation and appeasement of conceptual proliferation."
 
-The commentator gives the following explanation to the expression *atth' aññaṃ kiñci*, "is there something left?": *'tato paraṃ koci appamattako pi kileso atthī'ti pucchati*.[[776\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn776) According to him, Venerable *Mahākoṭṭhita* is asking whether there is even a little defilement left after the cessation of the six spheres of sense-contact. But the question is obviously not about the remaining defilements, in which case even a categorical negative could have been the correct answer. The question here is about the very usage of the expressions 'is' and 'is not'.
+The commentator gives the following explanation to the expression *atth' aññaṃ kiñci*, "is there something left?": *'tato paraṃ koci appamattako pi kileso atthī'ti pucchati*.[^776] According to him, Venerable *Mahākoṭṭhita* is asking whether there is even a little defilement left after the cessation of the six spheres of sense-contact. But the question is obviously not about the remaining defilements, in which case even a categorical negative could have been the correct answer. The question here is about the very usage of the expressions 'is' and 'is not'.
 
 With the cessation of the six spheres of sense-contact all four propositions of the tetralemma, based on the two standpoints 'is' and 'is not', lose their applicability. They are rejected in toto. Here the *papañca*, or "conceptual proliferation", implied, is the very discrimination between 'is' and 'is not'.
 
@@ -337,13 +337,13 @@ The entire world is built up on the two concepts 'is' and 'is not'. Being unawar
 
 Out of the two rapid processes going on within us every moment, namely arising and passing away, we are most of the time dwelling on the side of arising. The two concepts 'is' and 'is not' are structured on the six spheres of sense-contact. Not only 'is' and 'is not', but also the entire logical structure connecting these two postulates is founded on these six spheres. Here, then, we see the fistfuls of inflammable incense powder the Buddha had directed towards language and logic, setting all that ablaze.
 
-What this discourse highlights is the fact that by the very cessation of the six spheres of sense-contact the cessation of conceptual proliferation is brought about. With reference to speculative views, particularly to those wrong views that were put aside as unexplained points, the Buddha uses the term *diṭṭhipariḷāha*, "delirium of views".[[777\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn777) *Pariḷāha* means "delirious fever".
+What this discourse highlights is the fact that by the very cessation of the six spheres of sense-contact the cessation of conceptual proliferation is brought about. With reference to speculative views, particularly to those wrong views that were put aside as unexplained points, the Buddha uses the term *diṭṭhipariḷāha*, "delirium of views".[^777] *Pariḷāha* means "delirious fever".
 
 Patients in delirium cry out for water. The worldlings, in general, are in high delirium. Even such teachers like *Pūraṇa Kassapa* and *Nigaṇṭha Nātaputta*, who were trying to solve these speculative problems about the world by logic, were also in delirium. Their views, based on wrong reflections, were mere hallucinations. They kept on raising such questions, because they had no insight into the nature of *saṅkhāras*, or "preparations".
 
 The worldlings spend their whole lifetime running in search of the world's end. All that is *papañca*, conceptual proliferation. In fact, the term *papañca* is so pervasive in its gamut of meaning that it encompasses the entire world. Usually, the term is glossed over by explaining it with reference to *taṇhā, māna* and *diṭṭhi*, bringing in craving, conceits and views as illustrations of *papañca*. But that does not amount to an explanation proper. It is only a definition in extension by giving three instances of *papañca*. To rattle off the three instances is not a fit answer to the question 'what is *papañca*'.
 
-The primary significance of *papañca* is traceable to the linguistic medium. We have already shown how the network of grammar spreads as soon as the peg 'am' is driven down to earth, as it were.[[778\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn778) The reality in the first person in grammar beckons a second and a third person to complete the picture. In logic, too, a similar legerdemain takes place. The interminable questions of identity and difference lead the logician up the garden path.
+The primary significance of *papañca* is traceable to the linguistic medium. We have already shown how the network of grammar spreads as soon as the peg 'am' is driven down to earth, as it were.[^778] The reality in the first person in grammar beckons a second and a third person to complete the picture. In logic, too, a similar legerdemain takes place. The interminable questions of identity and difference lead the logician up the garden path.
 
 **The 'world' is precariously perched on a fictitious network of grammar and logic**.
 
@@ -369,7 +369,7 @@ Now as to the questions about the world, we have already pointed out that there 
 
 *viññāṇassa nirodhena,*
 
-*etth'etaṃ uparujjhati.*[[779\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn779)
+*etth'etaṃ uparujjhati.*[^779]
 
 "Consciousness, which is non-manifestative,
 
@@ -393,7 +393,7 @@ Here one can see how name-and-form are cut off. *Viññāṇaṃ anidassanaṃ, 
 
 Such relative distinctions as long and short, subtle and gross, have no place in it. Name-and-form cease there, leaving no residue. Like an expert physician, who treats the germ of a disease and immunizes the patient, the Buddha effected a breach in the *saṃsāric* vortex by concentrating on its epicycle within this fathom-long body.
 
-The ever recurrent process of mutual interrelation between consciousness and name-and-form forming the epicycle of the *saṃsāric* vortex was breached. With the cessation of consciousness comes the cessation of name-and-form. With the cessation of name-and-form comes the cessation of consciousness. That is the dictum of the *Naḷakalāpīsutta*.[[780\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn780) Out of the two bundles of reeds left standing, supporting each other, when one is drawn the other falls down. Even so, with the cessation of consciousness comes the cessation of name-and-form. With the cessation of name-and-form comes the cessation of consciousness. That is how the Buddha solved this problem.
+The ever recurrent process of mutual interrelation between consciousness and name-and-form forming the epicycle of the *saṃsāric* vortex was breached. With the cessation of consciousness comes the cessation of name-and-form. With the cessation of name-and-form comes the cessation of consciousness. That is the dictum of the *Naḷakalāpīsutta*.[^780] Out of the two bundles of reeds left standing, supporting each other, when one is drawn the other falls down. Even so, with the cessation of consciousness comes the cessation of name-and-form. With the cessation of name-and-form comes the cessation of consciousness. That is how the Buddha solved this problem.
 
  
 

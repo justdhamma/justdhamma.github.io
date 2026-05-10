@@ -28,7 +28,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
  
 
-*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[[729\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn729)
+*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[^729]
 
 "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction."
 
@@ -44,13 +44,13 @@ This suchness itself indicates the stoppage, the cessation or the subsidence of 
 
 The term *tādī* is also semantically related to this suchness. The *tathāgata* is sometimes referred to as *tādī* or *tādiso*, "such-like". The 'such-like' quality of the *tathāgata* is associated with his unshakeable deliverance of the mind. His mind remains unshaken before the eight worldly vicissitudes.
 
-Why the Buddha refused to give an answer to the tetralemma concerning the after-death state of the *tathāgata*, should be clear to a great extent by those *sutta* quotations we brought up in our last sermon. Since the quotation *diṭṭheva dhamme saccato thetato tathāgate anupalabbhiyamāne,*[[730\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn730) "when a *tathāgata* is not to be found in truth and fact here in this very life", leads to the inference that a *tathāgata* is not to be found in reality even while he is alive, we were forced to conclude that the question 'what happens to the *tathāgata* after his death?' is utterly meaningless.
+Why the Buddha refused to give an answer to the tetralemma concerning the after-death state of the *tathāgata*, should be clear to a great extent by those *sutta* quotations we brought up in our last sermon. Since the quotation *diṭṭheva dhamme saccato thetato tathāgate anupalabbhiyamāne,*[^730] "when a *tathāgata* is not to be found in truth and fact here in this very life", leads to the inference that a *tathāgata* is not to be found in reality even while he is alive, we were forced to conclude that the question 'what happens to the *tathāgata* after his death?' is utterly meaningless.
 
 It is also obvious from the conclusive statement, *pubbe cāhaṃ etarahi ca dukkhañceva paññāpemi dukkhassa ca nirodhaṃ* - "formerly as well as now I make known just suffering and the cessation of suffering" - that the Buddha, in answering this question, completely put aside such conventional terms like 'being' and 'person', and solved the problem on the basis of the four noble truths, which highlight the pure quintessence of the *Dhamma* as it is.
 
 We have to go a little deeper into this question of conventional terms like 'being' and 'person', because the statement that the *tathāgata* does not exist in truth and fact is likely to drive fear into the minds of the generality of people. In our last sermon, we gave a clue to an understanding of the sense in which this statement is made, when we quoted an extraordinary new etymology, the Buddha had advanced, for the term *satta* in the *Rādhasaṃyutta*.
 
-*Rūpe kho, Rādha, yo chando yo rāgo yā nandī yā taṇhā, tatra satto, tatra visatto, tasmā 'satto 'ti vuccati*.[[731\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn731) "*Rādha*, that desire, that lust, that delight, that craving in form with which one is attached and thoroughly attached, therefore is one called a 'being'."
+*Rūpe kho, Rādha, yo chando yo rāgo yā nandī yā taṇhā, tatra satto, tatra visatto, tasmā 'satto 'ti vuccati*.[^731] "*Rādha*, that desire, that lust, that delight, that craving in form with which one is attached and thoroughly attached, therefore is one called a 'being'."
 
 Here the Buddha has punned on the word *satta*, to give a new orientation to its meaning, that is, *rūpe satto visatto*, "attached and thoroughly attached to form".
 
@@ -72,9 +72,9 @@ The untaught worldling is in a similar situation. So long as he is attached to t
 
 The reality of the law of *kamma*, of merit and demerit, follows from that very grasping. The dictum *upādānapaccayā bhavo*, "dependent on grasping is existence", becomes meaningful in this context. There is an existence because there is grasping. But at whatever point of time wisdom dawned and craving faded away, all those things tend to become unreal and there is not even a 'being', as there is no real 'state of being'.
 
-This mode of exposition receives support from the *Kaccāyanagottasutta* of the *Saṃyutta Nikāya*. The way the Buddha has defined right view in that discourse is highly significant. We have already discussed this *sutta* on an earlier occasion.[[732\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn732) Suffice it to remind ourselves of the basic maxim.
+This mode of exposition receives support from the *Kaccāyanagottasutta* of the *Saṃyutta Nikāya*. The way the Buddha has defined right view in that discourse is highly significant. We have already discussed this *sutta* on an earlier occasion.[^732] Suffice it to remind ourselves of the basic maxim.
 
-*'Dukkham eva uppajjamānaṃ uppajjati, dukkhaṃ nirujjhamānaṃ nirujjhatī'ti na kaṅkhati na vicikicchati aparappaccayā ñāṇam ev' assa ettha hoti. Ettāvatā kho, Kaccāyana, sammā diṭṭhi hoti.* [[733\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn733)
+*'Dukkham eva uppajjamānaṃ uppajjati, dukkhaṃ nirujjhamānaṃ nirujjhatī'ti na kaṅkhati na vicikicchati aparappaccayā ñāṇam ev' assa ettha hoti. Ettāvatā kho, Kaccāyana, sammā diṭṭhi hoti.* [^733]
 
 "It is only suffering that arises and suffering that ceases. Understanding thus, one does not doubt, one does not waver, and there is in him only the knowledge that is not dependent on another. It is in so far, *Kaccāyana*, that one has right view."
 
@@ -82,7 +82,7 @@ What is called *aparappaccayā ñāṇa* is that knowledge of realization by one
 
 This supramundane right view brings out the norm of *Dhamma* as it is. Being unable to understand this norm of *Dhamma*, contemporary ascetics and brahmins, and even some monks themselves, accused the Buddha of being an annihilationist. They brought up groundless allegations. There was also the opposite reaction of seeking refuge in a form of eternalism, through fear of being branded as annihilationists.
 
-Sometimes the Buddha answered those wrong accusations in unmistakeable terms. We come across such an instance in the *Alagaddūpama Sutta.* First of all the Buddha qualifies the emancipated one in his dispensation with the terms *ariyo pannaddhajo pannabhāro visaṃyutto*.[[734\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn734) Once the conceit 'am', *asmimāna*, is abandoned, this noble one is called *pannaddhajo*, "one who has put down the flag of conceit". He has "laid down the burden", *pannabhāro*, and is "disjoined", *visaṃyutto*, from the fetters of existence. About this emancipated one, he now makes the following declaration:
+Sometimes the Buddha answered those wrong accusations in unmistakeable terms. We come across such an instance in the *Alagaddūpama Sutta.* First of all the Buddha qualifies the emancipated one in his dispensation with the terms *ariyo pannaddhajo pannabhāro visaṃyutto*.[^734] Once the conceit 'am', *asmimāna*, is abandoned, this noble one is called *pannaddhajo*, "one who has put down the flag of conceit". He has "laid down the burden", *pannabhāro*, and is "disjoined", *visaṃyutto*, from the fetters of existence. About this emancipated one, he now makes the following declaration:
 
 *Evaṃ vimuttacittaṃ kho, bhikkhave, bhikkhuṃ sa-indā devā sa-pajāpatikā sa-brahmakā anvesaṃ nādhigacchanti: idaṃ nissitaṃ tathāgatassa viññāṇan'ti. Taṃ kissa hetu? Diṭṭhe vāhaṃ, bhikkhave, dhamme tathāgato ananuvejjo'ti vadāmi*.
 
@@ -96,7 +96,7 @@ As in the *Anurādha Sutta*, here too the Buddha concludes with the highly signi
 
 Though the statements in the *suttas* follow this trend, it seems that the commentator himself was scared to bring out the correct position in his commentary. The fact that he sets out with some trepidation is clear enough from the way he tackles the term *tathāgata* in his commentary to the above discourse in the *Majjhima Nikāya.* In commenting on the word *tathāgatassa* in the relevant context, he makes the following observation:
 
-*Tathāgatassā'ti ettha satto pi tathāgato'ti adhippeto, uttamapuggalo khīṇāsavo pi.*[[735\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn735) "*Tathāgata's*, herein, a being also is meant by the term *tathāgata*, as well as the highest person, the influx-free *arahant*."
+*Tathāgatassā'ti ettha satto pi tathāgato'ti adhippeto, uttamapuggalo khīṇāsavo pi.*[^735] "*Tathāgata's*, herein, a being also is meant by the term *tathāgata*, as well as the highest person, the influx-free *arahant*."
 
 Just as he gives two meanings to the word *tathāgata*, Venerable *Buddhaghosa* attributes two meanings to the word *ananuvejjo* as well. *Ananuvejjo'ti asaṃvijjamāno vā avindeyyo vā*. *Tathāgato'ti hi satte gahite asaṃvijjamāno'ti attho vaṭṭati*, *khīṇāsave gahite avindeyyo'ti attho vaṭṭati.* "*Ananuvejjo* - 'non-existing' or 'untraceable'. When by the word *tathāgata* a being is meant, the sense 'non existing' is fitting; and when the influx-free one is meant, the sense 'untraceable' is fitting."
 
@@ -114,7 +114,7 @@ It is obvious from this commentarial trend that the commentator finds himself on
 
 Let us now recapitulate the correct position in the light of the above *sutta* passage. The Buddha declares at the very outset that the emancipated monk undergoes a significant change by virtue of the fact that he has abandoned the conceit 'am'. That *Tathāgata*, that emancipated monk, who has put down the flag of conceit, laid down the burden of the five aggregates, and won release from the fetters to existence, defies definition and eludes categorization. Why is that?
 
-As we pointed out earlier, the word *asmi* constitutes the very basis of the entire grammatical structure.[[736\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn736) *Asmi*, or "am", is the basic peg, which stands for the first person. The second person and the third person come later. So *asmi* is basic to the grammatical structure. When this basic peg is uprooted, the emancipated monk reaches that state of freedom from the vortex. There is no dichotomy to sustain a vortex, no two teams to keep up the vortical interplay. Where there is no turning round, there is no room for designation, and this is the implication of the phrase *vaṭṭaṃ tesaṃ n'atthi paññāpanāya*, which we happened to quote on a previous occasion.[[737\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn737) For the *arahants* there is no vortex whereby to designate.
+As we pointed out earlier, the word *asmi* constitutes the very basis of the entire grammatical structure.[^736] *Asmi*, or "am", is the basic peg, which stands for the first person. The second person and the third person come later. So *asmi* is basic to the grammatical structure. When this basic peg is uprooted, the emancipated monk reaches that state of freedom from the vortex. There is no dichotomy to sustain a vortex, no two teams to keep up the vortical interplay. Where there is no turning round, there is no room for designation, and this is the implication of the phrase *vaṭṭaṃ tesaṃ n'atthi paññāpanāya*, which we happened to quote on a previous occasion.[^737] For the *arahants* there is no vortex whereby to designate.
 
 That is why the *Tathāgata*, in this very life, is said to have transcended the state of a 'being'. Only as a way of speaking in terms of worldly parlance one cannot help referring to him as a 'being'. But in truth and fact, his position is otherwise.
 
@@ -124,7 +124,7 @@ The commentary says that gods and *Brahmās* cannot find the *Tathāgata* in poi
 
 In the *Brahmajāla Sutta* of the *Dīgha Nikāya* the Buddha makes the following declaration about himself, after refuting the sixty-two views, catching them all in one super-net.
 
-*Ucchinnabhavanettiko, bhikkhave, tathāgatassa kāyo tiṭṭhati. Yav'assa kāyo ṭhassati tāva naṃ dakkhinti devamanussā. Kāyassa bhedā uddhaṃ jīvitapariyādānā na naṃ dakkhinti devamanussā*.[[738\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn738)
+*Ucchinnabhavanettiko, bhikkhave, tathāgatassa kāyo tiṭṭhati. Yav'assa kāyo ṭhassati tāva naṃ dakkhinti devamanussā. Kāyassa bhedā uddhaṃ jīvitapariyādānā na naṃ dakkhinti devamanussā*.[^738]
 
 "Monks, the *Tathāgata's* body stands with its leading factor in becoming cut off at the root. As long as his body stands, gods and men will see him. With the breaking up of his body, after the extinction of his life, gods and men will not see him."
 
@@ -136,7 +136,7 @@ And then he follows up this promulgation with a simile.
 
 The simile employed serves to bring out the fact that the *Tathāgata's* body stands with its leading factor in becoming eradicated. Here it is said that gods and men see the *Tathāgata* while he is alive. But the implications of this statement should be understood within the context of the similes given.
 
-The reference here is to a tree uprooted, one that simply stands cut off at the root. In regard to each aggregate of the Buddha and other emancipated ones, it is clearly stated that it is cut off at the root, *ucchinnamūlo*, that it is like a palm tree divested of its site *tālāvatthukato*.[[739\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn739)
+The reference here is to a tree uprooted, one that simply stands cut off at the root. In regard to each aggregate of the Buddha and other emancipated ones, it is clearly stated that it is cut off at the root, *ucchinnamūlo*, that it is like a palm tree divested of its site *tālāvatthukato*.[^739]
 
 In the case of a palm tree, deprived of its natural site but still left standing, anyone seeing it from afar would mistake it for an actual tree that is growing. It is the same idea that emerges from the simile of the bunch of mangoes. The *Tathāgata* is comparable to a bunch of mangoes with its stalk cut off.
 
@@ -144,11 +144,11 @@ What then is meant by the statement that gods and men see him? Their seeing is l
 
 Whatever it may be, here we seem to have some deep idea underlying this discourse. An extremely important clue to a correct understanding of this *Dhamma*, one that helps to straighten up right view, lies beneath this problem of the Buddha's refusal to answer the tetralemma concerning the *Tathāgata*. This fact comes to light in the *Yamaka Sutta* of the *Khandhasaṃyutta*.
 
-A monk named *Yamaka* conceived the evil view, the distorted view, *tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā khīṇāsavo bhikkhu kāyassa bhedā ucchijjati vinassati, na hoti paraṃ maraṇā*.[[740\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn740) "As I understand the *Dhamma* taught by the Exalted One, an influx-free monk, with the breaking up of his body, is annihilated and perishes, he does not exist after death."
+A monk named *Yamaka* conceived the evil view, the distorted view, *tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā khīṇāsavo bhikkhu kāyassa bhedā ucchijjati vinassati, na hoti paraṃ maraṇā*.[^740] "As I understand the *Dhamma* taught by the Exalted One, an influx-free monk, with the breaking up of his body, is annihilated and perishes, he does not exist after death."
 
 He went about saying that the Buddha had declared that the emancipated monk is annihilated at death. Other monks, on hearing this, tried their best to dispel his wrong view, saying that the Buddha had never declared so, but it was in vain. At last they approached Venerable *Sāriputta* and begged him to handle the situation.
 
-Then Venerable *Sāriputta* came there, and after ascertaining the fact, proceeded to dispel Venerable *Yamaka's* wrong view by getting him to answer a series of questions. The first set of questions happened to be identical with the one the Buddha had put forward in Venerable *Anurādha's* case, namely a catechism on the three characteristics. We have already quoted it step by step, for facility of understanding.[[741\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn741) Suffice it to mention, in brief, that it served to convince Venerable *Yamaka* of the fact that whatever is impermanent, suffering and subject to change, is not fit to be looked upon as 'this is mine, this am I, and this is my self'.
+Then Venerable *Sāriputta* came there, and after ascertaining the fact, proceeded to dispel Venerable *Yamaka's* wrong view by getting him to answer a series of questions. The first set of questions happened to be identical with the one the Buddha had put forward in Venerable *Anurādha's* case, namely a catechism on the three characteristics. We have already quoted it step by step, for facility of understanding.[^741] Suffice it to mention, in brief, that it served to convince Venerable *Yamaka* of the fact that whatever is impermanent, suffering and subject to change, is not fit to be looked upon as 'this is mine, this am I, and this is my self'.
 
 The first step, therefore, consisted in emphasizing the not self characteristic through a catechism on the three signata. The next step was to get Venerable *Yamaka* to reflect on this not self characteristic in eleven ways, according to the standard formula.
 
@@ -238,17 +238,17 @@ So this discourse, also, is further proof of the fact that the Buddha's solution
 
 Generally, such discourses instil fear into the minds of worldlings, so much so that even during the Buddha's time there were those recorded instances of misconstruing and misinterpretation. It is in this light that we have to appreciate the Buddha's prediction that in the future there will be monks who would not like to listen or lend ear to those deep and profound discourses of the Buddha, pertaining to the supramundane and dealing with the void.
 
-*Puna ca paraṃ, bhikkhave, bhavissanti bhikkhū anāgatamaddhānaṃ abhāvitakāya abhāvitasīlā abhāvitacittā abhāvitapaññā, te abhāvitakāyā samānā abhāvitasīlā abhāvitacittā abhāvitapaññā ye te suttantā tathāgatabhāsitā gambhīrā gambhīratthā lokuttarā suññatāpaṭisaṃyuttā, tesu bhaññamānesu na sussūsanti, na sotaṃ odahissanti, na aññācittaṃ upaṭṭhapessanti, na ca te dhamme uggahetabbaṃ pariyāpuṇitabbaṃ maññissanti*.[[742\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn742)
+*Puna ca paraṃ, bhikkhave, bhavissanti bhikkhū anāgatamaddhānaṃ abhāvitakāya abhāvitasīlā abhāvitacittā abhāvitapaññā, te abhāvitakāyā samānā abhāvitasīlā abhāvitacittā abhāvitapaññā ye te suttantā tathāgatabhāsitā gambhīrā gambhīratthā lokuttarā suññatāpaṭisaṃyuttā, tesu bhaññamānesu na sussūsanti, na sotaṃ odahissanti, na aññācittaṃ upaṭṭhapessanti, na ca te dhamme uggahetabbaṃ pariyāpuṇitabbaṃ maññissanti*.[^742]
 
 "And moreover, monks, there will be in the future those monks who, being undeveloped in bodily conduct, being undeveloped in morality, being undeveloped in concentration, being undeveloped in wisdom, would not like to listen, to lend ear or to make an attempt to understand and deem it fit to learn when those discourses preached by the *Tathāgata*, which are deep, profound in meaning, supramundane and dealing with the void, are being recited."
 
 This brings us to an extremely deep dimension of this *Dhamma*. By way of clarification, we may allude to a kind of exorcism practiced by some traditional devil dancers. At the end of an all-night session of devil dancing, the mediating priest goes round, exorcising the spirits from the house with fistfuls of a highly inflammable incense powder. Blazing flames arise, as he sprinkles that powder onto the lighted torch, directing the flames at every nook and corner of the house. Some onlookers even get scared that he is trying to set the house on fire. But actually no harm is done.
 
-Well, the Buddha, too, as the mediating priest of the three realms, had to conduct a similar exorcising ritual over linguistic conventions, aiming at some words in particular. It is true that he made use of conventional language in order to convey his teaching. But his *Dhamma* proper was one that transcended logic, *atakkāvacaro*.[[743\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn743)
+Well, the Buddha, too, as the mediating priest of the three realms, had to conduct a similar exorcising ritual over linguistic conventions, aiming at some words in particular. It is true that he made use of conventional language in order to convey his teaching. But his *Dhamma* proper was one that transcended logic, *atakkāvacaro*.[^743]
 
 It happened to be a *Dhamma* that soared well above the limitations of grammar and logic, and analytically exposed their very structure. The marvel of the *Dhamma* is in its very inaccessibility to logic. That is why it defied the four-cornered logic of the tetralemma. It refused to be cornered and went beyond the concepts of a 'being' or a 'self'. The *saṃsāric* vortex was breached and concepts themselves were transcended.
 
-Now this is the exorcism the Buddha had to carry out. He smoked out the term *attā*, "self", so dear to the whole world. Of course, he could not help making use of that word as such. In fact there is an entire chapter in the *Dhammapada* entitled *Attavagga*.[[744\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn744) But it must be emphasized that the term in that context does not refer to a permanent self. It stands for 'oneself'. Some who mistakenly rendered it as 'self', ended up in difficulties. Take for instance the following verse.
+Now this is the exorcism the Buddha had to carry out. He smoked out the term *attā*, "self", so dear to the whole world. Of course, he could not help making use of that word as such. In fact there is an entire chapter in the *Dhammapada* entitled *Attavagga*.[^744] But it must be emphasized that the term in that context does not refer to a permanent self. It stands for 'oneself'. Some who mistakenly rendered it as 'self', ended up in difficulties. Take for instance the following verse.
 
 *Attā hi attano nātho,*
 
@@ -256,7 +256,7 @@ Now this is the exorcism the Buddha had to carry out. He smoked out the term *at
 
 *attanā hi sudantena,*
 
-*nāthaṃ labhati dullabhaṃ*.[[745\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn745)
+*nāthaṃ labhati dullabhaṃ*.[^745]
 
 "Oneself, indeed, is one's own saviour,
 
@@ -274,7 +274,7 @@ Those who render the above verse literally, with a self-bias, would get stuck wh
 
 *attā hi attano n'atthi,*
 
-*kuto puttā, kuto dhanaṃ?*[[746\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn746)
+*kuto puttā, kuto dhanaṃ?*[^746]
 
 "'Sons I have, wealth I have',
 
@@ -288,13 +288,13 @@ Whereas the former verse says *attā hi attano nātho*, here we find the stateme
 
 At times, the Buddha had to be incisive in regard to some words, which the worldlings are prone to misunderstand and misinterpret. We have already discussed at length the significance of such terms as *satta* and *tathāgata*, with reference to their etymological background. *Sakkāyadiṭṭhi*, or "personality view", masquerades even behind the term *tathāgata*, and that is why they raise such ill-founded questions. That is also why one is averse to penetrate into the meanings of these deep discourses.
 
-Like the term *tathāgata*, the term *loka* also had insinuations of a self-bias. The Buddha, as we saw, performed the same ritual of exorcism to smoke out those insinuations. His definition of the 'world' with reference to the six sense-bases is a corrective to that erroneous concept.[[747\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn747)
+Like the term *tathāgata*, the term *loka* also had insinuations of a self-bias. The Buddha, as we saw, performed the same ritual of exorcism to smoke out those insinuations. His definition of the 'world' with reference to the six sense-bases is a corrective to that erroneous concept.[^747]
 
-Among the indeterminate points, too, we find questions relating to the nature of the world, such as *sassato loko - asassato loko*, "the world is eternal - the world is not eternal", and *antavā loko* - *anantavā loko*, "the world is finite - the world is infinite".[[748\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn748) In all such contexts, the questioner had the prejudice of the conventional concept of the world. The commentaries refer to it as *cakkavāḷaloka*, the common concept of "world system".[[749\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn749) But the Buddha advanced a profound definition of the concept of the world with reference to the six bases of sense-contact.
+Among the indeterminate points, too, we find questions relating to the nature of the world, such as *sassato loko - asassato loko*, "the world is eternal - the world is not eternal", and *antavā loko* - *anantavā loko*, "the world is finite - the world is infinite".[^748] In all such contexts, the questioner had the prejudice of the conventional concept of the world. The commentaries refer to it as *cakkavāḷaloka*, the common concept of "world system".[^749] But the Buddha advanced a profound definition of the concept of the world with reference to the six bases of sense-contact.
 
 In this connection, we come across a highly significant discourse in the *Saḷāyatanavagga* of the *Saṃyutta Nikāya*. There we find the Buddha making the following declaration to the monks.
 
-*Nāhaṃ, bhikkhave, gamanena lokassa antaṃ ñātayyaṃ, daṭṭhayyaṃ, patteyyan'ti vadāmi. Na ca panāhaṃ, bhikkhave, appatvā lokassa antaṃ dukkhassa antakiriyaṃ vadāmi*.[[750\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn750)
+*Nāhaṃ, bhikkhave, gamanena lokassa antaṃ ñātayyaṃ, daṭṭhayyaṃ, patteyyan'ti vadāmi. Na ca panāhaṃ, bhikkhave, appatvā lokassa antaṃ dukkhassa antakiriyaṃ vadāmi*.[^750]
 
 "Monks, I do not say that by travelling one can come to know or see or reach the end of the world. Nor do I say that without reaching the end of the world one can put an end to suffering."
 
@@ -322,9 +322,9 @@ Two persons are watching a magic kettle on display at a science exhibition. Wate
 
 The world also is such a magic kettle. Gigantic world systems contract and expand in cyclic fashion. In the ancient term for world systems, *cakkavāḷa*, this cyclic nature is already insinuated. Taken in a broader sense, the existence or continuity of the world is cyclic, as indicated by the two terms *saṃvaṭṭa* and *vivaṭṭa*, "contraction" and "expansion". In both these terms, the significant word *vaṭṭa*, suggestive of "turning round", is seen to occur. It is as good as saying "rise and fall", *udayabbaya*.
 
-When one world system gets destroyed, another world system gets crystallized, as it were. We hear of *Brahmā* mansions emerging.[[751\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn751) So the existence of the world is a continuous process of arising and ceasing. It is in a cycle. How can one find a point of beginning in a cycle? Can one speak of it as 'eternal' or 'non-eternal'? The question as a whole is fallacious.
+When one world system gets destroyed, another world system gets crystallized, as it were. We hear of *Brahmā* mansions emerging.[^751] So the existence of the world is a continuous process of arising and ceasing. It is in a cycle. How can one find a point of beginning in a cycle? Can one speak of it as 'eternal' or 'non-eternal'? The question as a whole is fallacious.
 
-On the other hand the Buddha's definition of the term *loka*, based on the etymology *lujjati*, *palujjatī'ti loko*, is quite apt and meaningful*.*[[752\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn752) The world is all the time in a process of disintegration. It is by ignoring this disintegrating nature and by overemphasizing the arising aspect that the ordinary uninstructed worldling speaks of a 'world' as it is conventionally understood. The world is afflicted by this process of arising and passing away in every moment of its existence.
+On the other hand the Buddha's definition of the term *loka*, based on the etymology *lujjati*, *palujjatī'ti loko*, is quite apt and meaningful*.*[^752] The world is all the time in a process of disintegration. It is by ignoring this disintegrating nature and by overemphasizing the arising aspect that the ordinary uninstructed worldling speaks of a 'world' as it is conventionally understood. The world is afflicted by this process of arising and passing away in every moment of its existence.
 
 It is to be found in our breathing, too. Our entire body vibrates to the rhythm of this rise and fall. That is why the Buddha offered us a redefinition of the world. According to the terminology of the noble ones, the world is to be redefined with reference to the six bases of sense-contact. This includes mind and mind-objects as well. In fact, the range of the six bases of sense-contact is all comprehending. Nothing falls outside of it.
 

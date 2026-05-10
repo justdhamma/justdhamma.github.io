@@ -28,7 +28,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
  
 
-*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[[964\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn964)
+*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[^964]
 
 "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction."
 
@@ -40,7 +40,7 @@ This *avitakkasamādhi* is the 'noble silence' in its highest sense. It is not t
 
 The other day, with special reference to the *Sakkapañhasutta* in the *Dīgha Nikāya*, we outlined in brief a path of practice gradually tending towards the cessation of reckonings born of prolific perception. That discourse expounds a happiness, an unhappiness and an equanimity to be pursued, and a happiness, an unhappiness and an equanimity not to be pursued.
 
-We get a clear enunciation of these two kinds of happiness, unhappiness and equanimity in the *Saḷāyatanavibhaṅgasutta* of the *Majjhima Nikāya*. In that discourse, the Buddha gives an exposition of thirty-six pathways of thought of beings under the heading *chattiṃsa sattapadā*, literally "thirty-six steps of beings".[[965\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn965)They are listed as follows:
+We get a clear enunciation of these two kinds of happiness, unhappiness and equanimity in the *Saḷāyatanavibhaṅgasutta* of the *Majjhima Nikāya*. In that discourse, the Buddha gives an exposition of thirty-six pathways of thought of beings under the heading *chattiṃsa sattapadā*, literally "thirty-six steps of beings".[^965]They are listed as follows:
 
 1) *Cha gehasitāni somanassāni,* "six kinds of happiness based on the household life".
 2) *Cha nekkhammasitāni somanassāni,* "six kinds of happiness based on renunciation".
@@ -75,7 +75,7 @@ The description of unhappiness based on renunciation has a special significance 
 
 The description of unhappiness based on renunciation brings up some important terms worth discussing. *Anuttaresu vimokhesu* is a reference to the three supreme deliverances known as *animitta*, the "signless", *appaṇihita*, the "undirected", and *suññata*, the "void".
 
-The reference to an *āyatana*, "sphere", in this passage is particularly noteworthy. The sphere that the Noble Ones enter on and abide in is none other than the sphere alluded to in the famous *Sutta* on *Nibbāna* in the *Udāna*, beginning with *atthi, bhikkhave, tad āyatanaṃ, yattha n' eva paṭhavī na āpo* etc., "Monks, there is that sphere in which there is neither earth nor water" etc.[[966\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn966) We have pointed out that it is a reference to the cessation of the six sense-spheres as a realization.[[967\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn967) So the sphere that the Noble Ones enter on and abide in is the very cessation of the six sense-spheres.
+The reference to an *āyatana*, "sphere", in this passage is particularly noteworthy. The sphere that the Noble Ones enter on and abide in is none other than the sphere alluded to in the famous *Sutta* on *Nibbāna* in the *Udāna*, beginning with *atthi, bhikkhave, tad āyatanaṃ, yattha n' eva paṭhavī na āpo* etc., "Monks, there is that sphere in which there is neither earth nor water" etc.[^966] We have pointed out that it is a reference to the cessation of the six sense-spheres as a realization.[^967] So the sphere that the Noble Ones enter on and abide in is the very cessation of the six sense-spheres.
 
 In the same *sutta* passage in the *Udāna*, we came across the three terms *appatiṭṭhaṃ, appavattaṃ* and *anārammaṇaṃ*, the "unestablished", the "non continuing" and the "objectless", which we identified as allusions to the three deliverances.
 
@@ -125,13 +125,13 @@ In the fourth stage, we are left with only that equanimity that is based on unit
 
 "Monks, by depending and relying on non-identification abandon and transcend equanimity that is unified, based on unity; that is how it is abandoned, that is how it is transcended."
 
-*Atammayatā* is a term we have already discussed at length in our earlier sermons.[[968\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn968) Its importance has not been sufficiently recognized in our tradition. As we pointed out, the word *tammayo*, literally "of thatness", could be explained with reference to such usages as *suvaṇṇamaya* and *rajatamaya*, "golden" and "silver". How does this "of thatness" come by?
+*Atammayatā* is a term we have already discussed at length in our earlier sermons.[^968] Its importance has not been sufficiently recognized in our tradition. As we pointed out, the word *tammayo*, literally "of thatness", could be explained with reference to such usages as *suvaṇṇamaya* and *rajatamaya*, "golden" and "silver". How does this "of thatness" come by?
 
 If, for instance, one who has attained the infinity of space as a meditative experience identifies himself with it, with the conceit *eso 'ham asmi*, "this am I", there is that *tammayatā* coming in. It is a subtle grasping, or in other words a me-thinking, *maññanā* ‒ imagining oneself to be one with that experience. So the Buddha's advice is to abandon and transcend even that equanimity based on unity by resorting to the maxim of *atammayatā*, non-identification.
 
 The subtle conceit 'am', *asmi*, is that trace of grasping with which one tries to sit pretty on that which is impermanent and changing. It is the most fundamental assertion of existence.
 
-In the *Sappurisasutta* of the *Majjhima Nikāya* we get a good illustration of the application of this principle of detachment, made known by the Buddha. *Sappuriso ca kho, bhikkhave, iti paṭisañcikkhati: nevasaññānāsaññāyatanasamāpattiyā pi kho atammayatā vuttā Bhagavatā, yena yena hi maññanti tato taṃ hoti aññathā 'ti. So atammayataṃ yeva antaraṃ karitvā tāya nevasaññānāsaññāyatanasamāpattiyā n' eva attān' ukkaṃseti na paraṃ vambheti. Ayam pi, bhikkhave, sappurisadhammo.*[[969\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn969)
+In the *Sappurisasutta* of the *Majjhima Nikāya* we get a good illustration of the application of this principle of detachment, made known by the Buddha. *Sappuriso ca kho, bhikkhave, iti paṭisañcikkhati: nevasaññānāsaññāyatanasamāpattiyā pi kho atammayatā vuttā Bhagavatā, yena yena hi maññanti tato taṃ hoti aññathā 'ti. So atammayataṃ yeva antaraṃ karitvā tāya nevasaññānāsaññāyatanasamāpattiyā n' eva attān' ukkaṃseti na paraṃ vambheti. Ayam pi, bhikkhave, sappurisadhammo.*[^969]
 
 "But a good man, monks, considers thus: 'Non-identification even with the attainment of the sphere of neither-perception-nor-non-perception has been declared by the Fortunate One [in such terms as]: 'In whatever way they imagine, thereby it turns otherwise'.' So he takes into account that very non-identification and neither exalts himself nor disparages others because of his attainment of the sphere of neither-perception-nor-non-perception. This, too, monks, is the nature of a good man."
 
@@ -139,7 +139,7 @@ In the *Sappurisa-sutta,* the Buddha expounds the characteristics of a 'good man
 
 This discourse explains his view point. A good man reflects wisely according to the advice given by the Buddha to the effect that even to the higher *jhānic* attainment of neither-perception-nor-non-perception the principle of non-identification must be applied, recalling the maxim made known by the Buddha: *Yena yena hi maññanti tato taṃ hoti aññatha*, "in whatever way they imagine, thereby it turns otherwise".
 
-This is a maxim we had discussed earlier too.[[970\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn970) *Maññanā* is egoistic imagining. When one thinks in egoistic terms about something, by that very me-thinking it turns otherwise. Due to egoistic imagining, it becomes a thing, and once it becomes a thing, it is bound to change and become another.
+This is a maxim we had discussed earlier too.[^970] *Maññanā* is egoistic imagining. When one thinks in egoistic terms about something, by that very me-thinking it turns otherwise. Due to egoistic imagining, it becomes a thing, and once it becomes a thing, it is bound to change and become another.
 
 The good man calls to mind that maxim, that norm, and refrains from exalting himself and disparaging others on account of his attainment. He does not identify himself with it. From this it becomes clear that *atammayatā* or **non-identification is the path to \*Nibbāna\***.
 
@@ -151,7 +151,7 @@ These two terms comprehend the entire gamut of the path of practice in Buddhism.
 
 The question of attention and inattention has also to be understood in that background. A clear illustration of the method of elimination of grosser mental states with the help of subtler mental states by attention and inattention comes in the *Vitakkasaṇṭhānasutta* of the *Majjhima Nikāya*. There the Buddha explains this method making use of a simile of a carpenter.
 
-*Seyyathā pi, bhikkhave, dakkho palagaṇḍo vā palagaṇḍantevāsī vā sukhumāya āṇiyā oḷārikaṃ āṇiṃ abhinīhaneyya abhinīhareyya abhinivajjeyya, evam eva kho, bhikkhave, bhikkhuno yaṃ nimittam āgamma yaṃ nimittaṃ manasikaroto uppajjanti pāpakā akusalā vitakkā chandūpasaṃhitā pi dosūpasaṃhitā pi mohūpasaṃhitā pi, tena, bhikkhave, bhikkhunā tamhā nimittā aññaṃ nimittaṃ manasikātabbaṃ kusalūpasaṃhitaṃ*.[[971\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn971)
+*Seyyathā pi, bhikkhave, dakkho palagaṇḍo vā palagaṇḍantevāsī vā sukhumāya āṇiyā oḷārikaṃ āṇiṃ abhinīhaneyya abhinīhareyya abhinivajjeyya, evam eva kho, bhikkhave, bhikkhuno yaṃ nimittam āgamma yaṃ nimittaṃ manasikaroto uppajjanti pāpakā akusalā vitakkā chandūpasaṃhitā pi dosūpasaṃhitā pi mohūpasaṃhitā pi, tena, bhikkhave, bhikkhunā tamhā nimittā aññaṃ nimittaṃ manasikātabbaṃ kusalūpasaṃhitaṃ*.[^971]
 
 "Just as, monks, a skilled carpenter or his apprentice might knock out, draw out and remove a coarse peg by means of a fine one, even so, monks, when a monk [finds that], due to some sign, by attending to some sign, there arise in him evil unskilful thoughts connected with desire, with hate and with delusion, that monk, monks, should attend to some other sign in its stead, one that has to do with the skilful."
 
@@ -165,11 +165,11 @@ Our discussion of the *Saḷāyatanavibhaṅgasutta* brings to light another uni
 
 In our analysis of the *saṃsāric* problem, we often referred to a duality or a dichotomy. Everywhere we were confronted with a duality. But to grasp the two as one, in some form of oneness, is not the way out. Instead we have here, as the final solution, *atammayatā* or non-identification, a clinging-free approach in the last analysis.
 
-It is in the nature of *saṃsāric* existence that beings find themselves bound and fettered. These fetters are called *saṃyojanāni*. A binding or a fetter implies 'two', as when two bulls are tied together.[[972\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn972) The term *upādāna* is also used quite often. It implies a holding on to something. There, too, the notion of a duality comes in ― one who holds and the thing held. It is not at all easy to transcend this duality, characteristic of *saṃsāric* existence. This is the crux of the whole problem. Unity or oneness is not the solution, it has to be solved with extreme judiciousness.
+It is in the nature of *saṃsāric* existence that beings find themselves bound and fettered. These fetters are called *saṃyojanāni*. A binding or a fetter implies 'two', as when two bulls are tied together.[^972] The term *upādāna* is also used quite often. It implies a holding on to something. There, too, the notion of a duality comes in ― one who holds and the thing held. It is not at all easy to transcend this duality, characteristic of *saṃsāric* existence. This is the crux of the whole problem. Unity or oneness is not the solution, it has to be solved with extreme judiciousness.
 
 In the very first discourse of the *Saṃyutta Nikāya* we get a solution to the problem, briefly stated. The discourse is called *Oghataraṇasutta*, "Crossing the Flood", and it was given pride of place probably because of its importance.
 
-A deity comes and asks the Buddha: *Kathaṃ nu tvaṃ mārisa ogham atari?* "How did you, Sir, cross the flood?"[[973\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn973)
+A deity comes and asks the Buddha: *Kathaṃ nu tvaṃ mārisa ogham atari?* "How did you, Sir, cross the flood?"[^973]
 
 And the Buddha answers: *Appatiṭṭhaṃ khvāham, āvuso, anāyūhaṃ ogham atariṃ.* "Without tarrying, friend, and without hurrying, did I cross the flood."
 
@@ -201,9 +201,9 @@ Has crossed the world's viscosity ― ' craving'."
 
 This discourse on crossing the flood reveals some salient features of the middle path. If a person caught up in a water current tries to stay still, he will sink. If he simply struggles to escape, he will get swept away. So like a good swimmer, he has to avoid both extremes, and, by means of a mindful and systematic gradual effort, work out his freedom. In other words, he has to strive ― not struggle.
 
-So we can understand why the Buddha in his very first sermon, *Dhammacakkapavattanasutta*, "Discourse on the Turning of the Wheel of *Dhamma*", proclaimed as the middle path the noble eightfold path, avoiding both extremes of attachment to sensuality, *kāmasukhallikānuyoga*, and self-mortification, *attakilamathānuyoga*.[[974\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn974) Here, too, the implication is that the entire round of existence is a water current to be crossed over by means of a systematic and gradual effort.
+So we can understand why the Buddha in his very first sermon, *Dhammacakkapavattanasutta*, "Discourse on the Turning of the Wheel of *Dhamma*", proclaimed as the middle path the noble eightfold path, avoiding both extremes of attachment to sensuality, *kāmasukhallikānuyoga*, and self-mortification, *attakilamathānuyoga*.[^974] Here, too, the implication is that the entire round of existence is a water current to be crossed over by means of a systematic and gradual effort.
 
-In some of our earlier sermons, while analyzing the law of dependent arising, we made use of the simile of the vortex for easy comprehension.[[975\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn975) Now if we are to take it up again, we may say that it is in the nature of beings in *saṃsāra* to get drifted by the current of preparations, *saṇkhārā*, owing to ignorance, *avijjā*, and go on revolving between consciousness, *viññāṇa*, and name-and-form, *nāma-rūpa*.
+In some of our earlier sermons, while analyzing the law of dependent arising, we made use of the simile of the vortex for easy comprehension.[^975] Now if we are to take it up again, we may say that it is in the nature of beings in *saṃsāra* to get drifted by the current of preparations, *saṇkhārā*, owing to ignorance, *avijjā*, and go on revolving between consciousness, *viññāṇa*, and name-and-form, *nāma-rūpa*.
 
 This ignorance in the form of the four pervert perceptions Ý namely the perception of permanence in the impermanent, the perception of pleasure in the painful, the perception of beauty in the repulsive, and the perception of self in the not-self Ý gives rise to the run-away current of water which keeps running round and round between consciousness and name-and-form. This is the *saṃsāric* vortex, *saṃsāravaṭṭa*.
 
@@ -219,7 +219,7 @@ We find such an instance of accusation in the *Māgandiyasutta* of the *Aṭṭh
 
 "That which they call 'inward peace',
 
-In what terms have the wise proclaimed that [peace]?"[[976\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn976)
+In what terms have the wise proclaimed that [peace]?"[^976]
 
 The Buddha's answer took the following form:
 
@@ -277,7 +277,7 @@ For there are some who claim purity by views."
 
 Now these two verses call for some comments. Firstly there is a minor problem about variant readings. In both these verses, we followed the reading *visuddhi*, whereas some editions accept the reading *na suddhim āha*, where the negative seems superfluous. *Visuddhi* seems more meaningful here.
 
-The commentarial explanation of these two verses seems to go off at a tangent.[[977\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn977) It says that the negatives in the first two lines of the Buddha's reply refer to wrong views, wrong learning, wrong knowledge, wrong virtue and wrong vows, and that the third and fourth lines refer to right view, right learning, right knowledge, right virtue and right vows. In other words, it is only a question of wrong view, *micchā diṭṭhi*, and right view, *sammā diṭṭhi*.
+The commentarial explanation of these two verses seems to go off at a tangent.[^977] It says that the negatives in the first two lines of the Buddha's reply refer to wrong views, wrong learning, wrong knowledge, wrong virtue and wrong vows, and that the third and fourth lines refer to right view, right learning, right knowledge, right virtue and right vows. In other words, it is only a question of wrong view, *micchā diṭṭhi*, and right view, *sammā diṭṭhi*.
 
 This interpretation misses the subtle point at issue in this dialogue. If it is as simple as that, there is no ground for Māgandiya's accusation. Other religious teachers, who disputed with each other, used to assert that purity is attained only by their views, learning, knowledge, virtue and vows.
 
@@ -291,13 +291,13 @@ That peaceful one, leaning on none,
 
 Would hanker no more for existence."
 
-We came across the word *anissita* in our discussions about *Nibbāna*, for instance in the cryptic formula *nissitassa calitaṃ, anissitassa calitaṃ n'atthi*, "to the one attached there is wavering, to the unattached one, there is no wavering".[[978\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn978) Being unattached, there is no hankering for existence. Where there is grasping, there is existence.
+We came across the word *anissita* in our discussions about *Nibbāna*, for instance in the cryptic formula *nissitassa calitaṃ, anissitassa calitaṃ n'atthi*, "to the one attached there is wavering, to the unattached one, there is no wavering".[^978] Being unattached, there is no hankering for existence. Where there is grasping, there is existence.
 
-We may revert to our simile of sharpening a razor.[[979\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn979) The constituents of the path have to be taken up as one takes up a razor for sharpening, ready to let go. Once the purpose is served, they have to be given up. That is the dictum underlying this dialogue in the *Māgandiyasutta*.
+We may revert to our simile of sharpening a razor.[^979] The constituents of the path have to be taken up as one takes up a razor for sharpening, ready to let go. Once the purpose is served, they have to be given up. That is the dictum underlying this dialogue in the *Māgandiyasutta*.
 
 Now we come to a discourse which clearly and unmistakeably presents this extraordinary first principle. The discourse is the *Rathavinītasutta* of the *Majjhima Nikāya*. Here it is not a case of arguing with a Brāhmin. The interlocutors in this discourse are two stalwarts of this dispensation, namely Venerable Sāriputta and Venerable Puṇṇa Mantāṇiputta. Their long discussion on the path of practice, unfolding itself in dialogue form, was not meant for any clarification of doubts for themselves. It was probably inspired by a benevolent wish to help those ‘Māgandiyas’ in the world, who are ignorant of the pragmatic nature and relative value of the Buddha's middle path. For easy comprehension, we shall present this discourse in three parts.
 
-First of all Venerable Sāriputta poses the following question to Venerable Puṇṇa Mantāṇiputta: *Kin nu kho, āvuso, sīlavisuddhatthaṃ Bhagavati brahmacariyaṃ vussatī'ti?* "What, friend, is it for the sake of purification of virtue that the holy life is lived under the Fortunate One?"[[980\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn980) 
+First of all Venerable Sāriputta poses the following question to Venerable Puṇṇa Mantāṇiputta: *Kin nu kho, āvuso, sīlavisuddhatthaṃ Bhagavati brahmacariyaṃ vussatī'ti?* "What, friend, is it for the sake of purification of virtue that the holy life is lived under the Fortunate One?"[^980] 
 
 And Venerable Puṇṇa Mantāṇiputta replies: "No friend."
 
@@ -333,7 +333,7 @@ In the same strain, he goes on to apply this criterion to the other stages of pu
 
 *Aññatra ce, āvuso, imehi dhammehi anupādā parinibbānaṃ abhavissa, puthujjano parinibbāyeyya, puthujjano hi, āvuso, aññatra imehi dhammehi.* "And if, friend, perfect *Nibbāna* without clinging were to be attained without these states, then even an ordinary worldling would have attained perfect *Nibbāna* without clinging, for an ordinary worldling, friend, is without these states."
 
-Now we can see how subtle this question is. Simply because it was said that none of the above states is perfect *Nibbāna* without clinging, they cannot be dispensed with. We have already discussed the significance of the *Alagaddūpamasutta* in this concern. There we came across two similes, the simile of the raft and the simile of the water snake. To carry the raft on one's shoulder after crossing is one extreme.[[981\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn981) To take the water snake by its tail is the other extreme. The middle path lies between these two extremes. That is the implication of the above statement that if perfect *Nibbāna* without clinging is attained without these states, then even an ordinary worldling would have attained it, for he has none of them.
+Now we can see how subtle this question is. Simply because it was said that none of the above states is perfect *Nibbāna* without clinging, they cannot be dispensed with. We have already discussed the significance of the *Alagaddūpamasutta* in this concern. There we came across two similes, the simile of the raft and the simile of the water snake. To carry the raft on one's shoulder after crossing is one extreme.[^981] To take the water snake by its tail is the other extreme. The middle path lies between these two extremes. That is the implication of the above statement that if perfect *Nibbāna* without clinging is attained without these states, then even an ordinary worldling would have attained it, for he has none of them.
 
 For further clarification of this point, Venerable Puṇṇa Mantāṇiputta comes out with the simile of the relay of chariots. King Pasendi of Kosala, while living in Sāvatthī, has some urgent business to settle at Sāketa. Between Sāvatthī and Sāketa seven relay chariots are kept ready for him. The king mounts the first relay chariot and by means of it arrives at the second relay chariot. Then he dismounts from the first relay chariot and mounts the second chariot. By means of the second chariot he arrives at the third chariot. In this way, finally he arrives at Sāketa by means of the seventh chariot. Then, when his friends and relatives in Sāketa ask him: 'Sire, did you come from Sāvatthī to Sāketa by means of this chariot?', he cannot reply in the affirmative. He has to relate the whole story of passing from chariot to chariot.
 

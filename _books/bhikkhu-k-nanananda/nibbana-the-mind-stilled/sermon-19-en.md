@@ -28,7 +28,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
  
 
-*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[[637\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn637)
+*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[^637]
 
 "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction."
 
@@ -48,7 +48,7 @@ At the last moment of the *arahant's* life, even this organic body that had been
 
 *sarīraṃ vijahaṃ nāgo*
 
-*parinibbissati anāsavo*.[[638\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn638)
+*parinibbissati anāsavo*.[^638]
 
 "The one who has abandoned lust,
 
@@ -66,23 +66,23 @@ But that kind of explanation would not accord with the spirit of this *Dhamma*, 
 
 In the context of *Nibbāna*, these two terms have to be understood as representing two aspects of a perfect realization attainable in this very life. Briefly stated, *anupādisesā Nibbānadhātu* is that which confers the certitude, well in time, that the appeasement experienced by an *arahant* during this life time remains unchanged even at death. To say that there is a possibility of realizing or ascertaining one's state after death might even seem contradictory. How can one realize one's after death state?
 
-We get a clear-cut answer to that question in the following passage in the *Dhātuvibhaṅgasutta* of the *Majjhima Nikāya*. *Seyyathāpi, bhikkhu, telañca paṭicca vaṭṭiñca paṭicca telappadīpo jhāyati, tasseva telassa ca vaṭṭiyā ca pariyādānā aññassa ca anupahārā anāhāro nibbāyati, evameva kho, bhikkhu, kāyapariyantikaṃ vedanaṃ vediyamāno 'kāyapariyantikaṃ vedanaṃ vedayāmī'ti pajānati, jīvitapariyantikaṃ vedanaṃ vediyamāno 'jīvitapariyantikaṃ vedanaṃ vedayāmī'ti pajānati, 'kāyassa bhedā paraṃ maraṇā uddhaṃ jīvitapariyādānā idheva sabbavedayitāni anabhinanditāni sītībhavissantī'ti pajānati*.[[639\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn639)
+We get a clear-cut answer to that question in the following passage in the *Dhātuvibhaṅgasutta* of the *Majjhima Nikāya*. *Seyyathāpi, bhikkhu, telañca paṭicca vaṭṭiñca paṭicca telappadīpo jhāyati, tasseva telassa ca vaṭṭiyā ca pariyādānā aññassa ca anupahārā anāhāro nibbāyati, evameva kho, bhikkhu, kāyapariyantikaṃ vedanaṃ vediyamāno 'kāyapariyantikaṃ vedanaṃ vedayāmī'ti pajānati, jīvitapariyantikaṃ vedanaṃ vediyamāno 'jīvitapariyantikaṃ vedanaṃ vedayāmī'ti pajānati, 'kāyassa bhedā paraṃ maraṇā uddhaṃ jīvitapariyādānā idheva sabbavedayitāni anabhinanditāni sītībhavissantī'ti pajānati*.[^639]
 
 " Just as, monk, an oil lamp burns depending on oil and the wick, and when that oil and the wick are used up, if it does not get any more of these, it is extinguished from lack of fuel, even so, monk, when he feels a feeling limited to the body, he understands 'I feel a feeling limited to the body', when he feels a feeling limited to life, he understands 'I feel a feeling limited to life', he understands 'on the breaking up of this body, before life becomes extinct, even here itself, all that is felt, not being delighted in, will become cool."
 
 The last sentence is particularly noteworthy in that it refers to an understanding well beforehand that all feelings, not being delighted in, will become cool at death. The futuristic ending signifies an assurance, here and now, as the word *idheva*, even here itself, clearly brings out. The delighting will not be there, because all craving for a fresh existence is extirpated.
 
-The *arahant* has won this assurance already in his *arahattaphalasamādhi*, in which he experiences the cooling off of all feelings. That is why we find the *arahants* giving expression to their *Nibbānic* bliss in the words *sītibhūto'smi nibbuto*, "gone cool am I, yea, extinguished".[[640\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn640)
+The *arahant* has won this assurance already in his *arahattaphalasamādhi*, in which he experiences the cooling off of all feelings. That is why we find the *arahants* giving expression to their *Nibbānic* bliss in the words *sītibhūto'smi nibbuto*, "gone cool am I, yea, extinguished".[^640]
 
 Since for the *arahant* this cooling off of feelings is a matter of experience in this very life, this realization is referred to as *anupādā parinibbāna* in the discourses. Here we seem to have fallen into another track. We opened our discussion with an explanation of what *anupādisesa parinibbāna* is, now we are on *anupādā parinibbāna*. How are we to distinguish between these two?
 
-*Anupādisesa parinibbāna* comes at the last moment of the *arahant's* life, when this organic combination of elements, grasped par excellence, *upādiṇṇa*, is discarded for good. But *anupādā parinibbāna* refers to the *arahattaphalasamādhi* as such, for which even other terms like *anupādā vimokkha* are also applied on occasion.[[641\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn641) 
+*Anupādisesa parinibbāna* comes at the last moment of the *arahant's* life, when this organic combination of elements, grasped par excellence, *upādiṇṇa*, is discarded for good. But *anupādā parinibbāna* refers to the *arahattaphalasamādhi* as such, for which even other terms like *anupādā vimokkha* are also applied on occasion.[^641] 
 
 As the term *anupādā parinibbāna* signifies, the *arahant* experiences, even in this very life, that complete extinguishment, *parinibbāna*, in his *arahatta phalasamādhi*. This fact is clearly brought out in the dialogue between Venerable *Sāriputta* and Venerable *Puṇṇa Mantāniputta* in the *Rathavinītasutta* of the *Majjhima Nikāya*.
 
-Venerable *Sāriputta's* exhaustive interrogation ending with *kim atthaṃ carahāvuso, bhagavati brahmacariyaṃ vussati*?[[642\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn642), "For the sake of what then, friend, is the holy life lived under the Exalted One?", gets the following conclusive answer from Venerable *Puṇṇa Mantāniputta*: *anupādāparinibbānatthaṃ kho, āvuso, bhagavati brahmacariyaṃ vussati*, "Friend, it is for the sake of perfect *Nibbāna* without grasping that the holy life is lived under the Exalted One".
+Venerable *Sāriputta's* exhaustive interrogation ending with *kim atthaṃ carahāvuso, bhagavati brahmacariyaṃ vussati*?[^642], "For the sake of what then, friend, is the holy life lived under the Exalted One?", gets the following conclusive answer from Venerable *Puṇṇa Mantāniputta*: *anupādāparinibbānatthaṃ kho, āvuso, bhagavati brahmacariyaṃ vussati*, "Friend, it is for the sake of perfect *Nibbāna* without grasping that the holy life is lived under the Exalted One".
 
-As the goal of endeavour, *anupādā parinibbāna* surely does not mean the ending of life. What it implies is the realization of *Nibbāna*. It is that experience of the cooling off of feelings the *arahant* goes through in the *arahattaphalasamādhi*. It is sometimes also called *nirupadhi*, the "asset-less".[[643\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn643) Here we have a problem of a semantic type. At a later date, even the term *nirupadhisesa* seems to have come into vogue, which is probably a cognate formed after the term *anupādisesa*.[[644\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn644)
+As the goal of endeavour, *anupādā parinibbāna* surely does not mean the ending of life. What it implies is the realization of *Nibbāna*. It is that experience of the cooling off of feelings the *arahant* goes through in the *arahattaphalasamādhi*. It is sometimes also called *nirupadhi*, the "asset-less".[^643] Here we have a problem of a semantic type. At a later date, even the term *nirupadhisesa* seems to have come into vogue, which is probably a cognate formed after the term *anupādisesa*.[^644]
 
 Nowhere in the discourses one comes across the term *nirupadhisesa parinibbāna*. Only such terms as *nirupadhi*, *nirūpadhiṃ,* *nirupadhi dhammaṃ* are met with. They all refer to that *arahattaphalasamādhi*, as for instance in the following verse, which we had occasion to quote earlier too:
 
@@ -96,7 +96,7 @@ Nowhere in the discourses one comes across the term *nirupadhisesa parinibbāna*
 
 *deseti sammāsambuddho,*
 
-*asokaṃ virajaṃ padaṃ*.[[645\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn645)
+*asokaṃ virajaṃ padaṃ*.[^645]
 
 "Having touched with the body,
 
@@ -124,15 +124,15 @@ Proclaims the sorrow-less, taintless state."
 
 *vedanānaṃ khayā bhikkhu,*
 
-*nicchāto parinibbuto*.[[646\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn646)
+*nicchāto parinibbuto*.[^646]
 
-In this couplet, the experience of the fruit of *arahant*-hood is presented under the heading of feeling. The disciple of the Buddha, concentrated, fully aware and mindful, understands feelings, the origin of feelings, and the point at which they surcease and the way leading to their extinction. With the extinction of feelings, that monk is hunger-less and perfectly extinguished. The reference here is to that bliss of *Nibbāna* which is devoid of feeling, *avedayita sukha*.[[647\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn647) It is hunger-less because it is free from craving.
+In this couplet, the experience of the fruit of *arahant*-hood is presented under the heading of feeling. The disciple of the Buddha, concentrated, fully aware and mindful, understands feelings, the origin of feelings, and the point at which they surcease and the way leading to their extinction. With the extinction of feelings, that monk is hunger-less and perfectly extinguished. The reference here is to that bliss of *Nibbāna* which is devoid of feeling, *avedayita sukha*.[^647] It is hunger-less because it is free from craving.
 
-The perfect extinguishment mentioned here is not to be understood as the death of the *arahant*. In the discourses the term *parinibbuta* is used as such even with reference to the living *arahant*. Only in the commentaries we find a distinction made in this respect. The *parinibbāna* of the living *arahant* is called *kilesaparinibbāna*, the perfect extinguishment of the defilements, while what comes at the last moment of an *arahant's* life is called *khandhaparinibbāna*, the perfect extinguishment of the groups or aggregates.[[648\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn648) Such a qualification, however, is not found in the discourses.
+The perfect extinguishment mentioned here is not to be understood as the death of the *arahant*. In the discourses the term *parinibbuta* is used as such even with reference to the living *arahant*. Only in the commentaries we find a distinction made in this respect. The *parinibbāna* of the living *arahant* is called *kilesaparinibbāna*, the perfect extinguishment of the defilements, while what comes at the last moment of an *arahant's* life is called *khandhaparinibbāna*, the perfect extinguishment of the groups or aggregates.[^648] Such a qualification, however, is not found in the discourses.
 
 The reason for this distinction was probably the semantic development the term *parinibbāna* had undergone in the course of time. The fact that this perfect extinguishment is essentially psychological seems to have been ignored with the passage of time. That is why today, on hearing the word *parinibbāna*, one is immediately reminded of the last moment of the life of the Buddha or of an *arahant*. In the discourses, however, *parinibbāna* is clearly an experience of the living *arahant* in his *arahattaphalasamādhi*.
 
-This fact is clearly borne out by the statement in the *Dhātuvibhaṅgasutta* already quoted: *idheva sabbavedayitāni anabhinanditāni sītībhavissantī'ti pajānati*,[[649\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn649) "he understands that all what is felt will cool off here itself". It is this very understanding that is essential. It gives the certitude that one can defeat *Māra* at the moment of death through the experience of the cooling off of feelings.
+This fact is clearly borne out by the statement in the *Dhātuvibhaṅgasutta* already quoted: *idheva sabbavedayitāni anabhinanditāni sītībhavissantī'ti pajānati*,[^649] "he understands that all what is felt will cool off here itself". It is this very understanding that is essential. It gives the certitude that one can defeat *Māra* at the moment of death through the experience of the cooling off of feelings.
 
 The phrase *jīvitapariyantikaṃ vedanaṃ* refers to the feeling which comes at the termination of one's life. For the *arahant*, the *arahattaphalasamādhi* stands in good stead, particularly at the moment of death. That is why it is called *akuppā cetovimutti*, the unshakeable deliverance of the mind. All other deliverances of the mind get shaken before the pain of death, but not this unshakeable deliverance of the mind, which is the REAL-ization of extinguishment that is available to the *arahant* already in the *arahattaphalasamādhi*, in the experience of the cooling off of feelings. It is this unshakeable deliverance of the mind that the Buddha and the *arahants* resort to at the end of their lives, when *Māra* comes to grab and seize.
 
@@ -144,13 +144,13 @@ So now we can hark back to that verse which comes as the grand finale in the lon
 
 *te dhammasārādhigamā khaye ratā,*
 
-*pahaṃsu te sabbabhavāni tādino.*[[650\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn650)
+*pahaṃsu te sabbabhavāni tādino.*[^650]
 
 This verse might appear problematic, as it occurs at the end of a passage dealing with the two *Nibbāna* elements. *Ye etad aññāya padaṃ asaṅkhataṃ*, " those who having fully comprehended this unprepared state", *vimuttacittā bhavanettisaṅkhayā*, "are released in mind by the cutting off of tentacles to becoming, *te dhammasārādhigamā khaye ratā*, "taking delight in the extirpation of feelings due to their attainment to the essence of *dhamma*", that is the unshakeable deliverance of the mind, *pahaṃsu te sabbabhavāni tādino*, "being steadfastly such like, they have given up all forms of becoming".
 
 The last line is an allusion to the experience of the cessation of existence here and now, which in effect is the realization of *Nibbāna*, true
 
-to the definition *bhavanirodho nibbānaṃ*, "cessation of existence is *Nibbāna*". [[651\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn651) It is that very cessation of existence that is called *asaṅkhata dhātu*, the "unprepared element". If *bhava*, or existence, is to be called *saṅkhata*, the 'prepared', the cessation of existence has to be designated as *asaṅkhata*, the 'unprepared'. Here lies the difference between the two.
+to the definition *bhavanirodho nibbānaṃ*, "cessation of existence is *Nibbāna*". [^651] It is that very cessation of existence that is called *asaṅkhata dhātu*, the "unprepared element". If *bhava*, or existence, is to be called *saṅkhata*, the 'prepared', the cessation of existence has to be designated as *asaṅkhata*, the 'unprepared'. Here lies the difference between the two.
 
 So we have here two aspects of the same unprepared element, designated as *sa-upādisesā parinibbānadhātu* and *anupādisesā parinibbānadhātu*. The mind is free even at the stage of *sa-upādisesa*, to the extent that the smouldering embers do not seek fresh fuel. *Anupādisesa* refers to the final experience of extinguishment. There the relevance of the term *parinibbāna* lies in the fact that at the moment of death the *arahants* direct their minds to this unshakeable deliverance of the mind. This is the 'island' they resort to when *Māra* comes to grab.
 
@@ -170,7 +170,7 @@ The best illustration for all this is the way the Buddha faced death, when the t
 
 *pajjotass'eva nibbānaṃ,*
 
-*vimokkho cetaso ahu*.[[652\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn652)
+*vimokkho cetaso ahu*.[^652]
 
 "Adverting to whatever peace,
 
@@ -188,11 +188,11 @@ The deliverance of the mind was like
 
 The extinguishment of a torch."
 
-The allusion here is to the deliverance of the mind. This is a description of how the Buddha attained *parinibbāna*. Though there is a great depth in these two verses, the commentarial exegesis seems to have gone at a tangent at this point. Commenting on the last two lines of the first verse, the commentary observes: *Buddhamuni santiṃ gamissāmīti, santiṃ ārabbha kālamakari*, "the Buddha, the sage, passed away for the sake of that peace with the idea 'I will go to that state of peace'".[[653\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn653)
+The allusion here is to the deliverance of the mind. This is a description of how the Buddha attained *parinibbāna*. Though there is a great depth in these two verses, the commentarial exegesis seems to have gone at a tangent at this point. Commenting on the last two lines of the first verse, the commentary observes: *Buddhamuni santiṃ gamissāmīti, santiṃ ārabbha kālamakari*, "the Buddha, the sage, passed away for the sake of that peace with the idea 'I will go to that state of peace'".[^653]
 
 There is some discrepancy in this explanation. Commentators themselves usually give quite a different sense to the word *ārabbha* than the one implicit in this explanation. Here it means "for the sake of". It is for the sake of that peace that the Buddha is said to have passed away.
 
-In such commentaries as *Jātaka-aṭṭhakathā* and *Dhammapada-aṭṭhakathā*, commentators do not use the word *ārabbha* in the introductory episodes in this sense. There it only means "in connection with", indicating the origin of the story, as suggested by the etymological background of the word itself. When for instance it is said that the Buddha preached a particular sermon in connection with *Devadatta Thera*, it does not necessarily mean that it was meant for him. [[654\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn654) He may not have been there at all, it may be that he was already dead by that time. The term *ārabbha* in such contexts only means that it was in connection with him. It can refer to a person or an incident, as the point of origin of a particular sermon.
+In such commentaries as *Jātaka-aṭṭhakathā* and *Dhammapada-aṭṭhakathā*, commentators do not use the word *ārabbha* in the introductory episodes in this sense. There it only means "in connection with", indicating the origin of the story, as suggested by the etymological background of the word itself. When for instance it is said that the Buddha preached a particular sermon in connection with *Devadatta Thera*, it does not necessarily mean that it was meant for him. [^654] He may not have been there at all, it may be that he was already dead by that time. The term *ārabbha* in such contexts only means that it was in connection with him. It can refer to a person or an incident, as the point of origin of a particular sermon.
 
 Granted this, we have to explain the verse in question not as an allusion to the fact that the Buddha, the sage, passed away for the sake of that peace with the idea 'I will attain to that state of peace'. It only means that the Buddha, the sage, passed away having brought his mind into that state of peace. In other words, according to the commentary the passing away comes first and the peace later, but according to the *sutta* proper, peace comes first and the passing away later.
 
@@ -200,7 +200,7 @@ There is a crucial point involved in this commentarial divergence. It has the pr
 
 Here too the commentarial exegesis, based on the term *ārabbha*, runs the same risk. On the other hand, as we have pointed out, the reference here is to the fact that the Buddha adverted his mind to that peace well before the onset of death, whereby *Māra's* attempt is foiled, because feelings are already cooled off. It is here that the unshakeable deliverance of the mind proves its worth.
 
-As a 'real'-ization it is already available to the Buddha and the *arahants* in the *arahattaphalasamādhi*, and when the time comes, they put forward this experience to beat off *Māra*. That is why we find a string of epithets for *Nibbāna*, such as *tāṇaṃ, leṇaṃ, dīpaṃ, saraṇaṃ, parāyanaṃ, khemaṃ* and *amataṃ*.[[655\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn655) When faced with death, or the pain of death, it gives 'protection'*, tānaṃ*. It provides shelter, like a 'cave', *leṇaṃ*. It is the 'island', *dīpaṃ*, within easy reach. It is the 'refuge', *saraṇaṃ*, and the 'resort', *parāyanaṃ*. It is the 'security', *khemaṃ*, and above all the 'deathless', *amataṃ*. This deathlessness they experience in this very world, and when death comes, this realization stands them in good stead.
+As a 'real'-ization it is already available to the Buddha and the *arahants* in the *arahattaphalasamādhi*, and when the time comes, they put forward this experience to beat off *Māra*. That is why we find a string of epithets for *Nibbāna*, such as *tāṇaṃ, leṇaṃ, dīpaṃ, saraṇaṃ, parāyanaṃ, khemaṃ* and *amataṃ*.[^655] When faced with death, or the pain of death, it gives 'protection'*, tānaṃ*. It provides shelter, like a 'cave', *leṇaṃ*. It is the 'island', *dīpaṃ*, within easy reach. It is the 'refuge', *saraṇaṃ*, and the 'resort', *parāyanaṃ*. It is the 'security', *khemaṃ*, and above all the 'deathless', *amataṃ*. This deathlessness they experience in this very world, and when death comes, this realization stands them in good stead.
 
 Why Venerable *Anuruddha* brought in the profane concept of death with the expression *kālamakari* into this verse, describing the Buddha's *parinibbāna*, is also a question that should arrest our attention. This particular expression is generally used in connection with the death of ordinary people. Why did he use this expression in such a hallowed context? It is only to distinguish and demarcate the deliverance of the mind, couched in the phrase *vimokkho cetaso ahu,* from the phenomenon of death itself.
 
@@ -218,7 +218,7 @@ This is an innovation, the importance of which can hardly be overestimated. Here
 
 To give a clearer picture of the principle involved in this statement, let us bring up a simple episode, concerning the general *Sīha*, included among the Fives of the *Aṅguttara Nikāya*. It happens to centre on *dānakathā*, or talks on liberality. Let it be a soft interlude - after all these abstruse discourses.
 
-*Sīha*, the general, is a wealthy benefactor, endowed with deep faith in the Buddha. One day he approaches the Buddha and asks the question: *sakkā nu kho, bhante, sandiṭṭhikaṃ dānaphalaṃ paññāpetuṃ?*[[656\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn656) "Is it possible, Lord, to point out an advantage or fruit of giving visible here and now?"
+*Sīha*, the general, is a wealthy benefactor, endowed with deep faith in the Buddha. One day he approaches the Buddha and asks the question: *sakkā nu kho, bhante, sandiṭṭhikaṃ dānaphalaṃ paññāpetuṃ?*[^656] "Is it possible, Lord, to point out an advantage or fruit of giving visible here and now?"
 
 What prompted the question may have been the usual tendency to associate the benefits of giving with the hereafter. Now the Buddha, in his answer to the question, gave four advantages visible here and now and one advantage to come hereafter. The four fruits of giving visible here and now are stated as follows:
 
@@ -251,7 +251,7 @@ Now that we have clarified for ourselves this first principle, there is a certai
 
 *hatāvakāso vantāso,*
 
-*sa ve uttamaporiso*.[[657\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn657)
+*sa ve uttamaporiso*.[^657]
 
 This is a verse attributed to the Buddha that comes in the *Arahantavagga* of the *Dhammapada*, which puns upon some words. Such riddle verses follow the pattern of a figure of speech called double entendr‚, which makes use of ambiguous words. The above verse sounds blasphemous on the first hearing. The Buddha is said to have employed this device to arrest the listener's attention. The surface meaning seems to go against the *Dhamma*, but it provokes deeper reflection.
 
@@ -281,7 +281,7 @@ The description, then, turns out to be that of an *arahant*. *Assaddho* as an ep
 
 As we have mentioned before, the *arahant* has already realized the cessation of existence in his *arahattaphalasamādhi*, thereby securing the knowledge of the unmade, *akata*, or the unprepared, *asaṅkhata*. The term *akataññū* highlights that fact of realization. The most extraordinary and marvellous thing about the realization of *Nibbāna* is that it gives an assurance not only of matters pertaining to this life, *sandiṭṭhika*, but also of what happens after death, *samparāyika* - in other words, the realization of the cessation of existence.
 
-*Nibbāna* as the realization here and now of the cessation of existence, *bhavanirodho nibbānaṃ*, carries with it the assurance that there is no more existence after death. So there is only one *asaṅkhatadhātu*. The verse we already quoted, too, ends with the words *pahaṃsu te sabbabhavāni tādino*, "those steadfastly such like ones have given up all forms of existence".[[658\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn658)
+*Nibbāna* as the realization here and now of the cessation of existence, *bhavanirodho nibbānaṃ*, carries with it the assurance that there is no more existence after death. So there is only one *asaṅkhatadhātu*. The verse we already quoted, too, ends with the words *pahaṃsu te sabbabhavāni tādino*, "those steadfastly such like ones have given up all forms of existence".[^658]
 
 One thing should be clear now. Though there are two *Nibbāna* elements called *sa-upādisesā Nibbānadhātu* and *anupādisesā Nibbānadhātu*, there is no justification whatsoever for taking *anupādisesā Nibbānadhātu* as a place of eternal rest for the *arahants* after death - an everlasting immortal state. The deathlessness of *Nibbāna* is to be experienced in this world itself. That is why an *arahant* is said to feast on ambrosial deathlessness, *amataṃ paribhuñjati*, when he is in *arahattaphalasamādhi*. When it is time for death, he brings his mind to this *samādhi*, and it is while he is partaking of ambrosial deathlessness that *Māra* quietly takes away his body.
 
@@ -289,13 +289,13 @@ An *arahant* might even cremate his own body, as if it is another's. Now we are 
 
 The distance between the lotus leaf and the drop of water on it is the same as that between the hither shore and the farther shore, between the mundane and the supramundane. This is no idle sophistry, but a challenge to deeper reflection.
 
-The *Dhammapada* verse we quoted earlier beginning with *yassa pāraṃ apāraṃ vā, pārāpāraṃ na vijjati*,[[659\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn659) "to whom there is neither a farther shore nor a hither shore nor both", is puzzling enough. But what it says is that the *arahant* has transcended both the hither shore and the farther shore. It is as if he has gone beyond this shore and the other shore as well, that is to say, he has transcended the dichotomy.
+The *Dhammapada* verse we quoted earlier beginning with *yassa pāraṃ apāraṃ vā, pārāpāraṃ na vijjati*,[^659] "to whom there is neither a farther shore nor a hither shore nor both", is puzzling enough. But what it says is that the *arahant* has transcended both the hither shore and the farther shore. It is as if he has gone beyond this shore and the other shore as well, that is to say, he has transcended the dichotomy.
 
 We have to say something similar with regard to the two terms *saṅkhata* and *asaṅkhata*. *Saṅkhata*, or the prepared, is like a floral design. This prepared floral design, which is *bhava*, or existence, is made up, as it were, with the help of the glue of craving, the tangles of views and the knots of conceits. If one removes the glue, disentangles the tangles and unties the knots, the *saṅkhata*, or the prepared, itself becomes *asaṅkhata*, the unprepared, then and there. The same floral design, which was the *saṅkhata*, has now become the *asaṅkhata*. This itself is the cessation of existence, *bhavanirodho*. When one can persuade oneself to think of *Nibbāna* as an extinguishment, the term *parinibbāna* can well be understood as 'perfect extinguishment'.
 
 The *parinibbāna* of the *arahant* *Dabba Mallaputta* is recorded in the *Udāna* as a special occasion on which the Buddha uttered a paean of joy. Venerable *Dabba Mallaputta* was an *arahant*, gifted with marvellous psychic powers, specializing in miracles performed by mastering the fire element, *tejo dhātu*. His *parinibbāna*, too, was a marvel in itself.
 
-When he found himself at the end of his life span, he approached the Buddha and informed him of it, as if begging permission, with the words: *parinibbāna* *kālo me dāni, sugata*,[[660\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn660) "it is time for me to attain *parinibbāna*, O well-gone one". And the Buddha too gave permission with the words: *yassa dāni tvaṃ, Dabba, kālaṃ maññasi*, "*Dabba*, you may do that for which the time is fit".
+When he found himself at the end of his life span, he approached the Buddha and informed him of it, as if begging permission, with the words: *parinibbāna* *kālo me dāni, sugata*,[^660] "it is time for me to attain *parinibbāna*, O well-gone one". And the Buddha too gave permission with the words: *yassa dāni tvaṃ, Dabba, kālaṃ maññasi*, "*Dabba*, you may do that for which the time is fit".
 
 As soon as the Buddha uttered these words, Venerable *Dabba* *Mallaputta* rose from his seat, worshipped the Buddha, circumambulated him, went up into the sky and, sitting cross-legged, aroused the concentration of the fire element and, rising from it, attained *parinibbāna*. As his body thus miraculously self-cremated burnt in the sky, it left no ashes or soot.
 
@@ -333,7 +333,7 @@ This event was of such a great importance that, though it occurred at *Veḷuvan
 
 *paññāpetuṃ gatī n'atthi,*
 
-*pattānaṃ acalaṃ sukhaṃ.*[[661\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn661)
+*pattānaṃ acalaṃ sukhaṃ.*[^661]
 
 "Just as in the case of a fire
 
@@ -351,11 +351,11 @@ And reached Bliss Unshaken,
 
 There is no path to be pointed out."
 
-We have deviated from the commentarial interpretation in our rendering of the first two lines of the verse. The commentary gives two alternative meanings, probably because it is in doubt as to the correct one. Firstly it brings in the idea of a bronze vessel that is being beaten at the forge with an iron hammer, giving the option that the gradual subsidence mentioned in the verse may apply either to the flames or to the reverberations of sound arising out of it.[[662\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn662) Secondly, as a 'some say so' view, *kecidvāda*, it gives an alternative meaning, connected with the ball of iron beaten at the forge.
+We have deviated from the commentarial interpretation in our rendering of the first two lines of the verse. The commentary gives two alternative meanings, probably because it is in doubt as to the correct one. Firstly it brings in the idea of a bronze vessel that is being beaten at the forge with an iron hammer, giving the option that the gradual subsidence mentioned in the verse may apply either to the flames or to the reverberations of sound arising out of it.[^662] Secondly, as a 'some say so' view, *kecidvāda*, it gives an alternative meaning, connected with the ball of iron beaten at the forge.
 
 In our rendering, however, we had to follow a completely different line of interpretation, taking the expression *ayoghanahatassa* as a comparison, *ayoghanahatassa + iva*, for the blazing fire, *jalato jātavedaso*. On seeing a fire that is ablaze, one gets a notion of compactness, as on seeing a red hot block of solid iron.
 
-In the *Dhammapada* verse beginning with *seyyo ayogulo bhutto*, *tatto aggisikhūpamo*,[[663\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn663) "better to swallow a red hot iron ball, that resembles a flame of fire", a cognate simile is employed somewhat differently. There the ball of iron is compared to a flame of fire. Here the flame of fire is compared to a block of iron.
+In the *Dhammapada* verse beginning with *seyyo ayogulo bhutto*, *tatto aggisikhūpamo*,[^663] "better to swallow a red hot iron ball, that resembles a flame of fire", a cognate simile is employed somewhat differently. There the ball of iron is compared to a flame of fire. Here the flame of fire is compared to a block of iron.
 
 All in all, it is highly significant that the Buddha uttered three verses of uplift in connection with the *parinibbāna* of the *arahant* Venerable *Dabba Mallaputta*. The most important point that emerges from this discussion is that *Nibbāna* is essentially an extinction or extinguishment.
 
@@ -371,17 +371,17 @@ The parable of the frog is much the same. When it gets into water it has to say 
 
 For instance, to prove their point those writers and teachers would resort to the famous *Udāna* passage beginning with:
 
-*'Atthi, bhikkhave, tad āyatanaṃ, yattha n'eva pathavī na āpo na tejo na vāyo na ākāsānañcāyatanaṃ na viññāṇānañcāyatanaṃ na ākiñcaññāyatanaṃ na nevasaññānāsaññāyatanaṃ na ayaṃ loko na paraloko na ubho candimasūriyā* ...'.[[664\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn664) "There is, monks, that sphere, in which there is neither earth, nor water, nor fire, nor air; neither the sphere of infinite space, nor the sphere of infinite consciousness, nor the sphere of nothingness, nor the sphere of neither-perception-nor-non-perception; neither this world nor the world beyond, nor the sun and the moon ...".
+*'Atthi, bhikkhave, tad āyatanaṃ, yattha n'eva pathavī na āpo na tejo na vāyo na ākāsānañcāyatanaṃ na viññāṇānañcāyatanaṃ na ākiñcaññāyatanaṃ na nevasaññānāsaññāyatanaṃ na ayaṃ loko na paraloko na ubho candimasūriyā* ...'.[^664] "There is, monks, that sphere, in which there is neither earth, nor water, nor fire, nor air; neither the sphere of infinite space, nor the sphere of infinite consciousness, nor the sphere of nothingness, nor the sphere of neither-perception-nor-non-perception; neither this world nor the world beyond, nor the sun and the moon ...".
 
 But we have reasonably pointed out that those passages do not in any way refer to a non-descript realm into which the *arahants* enter after their demise, a realm that the tortoise and the frog cannot describe. Such facile explanations contradict the deeper teachings on the cessation of existence, dependent arising and not self. They create a lot of misconceptions regarding *Nibbāna* as the ultimate aim.
 
-The purpose of all those arguments is to assert that *Nibbāna* is definitely not an annihilation. The ideal of an everlasting *Nibbāna* is held out in order to obviate nihilistic notions. But the Buddha himself has declared that when he is preaching about the cessation of existence, those who held on to eternalist views wrongly accused him for being an annihilationist, who teaches about the annihilation, destruction and non-existence of a truly existing being, *sato satassa ucchedaṃ vināsaṃ vibhavaṃ paññāpeti*.[[665\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn665)
+The purpose of all those arguments is to assert that *Nibbāna* is definitely not an annihilation. The ideal of an everlasting *Nibbāna* is held out in order to obviate nihilistic notions. But the Buddha himself has declared that when he is preaching about the cessation of existence, those who held on to eternalist views wrongly accused him for being an annihilationist, who teaches about the annihilation, destruction and non-existence of a truly existing being, *sato satassa ucchedaṃ vināsaṃ vibhavaṃ paññāpeti*.[^665]
 
 On such occasions, the Buddha did not in any way incline towards eternalism in order to defend himself. He did not put forward the idea of an everlasting *Nibbāna* to counter the accusation. Instead, he drew attention to the three signata and the four noble truths and solved the whole problem. He maintained that the charge is groundless and utterly misconceived, and concluded with the memorable declaration: *pubbe cāhaṃ, bhikkhave, etarahi ca dukkhañceva paññāpemi, dukkhassa ca nirodhaṃ*, "formerly as well as now, O monks, I point out only a suffering and a cessation of that suffering".
 
 Even the term *tathāgata*, according to him, is not to be conceived as a self. It is only a mass of suffering that has come down through *saṃsāra*, due to ignorance. The so-called existence, *bhava*, is an outcome of grasping, *upādāna*. When grasping ceases, existence comes to an end. That itself is the cessation of existence, *bhavanirodha*, which is *Nibbāna*.
 
-As the term *anupādā parinibbāna* suggests, there is no grasping in the experience of the cessation of existence. It is only when one is grasping something that he can be identified with it, or reckoned by it. When one lets go of everything, he goes beyond reckoning. Of course, even the commentaries sometimes use the expression *apaññattikabhāvaṃ gatā*,[[666\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn666) "gone to the state beyond designation" with regard to the *parinibbāna* of *arahants*.
+As the term *anupādā parinibbāna* suggests, there is no grasping in the experience of the cessation of existence. It is only when one is grasping something that he can be identified with it, or reckoned by it. When one lets go of everything, he goes beyond reckoning. Of course, even the commentaries sometimes use the expression *apaññattikabhāvaṃ gatā*,[^666] "gone to the state beyond designation" with regard to the *parinibbāna* of *arahants*.
 
 Nevertheless, they tacitly grant a destination, which in their opinion defies definition. Such vague arguments are riddled with contradictions. They obfuscate the deeper issues of the *Dhamma*, relating to *paṭicca samuppāda* and *anattā*, and seek to perpetuate personality view by slanting towards eternalism.
 

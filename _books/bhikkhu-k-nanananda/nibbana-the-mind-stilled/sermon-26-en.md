@@ -28,7 +28,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
  
 
-*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[[838\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn838)
+*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[^838]
 
 "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction."
 
@@ -42,7 +42,7 @@ In order to facilitate the understanding of the gravity of this problem, we quot
 
 *Seyyathāpi, bhikkhave, māyākāro vā māyākārantevāsī vā cātummahāpathe māyaṃ vidaṃseyya, tam enaṃ cakkhumā puriso passeyya nijjhāyeyya yoniso upaparikkheyya. Tassa taṃ passato nijjhāyato yoniso upaparikkhato rittakaññ' eva khāyeyya tucchakaññ' eva khāyeyya asārakaññ' eva khāyeyya. Kiñhi siyā, bhikkhave, māyāya sāro.*
 
-*Evm eva kho, bhikkhave, yaṃ kiñci viññāṇaṃ atītānāgatapaccuppannaṃ, ajjhattaṃ vā bahiddhā vā, oḷārikaṃ vā sukhumaṃ vā, hīnaṃ vā paṇītaṃ vā, yaṃ dūre santike vā, taṃ bhikkhu passati nijjhāyati yoniso upaparikkhati. Tassa taṃ passato nijjhāyato yoniso upaparikkhato rittakaññ' eva khāyati tucchakaññ 'eva khāyati asārakaññ' eva khāyati. Kiñhi siyā, bhikkhave, viññāṇe sāro.*[[839\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn839)
+*Evm eva kho, bhikkhave, yaṃ kiñci viññāṇaṃ atītānāgatapaccuppannaṃ, ajjhattaṃ vā bahiddhā vā, oḷārikaṃ vā sukhumaṃ vā, hīnaṃ vā paṇītaṃ vā, yaṃ dūre santike vā, taṃ bhikkhu passati nijjhāyati yoniso upaparikkhati. Tassa taṃ passato nijjhāyato yoniso upaparikkhato rittakaññ' eva khāyati tucchakaññ 'eva khāyati asārakaññ' eva khāyati. Kiñhi siyā, bhikkhave, viññāṇe sāro.*[^839]
 
 "Suppose, monks, a magician or a magician's apprentice should hold a magic show at the four crossroads and a keen sighted man should see it, ponder over it and reflect on it radically. Even as he sees it, ponders over it and reflects on it radically, he would find it empty, he would find it hollow, he would find it void of essence. What essence, monks, could there be in a magic show?
 
@@ -80,7 +80,7 @@ First of all, let us try to compare our parable with the discourse proper. Now t
 
 *Yaṃ, bhikkhave, sadevakassa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā, tam ahaṃ jānāmi.*
 
-*Yaṃ, bhikkhave, sadevakassa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā, tam ahaṃ abhaññāsiṃ. Taṃ tathāgatasssa viditaṃ, taṃ tathāgato na upaṭṭhāsi.* [[840\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn840)
+*Yaṃ, bhikkhave, sadevakassa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā, tam ahaṃ abhaññāsiṃ. Taṃ tathāgatasssa viditaṃ, taṃ tathāgato na upaṭṭhāsi.* [^840]
 
 "Monks, whatsoever in the world, with its gods, Māras and Brahmas, among the progeny consisting of recluses and Brahmins, gods and men, whatsoever is seen, heard, sensed, cognized, sought after and pondered over by the mind, all that do I know.
 
@@ -98,7 +98,7 @@ The dialogue we have given might highlight these distinctions regarding levels o
 
 It is like the hesitation of that man with discernment who, on coming out of the hall, found it difficult to admit categorically that he had seen the magic show. Since the *Tathāgata* had an insight into the mechanism of the six-fold sense-base, that is to say, its conditioned nature, he understood that there is no one to see and nothing to see - only a seeing is there.
 
-The dictum of the *Bāhiyasutta* "in the seen just the seen", *diṭṭhe diṭṭhamattaṃ*,[[841\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn841) which we cited the other day, becomes more meaningful now. Only a seeing is there. Apart from the fact of having seen, there is nothing substantial to see. There is no magic to see. *Diṭṭhā daṭṭhabbaṃ diṭṭhaṃ na maññati,* he does not imagine a sight worthwhile apart from the seen. There is no room for a conceit of having seen a magic show.
+The dictum of the *Bāhiyasutta* "in the seen just the seen", *diṭṭhe diṭṭhamattaṃ*,[^841] which we cited the other day, becomes more meaningful now. Only a seeing is there. Apart from the fact of having seen, there is nothing substantial to see. There is no magic to see. *Diṭṭhā daṭṭhabbaṃ diṭṭhaṃ na maññati,* he does not imagine a sight worthwhile apart from the seen. There is no room for a conceit of having seen a magic show.
 
 On the other hand, it is not possible to deny the fact of seeing, *adiṭṭhaṃ na maññati*. He does not imagine an unseen. Now that friend was curious whether this one was asleep during the magic show, but that was not the case either.
 
@@ -114,7 +114,7 @@ Now we come to the conclusive declaration: *Iti kho, bhikkhave, tathāgato diṭ
 
 "Thus, monks, the *Tathāgata*, being such in regard to all phenomena, seen, heard, sensed and cognized, is such. Moreover than he who is such there is none other higher or more excellent, I declare."
 
-The other day we discussed the implications of the term *tādī*.[[842\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn842) The term is usually explained as signifying the quality of remaining unshaken before the eight worldly vicissitudes. But in this context, it has a special significance. It implies an equanimous attitude towards dogmatic views and view-holders. This attitude avoids categorical affirmation or negation regarding the question of truth and falsehood. It grants a relative reality to those viewpoints.
+The other day we discussed the implications of the term *tādī*.[^842] The term is usually explained as signifying the quality of remaining unshaken before the eight worldly vicissitudes. But in this context, it has a special significance. It implies an equanimous attitude towards dogmatic views and view-holders. This attitude avoids categorical affirmation or negation regarding the question of truth and falsehood. It grants a relative reality to those viewpoints.
 
 This is the moral behind the hesitation to give clear-cut answers to that inquisitive friend in our pithy dialogue. It is not the outcome of a dilly-dally attitude. There is something really deep. It is the result of an insight into the magic show. The reason for this suchness is the understanding of the norm of dependent arising, known as *tathatā*.
 
@@ -130,7 +130,7 @@ In the case of the magic show, the very ignorance of the tricks of the magician 
 
 To that discerning man, who viewed the show from his hiding place on the stage, there were no such preparations. That is why he proverbially missed the show.
 
-The same principle holds good in the case of the magical illusion, *māyā*, that is consciousness. A clear instance of this is the reference in the *MahāVedallasutta* of the *Majjhima Nikāya* to *viññāṇa*, consciousness, and *paññā*, wisdom, as two conjoined psychological states. They cannot be separated one from the other, *saṃsaṭṭhā no visaṃsaṭṭhā*.[[843\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn843) But they can be distinguished functionally. Out of them, wisdom is to be developed, while consciousness is to be comprehended, *paññā bhāvetabbā, viññāṇaṃ pariññeyyaṃ*.
+The same principle holds good in the case of the magical illusion, *māyā*, that is consciousness. A clear instance of this is the reference in the *MahāVedallasutta* of the *Majjhima Nikāya* to *viññāṇa*, consciousness, and *paññā*, wisdom, as two conjoined psychological states. They cannot be separated one from the other, *saṃsaṭṭhā no visaṃsaṭṭhā*.[^843] But they can be distinguished functionally. Out of them, wisdom is to be developed, while consciousness is to be comprehended, *paññā bhāvetabbā, viññāṇaṃ pariññeyyaṃ*.
 
 The development of wisdom is for the purpose of comprehending consciousness and comprehended consciousness proves to be empty, essenceless and hollow. It is such a transformation that took place within the person who watched the magic show with discernment. He watched it too closely, so much so, that the preparations, *saṅkhārā*, in the form of the secret stock-in-trade of the magician, became ineffective and nugatory.
 
@@ -144,7 +144,7 @@ This gives us the clue to unravel the meaning of the verse in the *Adhimutta The
 
 *passantassa yathābhūtaṃ,*
 
-*na bhayaṃ hoti gāmani*.[[844\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn844)
+*na bhayaṃ hoti gāmani*.[^844]
 
 "To one who sees
 
@@ -162,11 +162,11 @@ One seems to be in the world, but one is not of the world. That man with discern
 
 Let us now go deeper into the implications of the term *tādī*, "such", with reference to the law of dependent arising, known as *tathatā*, "suchness". From the dialogue that followed the magic show, it is clear that there are two points of view. We have here a question of two different points of view. If we are to explain these two viewpoints with reference to the law of dependent arising, we may allude to the distinction made for instance in the *Nidāna Saṃyutta* between the basic principle of dependent arising and the phenomena dependently arisen. We have already cited the relevant declaration.
 
-*Paṭiccasamuppādañca vo, bhikkhave, desessāmi paṭiccasamuppanne ca dhamme*.[[845\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn845) "Monks, I shall preach to you dependent arising and things that are dependently arisen." Sometimes two significant terms are used to denote these two aspects, namely *hetu* and *hetusamuppannā dhammā*.
+*Paṭiccasamuppādañca vo, bhikkhave, desessāmi paṭiccasamuppanne ca dhamme*.[^845] "Monks, I shall preach to you dependent arising and things that are dependently arisen." Sometimes two significant terms are used to denote these two aspects, namely *hetu* and *hetusamuppannā dhammā*.
 
-About the *ariyan* disciple, be he even a stream-winner, it is said that his understanding of dependent arising covers both these aspects, *hetu ca sudiṭṭho hetusamuppannā ca dhammā*.[[846\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn846) The cause, as well as the things arisen from a cause, are well seen or understood by him.
+About the *ariyan* disciple, be he even a stream-winner, it is said that his understanding of dependent arising covers both these aspects, *hetu ca sudiṭṭho hetusamuppannā ca dhammā*.[^846] The cause, as well as the things arisen from a cause, are well seen or understood by him.
 
-As we pointed out in our discussion of the hill-top festival in connection with the *Upatissa/Kolita* episode,[[847\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn847) the disenchantment with the hill-top festival served as a setting for their encounter with the venerable *Assaji*. As soon as venerable *Assaji* uttered the significant pithy verse
+As we pointed out in our discussion of the hill-top festival in connection with the *Upatissa/Kolita* episode,[^847] the disenchantment with the hill-top festival served as a setting for their encounter with the venerable *Assaji*. As soon as venerable *Assaji* uttered the significant pithy verse
 
 *Ye dhammā hetuppabhavā,*
 
@@ -174,7 +174,7 @@ As we pointed out in our discussion of the hill-top festival in connection with 
 
 *tesañca yo nirodho,*
 
-*evaṃ vādī mahāsamaṇo*.[[848\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn848)
+*evaṃ vādī mahāsamaṇo*.[^848]
 
 "Of things that proceed from a cause,
 
@@ -206,15 +206,15 @@ This not being, this does not come to be;
 
 With the cessation of this, this ceases."
 
-This statement of the basic principle of dependent arising is very often overlooked. It is this basic principle that finds expression in that pithy verse. The line *ye dhammā hetuppabhavā*, "of things that proceed from a cause", is generally regarded as a reference to the first link *avijjā*. But this is not the case. All the twelve links are dependently arisen, and *avijjā* is no exception. Even ignorance arises with the arising of influxes, *āsavasamudayā avijjāsamudayo*.[[849\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn849) Here we have something extremely deep.
+This statement of the basic principle of dependent arising is very often overlooked. It is this basic principle that finds expression in that pithy verse. The line *ye dhammā hetuppabhavā*, "of things that proceed from a cause", is generally regarded as a reference to the first link *avijjā*. But this is not the case. All the twelve links are dependently arisen, and *avijjā* is no exception. Even ignorance arises with the arising of influxes, *āsavasamudayā avijjāsamudayo*.[^849] Here we have something extremely deep.
 
-The allusion here is to the basic principle couched in the phrases *imasmiṃ sati idaṃ hoti* etc. In such discourses as the *Bahudhātukasutta* the twelve-linked formula is introduced with a set of these thematic phrases, which is then related to the formula proper with the conjunctive "that is to say", *yadidaṃ*.[[850\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn850) This conjunctive clearly indicates that the twelve-linked formula is an illustration. The twelve links are therefore things dependently arisen*, paṭicca samuppannā dhammā*. They are all arisen from a cause, *hetuppabhavā dhammā*.
+The allusion here is to the basic principle couched in the phrases *imasmiṃ sati idaṃ hoti* etc. In such discourses as the *Bahudhātukasutta* the twelve-linked formula is introduced with a set of these thematic phrases, which is then related to the formula proper with the conjunctive "that is to say", *yadidaṃ*.[^850] This conjunctive clearly indicates that the twelve-linked formula is an illustration. The twelve links are therefore things dependently arisen*, paṭicca samuppannā dhammā*. They are all arisen from a cause, *hetuppabhavā dhammā*.
 
 So even ignorance is not the cause. The cause is the underlying principle itself. This being, this comes to be. With the arising of this, this arises. This not being, this does not come to be. With the cessation of this, this ceases. This is the norm, the suchness, *tathatā*, that the Buddha discovered.
 
 That man with discernment at the magic show, looking down at the audience with commiseration, had a similar sympathetic understanding born of realization: 'I too have been in this same sorry plight before'.
 
-Due to ignorance, a sequence of phenomena occurs, precipitating a heaping of graspings. With the cessation of ignorance, all that comes to cease. It is by seeing this cessation that the momentous inner transformation took place. The insight into this cessation brings about the realization that all what the worldlings take as absolutely true, permanent or eternal, are mere phenomena arisen from the mind. *Manopubbangamā dhammā*, mind is the forerunner of all mind-objects.[[851\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn851) One comes to understand that all what is arisen is bound to cease, and that the cessation can occur here and now.
+Due to ignorance, a sequence of phenomena occurs, precipitating a heaping of graspings. With the cessation of ignorance, all that comes to cease. It is by seeing this cessation that the momentous inner transformation took place. The insight into this cessation brings about the realization that all what the worldlings take as absolutely true, permanent or eternal, are mere phenomena arisen from the mind. *Manopubbangamā dhammā*, mind is the forerunner of all mind-objects.[^851] One comes to understand that all what is arisen is bound to cease, and that the cessation can occur here and now.
 
 In discussing the formula of *paṭicca samuppāda*, the arising of the six sense-bases is very often explained with reference to a mother's womb. It is the usual practice to interpret such categories as *nāma-rūpa*, name-and-form, and *saḷāyatana*, six sense-bases, purely in physiological terms. But for the Buddha the arising of the six sense-bases was not a stage in the growth of a foetus in the mother's womb.  
 
@@ -226,15 +226,15 @@ This confusion regarding the way of explaining *paṭicca samuppāda* is a case 
 
 The subtlest point here is the basic principle involved. "This being, this comes to be. With the arising of this, this arises. This not being, this does not come to be. With the cessation of this, this ceases".
 
-Let us now examine the connection between the law of dependent arising, *paṭicca samuppāda*, and things dependently arisen, *paṭiccasamuppannā dhammā*. Worldings do not even understand things dependently arisen as 'dependently arisen'. They are fully involved in them. That itself is *saṃsāra*. One who has seen the basic principle of *paṭicca samuppāda* understands the dictum, *avijjāya sati saṅkhārā honti*, preparations are there only when ignorance is there.[[852\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn852) So he neither grasps ignorance, nor does he grasp preparations.
+Let us now examine the connection between the law of dependent arising, *paṭicca samuppāda*, and things dependently arisen, *paṭiccasamuppannā dhammā*. Worldings do not even understand things dependently arisen as 'dependently arisen'. They are fully involved in them. That itself is *saṃsāra*. One who has seen the basic principle of *paṭicca samuppāda* understands the dictum, *avijjāya sati saṅkhārā honti*, preparations are there only when ignorance is there.[^852] So he neither grasps ignorance, nor does he grasp preparations.
 
-In fact, to dwell on the law of dependent arising is the way to liberate the mind from the whole lot of dependently arisen things. Now why do we say so? Everyone of those twelve links, according to the Buddha, is impermanent, prepared, dependently arisen, of a nature to wither away, wear away, fade away and cease, *aniccaṃ, saṅkhataṃ, paṭicca samuppannaṃ, khayadhammaṃ, vayadhammaṃ, virāgadhammaṃ, nirodhadhammaṃ*.[[853\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn853) The very first link *avijjā* is no exception. They are impermanent because they are made up or prepared, *saṅkhata*. The term *saṅkhataṃ* has nuances of artificiality and spuriousness. All the links are therefore unreal in the highest sense. They are dependent on contact, *phassa*, and therefore dependently arisen. It is in their nature to wither away, wear away, fade away and cease.
+In fact, to dwell on the law of dependent arising is the way to liberate the mind from the whole lot of dependently arisen things. Now why do we say so? Everyone of those twelve links, according to the Buddha, is impermanent, prepared, dependently arisen, of a nature to wither away, wear away, fade away and cease, *aniccaṃ, saṅkhataṃ, paṭicca samuppannaṃ, khayadhammaṃ, vayadhammaṃ, virāgadhammaṃ, nirodhadhammaṃ*.[^853] The very first link *avijjā* is no exception. They are impermanent because they are made up or prepared, *saṅkhata*. The term *saṅkhataṃ* has nuances of artificiality and spuriousness. All the links are therefore unreal in the highest sense. They are dependent on contact, *phassa*, and therefore dependently arisen. It is in their nature to wither away, wear away, fade away and cease.
 
 When one has understood this as a fact of experience, one brings one's mind to rest, not on the things dependently arisen, but on the law of dependent arising itself.
 
 There is something extraordinary about this. One must not miss the wood for the trees. When the Buddha stretches his arm and says: 'That is a forest', he does not expect us to go and grasp any of the trees, or to go on counting them, so as to understand what a forest is. One has to get a synoptic view of it from here itself. Such a view takes into account not only the trees, but also the intervening spaces between them, all at one synoptic glance.
 
-In order to get a correct understanding of *paṭicca samuppāda* from a pragmatic point of view, one has to bring one's mind to rest on the norm that obtains between every two links. But this is something extremely difficult, because the world is steeped in the notion of duality. It grasps either this end, or the other end. Hard it is for the world to understand the stance of the *arahant* couched in the cryptic phrase *nev' idha na huraṃ na ubhayam antare*, "neither here nor there nor in between the two".[[854\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn854)
+In order to get a correct understanding of *paṭicca samuppāda* from a pragmatic point of view, one has to bring one's mind to rest on the norm that obtains between every two links. But this is something extremely difficult, because the world is steeped in the notion of duality. It grasps either this end, or the other end. Hard it is for the world to understand the stance of the *arahant* couched in the cryptic phrase *nev' idha na huraṃ na ubhayam antare*, "neither here nor there nor in between the two".[^854]
 
 The worldling is accustomed to grasp either this end or the other end. For instance, one may grasp either ignorance, *avijjā*, or preparations, *saṅkhārā*. But here we have neither. When one dwells on the interrelation between them, one is at least momentarily free from ignorance as well as from the delusive nature of preparations.
 
@@ -246,7 +246,7 @@ Let us go for another instance to illustrate this point further. *Saṅkhārapac
 
 Now if someone is always aware that consciousness arises dependent on preparations, that with the arising of preparations consciousness arises - always specific and never abstract - consciousness ceases to appear as a monolithic whole. This particular eye-consciousness has arisen because of eye and forms. This particular ear-consciousness has arisen because of ear and sound, and so on. This kind of reflection and constant awareness of the part played by preparations in the arising of consciousness will conduce to the withering away, wearing away and fading away of consciousness. Disgust, disillusionment and dejection in regard to consciousness is what accounts for its complete cessation, sooner or later.
 
-Consciousness is dependent on preparations, and name-and-form, *nāma-rūpa*, is dependent on consciousness. The worldling does not even recognize *nāma-rūpa* as such. We have already analyzed the mutual relationship between name-and-form as a reciprocity between nominal form and formal name.[[855\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn855) They always go together and appear as a reflection on consciousness. Here is a case of entanglement within and an entanglement without, *anto jaṭā bahi jaṭā*.[[856\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn856)
+Consciousness is dependent on preparations, and name-and-form, *nāma-rūpa*, is dependent on consciousness. The worldling does not even recognize *nāma-rūpa* as such. We have already analyzed the mutual relationship between name-and-form as a reciprocity between nominal form and formal name.[^855] They always go together and appear as a reflection on consciousness. Here is a case of entanglement within and an entanglement without, *anto jaṭā bahi jaṭā*.[^856]
 
 We brought in a simile of a dog on a plank to illustrate the involvement with name-and-form. When one understands that this name-and-form, which the world takes as real and calls one's own, is a mere reflection on consciousness, one does not grasp it either.
 
@@ -254,13 +254,13 @@ To go further, when one attends to the fact that the six sense-bases are depende
 
 Similarly, contact arises in dependence on the six sense-bases. Generally, the world is enslaved by contact. In the *Nandakovādasutta* of the *Majjhima Nikāya* there is a highly significant dictum, stressing the specific character of contact as such.
 
-*Tajjaṃ tajjaṃ, bhante, paccayaṃ paṭicca tajjā tajjā vedanā uppajjanti; tajjassa tajjassa paccayassa nirodhā tajjā tajjā vedanā nirujjhanti*.[[857\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn857) "Dependent on each specific condition, venerable sir, specific feelings arise, and with the cessation of each specific condition, specific feelings cease".
+*Tajjaṃ tajjaṃ, bhante, paccayaṃ paṭicca tajjā tajjā vedanā uppajjanti; tajjassa tajjassa paccayassa nirodhā tajjā tajjā vedanā nirujjhanti*.[^857] "Dependent on each specific condition, venerable sir, specific feelings arise, and with the cessation of each specific condition, specific feelings cease".
 
 The understanding that contact is dependent on the six sense-bases enables one to overcome the delusion arising out of contact. Since it is conditioned and limited by the six sense-bases, with their cessation it has to cease. Likewise, to attend to the specific contact as the cause of feeling is the way of disenchantment with both feeling and contact.
 
 Finally, when one understands that this existence is dependent on grasping, arising out of craving, one will not take existence seriously. Dependent on existence is birth, *bhavapaccayā jāti*. While the magic show was going on, the spectators found themselves in a magic world, because they grasped the magic in it. Even so, existence, *bhava*, is dependent on grasping, *upādāna*.
 
-Just as one seated on this side of a parapet wall might not see what is on the other side, what we take as our existence in this world is bounded by our parents from the point of view of birth. What we take as death is the end of this physical body. We are ignorant of the fact that it is a flux of preparations, *saṅkhārasantati*.[[858\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn858) Existence is therefore something prepared or made up. Birth is dependent on existence.
+Just as one seated on this side of a parapet wall might not see what is on the other side, what we take as our existence in this world is bounded by our parents from the point of view of birth. What we take as death is the end of this physical body. We are ignorant of the fact that it is a flux of preparations, *saṅkhārasantati*.[^858] Existence is therefore something prepared or made up. Birth is dependent on existence.
 
 Sometimes we happen to buy from a shop an extremely rickety machine deceived by its paint and polish, and take it home as a brand new thing. The very next day it goes out of order. The newly bought item was born only the previous day, and now it is out of order, to our disappointment.
 
@@ -278,7 +278,7 @@ The term *āsavā* implies those corrupting influences ingrained in beings due t
 
 It might be difficult to understand why even ignorance is reckoned as a kind of influxes, while it is recognized as the first link in the chain of dependent arising. Ignorance or ignoring is itself a habit. There is a tendency in *saṃsāric* beings to grope in darkness and dislike light. They have a tendency to blink at the light and ignore. It is easy to ignore and forget. This forgetting trait enables them to linger long in *saṃsāra*.  
 
-Ignorance as a kind of influxes is so powerful that even the keenest in wisdom cannot attain *arahant*-hood at once. The wheel of *Dhamma* has to turn four times, hence the fourfold distinction as stream-winner, once returner, non-returner and *arahant* . The difficulty of combating this onslaught of influxes is already insinuated by the term *sattakkhattuparama*, "seven more lives at the most",[[859\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn859) designating a stream-winner, and the term *sakadāgāmī*, "once-returner".
+Ignorance as a kind of influxes is so powerful that even the keenest in wisdom cannot attain *arahant*-hood at once. The wheel of *Dhamma* has to turn four times, hence the fourfold distinction as stream-winner, once returner, non-returner and *arahant* . The difficulty of combating this onslaught of influxes is already insinuated by the term *sattakkhattuparama*, "seven more lives at the most",[^859] designating a stream-winner, and the term *sakadāgāmī*, "once-returner".
 
 The way to cut off these influxes is the very insight into the law of dependent arising. Sometimes the path is defined as the law of dependent arising itself. That doesn't mean the ability to rattle off the twelve links by heart, but the task of bringing the mind to rest on the norm of *paṭicca samuppāda* itself.
 
@@ -298,7 +298,7 @@ This not being, this does not come to be;
 
 With the cessation of this, this ceases."
 
-It is an extremely difficult task, because the mind tends to slip off. The habitual tendency is to grasp this one or the other. The worldling, for the most part, rests on a duality. Not to cling even to the middle is the ideal of an *arahant*. That is the implication of the conclusive statement in the advice to *Bāhiya*, *nev' idha na huraṃ na ubhayam antarena*, "neither here, nor there, no in between the two".[[860\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn860)
+It is an extremely difficult task, because the mind tends to slip off. The habitual tendency is to grasp this one or the other. The worldling, for the most part, rests on a duality. Not to cling even to the middle is the ideal of an *arahant*. That is the implication of the conclusive statement in the advice to *Bāhiya*, *nev' idha na huraṃ na ubhayam antarena*, "neither here, nor there, no in between the two".[^860]
 
 For clarity's sake, let us quote the relevant section in full:
 
@@ -314,11 +314,11 @@ Why does the *Tathāgata* not declare the sense-data categorically as true or fa
 
 Fortified with that understanding, he does not categorically assert the sense-data as true, nor does he reprimand those who assert them as the truth. That is why the Buddha advocates a tolerant attitude in this discourse. This is the typical attitude of an understanding elder to the questions put by an inquisitive toddler.
 
-Generally, the dogmatists in the world are severally entrenched in their own individual viewpoints, as the line *paccekasaccesu puthū niviṭṭhā* suggests.[[861\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn861) We explained the term *sayasaṃvuta* as on a par with the phrase *paccekasaccesu*. The problematic term *sayasaṃvuta* is suggestive of virulent self-opinionatedness. Why are they committed and limited by their own views? Our quotation from the *Cūḷa-Viyūhasutta* holds the answer.
+Generally, the dogmatists in the world are severally entrenched in their own individual viewpoints, as the line *paccekasaccesu puthū niviṭṭhā* suggests.[^861] We explained the term *sayasaṃvuta* as on a par with the phrase *paccekasaccesu*. The problematic term *sayasaṃvuta* is suggestive of virulent self-opinionatedness. Why are they committed and limited by their own views? Our quotation from the *Cūḷa-Viyūhasutta* holds the answer.
 
 *Na h' eva saccāni bahūni nānā,*
 
-*aññatra saññāya niccāni loke,*[[862\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn862)
+*aññatra saññāya niccāni loke,*[^862]
 
 "There are no several and various truths,
 
@@ -326,15 +326,15 @@ That are permanent in the world, apart from perception".
 
 According to one's level of perception, one forms a notion of reality. To those in the audience the tricks of the magician remained concealed. It is that ignorance which aroused preparations, *saṅkhārā*, in them.  
 
-A typical illustration of individual truths, *paccekasacca*, is found in the chapter titled *Jaccandha*, "congenitally blind", in the *Udāna*. There the Buddha brings up a parable of the blind men and the elephant.[[863\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn863) A certain king got a crowd of congenitally blind men assembled, and having made them touch various limbs of an elephant, asked them what an elephant looks like. Those who touched the elephant's head compared the elephant to a pot, those who touched its ears compared it to a winnowing basket, those who touched its tusk compared it to a ploughshare and so forth.
+A typical illustration of individual truths, *paccekasacca*, is found in the chapter titled *Jaccandha*, "congenitally blind", in the *Udāna*. There the Buddha brings up a parable of the blind men and the elephant.[^863] A certain king got a crowd of congenitally blind men assembled, and having made them touch various limbs of an elephant, asked them what an elephant looks like. Those who touched the elephant's head compared the elephant to a pot, those who touched its ears compared it to a winnowing basket, those who touched its tusk compared it to a ploughshare and so forth.
 
-The dogmatic views in the world follow the same trend. All that is due to contact, *phassapaccayā*, says the Buddha in the *Brahmajālasutta* even with reference to those who have supernormal knowledges, *abhiññā*. [[864\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn864) Depending on name-and-form, which they grasped, they evolved dogmatic theories, based on their perceptions, spurred on by sense-contact. Their dogmatic involvement is revealed by the thematic assertion *idam eva saccaṃ, mogham aññaṃ*, "this alone is true, all else is false".
+The dogmatic views in the world follow the same trend. All that is due to contact, *phassapaccayā*, says the Buddha in the *Brahmajālasutta* even with reference to those who have supernormal knowledges, *abhiññā*. [^864] Depending on name-and-form, which they grasped, they evolved dogmatic theories, based on their perceptions, spurred on by sense-contact. Their dogmatic involvement is revealed by the thematic assertion *idam eva saccaṃ, mogham aññaṃ*, "this alone is true, all else is false".
 
 The Buddha had no dogmatic involvement, because he had seen the cessation of consciousness. Even the mind ceases, and mind-objects fade away. That is why the Buddha was tolerantly neutral. On many such issues, silence happens to be the answer.
 
 This brings us to an extremely deep dimension of this *Dhamma*. Just as that man with discerning wisdom at the magic show had difficulties in coming to terms with the naive magic fan, so the Buddha, too, had to face situations where problems of communication cropped up.
 
-We come across such an instance in the *Mahāparinibbānasutta*. On his way to Kusinārā, to attain *parinibbāna*, the Buddha happened to rest under a tree for a while, to overcome fatigue. Pukkusa of Malla, a disciple of Āḷāra Kālāma, who was coming from Kusinārā on his way to Pāvā, saw the Buddha seated there and approached him. After worshipping him he made the following joyful utterance: *Santena vata, bhante, pabbajitā vihārena viharanti*, "Venerable Sir, those who have gone forth are indeed living a peaceful life".[[865\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn865)
+We come across such an instance in the *Mahāparinibbānasutta*. On his way to Kusinārā, to attain *parinibbāna*, the Buddha happened to rest under a tree for a while, to overcome fatigue. Pukkusa of Malla, a disciple of Āḷāra Kālāma, who was coming from Kusinārā on his way to Pāvā, saw the Buddha seated there and approached him. After worshipping him he made the following joyful utterance: *Santena vata, bhante, pabbajitā vihārena viharanti*, "Venerable Sir, those who have gone forth are indeed living a peaceful life".[^865]
 
 Though it was apparently a compliment for the Buddha, he came out with an episode, which was rather in praise of his teacher Āḷāra Kālāma, who had attained to the plane of nothingness, *ākiñcaññāyatana*.  
 
@@ -398,7 +398,7 @@ And then, Pukkusa, that man expressed his surprise in the words:¶'It is a wonde
 
 Some interpret this incident as an illustration of the Buddha's attainment to the cessation of perceptions and feelings. But if it had been the case, the words *saññī samāno jāgaro*, "while being conscious and awake", would be out of place. That man expressed his wonder at the fact that the Buddha, while being conscious and awake, had not seen or heard anything, though it was raining in torrents with streaks of lightening and peals of thunder. Nor can this incident be interpreted as a reference to the realm of nothingness, *ākiñcaññāyatana*, in the context of the allusion to Āḷārā Kālāma and his less impressive psychic powers.
 
-The true import of this extraordinary psychic feat has to be assessed with reference to the *arahattaphalasamādhi*, we have already discussed.[[866\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn866)
+The true import of this extraordinary psychic feat has to be assessed with reference to the *arahattaphalasamādhi*, we have already discussed.[^866]
 
 The incident had occurred while the Buddha was seated in *arahattaphalasamādhi*, experiencing the cessation of the six sense-spheres, equivalent to the cessation of the world. He had gone beyond the world - that is why he didn't see or hear.
 
@@ -410,7 +410,7 @@ We are now in a position to appreciate meaningfully that much-vexed riddle-like 
 
 *evaṃ sametassa vibhoti rūpaṃ,*
 
-*saññānidānā hi papañcasaṅkhā*.[[867\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn867)
+*saññānidānā hi papañcasaṅkhā*.[^867]
 
 "He is not conscious of normal perception, nor is he unconscious,
 
@@ -422,9 +422,9 @@ For reckonings through prolificity have perception as their source".
 
 Perception is the source of all prolific reckonings, such as those that impelled the audience at the magic show to respond with the 'Ahs', and 'Ohs' and whistles. One is completely free from that prolific perception when one is in the *arahattaphalasamādhi*, experiencing the cessation of the six sense-spheres.
 
-As we had earlier cited '... one is neither percipient of earth in earth, nor of water in water, nor of fire in fire, nor of air in air, nor is one conscious of a "this world" in this world, nor of "another world" in another world ...' and so on, but all the same 'one is percipient', *saññī ca pana assa.*[[868\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn868) Of what is he percipient or conscious? That is none other than what comes up as the title of these series of sermons, namely:
+As we had earlier cited '... one is neither percipient of earth in earth, nor of water in water, nor of fire in fire, nor of air in air, nor is one conscious of a "this world" in this world, nor of "another world" in another world ...' and so on, but all the same 'one is percipient', *saññī ca pana assa.*[^868] Of what is he percipient or conscious? That is none other than what comes up as the title of these series of sermons, namely:
 
- *Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[[869\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn869)
+ *Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[^869]
 
 "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction."
 

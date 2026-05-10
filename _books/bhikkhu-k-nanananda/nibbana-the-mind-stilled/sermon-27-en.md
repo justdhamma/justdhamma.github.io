@@ -26,7 +26,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
  
 
-*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[[870\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn870)
+*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[^870]
 
 "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction."
 
@@ -34,7 +34,7 @@ With the permission of the Most Venerable Great Preceptor and the assembly of th
 
 Drawing inspiration from the Buddha's sermon, comparing consciousness to a magic show, we made an attempt to discover the secrets of a modern day magic show from a hidden corner of the stage. The parable of the magic show revealed us the fact that the direct and the indirect formulation of the Law of Dependent Arising, known as *tathatā*, suchness, or *idapaccayatā*, specific conditionality, is similar to witnessing a magic show from two different points of view. That is to say, the deluded point of view of the spectator in the audience and the discerning point of view of the wisdom-eyed critic, hidden in a corner of the stage.
 
-The reason for the riddle-like outward appearance of the *Kāḷakārāmasutta* is the problem of resolving the conflict between these two points of view. However, the fact that the *Tathāgata* resolved this conflict at a supramundane level and enjoyed the bliss of emancipation comes to light in the first three discourses of the *Bodhivagga* in the *Udāna*.[[871\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn871)
+The reason for the riddle-like outward appearance of the *Kāḷakārāmasutta* is the problem of resolving the conflict between these two points of view. However, the fact that the *Tathāgata* resolved this conflict at a supramundane level and enjoyed the bliss of emancipation comes to light in the first three discourses of the *Bodhivagga* in the *Udāna*.[^871]
 
 These three discourses tell us that, after the attainment of enlightenment, the Buddha spent the first week in the same seated posture under the Bodhi tree, and that on the last night of the week he reflected on the Law of Dependent Arising in the direct order in the first watch of the night, in the reverse order in the second watch, and both in direct and reverse order in the last watch. 
 
@@ -56,7 +56,7 @@ We come across two highly significant verses in the *Soṇasutta* among the Sixe
 
 *disvā āyatanuppādaṃ,*
 
-*sammā cittaṃ vimuccati.*[[872\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn872)
+*sammā cittaṃ vimuccati.*[^872]
 
 "The mind of one who is fully attuned
 
@@ -92,7 +92,7 @@ The *Dvāyatanānupassanasutta* of the *Sutta Nipāta* also bears testimony to t
 
 *viññāṇūpasamā bhikkhu,*
 
-*nicchāto parinibbuto.*[[873\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn873)
+*nicchāto parinibbuto.*[^873]
 
 "Whatever suffering that arises,
 
@@ -112,7 +112,7 @@ Is hunger-less and fully appeased."
 
 The comparison between the magic show and consciousness becomes more meaningful in the context of this discourse. As in the case of a magic show, the delusory character of the magic of consciousness is traceable to the perception of form. It is the perception of form which gives rise to the host of reckonings through cravings, conceits and views, which bring about a delusion.
 
-Therefore, a monk intent on attaining *Nibbāna* has to get rid of the magical spell of the perception of form. The verse we cited from the *Kalahavivādasutta* the other day has an allusion to this requirement. That verse, beginning with the words *na saññasaññī,* is an attempt to answer the question raised in a previous verse in that *Sutta*, posing the query: *Kathaṃ sametassa vibhoti rūpaṃ*,[[874\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn874) "to one, constituted in which manner, does form cease to exist?" Let us remind ourselves of that verse.
+Therefore, a monk intent on attaining *Nibbāna* has to get rid of the magical spell of the perception of form. The verse we cited from the *Kalahavivādasutta* the other day has an allusion to this requirement. That verse, beginning with the words *na saññasaññī,* is an attempt to answer the question raised in a previous verse in that *Sutta*, posing the query: *Kathaṃ sametassa vibhoti rūpaṃ*,[^874] "to one, constituted in which manner, does form cease to exist?" Let us remind ourselves of that verse.
 
 *Na saññasaññī, na visaññasaññī,*
 
@@ -132,9 +132,9 @@ For reckonings through prolificity have perception as their source".
 
 Here the last line states a crucial fact. Reckonings, designations and the like, born of prolificity, are traceable to perception in the last analysis. That is to say, all that is due to perception.
 
-Another reason why form has received special attention here, is the fact that it is a precondition for contact. When there is form, there is the notion of resistance. That is already implicit in the question that comes in a verse at the beginning of the *Kalahavivādasutta*: *Kismiṃ vibhūte na phusanti phassā*, "when what is not there, do touches not touch?"[[875\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn875) The answer to that query is: *Rūpe vibhūte na phusanti phassā*, "when form is not there, touches do not touch".
+Another reason why form has received special attention here, is the fact that it is a precondition for contact. When there is form, there is the notion of resistance. That is already implicit in the question that comes in a verse at the beginning of the *Kalahavivādasutta*: *Kismiṃ vibhūte na phusanti phassā*, "when what is not there, do touches not touch?"[^875] The answer to that query is: *Rūpe vibhūte na phusanti phassā*, "when form is not there, touches do not touch".
 
-We come across a phrase relevant to this point in the *Saṅgītisutta* of the *Dīgha Nikāya*, that is, *sanidassanasappaṭighaṃ rūpaṃ*.[[876\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn876) Materiality, according to this phrase, has two characteristics. It has the quality of manifesting itself, *sanidassana*; it also offers resistance, *sappaṭigha*. Both these aspects are hinted at in a verse from the *Jaṭāsutta* we had quoted at the very beginning of this series of sermons.
+We come across a phrase relevant to this point in the *Saṅgītisutta* of the *Dīgha Nikāya*, that is, *sanidassanasappaṭighaṃ rūpaṃ*.[^876] Materiality, according to this phrase, has two characteristics. It has the quality of manifesting itself, *sanidassana*; it also offers resistance, *sappaṭigha*. Both these aspects are hinted at in a verse from the *Jaṭāsutta* we had quoted at the very beginning of this series of sermons.
 
 *Yattha nāmañca rūpañca,*
 
@@ -142,7 +142,7 @@ We come across a phrase relevant to this point in the *Saṅgītisutta* of the *
 
 *paṭighaṃ rūpasaññā ca,*
 
-*etthasā chijjate jaṭā*.[[877\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn877)
+*etthasā chijjate jaṭā*.[^877]
 
 The *Jaṭāsutta* tells us the place where the tangle within and the tangle without, *antojaṭā bahijaṭā*, of this gigantic *saṃsāric* puzzle is solved. And here is the answer:
 
@@ -156,9 +156,9 @@ It is there that the tangle gets snapped."
 
 The phrase *paṭighaṃ rūpasaññā ca* is particularly significant. Not only the term *paṭigha*, implying "resistance", but also the term *rūpasaññā* deserves our attention, as it is suggestive of the connection between form and perception. It is perception that brings an image of form. Perception is the source of various reckonings and destinations.
 
-The term *saññā* has connotations of a "mark", a "sign", or a "token", as we have already pointed out.[[878\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn878) It is as if a party going through a forest is blazing a trail for their return by marking notches on the trees with an axe. The notion of permanence is therefore implicit in the term *saññā*.
+The term *saññā* has connotations of a "mark", a "sign", or a "token", as we have already pointed out.[^878] It is as if a party going through a forest is blazing a trail for their return by marking notches on the trees with an axe. The notion of permanence is therefore implicit in the term *saññā*.
 
-So it is this *saññā* that gives rise to *papañcasaṅkhā*, reckonings through prolificity. The compound term *papañcasaññāsaṅkhā*, occurring in the *Madhupiṇḍika Sutta*,[[879\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn879) is suggestive of this connection between *saññā* and *saṅkhā*. Reckonings, definitions and designations, arising from prolific perception, are collectively termed *papañcasaññāsaṅkhā*. The significance attached to *saññā* could easily be guessed by the following dictum in the *Guhaṭṭhakasutta* of the *Sutta Nipāta*: *Saññāṃ pariññā vitareyya oghaṃ*,[[880\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn880) "comprehend perception and cross the flood".
+So it is this *saññā* that gives rise to *papañcasaṅkhā*, reckonings through prolificity. The compound term *papañcasaññāsaṅkhā*, occurring in the *Madhupiṇḍika Sutta*,[^879] is suggestive of this connection between *saññā* and *saṅkhā*. Reckonings, definitions and designations, arising from prolific perception, are collectively termed *papañcasaññāsaṅkhā*. The significance attached to *saññā* could easily be guessed by the following dictum in the *Guhaṭṭhakasutta* of the *Sutta Nipāta*: *Saññāṃ pariññā vitareyya oghaṃ*,[^880] "comprehend perception and cross the flood".
 
 Full comprehension of the nature of perception enables one to cross the four great floods of defilements in *saṃsāra*. In other words, the penetrative understanding of perception is the way to deliverance.
 
@@ -166,7 +166,7 @@ Let us now go a little deeper into the connotations of the term *saññā*. In t
 
 A sign properly so called is something that signifies, and when there is nothing to signify, it ceases to be a sign. So also is the case with the symbol. This is a norm which is well explained in the *Mahāvedallasutta* of the *Majjhima Nikāya*. In the course of a dialogue between Venerable Mahākoṭṭhita and Venerable Sāriputta, we find in that *Sutta* the following pronouncement made by Venerable Sāriputta:
 
-*Rāgo kho, āvuso, kiñcano, doso kiñcano, moho kiñcano*, *te khīnāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvakatā āyatiṃ anuppādadhammā.* [[881\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn881) 
+*Rāgo kho, āvuso, kiñcano, doso kiñcano, moho kiñcano*, *te khīnāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvakatā āyatiṃ anuppādadhammā.* [^881] 
 
 "Lust, friend, is something, hate is something, delusion is something. They have been abandoned in an influx-free monk, uprooted, made like a palm tree deprived of its site, made extinct and rendered incapable of sprouting again."
 
@@ -188,7 +188,7 @@ The concluding verse of the *Māgandiya Sutta* of the *Sutta Nipāta* is particu
 
 *saññañca diṭṭhiñca ye aggahesuṃ,*
 
-*te ghaṭṭayantā vicaranti loke.*[[882\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn882)
+*te ghaṭṭayantā vicaranti loke.*[^882]
 
 "To one detached from percepts there are no bonds,
 
@@ -198,13 +198,13 @@ Those who hold on to percepts and views,
 
 Go about wrangling in this world."
 
-It is this state of detachment from perceptions and release through wisdom that is summed up by the phrase *anāsavaṃ cetovimuttiṃ paññāvimuttiṃ* in some discourses. With reference to the *arahant* it is said that he has realized by himself through higher knowledge in this very life that influx-free deliverance of the mind and deliverance through wisdom, *anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭhevadhamme sayaṃ abhiññā sacchikatvā*.[[883\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn883)
+It is this state of detachment from perceptions and release through wisdom that is summed up by the phrase *anāsavaṃ cetovimuttiṃ paññāvimuttiṃ* in some discourses. With reference to the *arahant* it is said that he has realized by himself through higher knowledge in this very life that influx-free deliverance of the mind and deliverance through wisdom, *anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭhevadhamme sayaṃ abhiññā sacchikatvā*.[^883]
 
-So we could well infer that the *arahant* is free from the enticing bonds of perceptions and the deceptive tricks of consciousness. It is this unshakeable stability that finds expression in the epithets *anejo*, "immovable", and *ṭhito*, "stable", used with reference to the *arahant*.[[884\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn884)
+So we could well infer that the *arahant* is free from the enticing bonds of perceptions and the deceptive tricks of consciousness. It is this unshakeable stability that finds expression in the epithets *anejo*, "immovable", and *ṭhito*, "stable", used with reference to the *arahant*.[^884]
 
 The *Āneñjasappāyasutta* of the *Majjhima Nikāya* opens with the following exhortation by the Buddha:
 
-*Aniccā, bhikkhave, kāmā tucchā musā mosadhammā, māyākatam etaṃ, bhikkhave, bālalāpanaṃ*. *Ye ca diṭṭhadhammikā kāmā, ye ca samparāyikā kāmā, yā ca diṭṭhadhammikā kāmasaññā, yā ca samparāyikā kāmasañña, ubhayam etaṃ Māradheyyaṃ, Mārass'esa visayo, Mārass' esa nivāpo, Mārass' esa gocaro*.[[885\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn885)
+*Aniccā, bhikkhave, kāmā tucchā musā mosadhammā, māyākatam etaṃ, bhikkhave, bālalāpanaṃ*. *Ye ca diṭṭhadhammikā kāmā, ye ca samparāyikā kāmā, yā ca diṭṭhadhammikā kāmasaññā, yā ca samparāyikā kāmasañña, ubhayam etaṃ Māradheyyaṃ, Mārass'esa visayo, Mārass' esa nivāpo, Mārass' esa gocaro*.[^885]
 
 "Impermanent, monks, are sense pleasures, they are empty, false and deceptive by nature, they are conjuror's tricks, monks, tricks that make fools prattle. Whatever pleasures there are in this world, whatever pleasures that are in the other world, whatever pleasurable percepts there are in this world, whatever pleasurable percepts that are in the other world, they all are within the realm of Māra, they are the domain of Māra, the bait of Māra, the beat of Māra." 
 
@@ -212,17 +212,17 @@ This exhortation accords well with what was said above regarding the magic show.
 
 The comparison of consciousness to a magic show has deeper implications. The insinuation is that one has to comprehend perception for what it is, in order to become dispassionate towards it, *saññaṃ pariññā vitareyya oghaṃ*, "comprehend perception and cross the flood". When perception is understood inside out, disenchantment sets in as a matter of course, since delusion is no more.
 
-Three kinds of deliverances are mentioned in connection with the *arahants*, namely *animitta*, the signless, *appaṇihita*, the undirected, and *suññata*, the void.[[886\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn886) We spoke of signs being significant. Now where there is no signification, when one does not give any significance to signs, one does not direct one's mind to anything. *Paṇidhi* means "direction of the mind", an "aspiration". In the absence of any aspiration, there is nothing *'*essence-tial' in existence.
+Three kinds of deliverances are mentioned in connection with the *arahants*, namely *animitta*, the signless, *appaṇihita*, the undirected, and *suññata*, the void.[^886] We spoke of signs being significant. Now where there is no signification, when one does not give any significance to signs, one does not direct one's mind to anything. *Paṇidhi* means "direction of the mind", an "aspiration". In the absence of any aspiration, there is nothing *'*essence-tial' in existence.
 
 There is a certain interconnection between the three deliverances. *Animitta*, the signless, is that stage in which the mind refuses to take a sign or catch a theme in anything. Where lust, hate and delusion are not there to give any significance, signs become ineffective. That is the signless. Where there is no tendency to take in signs, there is no aspiration, expectation or direction of the mind. It is as if dejection in regard to the magic show has given rise to disenchantment and dispassion. When the mind is not directed to the magic show, it ceases to exist. It is only when the mind is continually there, directed towards the magic show or a film show, that they exist for a spectator. One finds oneself born into a world of magic only when one sees something substantial in it. A magic world is made up only when there is an incentive to exist in it.
 
-Deeper reflection on this simile of the magic show would fully expose the interior of the magical illusion of consciousness. Where there is no grasping at signs, there is no direction or expectation, in the absence of which, existence ceases to appear substantial. That is why the three terms singless, *animitta*, undirected, *appaṇihita* and void *suññata*, are used with reference to an *arahant*. These three terms come up in a different guise in a discourse on *Nibbāna* we had discussed earlier. There they occur as *appatiṭṭhaṃ, appavattaṃ* and *anārammaṇaṃ*.[[887\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn887)
+Deeper reflection on this simile of the magic show would fully expose the interior of the magical illusion of consciousness. Where there is no grasping at signs, there is no direction or expectation, in the absence of which, existence ceases to appear substantial. That is why the three terms singless, *animitta*, undirected, *appaṇihita* and void *suññata*, are used with reference to an *arahant*. These three terms come up in a different guise in a discourse on *Nibbāna* we had discussed earlier. There they occur as *appatiṭṭhaṃ, appavattaṃ* and *anārammaṇaṃ*.[^887]
 
 *Appatiṭṭhaṃ* means "unestablished". Mind gets established when there is desire or aspiration, *paṇidhi*. Contemplation on the suffering aspect, *dukkhānupassanā*, eliminates desire. So the mind is unestablished. Contemplation on not-self, *anattānupassanā*, does away with the notion of substantiality, seeing nothing pithy or *'*essence-tial' in existence Pith is something that endures. A tree that has pith has something durable, though its leaves may drop off. Such notions of durability lose their hold on the *arahant's* mind. The contemplation of impermanence, *aniccānupassanā*, ushers in the signless, *animitta*, state of the mind that takes no object, *anārammaṇaṃ.*
 
 The simile of the magic show throws light on all these aspects of deliverance. Owing to this detachment from perception, *saññāviratta*, and release through wisdom, *paññāvimutta*, an *arahant's* point of view is totally different from the wordling's point of view. What appears as real for the worldling, is unreal in the estimation of the *arahant*. There is such a wide gap between the two viewpoints. This fact comes to light in the two kinds of reflections mentioned in the *Dvayatānupassanāsutta* of the *Sutta Nipāta*.
 
-*Yaṃ, bhikkhave, sadevakassa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya 'idaṃ saccan' ti upanijjhāyitaṃ, tadam ariyānaṃ 'etaṃ musā' ti yathābhūtaṃ sammappaññāya suddiṭṭhaṃ - ayaṃ ekānupassanā. Yaṃ, bhikkhave, sadevakassa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya 'idaṃ musā' ti upanijjhāyitaṃ, tadam ariyānaṃ 'etaṃ saccan' ti yathābhūtaṃ sammappaññāya suddiṭṭhaṃ - ayaṃ dutiyānupassanā*.[[888\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn888)
+*Yaṃ, bhikkhave, sadevakassa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya 'idaṃ saccan' ti upanijjhāyitaṃ, tadam ariyānaṃ 'etaṃ musā' ti yathābhūtaṃ sammappaññāya suddiṭṭhaṃ - ayaṃ ekānupassanā. Yaṃ, bhikkhave, sadevakassa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya 'idaṃ musā' ti upanijjhāyitaṃ, tadam ariyānaṃ 'etaṃ saccan' ti yathābhūtaṃ sammappaññāya suddiṭṭhaṃ - ayaṃ dutiyānupassanā*.[^888]
 
 "Monks, whatsoever in the world with its gods, Māras and Brahmas, among the progeny consisting of recluses, Brahmins, gods and men, whatsoever is pondered over as 'truth', that by the *ariyans* has been well discerned with right wisdom, as it is, as 'untruth'. This is one mode of reflection. Monks, whatsoever in the world with its gods, Māras and Brahmas, among the progeny consisting of recluses, Brahmins, gods and men, whatsoever is pondered over as 'untruth', that by the *ariyans* has been well discerned with right wisdom, as it is, as 'truth'. This is the second mode of reflection."
 
@@ -250,7 +250,7 @@ From this, one can well imagine what a great difference, what a contrast exists 
 
 *te ve saccābhisamayā,*
 
-*nicchātā parinibbutā.*[[889\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn889)
+*nicchātā parinibbutā.*[^889]
 
 "Just see the world, with all its gods,
 
@@ -298,7 +298,7 @@ But this is only one aspect of our illustration. The world, in fact, is a chessb
 
 *mamattaṃ so asaṃvindaṃ,*
 
-*'natthi me'ti na socati*.[[890\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn890)
+*'natthi me'ti na socati*.[^890]
 
 "When one sees with wisdom,
 
@@ -318,7 +318,7 @@ Some verses uttered by the Buddha deepen our understanding of the *arahant's* st
 
 *upasanto sukhaṃ seti*
 
-*hitvā jayaparājayaṃ*.[[891\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn891)
+*hitvā jayaparājayaṃ*.[^891]
 
 "Victory breeds hatred,
 
@@ -338,7 +338,7 @@ These two go as a pair. This recognition of a duality is a distinctive feature o
 
 *mamattaṃ so asaṃvindaṃ,*
 
-*'n' atthi me' ti na socati*.[[892\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn892) 
+*'n' atthi me' ti na socati*.[^892] 
 
 "He who has nothing to call 'this is mine',
 
@@ -362,7 +362,7 @@ The aim of this series of sermons, however, is not the satisfying of some curios
 
 *hiṃsanti attasambhūtā,*
 
-*tacasāraṃ va samphalaṃ.*[[893\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn893)
+*tacasāraṃ va samphalaṃ.*[^893]
 
 "Greed and hate and delusion too,
 
@@ -380,13 +380,13 @@ Now this is where the question of radical reflection, *yoniso manasikāra*, come
 
 The worldling thinks that greed, hatred and delusion arise due to external signs. The Buddha points out that they arise from within an individual and destroy him as in the case of the fruit of a reed or bamboo. It is this same question of radical reflection that came up earlier in the course of our discussion of the *Madhupiṇḍikasutta*, based on the following deep and winding statement.
 
-*Cakkhuñc'āvuso paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ, tiṇṇaṃ saṅgati phasso, phassapaccayā vedanā, yaṃ vedeti taṃ sañjānāti, yaṃ sañjānāti taṃ vitakketi, yaṃ vitakketi taṃ papañceti, yaṃ papañceti tatonidānaṃ purisaṃ papañcasaññāsaṅkhā samudācaranti atītānāgatapaccuppannesu cakkhuviññeyyesu rūpesu*.[[894\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn894)
+*Cakkhuñc'āvuso paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ, tiṇṇaṃ saṅgati phasso, phassapaccayā vedanā, yaṃ vedeti taṃ sañjānāti, yaṃ sañjānāti taṃ vitakketi, yaṃ vitakketi taṃ papañceti, yaṃ papañceti tatonidānaṃ purisaṃ papañcasaññāsaṅkhā samudācaranti atītānāgatapaccuppannesu cakkhuviññeyyesu rūpesu*.[^894]
 
 "Dependent on eye and forms, friend, arises eye-consciousness; the concurrence of the three is contact; because of contact, feeling; what one feels, one perceives; what one perceives, one reasons about; what one reasons about, one proliferates; what one proliferates, owing to that, reckonings born of prolific perceptions overwhelm him in regard to forms cognizable by the eye relating to the past, the future and the present." 
 
 Eye-consciousness, for instance, arises depending on eye and forms. The concurrence of these three is called contact. Depending on this contact arises feeling. What one feels, one perceives, and what one perceives, one reasons about. The reasoning about leads to a proliferation that brings about an obsession, as a result of which the reckonings born of prolific perceptions overwhelm the individual concerned.
 
-The process is somewhat similar to the destruction of the reed by its own fruit. It shows how non-radical reflection comes about. Radical reflection is undermined when proliferation takes over. The true source, the matrix, is ignored, with the result an obsession follows, tantamount to an entanglement within and without, *anto jaṭā bahi jaṭā*.[[895\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn895)
+The process is somewhat similar to the destruction of the reed by its own fruit. It shows how non-radical reflection comes about. Radical reflection is undermined when proliferation takes over. The true source, the matrix, is ignored, with the result an obsession follows, tantamount to an entanglement within and without, *anto jaṭā bahi jaṭā*.[^895]
 
 The paramount importance of radical reflection is revealed by the *Sūcilomasutta* found in the *Sutta Nipāta*, as well as in the *Sagāthakavagga* of the *Saṃyutta Nikāya*. The *yakkha* Sūciloma poses some questions to the Buddha in the following verse.
 
@@ -396,7 +396,7 @@ The paramount importance of radical reflection is revealed by the *Sūcilomasutt
 
 *kuto samuṭṭhāya manovitakkā,*
 
-*kumārakā vaṃkam iv' ossajanti?*[[896\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn896)
+*kumārakā vaṃkam iv' ossajanti?*[^896]
 
 "Lust and hate, whence caused are they,
 
@@ -458,9 +458,9 @@ Never crossed before, to become no more."
 
 In explaining these verses, we are forced to depart from the commentarial trend. The point of controversy is the phrase *kumārakā dhaṅkam iv' ossajanti*, recognized by the commentary as the last line of Sūciloma's verse. We adopted the variant reading *kumārakā vaṃkam iv' ossajanti*, found in some editions. Let us first try to understand how the commentary interprets this verse.
 
-Its interpretation centres around the word *dhaṅka*, which means a crow. In order to explain how thoughts disperse, it alludes to a game among village lads, in which they tie the leg of a crow with a long string and let it fly away so that it is forced to come back and fall at their feet.[[897\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn897) The commentary rather arbitrarily breaks up the compound term *manovitakkā* in trying to explain that evil thoughts, *vitakkā*, distract the mind, *mano*. If the variant reading *kumārakā vaṃkam iv' ossajanti* is adopted, the element *v* in *vaṃkam iv' ossajanti* could be taken as a hiatus filler, *āgama*, and then we have the meaningful phrase *kumārakā aṃkam iv' ossajanti*, "even as children leave the lap".
+Its interpretation centres around the word *dhaṅka*, which means a crow. In order to explain how thoughts disperse, it alludes to a game among village lads, in which they tie the leg of a crow with a long string and let it fly away so that it is forced to come back and fall at their feet.[^897] The commentary rather arbitrarily breaks up the compound term *manovitakkā* in trying to explain that evil thoughts, *vitakkā*, distract the mind, *mano*. If the variant reading *kumārakā vaṃkam iv' ossajanti* is adopted, the element *v* in *vaṃkam iv' ossajanti* could be taken as a hiatus filler, *āgama*, and then we have the meaningful phrase *kumārakā aṃkam iv' ossajanti*, "even as children leave the lap".
 
-Lust and hate, delight and terror, spring from within. Even so are thoughts in the mind, *manovitakkā*. We take it as one word, whereas the commentary breaks it up into two words. It is queer to find the same commentator analyzing this compound differently in another context. In explaining the term *manovitakkā* occurring in the *Kummasutta* of the *Devatā Saṃyutta* in the *Saṃyutta Nikāya*, the commentary says '*manovitakke'ti manamhi uppannavitakke*, "*manovitakka*, this means thoughts arisen in the mind".[[898\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn898)
+Lust and hate, delight and terror, spring from within. Even so are thoughts in the mind, *manovitakkā*. We take it as one word, whereas the commentary breaks it up into two words. It is queer to find the same commentator analyzing this compound differently in another context. In explaining the term *manovitakkā* occurring in the *Kummasutta* of the *Devatā Saṃyutta* in the *Saṃyutta Nikāya*, the commentary says '*manovitakke'ti manamhi uppannavitakke*, "*manovitakka*, this means thoughts arisen in the mind".[^898]
 
 The commentator was forced to contradict himself in the present context, because he wanted to justify the awkward simile of the game he himself had introduced. The simile of leaving the mother's lap, on the other hand, would make more sense, particularly in the light of the second verse uttered by the Buddha.
 

@@ -28,7 +28,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
  
 
-*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[[543\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn543)
+*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[^543]
 
 "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction".
 
@@ -42,7 +42,7 @@ There is nothing to see, no one to see, only 'a seen' is there. The cause of all
 
 What is called the seen, the heard, the sensed and the cognized are for the worldling so many 'things'. But to the wisdom eye of the *arahants* they appear as mere conglomerations of conditions, dependent on contact, which momentarily come together and then get dispersed. This insight into the dependence on contact, *phassam paṭicca,* is the very essence of the law of dependent arising*, paṭicca samuppāda*. It is equivalent to seeing the law of dependent arising itself.
 
-In order to transcend the narrow point of view limited to the bases of sense contact or the six sense spheres and realize the state of *Nibbāna* indicated by the words *viññāṇaṃ anidassanaṃ, anantaṃ sabbato pabhaṃ*,[[544\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn544) "consciousness which is non-manifestative, endless, lustrous on all sides", one has to see the cessation of contact.
+In order to transcend the narrow point of view limited to the bases of sense contact or the six sense spheres and realize the state of *Nibbāna* indicated by the words *viññāṇaṃ anidassanaṃ, anantaṃ sabbato pabhaṃ*,[^544] "consciousness which is non-manifestative, endless, lustrous on all sides", one has to see the cessation of contact.
 
 In a certain discourse in the *Mucalindavagga* of the *Udāna*, the Buddha has declared in a verse of uplift that the cessation of contact comes about only by doing away with that which brings about contact. The wandering ascetics of other sects grew jealous of the Buddha and his congregation of monks, because of their own loss of gain and honour, and began to hurl abuse on monks in the village and in the forest. A group of monks came and reported this to the Buddha. The Buddha's response to it was only a paean of joy. *Udāna* actually means a spontaneous utterance of joy, and the verse he uttered was such a one. But it embodied an instruction on *Dhamma* and a norm of *Dhamma* as well.
 
@@ -52,7 +52,7 @@ In a certain discourse in the *Mucalindavagga* of the *Udāna*, the Buddha has d
 
 *phusanti phassā upadhiṃ paṭicca,*
 
-*Nirūpadhiṃ kena phuseyyum phassā.*[[545\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn545)
+*Nirūpadhiṃ kena phuseyyum phassā.*[^545]
 
 In the first two lines we get an instruction:
 
@@ -68,7 +68,7 @@ How can touches touch him, who is asset-less?"
 
 This is all what the Buddha uttered. From this we can glean another aspect of the significance of the terms *sabbūpadhipaṭinissagga*, relinquishment of all assets, and *nirupadhi*, the asset-less, used with reference to *Nibbāna*.
 
-In a number of previous sermons we happened to explain the concept of *upadhi* to some extent, as and when the terms *upadhi* and *paṭinissagga* came up.[[546\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn546) To refresh our memory, we may summarize all that now. What is the concept of *upadhi*, or "assets", recognized by the world?
+In a number of previous sermons we happened to explain the concept of *upadhi* to some extent, as and when the terms *upadhi* and *paṭinissagga* came up.[^546] To refresh our memory, we may summarize all that now. What is the concept of *upadhi*, or "assets", recognized by the world?
 
 Whatever that bolsters up the ego, be it gold, silver, pearls, gems, money, house and property, deposits and assets. All these are reckoned as *upadhi* in general. But when considered from the point of view of *Dhamma*, *upadhi* in a deeper sense stands for this fivefold grasping groups, *pañcupādānakkhandha*.
 
@@ -78,7 +78,7 @@ Cravings, conceits and views prompt one to look upon all what one has grasped so
 
 *Nibbāna* is the relinquishment of all such assets, accumulated in the mind. In order to relinquish these assets there must be some kind of understanding - an enlightenment. The vanity of all these assets has to be seen through by the light of wisdom. It is only by seeing their vanity that the assets are relinquished. In fact it is not so much a deliberate giving up of assets, as a sequential liquidation.
 
-In a previous sermon we gave an illustration of the situation that precipitates relinquishment. Let us bring it up again. We found the cinema quite helpful as an illustration. In explaining the phenomenon of relinquishment of assets with reference to the cinema, we described how the assets accumulated in the minds of the audience, that is, the assets proper to the cinema world woven around the story that is filmed, are automatically abandoned when the cinema hall gets lit up.[[547\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn547) Then one understands the illusory nature of what has been going on. It is that understanding, that enlightenment, which precipitates the giving up or relinquishment of assets.
+In a previous sermon we gave an illustration of the situation that precipitates relinquishment. Let us bring it up again. We found the cinema quite helpful as an illustration. In explaining the phenomenon of relinquishment of assets with reference to the cinema, we described how the assets accumulated in the minds of the audience, that is, the assets proper to the cinema world woven around the story that is filmed, are automatically abandoned when the cinema hall gets lit up.[^547] Then one understands the illusory nature of what has been going on. It is that understanding, that enlightenment, which precipitates the giving up or relinquishment of assets.
 
 To go a step further in this illustration, when lights came on the *saṅkhāras* or preparations pertaining to the film show got exposed for what they are. In fact, *saṅkhāra* is a word that has associations with the dramatic tradition in its relation to the acting of actors and actresses down to their make-up, which is so artificial and spurious.
 
@@ -96,7 +96,7 @@ Terms like *Buddha*, *bodhi* and *sambodhi* convey the sense of awakening as wel
 
 Expressions like *dhammacakkhu*, "Dhamma-eye", *paññācakkhu*, "Wisdom-eye", and *cakkhuṃ udapādi*, "the eye arose", bespeak of an arising of some sort of an eye. We already have eyes, but an eye is said to arise. All this goes to show that in the context of *Nibbāna*, where we are concerned with the deeper aspects of the *Dhamma*, the awakening from a dream is not a true awakening. It is only a passage from one dream world to another.
 
-But let us see how the concept of *upadhi*, or assets, goes deeper. What lies before us is the dream of *saṃsāra*. In order to awaken from this dream, we have to understand somehow the vanity of all assets connected with the dream that is *saṃsāra*. The fact that this understanding also comes through some illumination we have already explained the other day in our discussion of the paean of joy at the end of the *Bāhiyasutta*.[[548\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn548) As we pointed out then, the world of the six sense-bases which the worldlings regard as 'their world', when examined against the background of that *Udāna* verse reveals itself to be no more than six narrow beams of light, appearing through a solidly thick curtain, namely the darkness of delusion.
+But let us see how the concept of *upadhi*, or assets, goes deeper. What lies before us is the dream of *saṃsāra*. In order to awaken from this dream, we have to understand somehow the vanity of all assets connected with the dream that is *saṃsāra*. The fact that this understanding also comes through some illumination we have already explained the other day in our discussion of the paean of joy at the end of the *Bāhiyasutta*.[^548] As we pointed out then, the world of the six sense-bases which the worldlings regard as 'their world', when examined against the background of that *Udāna* verse reveals itself to be no more than six narrow beams of light, appearing through a solidly thick curtain, namely the darkness of delusion.
 
 We happened to mention the other day that the sun, the moon and the stars shine precisely because of the presence of darkness. In the non-manifestative consciousness which is infinite and lustrous all round, *viññāṇaṃ anidassanaṃ, anantaṃ sabbato pabhaṃ*, sun, moon and stars are not manifest, because there is absolutely no darkness for them to shine forth. Even the formless, which is the penumbra of form, disappears in that penetrative lustre of wisdom.
 
@@ -116,7 +116,7 @@ Though there are enough instances of references to this *arahattaphalasamādhi* 
 
 *idampi Dhamme ratanaṃ paṇītaṃ,*
 
-*etena saccena suvatthi hotu*.[[549\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn549)
+*etena saccena suvatthi hotu*.[^549]
 
 "That pure concentration, which the Supremely Awakened One extolled,
 
@@ -132,7 +132,7 @@ By the power of this truth may there be well-being."
 
 This incomparable and extraordinary concentration has given rise to many problems concerning the concept of *Nibbāna*. The extraordinariness of this concentration of the *arahant* is to some extent connected with the term *ānantarika*, referred to above. Now let us turn our attention to the significance of this term.
 
-The verse says that the concentration of the *arahant* is also known as *ānantarika*. The term *ānantarika* is suggestive of an extraordinary aspect of the realization of *Nibbāna*. Immediately after the extinction of the defilements through the knowledge of the path of *arahant*-hood one realizes *Nibbāna*, the cessation of existence or the cessation of the six sense-bases. As we mentioned earlier, it is as if the results are out as soon as one has written for an examination.[[550\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn550) One need not wait for the results. Realization is immediate.
+The verse says that the concentration of the *arahant* is also known as *ānantarika*. The term *ānantarika* is suggestive of an extraordinary aspect of the realization of *Nibbāna*. Immediately after the extinction of the defilements through the knowledge of the path of *arahant*-hood one realizes *Nibbāna*, the cessation of existence or the cessation of the six sense-bases. As we mentioned earlier, it is as if the results are out as soon as one has written for an examination.[^550] One need not wait for the results. Realization is immediate.
 
 There is a special term to denote this experience of realization, namely, *aññā*. It is a highly significant term, derived from *ājānāti*, "to know fully". *Aññā* is "full comprehension".
 
@@ -152,7 +152,7 @@ The concentration of the fruit of *arahant*-hood is also called *aññāphalasam
 
 *akuppā me vimuttīti*
 
-*bhavasaṃyojanakkhaye.*[[551\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn551)
+*bhavasaṃyojanakkhaye.*[^551]
 
 "To the disciple in higher training, as he fares along
 
@@ -178,7 +178,7 @@ It is evident from these two verses that the realization referred to is in many 
 
 The term *aññā* is implicit even in the faculty called *anaññātaññāssāmīt'indriya*. *Anaññātaññāssāmi* means "I shall know what has not been fully known". This is the definition of what in the verse is referred to as *khayasmiṃ paṭhamaṃ ñāṇaṃ*, "first there is the knowledge of extinction". The knowledge of the extinction of the defilements is called *anaññātaññāssāmīt'indriya* in this context. The words *tato aññā anantarā*, "and then immediately the final knowledge of certitude", refer to that faculty of final knowledge, or *aññindriya*. The knowledge that prompts the conviction "unshakeable is my deliverance" is the knowledge and vision of deliverance, which is defined as *aññātāvindriya.* It refers to one who is endowed with the final knowledge of certitude.
 
-The difference between *aññindriya* and *aññātāvindriya* is a subtle one. For instance, the expression *bhuttāvī pavārito*, one has finished eating and made a sign of refusal, decisively shows that one has had one's fill.[[552\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn552) Similarly, it is that *aññātāvindriya* (note the past active participle), which prompts the words "unshakeable is my deliverance", *akuppā me vimutti*.[[553\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn553) The knowledge and vision of deliverance is reassuring to that extent.
+The difference between *aññindriya* and *aññātāvindriya* is a subtle one. For instance, the expression *bhuttāvī pavārito*, one has finished eating and made a sign of refusal, decisively shows that one has had one's fill.[^552] Similarly, it is that *aññātāvindriya* (note the past active participle), which prompts the words "unshakeable is my deliverance", *akuppā me vimutti*.[^553] The knowledge and vision of deliverance is reassuring to that extent.
 
 As the above quoted verse from the *Ratanasutta* makes it clear, this unique and extraordinary concentration has been extolled by the Buddha in various discourses. But for some reason or other, the commentators have simply glossed over references to it, though they sometimes expatiate on a particle of mere grammatical interest. Let us now take up for comment a few such discourses.
 
@@ -194,7 +194,7 @@ In the section of the Elevens in the *Aṅguttara Nikāya* there comes a discour
 
 *yassa te nābhijānāma,*
 
-*yampi nissāya jhāyasi*.[[554\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn554)
+*yampi nissāya jhāyasi*.[^554]
 
 In this discourse, the Buddha gives, as an illustration, the musing of a thoroughbred of a horse, which we shall drop for brevity's sake. The musing of an excellent thoroughbred of a man is described as follows:
 
@@ -212,21 +212,21 @@ We are at a loss to comprehend."
 
 Though all possible objects of concentration are negated, the Buddha affirms that he does muse. Venerable *Sandha*, out of curiosity inquires: "But then how, Lord, does that thoroughbred of a man muse?" The Buddha explains that while in that state of concentration, the perception of earth in earth, for instance, is gone for him, *pathaviyā pathavīsaññā vibhūtā hoti*. So also in the case of other objects of the senses, such as water, fire, air, down to whatever is seen, heard, sensed, cognized, attained, sought after and traversed by the mind.
 
-The verb *vibhūtā*, repeatedly used in this connection, is however differently interpreted in the commentary. It is paraphrased by *pākaṭā*, which means "clearly manifest".[[555\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn555) This interpretation seems to distort the meaning of the entire passage.
+The verb *vibhūtā*, repeatedly used in this connection, is however differently interpreted in the commentary. It is paraphrased by *pākaṭā*, which means "clearly manifest".[^555] This interpretation seems to distort the meaning of the entire passage.
 
 It is true that in certain contexts *vibhūta* and *avibhūta* are taken to mean "manifest" and "unmanifest", since *vibhava* is a word which seems to have undergone some semantic development. However, its primary sense is sufficiently evident in the *Sutta* terminology. For instance, the twin term *bhava/vibhava* stands for "existence" and "non-existence". In this context, too, *vibhūta* seems to have a negative sense, rather than the sense of being manifest. Hence our rendering: "The perception of earth is gone for him".
 
 It is obvious enough by the recurrent negative particle in the first part of the *Sutta* (*neva paṭhaviṃ nissāya jhāyati, na āpaṃ nissāya jhāyati*, etc.) that all those perceptions are negated and not affirmed as manifest. The commentator seems to have missed the true import of the *Sutta* when he interprets *vibhūta* to mean 'manifest'.
 
-If further proof is required, we may quote instances where the word *vibhūta* is used in the *Suttas* to convey such senses as "gone", "departed" or "transcended". In one of the verses we happened to quote earlier from the *Kalahavivādasutta*, there was the question posed: *Kismiṃ vibhūte na phusanti phassā*?[[556\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn556) "When what is not there, do touches not touch?" The verse that follows gives the answer: *Rūpe vibhūte na phusanti phassā*. [[557\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn557) "When form is not there, touches do not touch." In this context, too, *vibhūta* implies absence.
+If further proof is required, we may quote instances where the word *vibhūta* is used in the *Suttas* to convey such senses as "gone", "departed" or "transcended". In one of the verses we happened to quote earlier from the *Kalahavivādasutta*, there was the question posed: *Kismiṃ vibhūte na phusanti phassā*?[^556] "When what is not there, do touches not touch?" The verse that follows gives the answer: *Rūpe vibhūte na phusanti phassā*. [^557] "When form is not there, touches do not touch." In this context, too, *vibhūta* implies absence.
 
-A clearer instance comes in the *Posālamāṇavapucchā* of the *Pārāyanavagga* in the *Sutta Nipāta*, namely the term *vibhūtarūpasaññissa*, occurring in one of the verses there.[[558\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn558) The canonical commentary *Cūḷaniddesa*, which the commentator often draws upon, also paraphrases the term with the words *vigatā, atikkantā, samatikkantā, vītivattā*,[[559\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn559) "gone, transcended, fully transcended, and superseded".
+A clearer instance comes in the *Posālamāṇavapucchā* of the *Pārāyanavagga* in the *Sutta Nipāta*, namely the term *vibhūtarūpasaññissa*, occurring in one of the verses there.[^558] The canonical commentary *Cūḷaniddesa*, which the commentator often draws upon, also paraphrases the term with the words *vigatā, atikkantā, samatikkantā, vītivattā*,[^559] "gone, transcended, fully transcended, and superseded".
 
 So the word *vibhūta* in the passage in question definitely implies the absence of all those perceptions in that concentration. This, then, is a unique concentration. It has none of the objects which the worldlings usually associate with a level of concentration.
 
 We come across a number of instances in the discourses, in which the Buddha and some other monks have been interrogated on the nature of this extraordinary concentration. Sometimes even Venerable *Ānanda* is seen to confront the Buddha with a question on this point. In a discourse included in the section of the Elevens in the *Aṅguttara Nikāya*, Venerable *Ānanda* questions on the possibility of attaining to such a concentration with an air of wonderment:
 
-*Siyā nu kho, bhante, bhikkhuno tathārūpo samādhipaṭilābho yathā neva pathaviyaṃ pathavīsaññī assa, na āpasmiṃ āposaññī assa, na tejasmiṃ tejosaññī assa, na vāyasmiṃ vāyosaññī assa, na ākāsānañcāyatane ākāsānañcāyatanasaññī assa, na viññāṇañcāyatane viññāṇancāyatanasaññī assa, na ākiñcaññāyatane ākiñcaññāyatanasaññī assa, na nevasaññānāsaññāyatane nevasaññānāsaññāyatanasaññī assa, na idhaloke idhalokasaññī assa, na paraloke paralokasaññī assa, yam p'idaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā tatrāpi na saññī assa, saññī ca pana assa?*[[560\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn560)
+*Siyā nu kho, bhante, bhikkhuno tathārūpo samādhipaṭilābho yathā neva pathaviyaṃ pathavīsaññī assa, na āpasmiṃ āposaññī assa, na tejasmiṃ tejosaññī assa, na vāyasmiṃ vāyosaññī assa, na ākāsānañcāyatane ākāsānañcāyatanasaññī assa, na viññāṇañcāyatane viññāṇancāyatanasaññī assa, na ākiñcaññāyatane ākiñcaññāyatanasaññī assa, na nevasaññānāsaññāyatane nevasaññānāsaññāyatanasaññī assa, na idhaloke idhalokasaññī assa, na paraloke paralokasaññī assa, yam p'idaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā tatrāpi na saññī assa, saññī ca pana assa?*[^560]
 
 "Could there be, Lord, for a monk such an attainment of concentration wherein he will not be conscious (literally 'percipient') of earth in earth, nor of water in water, nor of fire in fire, nor of air in air, nor will he be conscious of the sphere of infinite space in the sphere of infinite space, nor of the sphere of infinite consciousness in the sphere of infinite consciousness, nor of the sphere of nothingness in the sphere of nothingness, nor of the sphere of neither-perception-nor-non-perception in the sphere of neither-perception-nor-non-perception, nor will he be conscious of a this world in this world, nor of a world beyond in a world beyond, whatever is seen, heard, sensed, cognized, attained, sought after, traversed by the mind, even of it he will not be conscious - and yet he will be conscious?"
 
@@ -244,7 +244,7 @@ These last words, in particular, make it sufficiently clear that this concentrat
 
 Quite a number of discourses touch upon this *samādhi*. Let us take up some of the more important references. Venerable *Ānanda* is seen to pose the same question, rephrased, on yet another occasion. It runs thus:
 
-*Siyā nu kho, bhante, tathārūpo samādhipaṭilābho yathā na cakkhuṃ manasikareyya, na rūpaṃ manasikareyya, na sotaṃ manasikareyya, na saddaṃ manasikareyya, na ghānaṃ manasikareyya, na gandhaṃ manasikareyya, na jivhaṃ manasikareyya, na rasaṃ manasikareyya, na kāyaṃ manasikareyya, na phoṭṭhabbaṃ manasikareyya, na pathaviṃ manasikareyya, na āpaṃ manasikareyya, na tejaṃ manasikareyya, na vāyaṃ manasikareyya, na ākāsānañcāyatanaṃ manasikareyya, na viññāṇañcāyatanaṃ manasikareyya, na ākiñcaññāyatanaṃ manasikareyya, na nevasaññānāsaññāyatanaṃ manasikareyya, na idhalokaṃ manasikareyya, na paralokaṃ manasikareyya, yam p'idaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā tam pi na manasikareyya, manasi ca pana kareyya*?[[561\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn561)
+*Siyā nu kho, bhante, tathārūpo samādhipaṭilābho yathā na cakkhuṃ manasikareyya, na rūpaṃ manasikareyya, na sotaṃ manasikareyya, na saddaṃ manasikareyya, na ghānaṃ manasikareyya, na gandhaṃ manasikareyya, na jivhaṃ manasikareyya, na rasaṃ manasikareyya, na kāyaṃ manasikareyya, na phoṭṭhabbaṃ manasikareyya, na pathaviṃ manasikareyya, na āpaṃ manasikareyya, na tejaṃ manasikareyya, na vāyaṃ manasikareyya, na ākāsānañcāyatanaṃ manasikareyya, na viññāṇañcāyatanaṃ manasikareyya, na ākiñcaññāyatanaṃ manasikareyya, na nevasaññānāsaññāyatanaṃ manasikareyya, na idhalokaṃ manasikareyya, na paralokaṃ manasikareyya, yam p'idaṃ diṭṭhaṃ sutaṃ mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā tam pi na manasikareyya, manasi ca pana kareyya*?[^561]
 
 "Could there be, Lord, for a monk such an attainment of concentration wherein he will not be attending to the eye, nor to form, nor to the ear, nor to sound, nor to the nose, nor to smell, nor to the tongue, nor to taste, nor to the body, nor to touch, nor to earth, nor to water, nor to fire, nor to air, nor to the sphere of infinite space, nor to the sphere of infinite consciousness, nor to the sphere of nothingness, nor to the sphere of neither-perception-nor-non-perception, nor to this world, nor to the world beyond, whatever is seen, heard, sensed, cognized, attained, sought after, traversed by the mind, even to that he will not be attending - and yet he will be attending?"
 
@@ -254,7 +254,7 @@ Quite a number of discourses touch upon this *samādhi*. Let us take up some of 
 
 "Herein, *Ānanda* , a monk attends thus: This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction. It is thus, *Ānanda*, that there could be such an attainment of concentration ..."
 
-In the light of the foregoing discussion, we are now in a position to take up for comment that enigmatic verse of the *Kalahavivādasutta*, which in a previous sermon we left unexplained, giving only a slight hint in the form of a simile.[[562\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn562)
+In the light of the foregoing discussion, we are now in a position to take up for comment that enigmatic verse of the *Kalahavivādasutta*, which in a previous sermon we left unexplained, giving only a slight hint in the form of a simile.[^562]
 
 *Na saññasaññī na visaññasaññī,*
 
@@ -262,7 +262,7 @@ In the light of the foregoing discussion, we are now in a position to take up fo
 
 *evaṃ sametassa vibhoti rūpaṃ,*
 
-*saññānidānā hi papañcasaṅkhā.*[[563\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn563)
+*saññānidānā hi papañcasaṅkhā.*[^563]
 
 The general trend of this verse seems to imply something like this: The worldlings usually believe that one has to have some form of perception or other. But the one referred to in this verse is not percipient with any such perception, *na saññasaññī*. As if to forestall the question, whether he is then in a swoon, there is the negation *na visaññasaññī*. A possible alternative, like a plane of existence devoid of perception, is also avoided by the emphatic assertion *no pi asaññī*. Yet another possibility, that he has gone beyond perception or rescinded it, is rejected as well with the words *na vibhūtasaññī*.
 
@@ -282,9 +282,9 @@ On an earlier occasion we gave only a clue to its meaning in the form of an allu
 
 The verse in question expresses such a vacant gaze. When the six sense-bases of the *arahant* cease and the lustre of wisdom comes up, giving the conviction that all assets in the world are empty, the vision in the *arahattaphalasamādhi* is as vacant as that gaze of the man at the cinema. It is neither conscious, nor unconscious, nor non-conscious, nor totally devoid of consciousness. At that level of concentration even this material form is abandoned.
 
-The line in the paean of joy in the *Bāhiyasutta*, which we came across the other day, *atha rūpā arūpā ca, sukhadukkhā pamuccati*,[[564\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn564) "and then from form and formless and from pleasure and pain is he freed", can be better appreciated in the light of the foregoing discussion. With the relinquishment of all assets, even this body and the experience of a form and of a formless, as well as pleasure and pain, cease altogether due to the cessation of contact. That is why *Nibbāna* is called a bliss devoid of feeling, *avedayita sukha*.[[565\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn565)
+The line in the paean of joy in the *Bāhiyasutta*, which we came across the other day, *atha rūpā arūpā ca, sukhadukkhā pamuccati*,[^564] "and then from form and formless and from pleasure and pain is he freed", can be better appreciated in the light of the foregoing discussion. With the relinquishment of all assets, even this body and the experience of a form and of a formless, as well as pleasure and pain, cease altogether due to the cessation of contact. That is why *Nibbāna* is called a bliss devoid of feeling, *avedayita sukha*.[^565]
 
-Now as to this vacant gaze, there is much to be said, though one might think that it is not at all worth discussing about. If someone asks us: 'What is the object of the gaze of one with such a vacant gaze', what shall we say? The vacant gaze is, in fact, not established anywhere (*appatiṭṭham*)*.* It has no existence (*appavattaṃ*) and it is object-less (*anārammaṇaṃ*). Even at the mention of these three terms, *appatiṭṭham, appavattaṃ* and *anārammaṇaṃ*, some might recall those highly controversial discourses on *Nibbāna*.[[566\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn566)
+Now as to this vacant gaze, there is much to be said, though one might think that it is not at all worth discussing about. If someone asks us: 'What is the object of the gaze of one with such a vacant gaze', what shall we say? The vacant gaze is, in fact, not established anywhere (*appatiṭṭham*)*.* It has no existence (*appavattaṃ*) and it is object-less (*anārammaṇaṃ*). Even at the mention of these three terms, *appatiṭṭham, appavattaṃ* and *anārammaṇaṃ*, some might recall those highly controversial discourses on *Nibbāna*.[^566]
 
 Why do we call the vision of the *arahant* a vacant gaze? At the highest point of the development of the three characteristics impermanence, suffering and not-self, that is, through the three deliverances *animitta, appaṇihita* and *suññata*, the "signess", the "undirected" and the "void", the *arahant* is now looking at the object with a penetrative gaze. That is why it is not possible to say what he is looking at. It is a gaze that sees the cessation of the object, a gaze that penetrates the object, as it were.
 
@@ -304,7 +304,7 @@ The object is cessation, *nirodha*. Here is something that *Māra* cannot grasp,
 
 *tādisam bhikkhum āsajja*
 
-*kaṇha dukkhaṃ nigacchasi*.[[567\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn567)
+*kaṇha dukkhaṃ nigacchasi*.[^567]
 
 "The monk whose mind is always bright,
 
@@ -314,7 +314,7 @@ Should you dare to challenge that monk,
 
 O Blackie, you only come to grief."
 
-*Kaṇha*, Blackie, is one of the epithets of *Mara*. Even gods and *Brahmas* are unable to find out the object of the *arahant's* mind when he is in the *phalasamāpatti*, the attainment to the fruit. *Māra* can never discover it. That is why this attainment is said to leave *Māra* clueless or deluded (*Mārassetaṃ pamohanaṃ*).[[568\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn568) All this is due to the uniqueness of this level of concentration.
+*Kaṇha*, Blackie, is one of the epithets of *Mara*. Even gods and *Brahmas* are unable to find out the object of the *arahant's* mind when he is in the *phalasamāpatti*, the attainment to the fruit. *Māra* can never discover it. That is why this attainment is said to leave *Māra* clueless or deluded (*Mārassetaṃ pamohanaṃ*).[^568] All this is due to the uniqueness of this level of concentration.
 
 The three deliverances *animitta, appaṇihita* and *suññata*, are indeed extraordinary and the verse *na saññā saññī* refers to this *arahattaphalasamādhi*, which is signless, undirected and void.
 
@@ -346,7 +346,7 @@ Let us now take up two verses which shed a flood of light on the foregoing discu
 
 *ā**kāse va sakuntānaṃ,*
 
-*padaṃ tassa durannayaṃ.*[[569\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn569)
+*padaṃ tassa durannayaṃ.*[^569]
 
 "Those who have no accumulations,
 
@@ -374,7 +374,7 @@ Like that of birds in the sky."
 
 The accumulation here meant is not of material things, such as food. It is the accumulation of karma and *upadhi*, assets. The comprehension of food could be taken to imply the comprehension of all four nutriments, namely gross material food, contact, will and consciousness. The feeding ground of such *arahants* is the void and the signless. Hence their track is hard to trace, like that of birds in the sky.
 
-The term *gati*, which we rendered by "track", has been differently interpreted in the commentary. For the commentary *gati* is the place where the *arahant* goes after death, his next bourne, so to speak.[[570\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn570) But taken in conjunction with the simile used, *gati* obviously means the "path", *padaṃ*, taken by the birds in the sky. It is the path they take that cannot be traced, not their destination.
+The term *gati*, which we rendered by "track", has been differently interpreted in the commentary. For the commentary *gati* is the place where the *arahant* goes after death, his next bourne, so to speak.[^570] But taken in conjunction with the simile used, *gati* obviously means the "path", *padaṃ*, taken by the birds in the sky. It is the path they take that cannot be traced, not their destination.
 
 Where the birds have gone could perhaps be traced, with some difficulty. They may have gone to their nests. It is the path they went by that is referred to as *gati* in this context. Just as when birds fly through the sky they do not leave behind any trace of a path, even so in this concentration of the *arahant* there is no object or sign of any continuity.
 

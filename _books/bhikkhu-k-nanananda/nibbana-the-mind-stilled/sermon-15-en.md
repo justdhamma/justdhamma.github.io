@@ -27,7 +27,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
  
 
-*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[[511\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn511)
+*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[^511]
 
 "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction."
 
@@ -37,7 +37,7 @@ Towards the end of our last sermon we happened to quote a brief exhortation on *
 
 *Tasmātiha te, Bāhiya, evaṃ sikkhitabbaṃ: diṭṭhe diṭṭhamattaṃ bhavissati, sute sutamattaṃ bhavissati, mute mutamattaṃ bhavissati, viññāte viññātamattaṃ bhavissati. Evaṃ hi te, Bāhiya, sikkhitabbaṃ.*
 
-*Yato kho te, Bāhiya, diṭṭhe diṭṭhamattaṃ bhavissati, sute sutamattaṃ bhavissati, mute mutamattaṃ bhavissati, viññāte viññātamattaṃ bhavissati, tato tvaṃ Bāhiya na tena. Yato tvaṃ Bāhiya na tena, tato tvaṃ Bāhiya na tattha. Yato tvaṃ Bāhiya na tattha, tato tvaṃ Bāhiya nev'idha na huraṃ na ubhayamantarena. Es'ev'anto dukkhassa*.[[512\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn512)
+*Yato kho te, Bāhiya, diṭṭhe diṭṭhamattaṃ bhavissati, sute sutamattaṃ bhavissati, mute mutamattaṃ bhavissati, viññāte viññātamattaṃ bhavissati, tato tvaṃ Bāhiya na tena. Yato tvaṃ Bāhiya na tena, tato tvaṃ Bāhiya na tattha. Yato tvaṃ Bāhiya na tattha, tato tvaṃ Bāhiya nev'idha na huraṃ na ubhayamantarena. Es'ev'anto dukkhassa*.[^512]
 
 "Well, then, *Bāhiya*, you had better train yourself thus: In the seen there will be just the seen, in the heard there will be just the heard, in the sensed there will be just the sensed, in the cognized there will be just the cognized. Thus, *Bāhiya*, should you train yourself. And when to you, *Bāhiya*, there will be in the seen just the seen, in the heard just the heard, in the sensed just the sensed, in the cognized just the cognized, then, *Bāhiya*, you will not be by it. And when, *Bāhiya*, you are not by it, then, *Bāhiya*, you are not in it. And when, *Bāhiya*, you are not in it, then, *Bāhiya*, you are neither here nor there nor in between. This, itself, is the end of suffering."
 
@@ -45,13 +45,13 @@ As a clue to an exegesis of this discourse, we made an attempt, the other day, t
 
 *Dhono na hi tena maññati*
 
-*yadidaṃ diṭṭhasutaṃ mutesu vā*.[[513\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn513)
+*yadidaṃ diṭṭhasutaṃ mutesu vā*.[^513]
 
 *Dhona* is a term for the *arahant* in the sense that he has "shaken off" the dust of defilements. So then, these two lines imply that the *arahant* does not imagine thereby, namely *yadidaṃ*, in terms of whatever is seen, heard or sensed. These two lines are, as it were, a random exegesis of our riddle terms in the *Bāhiyasutta*.
 
 The first line itself gives the clue to the rather elliptical term *na tena*, which carries no verb with it. Our quotation makes it clear that the implication is *maññanā*, or imagining. *Dhono na hi tena maññati*, the *arahant* does not imagine 'by it' or 'thereby'.
 
-Although the *Bāhiyasutta* makes no mention of the word *maññanā*, this particular expression seems to suggest that what is implied here is a form of imagining. By way of further proof we may allude to another quotation, which we had to bring up several times: *Yena yena hi maññanti, tato taṃ hoti aññathā*. [[514\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn514) "In whatever terms they imagine it, thereby it turns otherwise". We came across another expression, which has a similar connotation: *tena ca mā maññi,* "do not be vain thereby".[[515\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn515)
+Although the *Bāhiyasutta* makes no mention of the word *maññanā*, this particular expression seems to suggest that what is implied here is a form of imagining. By way of further proof we may allude to another quotation, which we had to bring up several times: *Yena yena hi maññanti, tato taṃ hoti aññathā*. [^514] "In whatever terms they imagine it, thereby it turns otherwise". We came across another expression, which has a similar connotation: *tena ca mā maññi,* "do not be vain thereby".[^515]
 
 The first thing we can infer, therefore, from the above quoted two lines of the verse, is that what is to be understood by the elliptical expression *na tena* in the *Bāhiyasutta* is the idea of imagining, or in short, *na tena maññati*, "does not imagine thereby".
 
@@ -59,7 +59,7 @@ Secondly, as to what precisely is implied by the word *tena*, or "by it", can al
 
 The verse in question mentions only the three terms *diṭṭha, suta* and *muta*, whereas the *Bāhiyasutta* has as its framework the four terms *diṭṭha, suta, muta* and *viññata*. Since what precedes the term *na tena* in the *Bāhiyasutta* is the fourfold premise beginning with *diṭṭhe diṭṭhamattaṃ bhavissati*, "when to you, *Bāhiya*, there will be in the seen just the seen", it stands to reason that what the Buddha meant by the term *na tena* is the attitude of not thinking 'in terms of' whatever is seen, heard, sensed or cognized. That is to say, not imagining 'thereby'.
 
-This same attitude of not imagining 'thereby' is what is upheld in the *Mūlapariyāyasutta*, which we discussed at length on a previous occasion.[[516\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn516) There we explained the word *maññanā*, "me-thinking", "imagining", taking as a paradigm the first term *paṭhavi*, occurring in the list of twenty-four terms given there. Among the twenty-four terms, we find mentioned the four relevant to our present problem, namely *diṭṭha, suta, muta* and *viññāta*.[[517\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn517)
+This same attitude of not imagining 'thereby' is what is upheld in the *Mūlapariyāyasutta*, which we discussed at length on a previous occasion.[^516] There we explained the word *maññanā*, "me-thinking", "imagining", taking as a paradigm the first term *paṭhavi*, occurring in the list of twenty-four terms given there. Among the twenty-four terms, we find mentioned the four relevant to our present problem, namely *diṭṭha, suta, muta* and *viññāta*.[^517]
 
 We are now used to the general schema of the *Mūlapariyāyasutta*, concerning the attitude of the three categories of persons mentioned there. Let us, for instance, take up what is said in that context with regard to the *sekha*, or the monk in higher training.
 
@@ -71,7 +71,7 @@ This is how the attitude of the *sekha* is described with regard to *paṭhavi*,
 
 What the *sekha* has before him is a step of training, and this is how he has to train in respect of the four things, the seen, the heard, the sensed and the cognized. He should not imagine in terms of them.
 
-For instance, he understands through higher knowledge, and not through the ordinary perception of the worldling, the seen as 'seen'. Having thus understood it, he has to train in not imagining the seen as a thing, by objectifying it. *Diṭṭhaṃ mā maññi*, let him not imagine a 'seen'. Also, let him not imagine 'in the seen', or 'from the seen'. We have already pointed out the relationship between these imaginings and the grammatical structure.[[518\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn518)
+For instance, he understands through higher knowledge, and not through the ordinary perception of the worldling, the seen as 'seen'. Having thus understood it, he has to train in not imagining the seen as a thing, by objectifying it. *Diṭṭhaṃ mā maññi*, let him not imagine a 'seen'. Also, let him not imagine 'in the seen', or 'from the seen'. We have already pointed out the relationship between these imaginings and the grammatical structure.[^518]
 
 This objectification of the seen gives rise to acquisitive tendencies, to imagine the seen as 'mine'. *Diṭṭhaṃ me ti mā maññi,* let him not imagine 'I have seen' or 'I have a seen'.
 
@@ -87,7 +87,7 @@ When one gets attached and becomes involved and entangled in the seen through cr
 
 In this present context, however, the Buddha puts *Bāhiya Dārucīriya* on the path to non-identification, or *atammayatā*. That is to say, he advises *Bāhiya* not to indulge in such imaginings. That attitude leads to non-identification and detachment. When one has no attachments, involvements and entanglements regarding the seen, one does not have the notion of being in the seen.
 
-Once we spoke about a children's hut into which the mother was invited.[[520\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn520) When she crept into that plaything of a hut, she did not seriously entertain the thought of being 'in' it. Similarly if one does not indulge in imaginings, one has no notion of being 'in' the seen.
+Once we spoke about a children's hut into which the mother was invited.[^520] When she crept into that plaything of a hut, she did not seriously entertain the thought of being 'in' it. Similarly if one does not indulge in imaginings, one has no notion of being 'in' the seen.
 
 This, then, is the significance of the words *na tattha*, "not in it". *Yato tvaṃ Bāhiya na tena, tato tvaṃ Bāhiya na tattha.* "When, *Bāhiya*, you are not by it, then, *Bāhiya*, you are not in it." That is to say, when for instance *Bāhiya* does not imagine 'by the seen', he is not 'in the seen'. Likewise, he is not in the heard, sensed or cognized. From this we can deduce the meaning of what follows.
 
@@ -95,13 +95,13 @@ This, then, is the significance of the words *na tattha*, "not in it". *Yato tva
 
 In a number of earlier sermons we have sufficiently explained the significance of the two ends and the middle as well as the above, the below and the across in the middle. What do they signify?
 
-As we happened to point out on an earlier occasion, it is by driving the peg of the conceit 'am' that a world is measured out, construed or postulated.[[521\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn521) We also pointed out that the grammatical structure springs up along with it. That is to say, together with the notion 'am' there arises a 'here'. 'Here' am I, he is 'there' and you are 'yon' or in front of me. This is the basic ground plan for the grammatical structure, known to grammar as the first person, the second person and the third person.
+As we happened to point out on an earlier occasion, it is by driving the peg of the conceit 'am' that a world is measured out, construed or postulated.[^521] We also pointed out that the grammatical structure springs up along with it. That is to say, together with the notion 'am' there arises a 'here'. 'Here' am I, he is 'there' and you are 'yon' or in front of me. This is the basic ground plan for the grammatical structure, known to grammar as the first person, the second person and the third person.
 
 A world comes to be measured out and a grammatical structure springs up. This, in fact, is the origin of proliferation, or *papañca*. So it is the freedom from that proliferation that is meant by the expression *nev'idha na huraṃ na ubhayamantarena*, "neither here nor there nor between the two". The notion of one's being in the world, or the bifurcation as 'I' and 'the world', is no longer there. *Es'ev'anto dukkhassa*, this, then, is the end of suffering, *Nibbāna*. 
 
 The fundamental first principles underlying this short exhortation of the Buddha could thus be inferred to some extent. We could perhaps elicit something more regarding the significance of the four key terms in question.
 
-In the section of the fours in the *Aṅguttara Nikāya* we come across four modes of noble usages, *cattāro ariya vohārā*,[[522\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn522) namely:
+In the section of the fours in the *Aṅguttara Nikāya* we come across four modes of noble usages, *cattāro ariya vohārā*,[^522] namely:
 
 1. *diṭṭhe diṭṭhavāditā*
 2. *sute sutavāditā*
@@ -121,15 +121,15 @@ Generally speaking, these four noble usages stand for the principle of truthfuln
 
 However, there are different levels of truth. In fact, truthfulness is a question of giving evidence that runs parallel with one's level of experience. At higher levels of experience or realization, the evidence one gives also changes accordingly.
 
-The episode of Venerable *MahāTissa Thera* is a case in view.[[523\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn523) When he met a certain woman on his way, who displayed her teeth in a wily giggle, he simply grasped the sign of her teeth. He did not totally refrain from grasping a sign, but took it as an illustration of his meditation subject. Later, when that woman's husband, searching for her, came up to him and asked whether he had seen a woman, he replied that all he saw was a skeleton. Now that is a certain level of experience.
+The episode of Venerable *MahāTissa Thera* is a case in view.[^523] When he met a certain woman on his way, who displayed her teeth in a wily giggle, he simply grasped the sign of her teeth. He did not totally refrain from grasping a sign, but took it as an illustration of his meditation subject. Later, when that woman's husband, searching for her, came up to him and asked whether he had seen a woman, he replied that all he saw was a skeleton. Now that is a certain level of experience.
 
-Similarly the concept of truthfulness is something that changes with levels of experience. There are various degrees of truth, based on realization. The highest among them is called *paramasacca*.[[524\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn524) As to what that is, the *Dhātuvibhaṅgasutta* itself provides the answer in the following statement of the Buddha.
+Similarly the concept of truthfulness is something that changes with levels of experience. There are various degrees of truth, based on realization. The highest among them is called *paramasacca*.[^524] As to what that is, the *Dhātuvibhaṅgasutta* itself provides the answer in the following statement of the Buddha.
 
-*Etañhi, bhikkhu, paramaṃ ariyasaccaṃ yadidaṃ amosadhammaṃ Nibbānaṃ*.[[525\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn525) "Monk, this is the highest noble truth, namely *Nibbāna*, that is of a non-falsifying nature." All other truths are falsified when the corresponding level of experience is transcended. But *Nibbāna* is the highest truth, since it can never be falsified by anything beyond it.
+*Etañhi, bhikkhu, paramaṃ ariyasaccaṃ yadidaṃ amosadhammaṃ Nibbānaṃ*.[^525] "Monk, this is the highest noble truth, namely *Nibbāna*, that is of a non-falsifying nature." All other truths are falsified when the corresponding level of experience is transcended. But *Nibbāna* is the highest truth, since it can never be falsified by anything beyond it.
 
 The fact that it is possible to give evidence by this highest level of experience comes to light in the *Chabbisodhanasutta* of the *Majjhima Nikāya*. In this discourse we find the Buddha instructing the monks as to how they should interrogate a fellow monk who claims to have attained *arahant*-hood. The interrogation has to follow certain criteria, one of which concerns the four standpoints *diṭṭha, suta, muta* and *viññāta*, the seen, the heard, the sensed and the cognized.
 
-What sort of answer a monk who rightly claims to *arahant*-hood would give is also stated there by the Buddha. It runs as follows: *Diṭṭhe kho ahaṃ, āvuso, anupāyo anapāyo anissito appaṭibaddho vippamutto visaṃyutto vimariyādikatena cetasā viharāmi*.[[526\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn526)
+What sort of answer a monk who rightly claims to *arahant*-hood would give is also stated there by the Buddha. It runs as follows: *Diṭṭhe kho ahaṃ, āvuso, anupāyo anapāyo anissito appaṭibaddho vippamutto visaṃyutto vimariyādikatena cetasā viharāmi*.[^526]
 
 Here, then, is the highest mode of giving evidence in the court of Reality as an *arahant*. "Friends, with regard to the seen, I dwell unattracted, unrepelled, independent, uninvolved, released, unshackled, with a mind free from barriers."
 
@@ -139,7 +139,7 @@ What these barriers are, we can easily infer. They are the bifurcations such as 
 
 So the *arahant* dwells with a mind unpartitioned and barrierless, *vimariyādikatena cetasā*. To be able to make such a statement is the highest standard of giving evidence in regard to the four noble usages.
 
-It is also noteworthy that in the *Bāhiyasutta* the Buddha has presented the triple training of higher morality, higher concentration and higher wisdom, *adhisīla, adhicitta* and *adhipaññā*, through these four noble usages. The commentary, too, accepts this fact.[[527\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn527) But this is a point that might need clarification. How are we to distinguish between morality, concentration and wisdom in this brief exhortation?
+It is also noteworthy that in the *Bāhiyasutta* the Buddha has presented the triple training of higher morality, higher concentration and higher wisdom, *adhisīla, adhicitta* and *adhipaññā*, through these four noble usages. The commentary, too, accepts this fact.[^527] But this is a point that might need clarification. How are we to distinguish between morality, concentration and wisdom in this brief exhortation?
 
 Now how does the exhortation begin? It opens with the words *tasmātiha te, Bāhiya, evaṃ sikkhitabbaṃ*, "well then, *Bāhiya*, you should train yourself thus." This is an indication that the Buddha introduced him to a course of training, and this is the preliminary training:
 
@@ -155,7 +155,7 @@ Then what about higher wisdom, *adhipaññā*? Something more specific has to be
 
 If one stops short at just the seen in the seen, such ramifications as mentioned in discourses like the *Mūlapariyāyasutta* do not come in at all. The tendency to objectify the seen and to proliferate it as 'in it', 'from it' and 'it is mine' receives no sanction. This course of training is helpful for the emancipation of the mind from imaginings and proliferations.
 
-The Buddha has compared the six sense-bases, that is eye, ear, nose, tongue, body and mind, to a deserted village.[[528\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn528) *Suññaṃ idaṃ attena vā attaniyena vā*. "This is void of a self or anything belonging to a self." All these sense-bases are devoid of a self or anything belonging to a self. Therefore they are comparable to a deserted village, a village from which all inhabitants have fled.
+The Buddha has compared the six sense-bases, that is eye, ear, nose, tongue, body and mind, to a deserted village.[^528] *Suññaṃ idaṃ attena vā attaniyena vā*. "This is void of a self or anything belonging to a self." All these sense-bases are devoid of a self or anything belonging to a self. Therefore they are comparable to a deserted village, a village from which all inhabitants have fled.
 
 The dictum 'in the seen there will be just the seen' is an advice conducive to the attitude of regarding the six sense-bases as a deserted village. This is what pertains to higher wisdom in the Buddha's exhortation.
 
@@ -195,7 +195,7 @@ In conclusion, the Buddha uttered the following verse of uplift:
 
 *atha rūpā arūpā ca,*
 
-*sukhadukkhā pamuccati.*[[529\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn529)
+*sukhadukkhā pamuccati.*[^529]
 
 On the face of it, the verse seems to imply something like this:
 
@@ -219,7 +219,7 @@ Then is he freed from form and formless,
 
 And from pleasure and pain as well."
 
-The commentary to the *Udāna*, *Paramatthadīpanī*, gives a strange interpretation to this verse. It interprets the verse as a description of the destination of the *arahant* *Bāhiya Dārucīriya* after he attained *Parinibbāna*, the place he went to.[[530\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn530) Even the term *Nibbānagati* is used in that connection, the 'place' one goes to in attaining *Parinibbāna*. That place, according to the commentary, is not easily understood by worldlings. Its characteristics are said to be the following:
+The commentary to the *Udāna*, *Paramatthadīpanī*, gives a strange interpretation to this verse. It interprets the verse as a description of the destination of the *arahant* *Bāhiya Dārucīriya* after he attained *Parinibbāna*, the place he went to.[^530] Even the term *Nibbānagati* is used in that connection, the 'place' one goes to in attaining *Parinibbāna*. That place, according to the commentary, is not easily understood by worldlings. Its characteristics are said to be the following:
 
 The four elements, earth, water, fire and air, are not there. No sun, or moon, or stars are there. The reason why the four elements are negated is supposed to be the fact that there is nothing that is compounded in the uncompounded *Nibbāna* element, into which the *arahant* passes away.
 
@@ -233,7 +233,7 @@ Now that is the answer proper. To reveal the fact that *Bāhiya* attained *Parin
 
 So then the verse uttered by the Buddha in conclusion was something extra. It was only a joyous utterance, a verse of uplift, coming as a grand finale to the whole episode.
 
-Such verses of uplift are often to be met with in the *Udāna*. As we already mentioned, the verses in the *Udāna* have to be interpreted very carefully, because they go far beyond the implications of the story concerned.[[531\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn531) They invite us to take a plunge into the ocean of *Dhamma*. Just one verse is enough. The text is small but deep. The verse in question is such a spontaneous utterance of joy. It is not the answer to the question 'where did he go?'
+Such verses of uplift are often to be met with in the *Udāna*. As we already mentioned, the verses in the *Udāna* have to be interpreted very carefully, because they go far beyond the implications of the story concerned.[^531] They invite us to take a plunge into the ocean of *Dhamma*. Just one verse is enough. The text is small but deep. The verse in question is such a spontaneous utterance of joy. It is not the answer to the question 'where did he go?'
 
 Well, in that case, what are we to understand by the word *yattha*, "where"? We have already given a clue to it in our seventh sermon with reference to that non-manifestative consciousness, *anidassana viññāṇa*. What the Buddha describes in this verse, is not the place where the Venerable *arahant* *Bāhiya* went after his demise, but the non-manifestative consciousness he had realized here and now, in his concentration of the fruit of *arahant*-hood, or *arahattaphalasamādhi*.
 
@@ -245,7 +245,7 @@ Let us hark back to the four lines quoted in the *Kevaḍḍhasutta*.
 
 *ettha āpo ca paṭhavī,*
 
-*tejo vāyo na gādhati.*[[532\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn532)
+*tejo vāyo na gādhati.*[^532]
 
 "Consciousness which is non-manifestative,
 
@@ -261,7 +261,7 @@ We had occasion to explain at length in what sense earth, water, fire and air fi
 
 Briefly stated, the Buddha's declaration amounts to the revelation that the sun, the moon and the stars fade away before the superior radiance of the non-manifestative consciousness, which is infinite and lustrous on all sides.
 
-How a lesser radiance fades away before a superior one, we have already explained with reference to the cinema in a number of earlier sermons.[[533\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn533) To sum up, the attention of the audience in a cinema is directed to the narrow beam of light falling on the screen. The audience, or the spectators, are seeing the scenes making up the film show with the help of that beam of light and the thick darkness around.
+How a lesser radiance fades away before a superior one, we have already explained with reference to the cinema in a number of earlier sermons.[^533] To sum up, the attention of the audience in a cinema is directed to the narrow beam of light falling on the screen. The audience, or the spectators, are seeing the scenes making up the film show with the help of that beam of light and the thick darkness around.
 
 This second factor is also very important. Scenes appear not simply because of the beam of light. The thickness of the darkness around is also instrumental in it. This fact is revealed when the cinema hall is fully lit up. If the cinema hall is suddenly illuminated, either by the opening of doors and windows or by some electrical device, the scenes falling on the screen fade away as if they were erased. The beam of light, which was earlier there, becomes dim before the superior light. The lesser lustre is superseded by a greater lustre.
 
@@ -275,11 +275,11 @@ But now let us suppose that the extraneous defilements in the mind of a noble di
 
 In the previous sermon we happened to mention that form and space are related to each other, like the picture and its background. Now all this is happening in the firmament, which forms the background. We could enjoy the scenes of the world cinema, because of that darkness. The twilight, the moonlight and the sunlight are but various levels of that darkness.
 
-The worldling thinks that one who has eyes must surely see if there is sunshine. He cannot think of anything beyond it. But the Buddha has declared that there is something more radiant than the radiance of the sun. *Natthi paññāsamā ābhā*, "there is no radiance comparable to wisdom".[[534\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn534)
+The worldling thinks that one who has eyes must surely see if there is sunshine. He cannot think of anything beyond it. But the Buddha has declared that there is something more radiant than the radiance of the sun. *Natthi paññāsamā ābhā*, "there is no radiance comparable to wisdom".[^534]
 
-Let us hark back to a declaration by the Buddha we had already quoted in a previous sermon. *Catasso imā, bhikkhave, pabhā. Katamā catasso? Candappabhā, sūriyappabhā, aggippabhā, paññappabhā, imā kho, bhikkhave, catasso pabhā. Etadaggaṃ, bhikkhave, imāsaṃ catunnaṃ pabhānaṃ, yad idaṃ paññappabhā*.[[535\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn535) "Monks, there are these four lustres. What four? The lustre of the moon, the lustre of the sun, the lustre of fire, the lustre of wisdom. These, monks, are the four lustres. This, monks, is the highest among these four lustres, namely the lustre of wisdom."
+Let us hark back to a declaration by the Buddha we had already quoted in a previous sermon. *Catasso imā, bhikkhave, pabhā. Katamā catasso? Candappabhā, sūriyappabhā, aggippabhā, paññappabhā, imā kho, bhikkhave, catasso pabhā. Etadaggaṃ, bhikkhave, imāsaṃ catunnaṃ pabhānaṃ, yad idaṃ paññappabhā*.[^535] "Monks, there are these four lustres. What four? The lustre of the moon, the lustre of the sun, the lustre of fire, the lustre of wisdom. These, monks, are the four lustres. This, monks, is the highest among these four lustres, namely the lustre of wisdom."
 
-So, then, we can now understand why the form and the formless fade away. This wisdom has a penetrative quality, for which reason it is called *nibbedhikā paññā*.[[536\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn536) When one sees forms, one sees them together with their shadows. The fact that one sees shadows there, is itself proof that darkness has not been fully dispelled. If light comes from all directions, there is no shadow at all. If that light is of a penetrative nature, not even form will be manifest there.
+So, then, we can now understand why the form and the formless fade away. This wisdom has a penetrative quality, for which reason it is called *nibbedhikā paññā*.[^536] When one sees forms, one sees them together with their shadows. The fact that one sees shadows there, is itself proof that darkness has not been fully dispelled. If light comes from all directions, there is no shadow at all. If that light is of a penetrative nature, not even form will be manifest there.
 
 Now it is mainly due to what is called 'form' and 'formless', *rūpa/arūpa*, that the worldling experiences pleasure and pain in a world that distinguishes between a 'pleasure' and a 'pain'.
 
@@ -303,7 +303,7 @@ Though we have departed from the commentarial path of exegesis, we are now in a 
 
 *atha rūpā arūpā ca,*
 
-*sukhadukkhā pamuccati.*[[537\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn537)
+*sukhadukkhā pamuccati.*[^537]
 
 The verse can be fully explained along the lines of interpretation we have adopted. By way of further proof of the inadequacy of the commentarial explanation of the references to the sun, the moon and the stars in this verse, we may draw attention to the following points.
 
@@ -329,7 +329,7 @@ The cessation of the six sense-bases does not mean that one does not see anythin
 
 If we are to add something more to this interpretation of the *Bāhiyasutta* by way of review, we may say that this discourse illustrates the six qualities of the *Dhamma*, namely *svākkhāto*, well proclaimed, *sandiṭṭhiko*, visible here and now, *akāliko*, timeless, *ehipassiko*, inviting to come and see, *opanayiko*, leading onward and *paccattaṃ veditabbo viññūhi*, to be realized by the wise each one by himself. These six qualities are wonderfully exemplified by this discourse.  
 
-In a previous sermon we had occasion to bring up a simile of a dewdrop, dazzling in the morning sunshine.[[538\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn538) The task of seeing the spectrum of rainbow colours through a tiny dewdrop hanging from a creeper or a leaf is one that calls for a high degree of mindfulness. Simply by standing or sitting with one's face towards the rising sun, one will not be able to catch a glimpse of the brilliant spectrum of rainbow colours through the dewdrop. It requires a particular viewpoint. Only when one focuses on that viewpoint, can one see it.
+In a previous sermon we had occasion to bring up a simile of a dewdrop, dazzling in the morning sunshine.[^538] The task of seeing the spectrum of rainbow colours through a tiny dewdrop hanging from a creeper or a leaf is one that calls for a high degree of mindfulness. Simply by standing or sitting with one's face towards the rising sun, one will not be able to catch a glimpse of the brilliant spectrum of rainbow colours through the dewdrop. It requires a particular viewpoint. Only when one focuses on that viewpoint, can one see it.
 
 So it is with the spectrum of the six qualities of the *Dhamma*. Here, too, the correct viewpoint is a must, and that is right view. Reflection on the meaning of deep discourses helps one to straighten up right view.
 
@@ -341,13 +341,13 @@ So however long one may sit with folded legs, gazing at the Buddha sun, one migh
 
 We have stressed the importance of right view in particular, because many are grappling with a self created problem, concerning the proper alignment between the triple training and the right view of the noble eightfold path.
 
-Now as to the triple training, morality, concentration and wisdom, we find wisdom mentioned last. It seems, then, that we have to perfect morality first, then develop concentration, and only lastly wisdom. One need not think of wisdom before that. But when we come to the noble eightfold path, we find a different order of values. Here right view takes precedence. As a matter of fact, in the *Mahācattārīsakasutta* of the *Majjhima Nikāya* we find the Buddha repeatedly declaring emphatically *tatra, bhikkhave,* *sammā diṭṭhi pubbaṅgamā*, "monks, therein right view takes precedence".[[539\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn539) Even in a context where the subject is morality, we find a similar statement. So how are we to resolve this issue?
+Now as to the triple training, morality, concentration and wisdom, we find wisdom mentioned last. It seems, then, that we have to perfect morality first, then develop concentration, and only lastly wisdom. One need not think of wisdom before that. But when we come to the noble eightfold path, we find a different order of values. Here right view takes precedence. As a matter of fact, in the *Mahācattārīsakasutta* of the *Majjhima Nikāya* we find the Buddha repeatedly declaring emphatically *tatra, bhikkhave,* *sammā diṭṭhi pubbaṅgamā*, "monks, therein right view takes precedence".[^539] Even in a context where the subject is morality, we find a similar statement. So how are we to resolve this issue?
 
 In the noble eightfold path, pride of place is given to right view, which is representative of the wisdom group. As the well-known definition goes, right view and right thoughts belong to the wisdom group; right speech, right action and right livelihood come under the morality group; and right effort, right mindfulness and right concentration belong to the concentration group.
 
 So in this way, in the noble eightfold path, wisdom comes first, then morality and lastly concentration. But in the context of these three groups, firstly comes morality, secondly concentration and lastly wisdom, Here, too, the answer given by the *arahant*-nun Venerable *Dhammadinnā* to the lay disciple *Visākha* comes to our aid.
 
-The lay disciple *Visākha* poses the following question to Venerable *Dhammadinnā*: *Ariyena nu kho ayye aṭṭhaṅgikena maggena tayo khandhā saṅgahitā, udāhu tīhi khandhehi ariyo aṭṭhaṅgiko maggo saṅgahito*? "Good lady, are the three groups morality, concentration and wisdom, included by the noble eightfold path, or is the noble eightfold path included by the three groups?"[[540\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn540)
+The lay disciple *Visākha* poses the following question to Venerable *Dhammadinnā*: *Ariyena nu kho ayye aṭṭhaṅgikena maggena tayo khandhā saṅgahitā, udāhu tīhi khandhehi ariyo aṭṭhaṅgiko maggo saṅgahito*? "Good lady, are the three groups morality, concentration and wisdom, included by the noble eightfold path, or is the noble eightfold path included by the three groups?"[^540]
 
 Even at that time there may have been some who raised such questions. That is probably the reason for such a query. Then the *arahant*-nun *Dhammadinnā* answers: *Na kho āvuso Visākha ariyena aṭṭhaṅgikena maggena tayo khandhā saṅgahitā, tīhi ca kho āvuso Visākha khandhehi ariyo aṭṭhaṅgiko maggo saṅgahito*. "Friend *Visākha*, it is not that the threefold training is included by the noble eightfold path, but the noble eightfold path is included by the threefold training."
 
@@ -357,9 +357,9 @@ All these questions seem to have arisen due to an attitude of taking too serious
 
 All in all, we are now in a position to correctly assess the deep significance of the *Bāhiyasutta*. Here we have the quintessence of the entire *Saddhamma*. We are not confronted with heaps of perceptual data, which we are told today are essential requisites for admission into the 'city' of *Nibbāna*.
 
-For the ordinary worldling, amassing a particular set of percepts or concepts seems a qualification for entering *Nibbāna*. But what we have here, is a way of liberating the mind even from latencies to percepts, cf. *saññā nānusenti*, *Madhupiṇḍikasutta*, "perceptions do not lie latent.[[541\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn541) There is no heaping up anew.
+For the ordinary worldling, amassing a particular set of percepts or concepts seems a qualification for entering *Nibbāna*. But what we have here, is a way of liberating the mind even from latencies to percepts, cf. *saññā nānusenti*, *Madhupiṇḍikasutta*, "perceptions do not lie latent.[^541] There is no heaping up anew.
 
-What are called "extraneous taints", *āgantukā upakkilesā*,[[542\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn542) are not confined to the well known defilements in the world. They include all the rust and dust we have been collecting throughout this long *saṃsāra*, with the help of the influxes, *āsavā*. They include even the heap of percepts which the world calls 'knowledge'. Even numerals are part of it.
+What are called "extraneous taints", *āgantukā upakkilesā*,[^542] are not confined to the well known defilements in the world. They include all the rust and dust we have been collecting throughout this long *saṃsāra*, with the help of the influxes, *āsavā*. They include even the heap of percepts which the world calls 'knowledge'. Even numerals are part of it.
 
 The Buddha has briefly expressed here the mode of practice for disabusing the mind from all such taints. Therefore there is no reason for underestimating the value of this discourse, by calling it *vohāra desanā*, conventional teaching. This discourse in the *Udāna* is one that is truly 'up'-lifting.
 

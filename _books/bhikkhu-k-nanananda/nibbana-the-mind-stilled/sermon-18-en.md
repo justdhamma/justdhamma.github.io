@@ -28,7 +28,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
  
 
-*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[[600\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn600)
+*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[^600]
 
 "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction."
 
@@ -38,13 +38,13 @@ We happened to mention, in our last sermon, that many of the discourses dealing 
 
 The view that the *arahant* at the end of his life enters into an absolutely existing *asaṅkhata dhātu*, or 'unprepared element', seems to have received acceptance in the commentarial period. In the course of our last sermon, we made it very clear that some of the discourses cited by the commentators in support of that view deal, on the contrary, with some kind of realization the *arahant* goes through here and now, in this very life, in this very world - a realization of the cessation of existence, or the cessation of the six sense-spheres.
 
-Even when the Buddha refers to the *arahant* as the Brahmin who, having gone beyond, is standing on the farther shore,[[601\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn601) he was speaking of the *arahant* who has realized, in this very life, the influx-free deliverance of the mind and deliverance through wisdom, in his concentration of the fruit of *arahant*-hood.
+Even when the Buddha refers to the *arahant* as the Brahmin who, having gone beyond, is standing on the farther shore,[^601] he was speaking of the *arahant* who has realized, in this very life, the influx-free deliverance of the mind and deliverance through wisdom, in his concentration of the fruit of *arahant*-hood.
 
 Therefore, on the strength of this evidence, we are compelled to elicit a subtler meaning of the concept of 'this shore' and the 'farther shore' from these discourses dealing with *Nibbāna* than is generally accepted in the world. Our sermon today is especially addressed to that end.
 
 As we mentioned before, if one is keen on getting a solution to the problems relating to *Nibbāna*, the discourses we are now taking up for discussion might reveal the deeper dimensions of that problem.
 
-## We had to wind up our last sermon while drawing out the implications of the last line in the Paramaṭṭhakasutta of the Sutta Nipāta: pāraṃgato na pacceti tādi.[[602\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn602) We drew the inference that the steadfast one, the arahant, who is such-like, once gone to the farther shore, does not come back.
+## We had to wind up our last sermon while drawing out the implications of the last line in the Paramaṭṭhakasutta of the Sutta Nipāta: pāraṃgato na pacceti tādi.[^602] We drew the inference that the steadfast one, the arahant, who is such-like, once gone to the farther shore, does not come back.
 
 We find, however, quite a different idea expressed in a verse of the *Nālakasutta* in the *Sutta Nipāta*. The verse, which was the subject of much controversy among the ancients, runs as follows:
 
@@ -54,7 +54,7 @@ We find, however, quite a different idea expressed in a verse of the *Nālakasut
 
 *na pāraṃ diguṇaṃ yanti,*
 
-*na idaṃ ekaguṇaṃ mutaṃ*.[[603\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn603)
+*na idaṃ ekaguṇaṃ mutaṃ*.[^603]
 
 "High and low are the paths,
 
@@ -66,15 +66,15 @@ Nor yet is it to be reckoned a going once."
 
 The last two lines seem to contradict each other. There is no going twice to the farther shore, but still it is not to be conceived as a going once.
 
-Now, as for the first two lines, the high and low paths refer to the modes of practice adopted, according to the grades of understanding in different character types. For instances, the highest grade of persons attains *Nibbāna* by an easy path, being quick-witted, *sukhā paṭipadā khippābhiññā*, whereas the lowest grade attains it by a difficult path, being relatively dull-witted, *dukkhā paṭipadā dandhābhiññā*. [[604\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn604)
+Now, as for the first two lines, the high and low paths refer to the modes of practice adopted, according to the grades of understanding in different character types. For instances, the highest grade of persons attains *Nibbāna* by an easy path, being quick-witted, *sukhā paṭipadā khippābhiññā*, whereas the lowest grade attains it by a difficult path, being relatively dull-witted, *dukkhā paṭipadā dandhābhiññā*. [^604]
 
-The problem lies in the last two lines. The commentary tries to tackle it by interpreting the reference to not going twice to the farther shore, *na pāraṃ diguṇaṃ yanti*, as an assertion that there is no possibility of attaining *Nibbāna* by the same path twice, *ekamaggena dvikkhattuṃ nibbānaṃ na yanti*.[[605\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn605) The implication is that the supramundane path of a stream-winner, a once-returner or a non-returner arises only once. Why it is not to be conceived as a going once is explained as an acceptance of the norm that requires not less than four supramundane paths to attain *arahant*-hood.
+The problem lies in the last two lines. The commentary tries to tackle it by interpreting the reference to not going twice to the farther shore, *na pāraṃ diguṇaṃ yanti*, as an assertion that there is no possibility of attaining *Nibbāna* by the same path twice, *ekamaggena dvikkhattuṃ nibbānaṃ na yanti*.[^605] The implication is that the supramundane path of a stream-winner, a once-returner or a non-returner arises only once. Why it is not to be conceived as a going once is explained as an acceptance of the norm that requires not less than four supramundane paths to attain *arahant*-hood.
 
 However, a deeper analysis of the verse in question would reveal the fact that it effectively brings up an apparent contradiction. The commentary sidetracks by resolving it into two different problems. The two lines simply reflect two aspects of the same problem.
 
 They go not twice to the farther shore, and this not going twice, *na idaṃ*, is however not to be thought of as a 'going once' either. The commentary sidetracks by taking *idaṃ*, 'this', to mean the farther shore, *pāraṃ*, whereas it comprehends the whole idea of not going twice. Only then is the paradox complete.
 
-In other words, this verse concerns the such-like one, the *arahant*, and not the stream-winner, the once-returner or the non-returner. Here we have an echo of the idea already expressed as the grand finale of the *Paramaṭṭhakasutta*: *pāraṃgato na pacceti tādi*, [[606\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn606) the such-like one, "gone to the farther shore, comes not back".
+In other words, this verse concerns the such-like one, the *arahant*, and not the stream-winner, the once-returner or the non-returner. Here we have an echo of the idea already expressed as the grand finale of the *Paramaṭṭhakasutta*: *pāraṃgato na pacceti tādi*, [^606] the such-like one, "gone to the farther shore, comes not back".
 
 It is the last line, however, that remains a puzzle. Why is this 'not going twice,' not to be thought of as a 'going once'? There must be something deep behind this riddle.
 
@@ -92,7 +92,7 @@ Here, then, we have an extremely subtle problem. When the *arahant* comes back t
 
 *evaṃ muni nopalippati,*
 
-*yadidaṃ diṭṭhasutammutesu vā.*[[607\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn607)
+*yadidaṃ diṭṭhasutammutesu vā.*[^607]
 
 "Like a drop of water on a lotus leaf,
 
@@ -116,7 +116,7 @@ Let us take up another instance from the *Māgandiyasutta* of the *Sutta Nipāta
 
 *evaṃ munī santivādo agiddho,*
 
-*kāme ca loke ca anūpalitto*.[[608\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn608)
+*kāme ca loke ca anūpalitto*.[^608]
 
 "Detached from whatever views, the *arahant* wanders in the world,
 
@@ -132,7 +132,7 @@ Unsmeared by pleasures of sense and things of the world."
 
 Among the Tens of the *Aṅguttara Nikāya* we come across a discourse in which the Buddha answers a question put by Venerable *Bāhuna*. At that time the Buddha was staying near the pond *Gaggara* in the city of *Campa*. Venerable *Bāhuna's* question was:
 
-*Katīhi nu kho, bhante, dhammehi tathāgato nissaṭo visaṃyutto vippamutto vimariyādikatena cetasā viharati?*[[609\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn609) "Detached, disengaged and released from how many things does the *Tathāgata* dwell with an unrestricted mind?" The Buddha's answer to the question embodies a simile, aptly taken from the pond, as it were.
+*Katīhi nu kho, bhante, dhammehi tathāgato nissaṭo visaṃyutto vippamutto vimariyādikatena cetasā viharati?*[^609] "Detached, disengaged and released from how many things does the *Tathāgata* dwell with an unrestricted mind?" The Buddha's answer to the question embodies a simile, aptly taken from the pond, as it were.
 
 *Dasahi kho, Bāhuna, dhammehi tathāgato nissaṭo visaṃyutto vippamutto vimariyādikatena cetasā viharati. Katamehi dasahi? Rūpena kho, Bāhuna, Tathāgato nissaṭo visaṃyutto vippamutto vimariyādikatena cetasā viharati, vedanāya ... saññāya ... saṅkhārehi ... viññāṇena ... jātiyā ... jarāya ... maraṇena ... dukkhehi ... kilesehi kho, Bāhuna, Tathāgato nissaṭo visaṃyutto vippamutto vimariyādikatena cetasā viharati.*
 
@@ -146,15 +146,15 @@ This discourse, in particular, highlights the transcendence of the *Tathāgata*,
 
 We might wonder why the *Tathāgata* is said to be free from birth, decay and death, since, as we know, he did grow old and pass away. Birth, decay and death, in this context, do not refer to some future state either. Here and now the *Tathāgata* is free from the concepts of birth, decay and death.
 
-In the course of our discussion of the term *papañca*, we had occasion to illustrate how one can be free from such concepts.[[610\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn610) If concepts of birth, decay and death drive fear into the minds of worldlings, such is not the case with the *Tathāgata*. He is free from such fears and forebodings. He is free from defilements as well.
+In the course of our discussion of the term *papañca*, we had occasion to illustrate how one can be free from such concepts.[^610] If concepts of birth, decay and death drive fear into the minds of worldlings, such is not the case with the *Tathāgata*. He is free from such fears and forebodings. He is free from defilements as well.
 
 The discourse seems to affirm that the *Tathāgata* dwells detached from all these ten things. It seems, therefore, that the functioning of the *Tathāgata's* sense-faculties in his every day life also should follow a certain extraordinary pattern of detachment and disengagement. In fact, Venerable *Sāriputta* says something to that effect in the *Saḷāyatanasaṃyutta* of the *Saṃyutta Nikāya*.
 
-*Passati Bhagavā cakkhunā rūpaṃ, chandarāgo Bhagavato natthi, suvimuttacitto Bhagavā.*[[611\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn611) "The Exalted One sees forms with the eye, but there is no desire or attachment in him, well freed in mind is the Exalted One."
+*Passati Bhagavā cakkhunā rūpaṃ, chandarāgo Bhagavato natthi, suvimuttacitto Bhagavā.*[^611] "The Exalted One sees forms with the eye, but there is no desire or attachment in him, well freed in mind is the Exalted One."
 
 We come across a similar statement made by the brahmin youth *Uttara* in the *Brahmāyusutta* of the *Majjhima Nikāya*, after he had closely followed the Buddha for a considerable period to verify the good report of his extraordinary qualities.
 
-*Rasapaṭisaṃvedī kho pana so bhavaṃ Gotamo āhāraṃ āhāreti, no rasarāgapaṭisaṃvedī*.[[612\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn612) "Experiencing taste Master *Gotama* takes his food, but not experiencing any attachment to the taste."
+*Rasapaṭisaṃvedī kho pana so bhavaṃ Gotamo āhāraṃ āhāreti, no rasarāgapaṭisaṃvedī*.[^612] "Experiencing taste Master *Gotama* takes his food, but not experiencing any attachment to the taste."
 
 It is indeed something marvellous. The implication is that there is such a degree of detachment with regard to things experienced by the tongue, even when the senses are taking in their objects. One can understand the difference between the mundane and the supramundane, when one reflects on the difference between experiencing taste and experiencing an attachment to taste.
 
@@ -162,7 +162,7 @@ Not only with regard to the objects of the five senses, but even with regard to 
 
 There is a discourse among the Nines of the *Aṅguttara Nikāya* which seems to assert this fact. It is a discourse preached by Venerable *Sāriputta* to refute a wrong viewpoint taken by a monk named *Chandikāputta*.
 
-*Evaṃ sammā vimuttacittassa kho, āvuso, bhikkhuno bhusā cepi cakkhuviññeyyā rūpā cakkhussa āpāthaṃ āgacchanti, nevassa cittaṃ pariyādiyanti, amissīkatamevassa cittaṃ hoti ṭhitaṃ āneñjappattaṃ, vayaṃ cassānupassati*. *Bhusā cepi sotaviññeyyā saddā ... bhūsa cepi ghānaviññeyyā gandhā ... bhūsa cepi jivhāviññeyyā rasā ... bhūsa cepi kāyaviññeyyā phoṭṭhabbā ... bhūsa cepi manoviññeyyā dhammā manassa āpāthaṃ āgacchanti, nevassa cittaṃ pariyādiyanti, amissīkatamevassa cittaṃ hoti ṭhitaṃ āneñjappattaṃ, vayaṃ cassānupassati*.[[613\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn613)
+*Evaṃ sammā vimuttacittassa kho, āvuso, bhikkhuno bhusā cepi cakkhuviññeyyā rūpā cakkhussa āpāthaṃ āgacchanti, nevassa cittaṃ pariyādiyanti, amissīkatamevassa cittaṃ hoti ṭhitaṃ āneñjappattaṃ, vayaṃ cassānupassati*. *Bhusā cepi sotaviññeyyā saddā ... bhūsa cepi ghānaviññeyyā gandhā ... bhūsa cepi jivhāviññeyyā rasā ... bhūsa cepi kāyaviññeyyā phoṭṭhabbā ... bhūsa cepi manoviññeyyā dhammā manassa āpāthaṃ āgacchanti, nevassa cittaṃ pariyādiyanti, amissīkatamevassa cittaṃ hoti ṭhitaṃ āneñjappattaṃ, vayaṃ cassānupassati*.[^613]
 
 "Friend, in the case of a monk who is fully released, even if many forms cognizable by the eye come within the range of vision, they do not overwhelm his mind, his mind remains unalloyed, steady and unmoved, he sees its passing away. Even if many sounds cognizable by the ear come within the range of hearing ... even if many smells cognizable by the nose ... even if many tastes cognizable by the tongue ... even if many tangibles cognizable by the body ... even if many mind-objects cognizable by the mind come within the range of the mind, they do not overwhelm his mind, his mind remains unalloyed, steady and unmoved, he sees its passing away."
 
@@ -184,15 +184,15 @@ But it seems the *arahant* has no such distinction. A certain *Dhammapada* verse
 
 *vītaddaraṃ visaṃyuttaṃ,*
 
-*tam ahaṃ brūmi brāhmaṇaṃ*.[[614\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn614)
+*tam ahaṃ brūmi brāhmaṇaṃ*.[^614]
 
-This is a verse we have quoted earlier too, in connection with the question of the verbal dichotomy.[[615\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn615) *Yassa pāraṃ apāraṃ vā, pārāpāraṃ na vijjati,*"to whom there is neither a farther shore, nor a hither shore, nor both". That is to say, he has no discrimination between the two. *Vītaddaraṃ visaṃyuttaṃ, tam ahaṃ brūmi brāhmaṇaṃ*, "who is free from pangs of sorrow and entanglements, him I call a Brahmin".
+This is a verse we have quoted earlier too, in connection with the question of the verbal dichotomy.[^615] *Yassa pāraṃ apāraṃ vā, pārāpāraṃ na vijjati,*"to whom there is neither a farther shore, nor a hither shore, nor both". That is to say, he has no discrimination between the two. *Vītaddaraṃ visaṃyuttaṃ, tam ahaṃ brūmi brāhmaṇaṃ*, "who is free from pangs of sorrow and entanglements, him I call a Brahmin".
 
 This means that the *arahant* is free from the verbal dichotomy, which is of relevance to the worldling. Once gone beyond, the emancipated one has no more use of these concepts. This is where the Buddha's dictum in the raft simile of the *Alagaddūpamasutta* becomes meaningful.
 
 Even the concepts of a 'this shore' and a 'farther shore' are useful only for the purpose of crossing over. If, for instance, the *arahant*, having gone beyond, were to think 'ah, this is my land', that would be some sort of a grasping. Then there will be an identification, *tammayatā*, not a non-identification, *atammayatā*.
 
-As we had mentioned earlier, there is a strange quality called *atammayatā*, associated with an *arahant*.[[616\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn616) In connection with the simile of a man who picked up a gem, we have already stated the ordinary norm that prevails in the world.[[617\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn617)
+As we had mentioned earlier, there is a strange quality called *atammayatā*, associated with an *arahant*.[^616] In connection with the simile of a man who picked up a gem, we have already stated the ordinary norm that prevails in the world.[^617]
 
 If we possess something - we are possessed by it.
 
@@ -202,17 +202,17 @@ This is the moral behind the parable of the gem. It is this conviction, which pr
 
 As it is stated in the *Alagaddūpamasutta*, since there is no boat or bridge to cross over, one has to improvise a raft by putting together grass, twigs, branches and leaves, found on this shore. But after crossing over with its help, he does not carry it with him on his shoulder.
 
-*Evameva kho, bhikkhave, kullūpamo mayā dhammo desito nittharaṇatthāya no gahaṇatthāya. Kullūpamaṃ vo bhikkhave ājānantehi dhammā pi vo pahātabbā, pag'eva adhammā* .[[618\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn618)
+*Evameva kho, bhikkhave, kullūpamo mayā dhammo desito nittharaṇatthāya no gahaṇatthāya. Kullūpamaṃ vo bhikkhave ājānantehi dhammā pi vo pahātabbā, pag'eva adhammā* .[^618]
 
 "Even so, monks, have I preached to you a *Dhamma* that is comparable to a raft, which is for crossing over and not for grasping. Well knowing the *Dhamma* to be comparable to a raft, you should abandon even the good things, more so the bad things."
 
 One might think that the *arahant* is in the sensuous realm, when, for instance, he partakes of food. But that is not so. Though he attains to the realms of form and formless realms, he does not belong there. He has the ability to attain to those levels of concentration, but he does not grasp them egoistically, true to that norm of *atammayatā*, or non-identification.
 
-This indeed is something extraordinary. Views and opinions about language, dogmatically entertained by the worldlings, lose their attraction for him. This fact is clearly illustrated for us by the *Uragasutta* of the *Sutta Nipāta*, the significance of which we have already stressed.[[619\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn619) We happened to mention that there is a refrain, running through all the seventeen verses making up that discourse. The refrain concerns the worn out skin of a snake. The last two lines in each verse, forming the refrain, are:
+This indeed is something extraordinary. Views and opinions about language, dogmatically entertained by the worldlings, lose their attraction for him. This fact is clearly illustrated for us by the *Uragasutta* of the *Sutta Nipāta*, the significance of which we have already stressed.[^619] We happened to mention that there is a refrain, running through all the seventeen verses making up that discourse. The refrain concerns the worn out skin of a snake. The last two lines in each verse, forming the refrain, are:
 
 *So bhikkhu jahāti orapāraṃ,*
 
-*urago jiṇṇamiva tacaṃ purāṇaṃ*.[[620\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn620)
+*urago jiṇṇamiva tacaṃ purāṇaṃ*.[^620]
 
 "That monk forsakes the hither and the thither,
 
@@ -228,7 +228,7 @@ Let us now take up one more verse from the *Uragasutta* which has the same refra
 
 *so bhikkhu jahāti orapāraṃ,*
 
-*urago jiṇṇamiva tacaṃ purāṇaṃ*.[[621\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn621)
+*urago jiṇṇamiva tacaṃ purāṇaṃ*.[^621]
 
 "Who neither overreaches himself nor lags behind,
 
@@ -242,11 +242,11 @@ This verse is particularly significant in that it brings out some points of inte
 
 When a banknote is invalidated, cravings, conceits and views bound with it go down. Concepts current in the world, like banknotes in transaction, are reckoned as valid so long as cravings, conceits and views bound with them are there. They are no longer valid when these are gone.
 
-We have defined *papañca* with reference to cravings, conceits and views. [[622\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn622) Commentaries also speak of *taṇhāpapañca. diṭṭhipapañca* and *mānapapañca*.[[623\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn623) By doing away with cravings, conceits and views, one goes beyond all *papañca*.
+We have defined *papañca* with reference to cravings, conceits and views. [^622] Commentaries also speak of *taṇhāpapañca. diṭṭhipapañca* and *mānapapañca*.[^623] By doing away with cravings, conceits and views, one goes beyond all *papañca*.
 
 The term *orapāraṃ*, too, has many connotations. It stands for the duality implicit in such usages as the 'internal' and the 'external', 'one's own' and 'another's', as well as 'this shore' and the 'farther shore'. It is compared here to the worn out skin of a snake. It is worn out by transcending the duality characteristic of linguistic usage through wisdom.
 
-Why the Buddha first hesitated to teach this *Dhamma* was the difficulty of making the world understand.[[624\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn624) Perhaps it was the conviction that the world could easily be misled by those limitations in the linguistic medium.
+Why the Buddha first hesitated to teach this *Dhamma* was the difficulty of making the world understand.[^624] Perhaps it was the conviction that the world could easily be misled by those limitations in the linguistic medium.
 
 We make these few observations in order to draw attention to the relativity underlying such terms as 'this shore' and the 'other shore' and to show how *Nibbāna* transcends even that dichotomy.
 
@@ -282,7 +282,7 @@ In this connection, we may take up for comment a highly controversial *sutta* in
 
 *pahaṃsu te sabbabhavāni tādino.*
 
-*Ayampi attho vutto Bhagavatā, iti me sutaṃ.*[[625\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn625)
+*Ayampi attho vutto Bhagavatā, iti me sutaṃ.*[^625]
 
 "This was said by the Exalted One, said by the Worthy One, so have I heard:
 
@@ -324,21 +324,21 @@ As for the *Nibbāna* element without residual clinging, it is definitely stated
 
 Why do they not take delight in what is felt at the moment of passing away? They take delight in something else, and that is: the very destruction of all what is felt, a foretaste of which they have already experienced in their attainment to that unshakeable deliverance of the mind, which is the very pith and essence of the *Dhamma*, *dhammasāra*.
 
-As stated in the *Mahāsāropamasutta* of the *Majjhima Nikāya*, the pith of the *Dhamma* is that deliverance of the mind,[[626\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn626) and to take delight in the ending of all feelings, *khaye ratā*, is to revert to the *arahattaphalasamādhi* with which the *arahant* is already familiar. That is how those such-like ones abandon all forms of existence, *pahaṃsu te sabbabhavāni tādino*.
+As stated in the *Mahāsāropamasutta* of the *Majjhima Nikāya*, the pith of the *Dhamma* is that deliverance of the mind,[^626] and to take delight in the ending of all feelings, *khaye ratā*, is to revert to the *arahattaphalasamādhi* with which the *arahant* is already familiar. That is how those such-like ones abandon all forms of existence, *pahaṃsu te sabbabhavāni tādino*.
 
 Let us now try to sort out the problems that are likely to be raised in connection with the interpretation we have given. First and foremost, the two terms *diṭṭhadhammika* and *samparāyika* have to be explained.
 
-A lot of confusion has arisen, due to a misunderstanding of the meaning of these two terms in this particular context. The usual commentarial exegesis on the term *diṭṭhadhammika* amounts to this: *Imasmiṃ attabhāve bhavā vattamānā*,[[627\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn627) "in this very life, that is, in the present". It seems all right. But then for *samparāyika* the commentary has the following comment: *samparāye khandhabhedato parabhāge*, "*samparāya* means after the breaking up of the aggregates". The implication is that it refers to the *arahant's* after death state.
+A lot of confusion has arisen, due to a misunderstanding of the meaning of these two terms in this particular context. The usual commentarial exegesis on the term *diṭṭhadhammika* amounts to this: *Imasmiṃ attabhāve bhavā vattamānā*,[^627] "in this very life, that is, in the present". It seems all right. But then for *samparāyika* the commentary has the following comment: *samparāye khandhabhedato parabhāge*, "*samparāya* means after the breaking up of the aggregates". The implication is that it refers to the *arahant's* after death state.
 
 Are we then to conclude that the *arahant* gets half of his *Nibbāna* here and the other half hereafter? The terms *diṭṭhadhammika* and *samparāyika*, understood in their ordinary sense, would point to such a conclusion.
 
-But let us not forget that the most distinctive quality of this *Dhamma* is associated with the highly significant phrase, *diṭṭhevadhamme*, "in this very life". It is also conveyed by the expression *sandiṭṭhika akālika*, "here and now" and "timeless".[[628\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn628) The goal of endeavour, indicated by this *Dhamma*, is one that could be fully realized here and now, in this very life. It is not a piecemeal affair. Granting all that, do we find here something contrary to it, conveyed by the two terms *diṭṭhadhammika* and *samparāyika*? How can we reconcile these two passages?
+But let us not forget that the most distinctive quality of this *Dhamma* is associated with the highly significant phrase, *diṭṭhevadhamme*, "in this very life". It is also conveyed by the expression *sandiṭṭhika akālika*, "here and now" and "timeless".[^628] The goal of endeavour, indicated by this *Dhamma*, is one that could be fully realized here and now, in this very life. It is not a piecemeal affair. Granting all that, do we find here something contrary to it, conveyed by the two terms *diṭṭhadhammika* and *samparāyika*? How can we reconcile these two passages?
 
-In the context of *kamma*, the meaning of the two terms in question can easily be understood. For instance, that category of *kamma* known as *diṭṭhadhammavedanīya* refers to those actions which produce their results here and now. *Samparāyika* pertains to what comes after death, as for instance in the phrase *samparāye ca duggati*, an "evil bourn after death".[[629\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn629) In the context of *kamma* it is clear enough, then, that the two terms refer to what is experienced in this world and what comes after death, respectively.
+In the context of *kamma*, the meaning of the two terms in question can easily be understood. For instance, that category of *kamma* known as *diṭṭhadhammavedanīya* refers to those actions which produce their results here and now. *Samparāyika* pertains to what comes after death, as for instance in the phrase *samparāye ca duggati*, an "evil bourn after death".[^629] In the context of *kamma* it is clear enough, then, that the two terms refer to what is experienced in this world and what comes after death, respectively.
 
 Are we justified in applying the same criterion, when it comes to the so-called two elements of *Nibbāna*? Do the *arahants* experience some part of *Nibbāna* here and the rest hereafter?
 
-At this point, we have to admit that the term *diṭṭhadhammika* is associated with *sa-upādisesā Nibbānadhātu* while the term *samparāyika* is taken over to refer to *anupādisesā Nibbānadhātu*. However, the fact that *Nibbāna* is explicitly defined elsewhere as the cessation of existence, *bhavanirodho Nibbānaṃ*,[[630\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn630) must not be forgotten. If *Nibbāna* is the cessation of existence, there is nothing left for the *arahant* to experience hereafter.
+At this point, we have to admit that the term *diṭṭhadhammika* is associated with *sa-upādisesā Nibbānadhātu* while the term *samparāyika* is taken over to refer to *anupādisesā Nibbānadhātu*. However, the fact that *Nibbāna* is explicitly defined elsewhere as the cessation of existence, *bhavanirodho Nibbānaṃ*,[^630] must not be forgotten. If *Nibbāna* is the cessation of existence, there is nothing left for the *arahant* to experience hereafter.
 
 *Nibbāna* is solely the realization of the cessation of existence or the end of the process of becoming. So there is absolutely no question of a hereafter for the *arahant*. By way of clarification, we have to revert to the primary sense of the term *Nibbāna*. We have made it sufficiently clear that *Nibbāna* means 'extinction' or 'extinguishment', as of a fire.
 
@@ -350,7 +350,7 @@ All the commentarial jargon, equating *vāna* to *taṇhā*, is utterly irreleva
 
 *aṅgāresu ca santesu,,*
 
-*nibbuto ti pavuccati*.[[631\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn631)
+*nibbuto ti pavuccati*.[^631]
 
 "As a huge blazing fire, with no more firewood added,
 
@@ -370,7 +370,7 @@ When *saṅkhāras* calm down,
 
 One is called 'extinguished'."
 
-It maybe pointed out that this variant reading does not accord with the imagery of the fire presented by the first two lines of the verse. It is probably a scribe's error that has come down, due to the rhythmic similarity between the two phrases *aṅgāresu ca santesu*, and *saṅkhāresūpasantesu*.[[632\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn632) Between the reciter and the scribe, phrases that have a similar ring and rhythm, could sometimes bring about a textual corruption. Be that as it may, we have opted for the reading *aṅgāresu ca santesu*, because it makes more sense.
+It maybe pointed out that this variant reading does not accord with the imagery of the fire presented by the first two lines of the verse. It is probably a scribe's error that has come down, due to the rhythmic similarity between the two phrases *aṅgāresu ca santesu*, and *saṅkhāresūpasantesu*.[^632] Between the reciter and the scribe, phrases that have a similar ring and rhythm, could sometimes bring about a textual corruption. Be that as it may, we have opted for the reading *aṅgāresu ca santesu*, because it makes more sense.
 
 From the particular context in which the verse occurs, it seems that this imagery of the fire is a restatement of the image of the lotus unsmeared by water. Though the embers are still smouldering, to the extent that they are no longer hungering for more fuel and are not emitting flames, they may as well be reckoned as 'extinguished'.
 
@@ -378,19 +378,19 @@ We can draw a parallel between this statement and the definition of *sa-upādise
 
 The assertion made by the phrase beginning with *tassa tiṭṭhanteva pañcindriyāni yesaṃ avighātattā ...* , "his five senses do exist, owing to the non-destruction of which ...", rather apologetically brings out the limitations of the living *arahant*. It is reminiscent of those smouldering embers in the imagery of the *Nāgasutta*. However, in so far as flames of lust, hate and delusion are quenched in him, it comes to be called *sa-upādisesā Nibbānadhātu*, even as in the case of those smouldering embers.
 
-Craving is aptly called *bhavanetti*, [[633\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn633) in the sense that it leads to becoming by catching hold of more and more fuel in the form of *upādāna*. When it is under control, the functioning of the sense-faculties do not entail further rebirth. The inevitable residual clinging in the living *arahant* does not precipitate a fresh existence.
+Craving is aptly called *bhavanetti*, [^633] in the sense that it leads to becoming by catching hold of more and more fuel in the form of *upādāna*. When it is under control, the functioning of the sense-faculties do not entail further rebirth. The inevitable residual clinging in the living *arahant* does not precipitate a fresh existence.
 
-This gives us a clue to the understanding of the term *anupādisesa*. The element *upādi* in this term is rather ambiguous. In the *Satipaṭṭhānasutta*, for instance, it is used as the criterion to distinguish the *anāgāmi*, the "non-returner", from the *arahant*, in the statement *diṭṭhevadhamme aññā, sati vā upādisese anāgāmitā*,[[634\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn634) "either full convincing knowledge of *arahant-*hood here and now, or the state of non-return in the case of residual clinging".
+This gives us a clue to the understanding of the term *anupādisesa*. The element *upādi* in this term is rather ambiguous. In the *Satipaṭṭhānasutta*, for instance, it is used as the criterion to distinguish the *anāgāmi*, the "non-returner", from the *arahant*, in the statement *diṭṭhevadhamme aññā, sati vā upādisese anāgāmitā*,[^634] "either full convincing knowledge of *arahant-*hood here and now, or the state of non-return in the case of residual clinging".
 
 But when it comes to the distinction between *sa-upādisesa* and *anupādisesa*, the element *upādi* has to be understood in a more radical sense, in association with the word *upādiṇṇa*. This body, as the product of past *kamma*, is the 'grasped' par excellence, which as an organic combination goes on functioning even in the *arahant* until his last moment of life.
 
-Venerable *Sāriputta* once declared that he neither delighted in death nor delighted in life, *nābhinandāmi maraṇaṃ nābhinandāmi jīvitaṃ*.[[635\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn635) So the embers go on smouldering until they become ashes. It is when the life span ends that the embers finally turn to ashes.
+Venerable *Sāriputta* once declared that he neither delighted in death nor delighted in life, *nābhinandāmi maraṇaṃ nābhinandāmi jīvitaṃ*.[^635] So the embers go on smouldering until they become ashes. It is when the life span ends that the embers finally turn to ashes.
 
 The popular interpretation of the term *anupādisesā Nibbānadhātu* leaves room for some absolutist conceptions of an *asaṅkhata dhātu*, unprepared element, as the destiny of the *arahant*. After his *parinibbāna*, he is supposed to enter this particular *Nibbānadhātu*. But here, in this discourse, it is explained in just one sentence: *Tassa idheva, bhikkhave, sabbavedayitāni anabhinanditāni sītibhavissanti,* "in the case of him" (that is the *arahant*) ", O! monks, all what is felt, not having been delighted in, will cool off here itself."
 
 This cooling off happens just before death, without igniting another spark of life. When *Māra* comes to grab and seize, the *arahant* lets go. The pain of death with which *Māra* teases his hapless victim and lures him into another existence, becomes ineffective in the case of the *arahant*. As he has already gone through the supramundane experience of deathlessness, in the *arahattaphalasamādhi*, death loses its sting when at last it comes. The influx-free deliverance of the mind and the influx-free deliverance through wisdom enable him to cool down all feelings in a way that baffles *Māra*.
 
-So the *arahant* lets go of his body, experiencing ambrosial deathlessness. As in the case of Venerable *Dabba Mallaputta*, he would sometimes cremate his own body without leaving any ashes.[[636\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn636) Outwardly it might appear as an act of self-immolation, which indeed is painful. But this is not so. Using his *jhānic* powers, he simply employs the internal fire element to cremate the body he has already discarded.
+So the *arahant* lets go of his body, experiencing ambrosial deathlessness. As in the case of Venerable *Dabba Mallaputta*, he would sometimes cremate his own body without leaving any ashes.[^636] Outwardly it might appear as an act of self-immolation, which indeed is painful. But this is not so. Using his *jhānic* powers, he simply employs the internal fire element to cremate the body he has already discarded.
 
 This, then, is the Buddha's extraordinary solution to the problem of overcoming death, a solution that completely outwits *Māra*.
 

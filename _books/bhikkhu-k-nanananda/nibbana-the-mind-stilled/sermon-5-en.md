@@ -23,17 +23,17 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
  
 
-*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[[148\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn148)
+*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[^148]
 
 "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction".
 
 With the permission of the Most Venerable Great Preceptor and the assembly of the venerable meditative monks.
 
-Towards the end of our last sermon, we discussed, to some extent, a special mode of attention, regarding the four objects of contemplation in the *Satipaṭṭhānasutta* - body, feelings, mind, and mind-objects.[[149\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn149) That discussion might have revealed a certain middle path indicated by the Buddha.
+Towards the end of our last sermon, we discussed, to some extent, a special mode of attention, regarding the four objects of contemplation in the *Satipaṭṭhānasutta* - body, feelings, mind, and mind-objects.[^149] That discussion might have revealed a certain middle path indicated by the Buddha.
 
-We drew attention to a thematic paragraph, occurring throughout the *Satipaṭṭhānasutta*, which outlines a method of using objects and concepts for *satipaṭṭhāna* meditation without dogmatic involvement. This leads the meditator to a particular kind of attitude, summed up by the concluding phrase: "He abides independent and does not cling to anything in the world", *anissito ca viharati, na ca kiñci loke upādiyati*.[[150\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn150)
+We drew attention to a thematic paragraph, occurring throughout the *Satipaṭṭhānasutta*, which outlines a method of using objects and concepts for *satipaṭṭhāna* meditation without dogmatic involvement. This leads the meditator to a particular kind of attitude, summed up by the concluding phrase: "He abides independent and does not cling to anything in the world", *anissito ca viharati, na ca kiñci loke upādiyati*.[^150]
 
-By way of clarification, we brought in the simile of a scaffolding for a building, that here the concepts only serve as a scaffolding for building up mindfulness and knowledge.[[151\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn151) Talking about the scaffolding, we are reminded of two different attitudes, namely, the attitude of leaning on to and dwelling in the scaffolding itself, and the enlightened attitude of merely utilizing it for the purpose of erecting a building.
+By way of clarification, we brought in the simile of a scaffolding for a building, that here the concepts only serve as a scaffolding for building up mindfulness and knowledge.[^151] Talking about the scaffolding, we are reminded of two different attitudes, namely, the attitude of leaning on to and dwelling in the scaffolding itself, and the enlightened attitude of merely utilizing it for the purpose of erecting a building.
 
 For further explanation of this technique, we may take up the two terms *parāmasana* and *sammasana*. It might be better to distinguish the meanings of these two terms also with the help of a simile. As for a simile, let us take up the razor, which is such a useful requisite in our meditative life. There is a certain special way in sharpening a razor. With the idea of sharpening the razor, if one grabs it tightly and rubs it on the sharpening stone, it will only become blunt. *Parāmasana*, grasping, grabbing, is something like that.
 
@@ -41,9 +41,9 @@ What then is the alternative? A more refined and softer approach is required as 
 
 It is in the same manner that the razor of insight wisdom has to be whetted on the sharpening stone of the *Satipaṭṭhānasutta*. Inward, inward, inward - outward, outward, outward - inward outward, inward outward. Or else: arising, arising, arising - ceasing, ceasing, ceasing - arising ceasing, arising ceasing.
 
-This is an illustration for the method of reflection, or *sammasana*, introduced by the Buddha in the *Satipaṭṭhānasutta*. Words and concepts have to be made use of, for attaining *Nibbāna*. But here the aim is only the up-building of mindfulness and knowledge. Once their purpose is served, they can be dismantled without being a bother to the mind. This is the significance of the concluding phrase "He abides independent and does not cling to anything in the world". [[152\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn152)
+This is an illustration for the method of reflection, or *sammasana*, introduced by the Buddha in the *Satipaṭṭhānasutta*. Words and concepts have to be made use of, for attaining *Nibbāna*. But here the aim is only the up-building of mindfulness and knowledge. Once their purpose is served, they can be dismantled without being a bother to the mind. This is the significance of the concluding phrase "He abides independent and does not cling to anything in the world". [^152]
 
-There is another *sutta* in which the Buddha has touched upon this same point in particular. It is the *Samudayasutta* in the *Satipaṭṭhānasaṃyutta* of the *Saṃyutta Nikāya*.[[153\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn153) In that *sutta*, the Buddha has proclaimed the arising and the going down of the four foundations of mindfulness. He begins by saying: "Monks, I shall teach you the arising and the going down of the four foundations of mindfulness". *Catunnaṃ, bhikkhave, satipaṭṭhānānaṃ samudayañca atthagamañca desessāmi*.
+There is another *sutta* in which the Buddha has touched upon this same point in particular. It is the *Samudayasutta* in the *Satipaṭṭhānasaṃyutta* of the *Saṃyutta Nikāya*.[^153] In that *sutta*, the Buddha has proclaimed the arising and the going down of the four foundations of mindfulness. He begins by saying: "Monks, I shall teach you the arising and the going down of the four foundations of mindfulness". *Catunnaṃ, bhikkhave, satipaṭṭhānānaṃ samudayañca atthagamañca desessāmi*.
 
 He goes on to say: *Ko ca, bhikkhave, kāyassa samudayo? Āhārasamudayā kāyassa samudayo, āhāranirodhā kāyassa atthagamo*. "What, monks, is the arising of the body? With the arising of nutriment is the arising of the body and with the cessation of the nutriment is the going down of the body."
 
@@ -79,7 +79,7 @@ So the terms *anissita* and *anupādāna* seem to have a significance of their o
 
 *anissito anupādāno,*
 
-*sato bhikkhu paribbaje*.[[154\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn154)
+*sato bhikkhu paribbaje*.[^154]
 
 "The unattached one wavers not,
 
@@ -99,15 +99,15 @@ Resting on nothing, clinging to nothing."
 
 Caught up in the dichotomy of *saṃsāric* existence, which alternates between this-ness and otherwise-ness, one is unable to transcend it, so long as there is attachment and clinging. *Nissayas* are the supports that encourage clinging in the form of dogmatic adherence to views. Seeing the peril and the danger in them, a mindful monk has no recourse to them. This gives one an idea of the attitude of an *arahant*. His mind is free from enslavement to the conjoined pairs of relative concepts.
 
-This fact is borne out by certain Canonical statements, which at first sight might appear as riddles. The two last sections of the *Sutta Nipāta*, the *Aṭṭhakavagga* and the *Pārāyanavagga* in particular, contain verses which are extremely deep. In the *Aṭṭhakavagga*, one often comes across apparently contradictory pairs of terms, side by side. About the *arahant* it is said that: "he neither grasps nor gives up", *nādeti na nirassati*.[[155\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn155) "There is nothing taken up or rejected by him", *attaṃ nirattaṃ na hi tassa atthi*.[[156\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn156)
+This fact is borne out by certain Canonical statements, which at first sight might appear as riddles. The two last sections of the *Sutta Nipāta*, the *Aṭṭhakavagga* and the *Pārāyanavagga* in particular, contain verses which are extremely deep. In the *Aṭṭhakavagga*, one often comes across apparently contradictory pairs of terms, side by side. About the *arahant* it is said that: "he neither grasps nor gives up", *nādeti na nirassati*.[^155] "There is nothing taken up or rejected by him", *attaṃ nirattaṃ na hi tassa atthi*.[^156]
 
 By the way, the word *attaṃ* in this context is derived from *ādātta* (*ā* + *dā*), by syncopation. It should not be mistaken as a reference to *attā*, or soul. Similarly, *niratta* is from *as*, to throw, *nirasta*, conveying the idea of giving up or putting down.
 
-There is nothing taken up or given up by the *arahant*. Other such references to the *arahant's* attitude are: *Na rāgarāgī na virāgaratto*, "he is neither attached to attachment, nor attached to detachment".[[157\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn157) *Na hi so rajjati no virajjati*, "He is neither attached nor detached".[[158\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn158)
+There is nothing taken up or given up by the *arahant*. Other such references to the *arahant's* attitude are: *Na rāgarāgī na virāgaratto*, "he is neither attached to attachment, nor attached to detachment".[^157] *Na hi so rajjati no virajjati*, "He is neither attached nor detached".[^158]
 
-It is in order to explain why such references are used that we took all this trouble to discuss at length the significance of such terms as *nissaya*.[[159\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn159) Probably due to a lack of understanding in this respect, the deeper meanings of such *suttas* have got obscured. Not only that, even textual corruption through distorted variant readings has set in, because they appeared like riddles. However, the deeper sense of these *suttas* sometimes emerges from certain strikingly strange statements like the following found in the *Khajjanīyasutta* of the *Saṃyutta Nikāya*. The reference here is to the *arahant*.
+It is in order to explain why such references are used that we took all this trouble to discuss at length the significance of such terms as *nissaya*.[^159] Probably due to a lack of understanding in this respect, the deeper meanings of such *suttas* have got obscured. Not only that, even textual corruption through distorted variant readings has set in, because they appeared like riddles. However, the deeper sense of these *suttas* sometimes emerges from certain strikingly strange statements like the following found in the *Khajjanīyasutta* of the *Saṃyutta Nikāya*. The reference here is to the *arahant*.
 
- *Ayaṃ vuccati, bhikkhave, bhikkhu neva ācināti na apacināti, apacinitvā ṭhito neva pajahati na upādiyati, pajahitvā ṭhito neva viseneti na usseneti, visenetvā ṭhito neva vidhūpeti na sandhūpeti*.[[160\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn160) "Monks, such a monk is called one who neither amasses nor diminishes; already diminished as he is, he neither gives up nor grasps; already given up as he is, he neither disbands nor binds together; already disbanded as he is, he neither exorcizes nor proficiates."
+ *Ayaṃ vuccati, bhikkhave, bhikkhu neva ācināti na apacināti, apacinitvā ṭhito neva pajahati na upādiyati, pajahitvā ṭhito neva viseneti na usseneti, visenetvā ṭhito neva vidhūpeti na sandhūpeti*.[^160] "Monks, such a monk is called one who neither amasses nor diminishes; already diminished as he is, he neither gives up nor grasps; already given up as he is, he neither disbands nor binds together; already disbanded as he is, he neither exorcizes nor proficiates."
 
 Even to one who does not understand the language, the above quotation would sound enigmatic. Even the rendering of the terms used here is not an easy matter, because of the nuances they seem to convey. We could perhaps say that such a monk neither amasses or accumulates, nor diminishes. Since he is already diminished, presumably as regards the five aggregates, he neither abandons nor grasps anew. Since the giving up is complete, he neither binds together or enlists (note the word *sena,* army), nor disbands. Disbanding (if not 'disarmament'), being complete, there is neither exorcizing or smoking out, nor proficiating or inviting. The coupling of these terms and their peculiar employment is suggestive of the *arahant's* freedom from the dichotomy.
 
@@ -119,7 +119,7 @@ In the *Brāhmaṇavagga* of the *Dhammapada* too, we come across a similar enig
 
 *vītaddaraṃ visaṃyuttaṃ,*
 
-*tam ahaṃ brūmi brāhmaṇaṃ*.[[161\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn161)
+*tam ahaṃ brūmi brāhmaṇaṃ*.[^161]
 
 "For whom there is neither a farther shore,
 
@@ -135,7 +135,7 @@ We come across a similar *sutta* in the *Sutta Nipāta* also, namely its very fi
 
 *So bhikkhu jahāti orapāraṃ,*
 
-*urago jiṇṇamiva tacaṃ purāṇaṃ*.[[162\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn162)
+*urago jiṇṇamiva tacaṃ purāṇaṃ*.[^162]
 
 "That monk forsakes the hither and the tither,
 
@@ -149,7 +149,7 @@ This simile of the slough, or the worn-out skin of the snake, is highly signific
 
 *so bhikkhu jahāti orapāraṃ,*
 
-*urago jiṇṇamiva tacaṃ purāṇaṃ*.[[163\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn163)
+*urago jiṇṇamiva tacaṃ purāṇaṃ*.[^163]
 
 "That monk who sees no essence in existence,
 
@@ -163,13 +163,13 @@ The *arahant* has abandoned his attachment to existence. As such, he is free fro
 
 ​    Now there is this term *sa-upādisesa Nibbāna dhātu*. Taking the term at its face value, some might think that the clinging is not yet over for the *arahants* - that there is still a little bit left. The *arahant*, though he has attained release and realized *Nibbāna*, so long as he is living in the world, has to relate to the external objects in the world somehow through his five senses, making use of them. Seeing it, some might conclude that it is because of some residual clinging. But we have to understand this in the light of the simile of the worn-out skin. In the case of the *arahant*, too, the sloughed off skin is still hanging on.
 
-As a sidelight we may cite a remark of Venerable *Sāriputta*: *Iminā pūtikāyena* *aṭṭiyāmi harāyāmi jigucchāmi*,[[164\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn164) "I am harassed and repelled by this body, I am ashamed of it". This is because the body is for him something already abandoned. All this goes to show that the *arahant* has an unattached, unclinging attitude.
+As a sidelight we may cite a remark of Venerable *Sāriputta*: *Iminā pūtikāyena* *aṭṭiyāmi harāyāmi jigucchāmi*,[^164] "I am harassed and repelled by this body, I am ashamed of it". This is because the body is for him something already abandoned. All this goes to show that the *arahant* has an unattached, unclinging attitude.
 
-Linguistic usage, which is a special feature of existence, is enlivened by the cravings, conceits, and views with which it is grasped. Worldlings thrive on it, whereas the *arahants* are free from it. This is the upshot of the above discussion on the terms *anusaya* and *nissaya*.[[165\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn165)
+Linguistic usage, which is a special feature of existence, is enlivened by the cravings, conceits, and views with which it is grasped. Worldlings thrive on it, whereas the *arahants* are free from it. This is the upshot of the above discussion on the terms *anusaya* and *nissaya*.[^165]
 
-Yet another important term that should receive attention in any discussion on *Nibbāna* is *āsava*. This is because the *arahant* is often called a *khīṇāsava*, one whose *āsavas* are extinct.[[166\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn166) *Āsavakkhayo*, extinction of *āsavas*, is an epithet of *Nibbāna*.[[167\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn167) So the distinct feature of an *arahant* is his extinction of *āsavas*.
+Yet another important term that should receive attention in any discussion on *Nibbāna* is *āsava*. This is because the *arahant* is often called a *khīṇāsava*, one whose *āsavas* are extinct.[^166] *Āsavakkhayo*, extinction of *āsavas*, is an epithet of *Nibbāna*.[^167] So the distinct feature of an *arahant* is his extinction of *āsavas*.
 
-Now, what does *āsava* mean? In ordinary life, this word is used to denote fermentation or liquor that has got fermented for a long time.[[168\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn168) If there is even a dreg of ferment in a vessel, it is enough to cause fermentation for any suitable raw material put into it. So also are the *āsavas*. They are like the residual dregs of the ebullient mass of defilements in beings, which have undergone fermentation for a long, long time in *saṃsāra*.
+Now, what does *āsava* mean? In ordinary life, this word is used to denote fermentation or liquor that has got fermented for a long time.[^168] If there is even a dreg of ferment in a vessel, it is enough to cause fermentation for any suitable raw material put into it. So also are the *āsavas*. They are like the residual dregs of the ebullient mass of defilements in beings, which have undergone fermentation for a long, long time in *saṃsāra*.
 
 Very often, *āsavas* are said to be of three kinds, as *kāmāsavā, bhavāsavā*, and *avijjāsavā*. The term *āsava* in this context is usually rendered as 'influxes'. We may understand them as certain intoxicating influences, which create a world of sense-desires, a stupor that gives a notion of existence and leads to ignorance. These influxes are often said to have the nature of infiltrating into the mind. Sometimes a fourth type of influxes, *diṭṭhāsavā*, is also mentioned. But this can conveniently be subsumed under *avijjāsavā*.
 
@@ -177,23 +177,23 @@ The extinction of influxes becomes a distinctive characteristic of an *arahant*,
 
 The immense importance of the extinction of influxes, and how it accounts for the worthiness of an *arahant*, is sometimes clearly brought out. The ultimate aim of the Buddha's teaching is one that in other systems of thought is generally regarded as attainable only after death. The Buddha, on the other hand, showed a way to its realization here and now.
 
-As a matter of fact, even brahmins like *Pokkharasāti* went about saying that it is impossible for a human being to attain something supramundane: *Katham'hi nāma manussabhūto uttarimanussadhammā alamariyañāṇadassanavisesaṃ ñassati vā dakkhati vā sacchi vā karissati*?[[169\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn169) "How can one as a human being know or see or realize a supramundane state, an extraordinary knowledge and vision befitting the noble ones?" They thought that such a realization is possible only after death. Immortality, in other systems of thought, is always an after death experience.
+As a matter of fact, even brahmins like *Pokkharasāti* went about saying that it is impossible for a human being to attain something supramundane: *Katham'hi nāma manussabhūto uttarimanussadhammā alamariyañāṇadassanavisesaṃ ñassati vā dakkhati vā sacchi vā karissati*?[^169] "How can one as a human being know or see or realize a supramundane state, an extraordinary knowledge and vision befitting the noble ones?" They thought that such a realization is possible only after death. Immortality, in other systems of thought, is always an after death experience.
 
-Now the realization of the extinction of influxes, on the other hand, gives a certain assurance about the future. It is by this extinction of influxes that one wins to the certitude that there is no more birth after this. *Khīṇā jāti*, [[170\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn170) extinct is birth! Certitude about something comes only with realization. In fact, the term *sacchikiriya* implies a seeing with one's own eyes, as the word for eye, *akśi*, is implicit in it.
+Now the realization of the extinction of influxes, on the other hand, gives a certain assurance about the future. It is by this extinction of influxes that one wins to the certitude that there is no more birth after this. *Khīṇā jāti*, [^170] extinct is birth! Certitude about something comes only with realization. In fact, the term *sacchikiriya* implies a seeing with one's own eyes, as the word for eye, *akśi*, is implicit in it.
 
 However, everything cannot be verified by seeing with one's own eyes. The Buddha has pointed out that there are four ways of realization or verification:
 
-*Cattāro me, bhikkhave, sacchikaraṇīyā dhammā. Katame cattaro?Atthi, bhikkhave, dhammā kāyena sacchikaraṇīyā; atthi, bhikkhave, dhammā satiyā sacchikaraṇīyā; atthi, bhikkhave, dhammā cakkhunā sacchikaraṇīyā; atthi, bhikkhave, dhammā paññāya sacchikaraṇīyā*.[[171\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn171)
+*Cattāro me, bhikkhave, sacchikaraṇīyā dhammā. Katame cattaro?Atthi, bhikkhave, dhammā kāyena sacchikaraṇīyā; atthi, bhikkhave, dhammā satiyā sacchikaraṇīyā; atthi, bhikkhave, dhammā cakkhunā sacchikaraṇīyā; atthi, bhikkhave, dhammā paññāya sacchikaraṇīyā*.[^171]
 
 "Monks, there are these four realizable things. What four? There are things, monks, that are realizable through the body; there are things, monks, that are realizable through memory; there are things, monks, that are realizable through the eye; there are things, monks, that are realizable through wisdom."
 
 By way of explanation, the Buddha says that the things realizable through the body are the eight deliverances, the things realizable through memory are one's former habitations, the things realizable through the eye are the death and rebirth of beings, and what is realizable through wisdom, is the extinction of influxes.
 
-One's former lives cannot be seen with one's own eyes by running into the past. It is possible only by purifying one's memory and directing it backwards. Similarly, the death and rebirth of beings can be seen, as if with one's fleshly eye, by the divine eye, by those who have developed it. So also the fact of extirpating all influxes is to be realized by wisdom, and not by any other means. The fact that the influxes of sensuality, existence, ignorance, and views, will not flow in again, can be verified only by wisdom. That is why special mention is made of *Nibbāna* as something realizable.[[172\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn172)
+One's former lives cannot be seen with one's own eyes by running into the past. It is possible only by purifying one's memory and directing it backwards. Similarly, the death and rebirth of beings can be seen, as if with one's fleshly eye, by the divine eye, by those who have developed it. So also the fact of extirpating all influxes is to be realized by wisdom, and not by any other means. The fact that the influxes of sensuality, existence, ignorance, and views, will not flow in again, can be verified only by wisdom. That is why special mention is made of *Nibbāna* as something realizable.[^172]
 
 Because *Nibbāna* is said to be something realizable, some are of the opinion that nothing should be predicated about it. What is the reason for this special emphasis on its realizability? It is to bring into sharp relief the point of divergence, since the Buddha taught a way of realizing here and now something that in other religions was considered impossible.
 
-What was it that they regarded impossible to be realized? The cessation of existence, or *bhavanirodha*. How can one be certain here and now that this existence has ceased? This might sometimes appear as a big puzzle. But all the same, the *arahant* experiences the cessation of existence as a realization. That is why he even gives expression to it as: *Bhavanirodho Nibbānaṃ*,[[173\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn173) "cessation of existence is *Nibbāna*".
+What was it that they regarded impossible to be realized? The cessation of existence, or *bhavanirodha*. How can one be certain here and now that this existence has ceased? This might sometimes appear as a big puzzle. But all the same, the *arahant* experiences the cessation of existence as a realization. That is why he even gives expression to it as: *Bhavanirodho Nibbānaṃ*,[^173] "cessation of existence is *Nibbāna*".
 
 It comes about by this extinction of influxes. The very existence of 'existence' is especially due to the flowing in of influxes of existence. What is called 'existence' is not the apparent process of existing visible to others. It is something that pertains to one's own mental continuum.
 
@@ -201,11 +201,11 @@ For instance, when it is said that some person is in the world of sense desires,
 
 Similarly, it is possible for one to realize the complete cessation of this existence while living in this very world. It is accomplished by winning to the realization that the influxes of sense desires, existence, and ignorance, no longer influence one's mind.
 
-So all this goes to show the high degree of importance attached to the word *āsava*. The *Sammādiṭṭhisutta* of the *Majjhima Nikāya* seems to pose a problem regarding the significance of this term. At one place in the *sutta* it is said that the arising of ignorance is due to the arising of influxes and that the cessation of ignorance is due to the cessation of influxes: *Āsavasamudayā avijjāsamudayo, āsavanirodhā avijjānirodho*.[[174\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn174)
+So all this goes to show the high degree of importance attached to the word *āsava*. The *Sammādiṭṭhisutta* of the *Majjhima Nikāya* seems to pose a problem regarding the significance of this term. At one place in the *sutta* it is said that the arising of ignorance is due to the arising of influxes and that the cessation of ignorance is due to the cessation of influxes: *Āsavasamudayā avijjāsamudayo, āsavanirodhā avijjānirodho*.[^174]
 
 If the *sutta* says only this much, it will not be such a problem, because it appears as a puzzle to many nowadays, why ignorance is placed first. Various reasons are adduced and arguments put forward as to why it is stated first out of the twelve factors. The fact that there is still something to precede it could therefore be some consolation.
 
-But then, a little way off, in the selfsame *sutta*, we read: *Avijjāsamudayā āsavasamudayo, avijjanirodhā āsavanirodho*, [[175\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn175) "with the arising of ignorance is the arising of influxes, with the cessation of ignorance is the cessation of influxes". Apparently this contradicts the previous statement. The preacher of this discourse, Venerable *Sāriputta*, is not one who contradicts himself. So most probably there is some deep reason behind this.
+But then, a little way off, in the selfsame *sutta*, we read: *Avijjāsamudayā āsavasamudayo, avijjanirodhā āsavanirodho*, [^175] "with the arising of ignorance is the arising of influxes, with the cessation of ignorance is the cessation of influxes". Apparently this contradicts the previous statement. The preacher of this discourse, Venerable *Sāriputta*, is not one who contradicts himself. So most probably there is some deep reason behind this.
 
 Another problem crops up, since ignorance is also counted among the different kinds of influxes. This makes our puzzle all the more deep. But this state of affairs could best be understood with the help of an illustration. It is in order to explain a certain fascinating behaviour of the mind that even *arahants* of great wisdom had to make seemingly contradictory statements.
 
@@ -213,13 +213,13 @@ We have to draw in at this juncture a very important discourse in the *Saṃyutt
 
 '*Diṭṭhaṃ vo, bhikkhave, caraṇaṃ nāma cittan'ti?' 'Evaṃ, bhante.' 'Tampi kho, bhikkhave, caraṇaṃ nāma cittaṃ citteneva cintitaṃ. Tenapi kho, bhikkhave, caraṇena cittena cittaññeva cittataraṃ. Tasmātiha, bhikkhave, abhikkhaṇaṃ sakaṃ cittaṃ paccavekkhitabbaṃ: Dīgharattam idaṃ cittaṃ saṃkiliṭṭhaṃ rāgena dosena mohenā'ti. Cittasaṃkilesā, bhikkhave, sattā saṃkilissanti, cittavodānā sattā visujjhanti*.
 
-*Nāhaṃ, bhikkhave, aññaṃ ekanikāyampi samanupassāmi evaṃ cittaṃ, yathayidaṃ, bhikkhave, tiracchānagatā pāṇā. Tepi kho, bhikkhave, tiracchānagatā pāṇā citteneva cintitā. Tehipi kho, bhikkhave, tiracchānagatehi pāṇehi cittaññeva cittataraṃ. Tasmātiha, bhikkhave, bhikkhunā abhikkhaṇaṃ sakaṃ cittaṃ paccavekkhitabbaṃ: Dīgharattam idaṃ cittaṃ saṃkiliṭṭhaṃ rāgena dosena mohenā'ti. Cittasaṃkilesā, bhikkhave, sattā saṃkilissanti, cittavodānā sattā visujjhanti*.'[[176\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn176)
+*Nāhaṃ, bhikkhave, aññaṃ ekanikāyampi samanupassāmi evaṃ cittaṃ, yathayidaṃ, bhikkhave, tiracchānagatā pāṇā. Tepi kho, bhikkhave, tiracchānagatā pāṇā citteneva cintitā. Tehipi kho, bhikkhave, tiracchānagatehi pāṇehi cittaññeva cittataraṃ. Tasmātiha, bhikkhave, bhikkhunā abhikkhaṇaṃ sakaṃ cittaṃ paccavekkhitabbaṃ: Dīgharattam idaṃ cittaṃ saṃkiliṭṭhaṃ rāgena dosena mohenā'ti. Cittasaṃkilesā, bhikkhave, sattā saṃkilissanti, cittavodānā sattā visujjhanti*.'[^176]
 
 "'Monks, have you seen a picture called a movie (*caraṇa*)?' 'Yes, Lord.' 'Monks, even that picture called a movie is something thought out by the mind. But this mind, monks, is more picturesque than that picture called a movie. Therefore, monks, you should reflect moment to moment on your own mind with the thought: For a long time has this mind been defiled by lust, hate, and delusion. By the defilement of the mind, monks, are beings defiled. By the purification of the mind, are beings purified.
 
 Monks, I do not see any other class of beings as picturesque as beings in the animal realm. But those beings in the animal realm, monks, are also thought out by the mind. And the mind, monks, is far more picturesque than those beings in the animal realm. Therefore, monks, should a monk reflect moment to moment on one's own mind with the thought: For a long time has this mind been defiled by lust, hate, and delusion. By the defilement of the mind, monks, are beings defiled. By the purification of the mind, are beings purified."
 
-Here the Buddha gives two illustrations to show how marvellous this mind is. First he asks the monks whether they have seen a picture called *caraṇa*. Though the word may be rendered by movie, it is not a motion picture of the sort we have today. According to the commentary, it is some kind of variegated painting done on a mobile canvas-chamber, illustrative of the results of good and evil karma.[[177\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn177) Whatever it may be, it seems to have been something marvellous. But far more marvellous, according to the Buddha, is this mind. The reason given is that even such a picture is something thought out by the mind.
+Here the Buddha gives two illustrations to show how marvellous this mind is. First he asks the monks whether they have seen a picture called *caraṇa*. Though the word may be rendered by movie, it is not a motion picture of the sort we have today. According to the commentary, it is some kind of variegated painting done on a mobile canvas-chamber, illustrative of the results of good and evil karma.[^177] Whatever it may be, it seems to have been something marvellous. But far more marvellous, according to the Buddha, is this mind. The reason given is that even such a picture is something thought out by the mind.
 
 Then, by way of an advice to the monks, says the Buddha: 'Therefore, monks, you should reflect on your mind moment to moment with the thought: For a long time this mind has been defiled by lust, hate, and delusion.' The moral drawn is that beings are defiled by the defilement of their minds and that they are purified by the purification of their minds. This is the illustration by the simile of the picture.
 
@@ -291,7 +291,7 @@ Sometimes, this might be regarded as a modernistic interpretation. But there is 
 
 *santike na vijānanti,*
 
-*magā dhammassa akovidā*.[[178\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn178)
+*magā dhammassa akovidā*.[^178]
 
 "Murk it is to those enveloped,
 
@@ -317,7 +317,7 @@ It is all murky to those enveloped by the hindrance of ignorance, like the darkn
 
 *sassatoriva khāyati,*
 
-*passato n'atthi kiñcanaṃ*.[[179\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn179)
+*passato n'atthi kiñcanaṃ*.[^179]
 
 "The world, enfettered to delusion,
 
@@ -335,9 +335,9 @@ The world appears as real to one who is fettered to delusion. He imagines it to 
 
 All this goes to show that the life outside is not much different from what goes on within the four walls of the cinema and the theatre. Just as, in the latter case, an enjoyable story is created out of a multitude of scenes, relayed at varying degrees of rapidity, backed by the delusive make-up of actors and actresses, so that one may lose oneself in a world of fantasy, even so, according to the point of view of *Dhamma*, the lifestyle outside is something made up and concocted.
 
-However, the darkness within is much thicker than the darkness outside. The darkness outside may be dispelled even by a door flung open, as we saw above. But not so easily the darkness within. That is why, in the psalms of the *Theras* and *Therīs*, it is said that they split or burst asunder the mass of delusion, *tamokkhandhaṃ padāliya*, *tamokkhandhaṃ padālayiṃ*.[[180\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn180) The pitchy black darkness of ignorance in the world is one that is thick enough to be split up and burst asunder. So it seems, the darkness within is almost tangibly thick. But the first incision on this thick curtain of darkness is made by the path knowledge of the Stream-winner.
+However, the darkness within is much thicker than the darkness outside. The darkness outside may be dispelled even by a door flung open, as we saw above. But not so easily the darkness within. That is why, in the psalms of the *Theras* and *Therīs*, it is said that they split or burst asunder the mass of delusion, *tamokkhandhaṃ padāliya*, *tamokkhandhaṃ padālayiṃ*.[^180] The pitchy black darkness of ignorance in the world is one that is thick enough to be split up and burst asunder. So it seems, the darkness within is almost tangibly thick. But the first incision on this thick curtain of darkness is made by the path knowledge of the Stream-winner.
 
-As a side-light, we may cite an episode from the lives of the Venerables *Sāriputta* and *Mahā Moggalāna*, the two chief disciples of the Buddha. Formerly, as brahmin youths, they were known as *Upatissa* and *Kolita*. These two young men once went to see a hill-top festival, called *giraggasamajja*.[[181\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn181) Since by then, their discerning wisdom was already matured, they suddenly developed a dejection about the entertainment going on. The hill-top festival, as it were, lost its festivity for them. They understood the vanity of it and could no longer enjoy it as before.
+As a side-light, we may cite an episode from the lives of the Venerables *Sāriputta* and *Mahā Moggalāna*, the two chief disciples of the Buddha. Formerly, as brahmin youths, they were known as *Upatissa* and *Kolita*. These two young men once went to see a hill-top festival, called *giraggasamajja*.[^181] Since by then, their discerning wisdom was already matured, they suddenly developed a dejection about the entertainment going on. The hill-top festival, as it were, lost its festivity for them. They understood the vanity of it and could no longer enjoy it as before.
 
 They may have already had a distant glimpse of the similarity between the two levels of experience, mentioned above. But they on their own could not get at the principles underlying the delusion involved.
 
@@ -349,7 +349,7 @@ Much later, as a wandering ascetic, when *Upatissa* met the Venerable *Assaji Th
 
 *tesañca yo nirodho,*
 
-*evaṃ vādi mahāsamaṇo*.[[182\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn182)
+*evaṃ vādi mahāsamaṇo*.[^182]
 
 "Of things that proceed from a cause,
 
@@ -361,11 +361,11 @@ Thus teaches the great ascetic."
 
 The verse gives in a nutshell the law of dependent arising. From it, *Upatissa* got the clue to his riddle of life.
 
-Some interpret the word *hetu*, cause, in this verse, as *avijjā*, or ignorance, the first link. But that is not the case. It refers to the basic principle known as *idappaccayatā*, the relatedness of this to that.[[183\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn183) *Hetuppabhavā* *dhammā* is a reference to things dependently arisen. In point of fact, it is said about a Stream-winner that he has seen well the cause as well as the things arisen from a cause: *Hetu ca sudiṭṭho, hetusamuppanā ca dhammā*.[[184\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn184) That means that he has seen the law of dependent arising as also the dependently arisen phenomena.
+Some interpret the word *hetu*, cause, in this verse, as *avijjā*, or ignorance, the first link. But that is not the case. It refers to the basic principle known as *idappaccayatā*, the relatedness of this to that.[^183] *Hetuppabhavā* *dhammā* is a reference to things dependently arisen. In point of fact, it is said about a Stream-winner that he has seen well the cause as well as the things arisen from a cause: *Hetu ca sudiṭṭho, hetusamuppanā ca dhammā*.[^184] That means that he has seen the law of dependent arising as also the dependently arisen phenomena.
 
-We have already discussed the significance of these two terms.[[185\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn185) What is called *paṭicca samuppāda* is the basic principle itself. It is said that the wandering ascetic *Upatissa* was able to arouse the path of Stream-winning on hearing just the first two lines,[[186\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn186) and these state the basic principle as such.
+We have already discussed the significance of these two terms.[^185] What is called *paṭicca samuppāda* is the basic principle itself. It is said that the wandering ascetic *Upatissa* was able to arouse the path of Stream-winning on hearing just the first two lines,[^186] and these state the basic principle as such.
 
-The word *tesaṃ*, plural, clearly implies that the reference is to all the twelve factors, inclusive of ignorance. The cessation, also, is of those twelve, as for instance it is said in the *Udāna*: *Khayaṃ paccayānaṃ avedi*,[[187\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn187) "understood the cessation of conditions", since all the twelve are conditions.
+The word *tesaṃ*, plural, clearly implies that the reference is to all the twelve factors, inclusive of ignorance. The cessation, also, is of those twelve, as for instance it is said in the *Udāna*: *Khayaṃ paccayānaṃ avedi*,[^187] "understood the cessation of conditions", since all the twelve are conditions.
 
 To sum up: Whatever phenomena that arise from a cause, their cause is *idappaccayatā*, or the law of relatedness of this to that.
 
@@ -377,7 +377,7 @@ This not being, this does not exist,
 
 With the cessation of this, this ceases.
 
-And then the cessation of things arisen from a cause is ultimately *Nibbāna* itself. That is the implication of the oft recurrent phrase *avijjāya tveva asesavirāganirodhā*,[[188\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn188) "with the complete fading away and cessation of that very ignorance".
+And then the cessation of things arisen from a cause is ultimately *Nibbāna* itself. That is the implication of the oft recurrent phrase *avijjāya tveva asesavirāganirodhā*,[^188] "with the complete fading away and cessation of that very ignorance".
 
 So then, from this discussion it should be clear that our illustration with the help of the simile of the cinema and the theatre is of much relevance to an understanding of the law of dependent arising. With this much, we shall wind up today.
 

@@ -28,25 +28,25 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
  
 
-*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[[781\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn781)
+*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[^781]
 
 "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction."
 
-With the permission of the Most Venerable Great Preceptor and the assembly of the venerable meditative monks. This is the twentyfourth sermon in the series of sermons on *Nibbāna*. In our last sermon, we brought up a quotation from the *Rohitassa Sutta*, which enshrines a momentous declaration by the Buddha to the effect that the world, the arising of the world, the cessation of the world, and the path leading to the cessation of the world, could be pointed out with reference to this same body with its perceptions and mind. [[782\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn782)
+With the permission of the Most Venerable Great Preceptor and the assembly of the venerable meditative monks. This is the twentyfourth sermon in the series of sermons on *Nibbāna*. In our last sermon, we brought up a quotation from the *Rohitassa Sutta*, which enshrines a momentous declaration by the Buddha to the effect that the world, the arising of the world, the cessation of the world, and the path leading to the cessation of the world, could be pointed out with reference to this same body with its perceptions and mind. [^782]
 
-The six sense-spheres, or the six bases of sense-contact, with which we acquaint ourselves with the world as it is conventionally understood and measured out, are themselves called 'the world' according to the Noble One's terminology. [[783\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn783) Therefore, one can declare in accordance with the *Dhamma*, that the very cessation of those six sense-spheres is the cessation of the world. It is this state of the cessation of the world that is known as *asaṅkhata dhātu*, or the "unprepared element". That unprepared state, described in discourses on *Nibbāna* in such terms as *atthi, bhikkhave, ajātaṃ abhūtaṃ akataṃ asaṃkataṃ*,[[784\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn784) "monks, there is an unborn, an unbecome, an unmade, an unprepared", is this cessation of the six spheres of sense, which is the end of that prepared world.
+The six sense-spheres, or the six bases of sense-contact, with which we acquaint ourselves with the world as it is conventionally understood and measured out, are themselves called 'the world' according to the Noble One's terminology. [^783] Therefore, one can declare in accordance with the *Dhamma*, that the very cessation of those six sense-spheres is the cessation of the world. It is this state of the cessation of the world that is known as *asaṅkhata dhātu*, or the "unprepared element". That unprepared state, described in discourses on *Nibbāna* in such terms as *atthi, bhikkhave, ajātaṃ abhūtaṃ akataṃ asaṃkataṃ*,[^784] "monks, there is an unborn, an unbecome, an unmade, an unprepared", is this cessation of the six spheres of sense, which is the end of that prepared world.
 
 So, then, this particular world's end, the end of the world as defined here, is not a destination to be reached by travelling. The sage *Rohitassa* walked for hundred years in search of this world's end at a speed of a flying arrow, but he failed to discover the world's end. Why? It is because he took 'the world' along with him in his journey to see its end. Since this six-based body with its perceptions and mind is itself the world, he was taking the world with him in his exploration. That is why he had to die on the way without seeing the end of the world.
 
-That end of the world, which one cannot see or reach by travelling, the Buddha pointed out in the very cessation of the six sense-spheres. This fact comes to light in the discourses dealing with *Nibbāna* in the *Pāṭaligāmiyavagga* of the *Udāna*, which we had already discussed.[[785\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn785) For instance, in the first discourse on *Nibbāna*, beginning with the words *atthi, bhikkhave, tad āyatanaṃ*, "there is, monks, that sphere", we find towards the end the following statement:
+That end of the world, which one cannot see or reach by travelling, the Buddha pointed out in the very cessation of the six sense-spheres. This fact comes to light in the discourses dealing with *Nibbāna* in the *Pāṭaligāmiyavagga* of the *Udāna*, which we had already discussed.[^785] For instance, in the first discourse on *Nibbāna*, beginning with the words *atthi, bhikkhave, tad āyatanaṃ*, "there is, monks, that sphere", we find towards the end the following statement:
 
-*Tatra p'ahaṃ, bhikkhave, n'eva āgatiṃ vadāmi na gatiṃ na ṭhitiṃ na cutiṃ na upapattiṃ, appatiṭṭhaṃ appavattaṃ anārammaṇaṃ eva taṃ, es' ev' anto dukkhassa*.[[786\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn786)
+*Tatra p'ahaṃ, bhikkhave, n'eva āgatiṃ vadāmi na gatiṃ na ṭhitiṃ na cutiṃ na upapattiṃ, appatiṭṭhaṃ appavattaṃ anārammaṇaṃ eva taṃ, es' ev' anto dukkhassa*.[^786]
 
 In that particular state, described as a 'sphere', in which there is neither earth, nor water, nor fire, nor air, etc., "I say, there is neither a coming, nor a going, nor a standing, nor a passing away, nor a being reborn; that state which is unestablished, non continuing and objectless, is itself the end of suffering." So, then, this journey's end, the journey's end that cannot be reached by journeying, the Buddha pointed out in the cessation of the six sense-spheres.
 
 We come across the following passage in the fourth discourse on *Nibbāna* in the *Pāṭaligāmiyavagga* of the *Udāna*:
 
-*Nissitassa calitaṃ, anissitassa calitaṃ n' atthi, calite asati passaddhi, passaddhiyā sati nati no hoti, natiyā asati āgatigati na hoti, āgatigatiyā asati cutūpapāto na hoti, cutūpapāte asati n' ev' idha na huraṃ na ubhayamantare, es' ev' anto dukkhassa*.[[787\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn787)
+*Nissitassa calitaṃ, anissitassa calitaṃ n' atthi, calite asati passaddhi, passaddhiyā sati nati no hoti, natiyā asati āgatigati na hoti, āgatigatiyā asati cutūpapāto na hoti, cutūpapāte asati n' ev' idha na huraṃ na ubhayamantare, es' ev' anto dukkhassa*.[^787]
 
 "To the attached there is wavering, to the unattached there is no wavering; wavering not being, there is calm; calm being, there is no inclination; inclination not being, there is no coming and going; coming and going not being, there is no passing away or reappearing; when there is no passing away or reappearing, there is neither a 'here', nor a 'there', nor anything between the two - this is the end of suffering."
 
@@ -56,7 +56,7 @@ So, it seems, *Rohitassa* carried the world with him in his journey to see the e
 
 *Rohitassa* took *Māra* along with him in his journey to find a place where there is no death. Why do we say so? In the *Rādhasaṃyutta* of the *Saṃyutta Nikāya* we find Venerable *Rādha* putting the following question to the Buddha:
 
-*'Māro, māro 'ti, bhante, vuccati, kittāvatā nu kho, bhante, 'māro 'ti vuccati?*[[788\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn788) "*Māra, Māra*, they say, venerable sir, to what extent is *Māra* called as such?"
+*'Māro, māro 'ti, bhante, vuccati, kittāvatā nu kho, bhante, 'māro 'ti vuccati?*[^788] "*Māra, Māra*, they say, venerable sir, to what extent is *Māra* called as such?"
 
 Now this is how the Buddha answers the question:
 
@@ -66,13 +66,13 @@ Now this is how the Buddha answers the question:
 
 As in the case of form, so also in regard to feeling, perception, preparations and consciousness, the same mode of seeing rightly is recommended. So, in this context, each of the five aggregates is looked upon as a *Māra*, from the point of view of the *Dhamma*. That is why we say that *Rohitassa* went in search of a deathless place taking death along with him.
 
-From this definition it is clear that so long as one grasps with craving the aggregates of form, feeling, perception, preparations and consciousness, there is a *Māra*, a killer, and one who dies. Therefore it is, that by giving up the five aggregates one is freed from *Māra*, is liberated from death and attains the deathless state. That is why we said that the *arahant* has attained the deathless state, here and now, in this world itself.[[789\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn789) The principle involved here we have already stated while discussing the law of dependent arising.[[790\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn790)
+From this definition it is clear that so long as one grasps with craving the aggregates of form, feeling, perception, preparations and consciousness, there is a *Māra*, a killer, and one who dies. Therefore it is, that by giving up the five aggregates one is freed from *Māra*, is liberated from death and attains the deathless state. That is why we said that the *arahant* has attained the deathless state, here and now, in this world itself.[^789] The principle involved here we have already stated while discussing the law of dependent arising.[^790]
 
 Let us remind ourselves of the relevant section of a verse in the *Bhadrāvudhamāṇavappucchā* of the *Pārāyanavagga* of the *Sutta Nipāta*:
 
 *Yaṃ yaṃ hi lokasmiṃ upādiyanti,*
 
-*ten' eva Māro anveti jantuṃ*.[[791\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn791)
+*ten' eva Māro anveti jantuṃ*.[^791]
 
 "Whatever thing they grasp in this world,
 
@@ -88,7 +88,7 @@ Once, when the Buddha was admonishing the monks with a sermon on *Nibbāna*, it 
 
 *Mam eva, samaṇa, sotaṃ ... Mam eva, samaṇa, ghānaṃ ...Mam eva, samaṇa, jivhā ... Mam eva, samaṇa, kāyo ...*
 
-*Mam eva, samaṇa, mano, mama dhammā, mama manosamphassaviññānāyatanaṃ, kuhiṃ me, samaṇa, gantvā mokkhasi?*[[792\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn792)
+*Mam eva, samaṇa, mano, mama dhammā, mama manosamphassaviññānāyatanaṃ, kuhiṃ me, samaṇa, gantvā mokkhasi?*[^792]
 
 "Mine, O recluse, is the eye, mine are the forms and mine the sphere of eye-contact, where will you, recluse, go to escape me?
 
@@ -110,11 +110,11 @@ Yours, Evil One, is the ear ... Yours, Evil One, is the nose ... Yours, Evil One
 
 Yours, Evil One, is the mind, yours are the mind-objects and yours the sphere of mind-contact, but where there is no mind, no mind-objects and no sphere of mind-contact, there you cannot go, Evil One."
 
-From the Buddha's reprisal to *Māra's* challenge, we can well infer that there indeed is a place to which *Māra* has no access. That is none other than the cessation of the six sense-spheres. Since it is something realizable, it is referred to as a 'sphere' in such contexts as, for instance, in the discourse on *Nibbāna* beginning with the words *atthi, bhikkhave, tad āyatanaṃ*,[[793\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn793) "there is, monks, that sphere", etc.
+From the Buddha's reprisal to *Māra's* challenge, we can well infer that there indeed is a place to which *Māra* has no access. That is none other than the cessation of the six sense-spheres. Since it is something realizable, it is referred to as a 'sphere' in such contexts as, for instance, in the discourse on *Nibbāna* beginning with the words *atthi, bhikkhave, tad āyatanaṃ*,[^793] "there is, monks, that sphere", etc.
 
 It is this same cessation of the six sense-spheres that is referred to as *papañcanirodha* and *papañcavūpasama*, cessation or appeasement of conceptual proliferation. In the *Mahākoṭṭhitasutta* we discussed in our previous sermon, we found Venerable *Sāriputta* making the following conclusive statement to the same effect:
 
-*Channaṃ, āvuso, phassāyatanānaṃ asesavirāganirodhā papañcanirodho papañcavūpasamo*,[[794\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn794) "Friend, by the remainderless fading away and cessation of the six spheres of sense-contact, there comes to be the cessation and appeasement of conceptual proliferation."
+*Channaṃ, āvuso, phassāyatanānaṃ asesavirāganirodhā papañcanirodho papañcavūpasamo*,[^794] "Friend, by the remainderless fading away and cessation of the six spheres of sense-contact, there comes to be the cessation and appeasement of conceptual proliferation."
 
 That itself is the non-prolific state. All concepts of 'going', 'coming', 'being born', 'growing old' and 'dying', are to be found in the prolific. They simply do not exist in the non-prolific. That is why it is inaccessible to *Māra*. In it, neither the sense-bases, such as the eye, ear and nose, nor their respective objects are to be found. So it is clear that the cessation of the six sense-spheres is that state of release from *Māra*, attainable here and now.
 
@@ -128,7 +128,7 @@ An extremely subtle contemplation on impermanence, that can bring about the cess
 
 *Yā kho, bhikkhave, imesaṃ tiṇṇaṃ dhammānaṃ saṅgati sannipāto samavāyo, ayaṃ vuccati, bhikkhave, cakkhusamphasso. Cakkhusamphasso pi anicco vipariṇāmī aññathābhāvī. Yo pi hetu yo pi paccayo cakkhusamphassassa uppādāya, so pi hetu so pi paccayo anicco vipariṇāmī aññathābhāvī. Aniccaṃ kho pana, bhikkhave, paccayaṃ paṭicca uppanno cakkhusamphasso, kuto nicco bhavissati?*
 
-*Phuṭṭho, bhikkhave, vedeti, phuṭṭho ceteti, phuṭṭho sañjānāti. Itthete pi dhammā calā ceva vayā ca aniccā vipariṇāmino aññathābhāvino.*[[795\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn795)
+*Phuṭṭho, bhikkhave, vedeti, phuṭṭho ceteti, phuṭṭho sañjānāti. Itthete pi dhammā calā ceva vayā ca aniccā vipariṇāmino aññathābhāvino.*[^795]
 
 Even by listening to it, one can easily guess that there is a string of terms giving the idea of impermanence. Let us now try to translate it.
 
@@ -144,13 +144,13 @@ The *Sutta* proceeds in this way, stressing the impermanence of the other sense-
 
 It is the law of dependent arising that the Buddha presents here with reference to the six sense-spheres. In other words, how the world gets built up. It is not founded on stable existing things, but on what is impermanent, unstable and changing, whose nature is to become otherwise. This is how the entire perception of the world is built up. Its foundation is always crumbling, changing and transforming.
 
-Generally, in the discourse dealing with the question of sense-restraint, one comes across the phrase *na nimittaggāhi nānuvyañjanaggāhī*, "he doesn't grasp a sign nor does he dwell on its details".[[796\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn796) The tendency to grasp a sign in regard to the objects of the six senses is the result of the perception of permanence. Due to the perception of permanence, there is a grasping of signs, and due to that grasping of signs, influxes flow in. Proliferations through craving, conceits and views get heaped up. This is how our world is constructed. This is the way the aggregates of attachment get accumulated. On the other hand, the contemplation of impermanence that leads to the signless concentration is helpful in freeing the mind from these signs.
+Generally, in the discourse dealing with the question of sense-restraint, one comes across the phrase *na nimittaggāhi nānuvyañjanaggāhī*, "he doesn't grasp a sign nor does he dwell on its details".[^796] The tendency to grasp a sign in regard to the objects of the six senses is the result of the perception of permanence. Due to the perception of permanence, there is a grasping of signs, and due to that grasping of signs, influxes flow in. Proliferations through craving, conceits and views get heaped up. This is how our world is constructed. This is the way the aggregates of attachment get accumulated. On the other hand, the contemplation of impermanence that leads to the signless concentration is helpful in freeing the mind from these signs.
 
 The reflection on an object can be of two types. Where there is a perception of permanence, the tendency is to grasp the object tenaciously and hang on to it. This pervert tendency is known as *parāmasana*. It is impelled by the triple proliferations of craving, conceits and views. Under its influence one is carried away by prolific perceptions, *papañcasaññā*, and is kept under the sway of worldly concepts and designations born of prolific perceptions, *papañcasaññāsaṅkhā*.
 
 On the contrary, the perception of impermanence fosters a detached and observant attitude in reflection, which is known as *sammasana*. It is that healthy attitude which progressively leads to the liberation of the mind from the influence of signs, and attenuates the prolific tendencies to craving, conceits and views. This kind of reflection is the harbinger of insight. Contemplation of impermanence on these lines effectively puts an end to this entire mass of *saṃsāric* suffering, as is evident from the following powerful declaration by the Buddha in the *Khandhasaṃyutta*.
 
-*Aniccasañña, bhikkhave, bhāvitā bahulīkatā sabbaṃ kāmarāgaṃ pariyādiyati, sabbaṃ rūparāgaṃ pariyādiyati, sabbaṃ bhavarāgaṃ pariyādiyati, sabbaṃ avijjaṃ pariyādiyati, sabbaṃ asmimānaṃ pariyādiyati samūhanati*.[[797\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn797)
+*Aniccasañña, bhikkhave, bhāvitā bahulīkatā sabbaṃ kāmarāgaṃ pariyādiyati, sabbaṃ rūparāgaṃ pariyādiyati, sabbaṃ bhavarāgaṃ pariyādiyati, sabbaṃ avijjaṃ pariyādiyati, sabbaṃ asmimānaṃ pariyādiyati samūhanati*.[^797]
 
 "The perception of impermanence, monks, when developed and intensively practised, extirpates all sensual lust, extirpates all lust for forms, extirpates all lust for existence, extirpates all ignorance and extirpates and eradicates the conceit 'am'."
 
@@ -158,7 +158,7 @@ The contemplation of impermanence, therefore, strikes at the very root of this e
 
 In a number of sermons we had to bring up the simile of the motion picture. The simile is not our own, but only a modernization of a canonical simile used by the Buddha himself. The point of divergence was the question the Buddha had addressed to the monks in the *Gaddulasutta*.
 
-*Diṭṭhaṃ vo, bhikkhave, caraṇaṃ nāma cittaṃ?*[[798\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn798) "Monks, have you seen a picture called a movie?" The monks answer in the affirmative, and so the Buddha proceeds:
+*Diṭṭhaṃ vo, bhikkhave, caraṇaṃ nāma cittaṃ?*[^798] "Monks, have you seen a picture called a movie?" The monks answer in the affirmative, and so the Buddha proceeds:
 
 *Tampi kho, bhikkhave, caraṇaṃ nāma cittaṃ citteneva cintitaṃ. Tena pi kho, bhikkhave, caraṇena cittena cittaññeva cittataraṃ.* "Monks, that picture called a movie is something thought out by the mind. But the thought itself, monks, is even more picturesque than that picture."
 
@@ -166,7 +166,7 @@ To say that it is more picturesque is to suggest its variegated character. Thoug
 
 The movie is enjoyable because of this perversion. Due to the perception of permanence, there is a grasping of signs, and in the wake of it influxes flow in, giving rise to proliferation, due to which one is overwhelmed by reckonings born of prolific conceptualization, *papañcasaññāsaṅkhā*. That is how one enjoys a film show. All this comes about as a result of ignorance, or lack of awareness of the cinematographic tricks concealing the fleeting, vibrating and evanescent nature of the scenes on the screen.
 
-Though we resort to such artificial illustrations, by way of a simile, the Buddha declares that actually it is impossible to give a fitting simile to illustrate the rapidity of a thought process. Once he proclaimed: *Upamā pi na sukarā yāva lahuparivattaṃ cittaṃ*,[[799\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn799) "it is not easy even to give a simile to show how rapidly thought changes".
+Though we resort to such artificial illustrations, by way of a simile, the Buddha declares that actually it is impossible to give a fitting simile to illustrate the rapidity of a thought process. Once he proclaimed: *Upamā pi na sukarā yāva lahuparivattaṃ cittaṃ*,[^799] "it is not easy even to give a simile to show how rapidly thought changes".
 
 Sometimes the Buddha resorts to double entendre to bring out piquantly some deep idea. He puns on the word *citta*, "thought" or "picture", in order to suggest the 'picturesque' or variegated nature of thought, when he asserts that thought is more picturesque, *cittatara*, than the picture. We can see that it is quite reasonable in the light of the *Dvayamsutta*. It is this series of picturesque formations that gives us a perception of permanence, which in turn is instrumental in creating a world before our eyes.
 
@@ -224,7 +224,7 @@ The fact that this discourse was held in high esteem is evident from its histori
 
 *jānāmi passāmi tath' eva etaṃ,*
 
-*ajjhositaṃ n' atthi tathāgatānaṃ.*[[800\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn800)
+*ajjhositaṃ n' atthi tathāgatānaṃ.*[^800]
 
 "Monks, whatsoever in the world, with its gods, *Māras* and Brahmas, among the progeny consisting of recluses and Brahmins, gods and men, whatsoever is seen, heard, sensed, cognized, thought after and pondered over by the mind, all that do I know.
 
@@ -264,17 +264,17 @@ As the fifth statement makes it clear, the *Tathāgata* does not deem it fit to 
 
 Then comes the declaration as to how the *Tathāgata* treats this body of sensory knowledge of the worldling. "Thus, monks, a *Tathāgata* does not imagine a visible thing as apart from the seen", *iti kho, bhikkhave, tathāgato diṭṭhā daṭṭhabbaṃ diṭṭhaṃ na maññati.*
 
-We have come across the terms *diṭṭha, suta, muta, viññāta* quite often, for instance in our discussion of the *Bāhiyasutta* in the context *diṭṭhe diṭṭhamattaṃ bhavissati, sute sutamattaṃ bhavissati, mute mutamattaṃ bhavissati, viññāte viññātamattaṃ bhavissati,* "in the seen there will be just the seen, in the heard there will be just the heard, in the sensed there will be just the sensed, in the cognized there will be just the cognized."[[801\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn801)
+We have come across the terms *diṭṭha, suta, muta, viññāta* quite often, for instance in our discussion of the *Bāhiyasutta* in the context *diṭṭhe diṭṭhamattaṃ bhavissati, sute sutamattaṃ bhavissati, mute mutamattaṃ bhavissati, viññāte viññātamattaṃ bhavissati,* "in the seen there will be just the seen, in the heard there will be just the heard, in the sensed there will be just the sensed, in the cognized there will be just the cognized."[^801]
 
 In common parlance, the word 'seen' connotes something seen. But here we have something more radical, avoiding substantialist insinuations. It is just the seen in the seen, implied by *diṭṭha*, in this context too. The *Tathāgata* takes it just as a seen, without imagining that there is something substantial worthwhile seeing, as apart from it, *diṭṭhā daṭṭhabbaṃ diṭṭhaṃ na maññati.*
 
-We are already familiar with the term *maññanā*, having discussed it in such discourses as the *Mūlapariyāyasutta* and the *Bāhiyasutta*.[[802\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn802) It stands for imaginings, prompted by cravings, conceits and views. The *Tathāgata* is free from such imaginings. He does not imagine a thing worthwhile seeing apart from the seen, nor does he imagine an unseen, *adiṭṭhaṃ na maññati*. The phenomenon of seeing is not denied.
+We are already familiar with the term *maññanā*, having discussed it in such discourses as the *Mūlapariyāyasutta* and the *Bāhiyasutta*.[^802] It stands for imaginings, prompted by cravings, conceits and views. The *Tathāgata* is free from such imaginings. He does not imagine a thing worthwhile seeing apart from the seen, nor does he imagine an unseen, *adiṭṭhaṃ na maññati*. The phenomenon of seeing is not denied.
 
 The phrase *daṭṭhabbaṃ na maññati* conveys the idea that the *Tathāgata* does not imagine that there is something worth seeing, that there is something essential in it. *Daṭṭhāraṃ na maññati*, he does not imagine a seer or one who sees. He does not project an agent into the phenomenon by taking seriously the subject-object relationship.
 
 With regard to the heard, *suta*, the sensed, *muta*, and the cognized, *viññāta*, too, the *Tathāgata* has no such imaginings. Then, in summing up it is said: *Iti kho, bhikkhave, tathāgato diṭṭha-suta-muta-viññātabbesu dhammesu tādi, yeva tādi*, "thus, monks, the *Tathāgata*, being such in regard to all phenomena, seen, heard, sensed and cognized, is 'such'."
 
-The term *tādī*, too, came up in a number of our earlier sermons.[[803\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn803) We rendered it by "such". It stands for the quality of steadfastness of the *arahant* in remaining unshaken by the eight worldly vicissitudes. His mainstay, in this respect, is *atammayatā*, or non-identification. He is such because he does not grasp any of those things as 'mine'. So he is 'such' in regard to whatever is seen, heard, sensed and cognized. There is no one who is higher or more excellent than this such-like-one in point of suchness. Then comes a couplet of verses, presenting the gist of the sermon.
+The term *tādī*, too, came up in a number of our earlier sermons.[^803] We rendered it by "such". It stands for the quality of steadfastness of the *arahant* in remaining unshaken by the eight worldly vicissitudes. His mainstay, in this respect, is *atammayatā*, or non-identification. He is such because he does not grasp any of those things as 'mine'. So he is 'such' in regard to whatever is seen, heard, sensed and cognized. There is no one who is higher or more excellent than this such-like-one in point of suchness. Then comes a couplet of verses, presenting the gist of the sermon.
 
 Our rendering of the sermon is in need of further explication. Though it gives a general idea, some words and phrases in the original have far reaching implications. The basic idea behind the series of declarations made is the extraordinary change of attitude towards the question of speculative views, which marks off the *Tathāgata* from all his contemporaries. He took a completely different turn, transcending the extremes of eternalism and annihilationism. This difference of attitude is revealed by the riddle like statements in the first part of the discourse. One gets the impression that the *Tathāgata* was confronted with a problematic situation of the highest order.
 
@@ -282,13 +282,13 @@ The first statement is to the effect that the *Tathāgata* knows whatever in the
 
 The second statement asserts that the *Tathāgata* has a higher understanding of all that. All the same, he takes no stance in regard to whatever is seen, heard, sensed and cognized.
 
-This might appear as a riddle. Usually when one has a higher understanding of something, one is inclined to take one's stand upon it. But here we have a denial. The discourse bears some resemblance to the tetralemma we had discussed earlier.[[804\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn804) But there seems to be a difference here, in the formulation of the first proposition of the tetralemma.
+This might appear as a riddle. Usually when one has a higher understanding of something, one is inclined to take one's stand upon it. But here we have a denial. The discourse bears some resemblance to the tetralemma we had discussed earlier.[^804] But there seems to be a difference here, in the formulation of the first proposition of the tetralemma.
 
 Normally the first proposition amounts to an unqualified assertion of the affirmative standpoint. In this case, however, we find the statement that the *Tathāgata* not only knows all what the world knows, but that he has a higher understanding of it, *abhaññāsiṃ*. It is precisely because he has a higher understanding that he takes no stance in regard to it.
 
 This might appear problematic, but let us remind ourselves of the two levels of understanding mentioned in the *Mūlapariyāyasutta*, discussed earlier, namely *sañjānāti* and *abhijānāti*. As an instance of the first level of understanding, we get the following passage in that discourse in regard to the untaught ordinary person, *assutavā puthujjano*:
 
-*Paṭhaviṃ paṭhavito sañjānāti. Paṭhaviṃ paṭhavito saññatvā paṭhaviṃ maññati, paṭhaviyā maññati, paṭhavito maññati, 'paṭhaviṃ me'ti maññati, paṭhaviṃ abhinandati.*[[805\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn805) "He perceives earth as 'earth'. Having perceived earth as 'earth', he imagines 'earth' as such, he imagines 'on the earth', he imagines 'from the earth', he imagines 'earth is mine', he delights in earth."
+*Paṭhaviṃ paṭhavito sañjānāti. Paṭhaviṃ paṭhavito saññatvā paṭhaviṃ maññati, paṭhaviyā maññati, paṭhavito maññati, 'paṭhaviṃ me'ti maññati, paṭhaviṃ abhinandati.*[^805] "He perceives earth as 'earth'. Having perceived earth as 'earth', he imagines 'earth' as such, he imagines 'on the earth', he imagines 'from the earth', he imagines 'earth is mine', he delights in earth."
 
 The untaught ordinary person has a perceptual knowledge of earth, *sañjānāti*. That, too, is a level of knowledge. It is in fact the lowest grade of knowing. The untaught ordinary person can do no better than perceive earth as earth.
 
@@ -306,7 +306,7 @@ If someone asks whether it is because he does not know that he takes no stance, 
 
 To say "I both know it and know it not" or "I neither know it nor am ignorant of it" would also be mistaken by the world as a prevarication or equivocation. The first paragraph of the discourse has to be understood in this light.
 
-The commentary has it that the earth shook at five points in the discourse. According to it the three significant terms *jānāmi, abbhaññāsiṃ* and *viditaṃ*, "I know", "I have fully understood", all that is "known" to the *Tathāgata* represent a plane of omniscience, *sabbaññutabhūmi*, peculiar to a Buddha.[[806\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn806) Even at the end of this proclamation of omniscience, it is said the earth shook as a mark of approbation.
+The commentary has it that the earth shook at five points in the discourse. According to it the three significant terms *jānāmi, abbhaññāsiṃ* and *viditaṃ*, "I know", "I have fully understood", all that is "known" to the *Tathāgata* represent a plane of omniscience, *sabbaññutabhūmi*, peculiar to a Buddha.[^806] Even at the end of this proclamation of omniscience, it is said the earth shook as a mark of approbation.
 
 Then the phrase *na upaṭṭhāsi*, "does not take his stand upon it", is interpreted by the commentary as indicating the plane of the influx-free one, *khīṇāsavabhūmi*. Why the *Tathāgata* has no stance in regard to sensory data is said to be due to his freedom from influxes. He does not grasp them by way of craving, conceit and views. He does not take his stand upon things seen, heard, sensed and cognized. He has no inclination or clinging towards them.
 

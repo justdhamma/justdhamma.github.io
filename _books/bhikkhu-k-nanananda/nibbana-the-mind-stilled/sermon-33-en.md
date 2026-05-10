@@ -28,7 +28,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
  
 
-*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[[1032\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn1032)
+*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[^1032]
 
 "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction."
 
@@ -42,7 +42,7 @@ Today, to begin with, let us discuss the rest of that discourse.
 
 *Cakkhuñca kho, bhikkhave, jānaṃ passaṃ yathābhūtaṃ, rūpe jānaṃ passaṃ yathābhūtaṃ, cakkhuviññāṇaṃ jānaṃ passaṃ yathābhūtaṃ, cakkhusamphassaṃ jānaṃ passaṃ yathābhūtaṃ, yampidaṃ cakkhusamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā tampi jānaṃ passaṃ yathābhūtaṃ, cakkhusmiṃ na sārajjati, rūpesu na sārajjati, cakkhuviññāṇe na sārajjati, cakkhusamphasse na sārajjati, yampidaṃ cakkhusamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā tasmimpi na sārajjati*.
 
-*Tassa asārattassa asaṃyuttasa asammūḷhassa ādīnavānupassino viharato āyatiṃ pañcupādānakkhandhā apacayaṃ gacchanti. Taṇhā cassa ponobhavikā nandirāgasahagatā tatratatrābhinandinī sā cassa pahīyati. Tassa kāyikāpi darathā pahīyanti, cetasikāpi darathā pahīyanti, kāyikāpi santāpā pahīyanti, cetasikāpi santāpā pahīyanti, kāyikāpi pariḷāhā pahīyanti, cetasikāpi pariḷāhā pahīyanti. So kāyasukhampi cetosukhampi paṭisaṃvedeti.*[[1033\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn1033)
+*Tassa asārattassa asaṃyuttasa asammūḷhassa ādīnavānupassino viharato āyatiṃ pañcupādānakkhandhā apacayaṃ gacchanti. Taṇhā cassa ponobhavikā nandirāgasahagatā tatratatrābhinandinī sā cassa pahīyati. Tassa kāyikāpi darathā pahīyanti, cetasikāpi darathā pahīyanti, kāyikāpi santāpā pahīyanti, cetasikāpi santāpā pahīyanti, kāyikāpi pariḷāhā pahīyanti, cetasikāpi pariḷāhā pahīyanti. So kāyasukhampi cetosukhampi paṭisaṃvedeti.*[^1033]
 
 "Monks, knowing and seeing the eye as it actually is, knowing and seeing forms as they actually are, knowing and seeing eye-consciousness as it actually is, knowing and seeing eye-contact as it actually is, whatever is felt, pleasant or unpleasant or neither-unpleasant-nor-pleasant, arising in dependence on eye-contact, knowing and seeing that too as it actually is, one does not get lustfully attached to the eye, to forms, to eye-consciousness, to eye-contact, and to whatever is felt as pleasant or unpleasant or neither-unpleasant-nor-pleasant, arising in dependence on eye-contact.
 
@@ -72,21 +72,21 @@ The things that should be comprehended by direct knowledge are explained in the 
 
 So then, as we have already mentioned, the orderly arrangement in these thirty-seven enlightenment factors is well illustrated in this discourse. It is because of this orderliness that even in a stream-winner, who is well established in the noble eightfold path, other enlightenment factors are said to be present as if automatically.
 
-Simply because the phrase *ekāyano ayaṃ, bhikkhave, maggo* occurs in the *Satipaṭṭhānasutta*, some are tempted to interpret the four foundations of mindfulness as 'the only way'.[[1034\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn1034) We have pointed out, with valid reasons on an earlier occasion, that such a conclusion is unwarranted. *Ekāyano* does not mean "the only way", it means "directed to one particular destination", that is, to *Nibbāna*. That is why the words *ñāyassa adhigamāya Nibbānassa sacchikiriyāya*, "for the attainment of the supramundane path, for the realizing of *Nibbāna*", occur later on in the same sentence.
+Simply because the phrase *ekāyano ayaṃ, bhikkhave, maggo* occurs in the *Satipaṭṭhānasutta*, some are tempted to interpret the four foundations of mindfulness as 'the only way'.[^1034] We have pointed out, with valid reasons on an earlier occasion, that such a conclusion is unwarranted. *Ekāyano* does not mean "the only way", it means "directed to one particular destination", that is, to *Nibbāna*. That is why the words *ñāyassa adhigamāya Nibbānassa sacchikiriyāya*, "for the attainment of the supramundane path, for the realizing of *Nibbāna*", occur later on in the same sentence.
 
 The four foundations of mindfulness are the preliminary training for the attainment of the supramundane path and realization of *Nibbāna*. The initial start made by the four foundations of mindfulness is carried over by the four right endeavours, the four bases for success, the five faculties, the five powers and the seven enlightenment factors, to reach the acme of perfection in the noble eightfold path.
 
 In the *MahāSaḷāyatanikasutta* we came across the repetitive phrase *jānaṃ passaṃ yathābhūtaṃ*, "knowing and seeing as it actually is", used in connection with the eye, forms, eye-consciousness, eye-contact and whatever is felt due to eye-contact. Let us examine what this knowing and seeing as it actually is amounts to.
 
-Perception has been compared to a mirage.[[1035\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn1035) This mirage nature of perception has to be understood. A deer which sees a mirage in a plain from a distance in the dry season has a perception of water in it. In other words, it imagines water in the mirage. Impelled by that imagining, it runs towards the mirage with the idea that by running it can do away with the gap between itself and the water, and reach that water. But there is something that the deer is not aware of, and that is that this gap can never be reduced by running.
+Perception has been compared to a mirage.[^1035] This mirage nature of perception has to be understood. A deer which sees a mirage in a plain from a distance in the dry season has a perception of water in it. In other words, it imagines water in the mirage. Impelled by that imagining, it runs towards the mirage with the idea that by running it can do away with the gap between itself and the water, and reach that water. But there is something that the deer is not aware of, and that is that this gap can never be reduced by running.
 
 So long as there are two ends, there is a middle. This is a maxim worth emphasizing. Where there are two ends, there is a middle. If the eye is distinguished as one end and what appears in the distance is distinguished as water, there is an intervening space, a gap between the two. All these three factors are integral in this perceptual situation. That is why the gap can never be done away with.
 
-The emancipated one, who has understood that this can never be eliminated, does not run after the mirage. That one with discernment, that *arahant*, stops short at the seen, true to the aphorism *diṭṭhe diṭṭhamattaṃ*, "in the seen just the seen".[[1036\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn1036) He stops at the heard in the heard, he stops at the sensed in the sensed, he stops at the cognized in the cognized. He does not go on imagining like that deer, taking his stand on perception. He does not imagine a thing seen or one who sees. Nor does he entertain imaginings in regard to the heard, the sensed and the cognized.
+The emancipated one, who has understood that this can never be eliminated, does not run after the mirage. That one with discernment, that *arahant*, stops short at the seen, true to the aphorism *diṭṭhe diṭṭhamattaṃ*, "in the seen just the seen".[^1036] He stops at the heard in the heard, he stops at the sensed in the sensed, he stops at the cognized in the cognized. He does not go on imagining like that deer, taking his stand on perception. He does not imagine a thing seen or one who sees. Nor does he entertain imaginings in regard to the heard, the sensed and the cognized.
 
 The fact that this freedom from imaginings is there in an *arahant* is clear from the statement we quoted from the *Chabbisodhanasutta* on an earlier occasion. According to that discourse, a monk rightly claiming *arahant-*hood, one who declares himself to be an *arahant*, should be able to make the following statement in respect of the seen, the heard, the sensed and the cognized.
 
-*Diṭṭhe kho ahaṃ, āvuso, anupāyo anapāyo anissito appaṭibaddho vippamutto visaṃyutto vimariyādikatena cetasā viharāmi.*[[1037\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn1037) "Friends, with regard to the seen, I dwell unattracted, unrepelled, independent, uninvolved, released, unshackled, with a mind free from barriers."
+*Diṭṭhe kho ahaṃ, āvuso, anupāyo anapāyo anissito appaṭibaddho vippamutto visaṃyutto vimariyādikatena cetasā viharāmi.*[^1037] "Friends, with regard to the seen, I dwell unattracted, unrepelled, independent, uninvolved, released, unshackled, with a mind free from barriers."
 
 Now let us try to understand this statement in the light of what we have already said about the mirage. One can neither approach nor retreat from a mirage. Generally, when one sees a mirage in the dry season, one imagines a perception of water in it and runs towards it due to thirst. But let us, for a moment, think that on seeing the mirage one becomes apprehensive of a flood and turns and runs away to escape it. Having run some far, if he looks back he will still see the mirage behind him.
 
@@ -94,9 +94,9 @@ So in the case of a mirage, the more one approaches it, the farther it recedes, 
 
 It is the same with regard to the term *anissito*, independent. He does not resort to the mirage with the thought 'Ah, here is a good reservoir'*. Appaṭibaddho*, uninvolved, he is not mentally involved in the mirage. *Vippamutto*, released, he is released from the perception of water in the mirage, from imagining water in it. *Visaṃyutto,* unshackled, he is not bound by it. *Vimariyādikatena cetasā*, with a mind free from barriers. What are these barriers? The two ends and the middle. The demarcation mentioned above by distinguishing eye as distinct from form, with the intervening space or the gap as the 'tertium quid'. So for the *arahant* there are no barriers by taking the eye, the forms and the gap as discrete.
 
-Now from what we have already discussed, it should be clear that by *maññanā* or imagining a thing-hood is attributed to the seen, the heard, the sensed and the cognized. One imagines a thing in the seen, heard etc. By that very imagining as a thing it becomes another thing, true to the dictum expressed in the line of that verse from the *Dvayatānupassanāsutta* we had quoted earlier, *yena yena hi maññanti, tato taṃ hoti aññāthā*, [[1038\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn1038) "in whatever egoistic terms they imagine, thereby it turns otherwise".  
+Now from what we have already discussed, it should be clear that by *maññanā* or imagining a thing-hood is attributed to the seen, the heard, the sensed and the cognized. One imagines a thing in the seen, heard etc. By that very imagining as a thing it becomes another thing, true to the dictum expressed in the line of that verse from the *Dvayatānupassanāsutta* we had quoted earlier, *yena yena hi maññanti, tato taṃ hoti aññāthā*, [^1038] "in whatever egoistic terms they imagine, thereby it turns otherwise".  
 
-That is why we earlier said that a thing has to be there first for it to become another thing, for there to be an otherwiseness. The more one tries to approach the thing imagined, the more it recedes. In our analysis of the *Mūlapariyāyasutta,* we discussed at length about the three levels of knowledge mentioned there, namely *saññā, abhiññā* and *pariññā*.[[1039\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn1039)
+That is why we earlier said that a thing has to be there first for it to become another thing, for there to be an otherwiseness. The more one tries to approach the thing imagined, the more it recedes. In our analysis of the *Mūlapariyāyasutta,* we discussed at length about the three levels of knowledge mentioned there, namely *saññā, abhiññā* and *pariññā*.[^1039]
 
 The untaught worldling is bound by sense-perception and goes on imagining according to it. Perceiving earth in the earth element, he imagines 'earth' as a thing, he imagines 'in the earth', 'earth is mine', 'from the earth' etc. So also with regard to the seen, *diṭṭha*.
 
@@ -104,11 +104,11 @@ But the disciple in training, *sekha*, since he has a higher knowledge of condit
 
 It seems, therefore, that these forms of *maññanā* enable one to imagine things, attributing a notion of substantiality to sense data. In fact, what we have here is only a heap of imaginings. There is also an attempt to hold on to things imagined. Craving lends a hand to it, and so there is grasping, *upādāna*. Thereby the fact that there are three conditions is ignored or forgotten.
 
-In our analysis of the *Madhupiṇḍikasutta* we came across a highly significant statement: *cakkhuñc'āvuso paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ,*[[1040\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn1040) "dependent on the eye and forms, friends, arises eye-consciousness". The deepest point in sense perception is already implicit there. This statement clearly indicates that eye-consciousness is dependently arisen. Thereby we are confronted with the question of the two ends and the middle, discussed above.
+In our analysis of the *Madhupiṇḍikasutta* we came across a highly significant statement: *cakkhuñc'āvuso paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ,*[^1040] "dependent on the eye and forms, friends, arises eye-consciousness". The deepest point in sense perception is already implicit there. This statement clearly indicates that eye-consciousness is dependently arisen. Thereby we are confronted with the question of the two ends and the middle, discussed above.
 
 In fact, what is called eye-consciousness is the very discrimination between eye and form. At whatever moment the eye is distinguished as the internal sphere and form is distinguished as the external sphere, it is then that eye-consciousness arises. That itself is the gap in the middle, the intervening space. Here, then, we have the two ends and the middle.
 
-To facilitate understanding this situation, let us hark back to the simile of the carpenter we brought up in an earlier sermon.[[1041\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn1041) We mentioned that a carpenter, fixing up a door by joining two planks, might speak of the contact between the two planks when his attention is turned to the intervening space, to see how well one plank touches the other. The concept of touching between the two planks came up because the carpenter's attention picked up the two planks as separate and not as one board.
+To facilitate understanding this situation, let us hark back to the simile of the carpenter we brought up in an earlier sermon.[^1041] We mentioned that a carpenter, fixing up a door by joining two planks, might speak of the contact between the two planks when his attention is turned to the intervening space, to see how well one plank touches the other. The concept of touching between the two planks came up because the carpenter's attention picked up the two planks as separate and not as one board.
 
 A similar phenomenon is implicit in the statement *cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ*, "dependent on eye and forms arises eye-consciousness". In this perceptual situation, the eye is distinguished from forms. That discrimination itself is consciousness. That is the gap or the interstice, the middle. So here we have the two ends and the middle.
 
@@ -126,7 +126,7 @@ In the *Tissametteyyasutta* of the *Pārāyaṇavagga* in the *Sutta Nipāta*, t
 
 *taṃ brūmi mahāpuriso 'ti*
 
-*so 'dha sibbanim accagā.* [[1042\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn1042)
+*so 'dha sibbanim accagā.* [^1042]
 
  "He who, having known both ends,
 
@@ -138,7 +138,7 @@ He has gone beyond the seamstress in this [world]."
 
 This verse is so deep and meaningful that already during the lifetime of the Buddha, when he was dwelling at Isipatana in Benares, a group of Elder Monks gathered at the assembly hall and held a symposium on the meaning of this verse. In the Buddha's time, unlike today, for deep discussions on *Dhamma*, they took up such deep topics as found in the *Aṭṭhakavagga* and *Pārāyaṇavagga* of the *Sutta Nipāta*. In this case, the topic that came up for discussion, as recorded among the Sixes in the *Aṅguttara Nikāya*, is as follows:
 
-*Katamo nu kho, āvuso, eko anto, katamo dutiyo anto, kiṃ majjhe, kā sibbani?* [[1043\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn1043)"What, friends, is the one end, what is the second end, what is in the middle and who is the seamstress?" The first venerable Thera, who addressed the assembly of monks on this topic, offered the following explanation:
+*Katamo nu kho, āvuso, eko anto, katamo dutiyo anto, kiṃ majjhe, kā sibbani?* [^1043]"What, friends, is the one end, what is the second end, what is in the middle and who is the seamstress?" The first venerable Thera, who addressed the assembly of monks on this topic, offered the following explanation:
 
 "Contact, friends, is one end, arising of contact is the second end, cessation of contact is in the middle, craving is the seamstress, for it is craving that stitches up for the birth of this and that specific existence.
 
@@ -192,7 +192,7 @@ Let us now turn our attention to a few parallel discourses that throw some light
 
 *vedanānaṃ khayā bhikkhu,*
 
-*nicchāto parinibbuto*.[[1044\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn1044)
+*nicchāto parinibbuto*.[^1044]
 
 "Be it pleasant or unpleasant,
 
@@ -232,7 +232,7 @@ As an illustration in support of the second interpretation we may quote the foll
 
 *asaṃhīraṃ asaṃkuppaṃ*
 
-*taṃ vidvā-m-anubrūhaye*.[[1045\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn1045)
+*taṃ vidvā-m-anubrūhaye*.[^1045]
 
 "Let one not trace back whatever is past,
 
@@ -254,7 +254,7 @@ In the reflection on preparations, *saṅkhārā*, in deep insight meditation, i
 
 The third interpretation has to do with the three grades of feeling, the pleasant, unpleasant and the neither-unpleasant-nor-pleasant. About these we have already discussed at length, on an earlier occasion, in connection with the long dialogue between the Venerable *arahant* nun Dhammadinnā and the lay disciple Visākha on the question of those three grades of feeling. Suffice it for the present to cite the following relevant sections of that dialogue.
 
-*Sukhāya vedanāya dukkhā vedanā paṭibhāgo ... dukkhāya vedanāya sukhā vedanā paṭibhāgo ... adukkhamasukhāya vedanāya avijjā paṭibhāgo ... avijjāya vijjā paṭibhāgo ... vijjāya vimutti paṭibhāgo ... vimuttiyā Nibbānaṃ paṭibhāgo.*[[1046\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn1046)
+*Sukhāya vedanāya dukkhā vedanā paṭibhāgo ... dukkhāya vedanāya sukhā vedanā paṭibhāgo ... adukkhamasukhāya vedanāya avijjā paṭibhāgo ... avijjāya vijjā paṭibhāgo ... vijjāya vimutti paṭibhāgo ... vimuttiyā Nibbānaṃ paṭibhāgo.*[^1046]
 
 "Unpleasant feeling is the counterpart of pleasant feeling ... pleasant feeling is the counterpart of unpleasant feeling ... ignorance is the counterpart of neither-unpleasant-nor-pleasant feeling ... knowledge is the counterpart of ignorance ... deliverance is the counterpart of knowledge ... *Nibbāna* is the counterpart of deliverance."
 
@@ -278,7 +278,7 @@ Now for the fourth interpretation. Here we have consciousness between name-and-f
 
 *nirodhe ye vimuccanti,*
 
-*te janā maccuhāyino.*[[1047\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn1047)
+*te janā maccuhāyino.*[^1047]
 
 "Those beings that go to realms of form,
 
@@ -304,9 +304,9 @@ Generally, in the traditional analysis of the relation between name-and-form and
 
 The fifth interpretation puts the six internal sense-spheres and the six external sense-spheres on either side, to have consciousness in the middle. A brief explanation would suffice.
 
-*Dvayaṃ, bhikkhave, paṭicca viññāṇaṃ sambhoti*,[[1048\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn1048) "monks, dependent on a dyad consciousness arises", says the Buddha. That is to say, dependent on internal and external sense-spheres consciousness arises. As we have already pointed out, consciousness is the very discrimination between the two. Therefore consciousness is the middle. So at the moment when one understands consciousness, one realizes that the fault lies in this discrimination itself. The farther limit of the internal is the nearer limit of the external. One understands then that the gap, the interstice between them, is something imagined.
+*Dvayaṃ, bhikkhave, paṭicca viññāṇaṃ sambhoti*,[^1048] "monks, dependent on a dyad consciousness arises", says the Buddha. That is to say, dependent on internal and external sense-spheres consciousness arises. As we have already pointed out, consciousness is the very discrimination between the two. Therefore consciousness is the middle. So at the moment when one understands consciousness, one realizes that the fault lies in this discrimination itself. The farther limit of the internal is the nearer limit of the external. One understands then that the gap, the interstice between them, is something imagined.
 
-Then as to the sixth interpretation, we have the *sakkāya*, the "existing body", and *sakkāyasamudaya*, the arising of the existing body, as the two ends. Because the term *sakkāya* is not often met with, it might be difficult to understand what it means. To be brief, the Buddha has defined the term as referring to the five aggregates of grasping.[[1049\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn1049) Its derivation, *sat kāya*, indicates that the term is suggestive of the tendency to take the whole group as existing, giving way to the perception of the compact, *ghanasaññā*.
+Then as to the sixth interpretation, we have the *sakkāya*, the "existing body", and *sakkāyasamudaya*, the arising of the existing body, as the two ends. Because the term *sakkāya* is not often met with, it might be difficult to understand what it means. To be brief, the Buddha has defined the term as referring to the five aggregates of grasping.[^1049] Its derivation, *sat kāya*, indicates that the term is suggestive of the tendency to take the whole group as existing, giving way to the perception of the compact, *ghanasaññā*.
 
 The arising of this notion of an existing body is *chandarāga* or desire and lust. It is due to desire or craving that one grasps a heap as a compact whole. The cessation of the existing body is the abandonment of desire and lust. This, then, is a summary of the salient points in these six interpretations as meditation topics for realization.
 
@@ -328,7 +328,7 @@ The following verse in the *Suddhaṭṭhakasutta* of the *Sutta Nipāta* seems 
 
 *ā**dānaganthaṃ gathitaṃ visajja,*
 
-*ā**saṃ na kubbanti kuhiñci loke*.[[1050\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn1050)
+*ā**saṃ na kubbanti kuhiñci loke*.[^1050]
 
 "They fabricate not, they proffer not,
 
@@ -340,17 +340,13 @@ They form no desire anywhere in the world."
 
 The comments we have presented here, based on the verse beginning with *yo ubh' anta-m-abhiññāya* could even be offered as a synopsis of the entire series of thirty-three sermons. All what we brought up in these sermons concerns the question of the two ends and the middle. The episode of the two ends and the middle enshrines a profound insight into the law of dependent arising and the Buddha's teachings on the middle path. That is why we said that the verse in question is both profound and broad, as far as its meaning is concerned.
 
-So now that we have presented this synoptic verse, we propose to wind up this series of sermons. As a matter of fact, the reason for many a misconception about *Nibbāna* is a lack of understanding the law of dependent arising and the middle path. For the same reason, true to the Buddha's description of beings as taking delight in existence, *bhavarāmā*, lusting for existence, *bhavaratā*, and rejoicing in existence, *bhavasammuditā*,[[1051\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn1051) *Nibbāna* came to be apprehensively misconstrued as tantamount to annihilation. Therefore even commentators were scared of the prospect of a cessation of existence and tried to explain away *Nibbāna* through definitions that serve to perpetuate craving for existence.
+So now that we have presented this synoptic verse, we propose to wind up this series of sermons. As a matter of fact, the reason for many a misconception about *Nibbāna* is a lack of understanding the law of dependent arising and the middle path. For the same reason, true to the Buddha's description of beings as taking delight in existence, *bhavarāmā*, lusting for existence, *bhavaratā*, and rejoicing in existence, *bhavasammuditā*,[^1051] *Nibbāna* came to be apprehensively misconstrued as tantamount to annihilation. Therefore even commentators were scared of the prospect of a cessation of existence and tried to explain away *Nibbāna* through definitions that serve to perpetuate craving for existence.
 
 If by this attempt of ours to clear the path to *Nibbāna*, overgrown as it is through neglect for many centuries, due to various social upheavals, any store of merit accrued to us, may it duly go to our most venerable Great Preceptor, who so magnanimously made the invitation to deliver this series of sermons. As he is staying away for medical treatment at this moment, aged and ailing, let us wish him quick recovery and long life. May all his *Dhamma* aspirations be fulfilled!
 
 May the devoted efforts in meditation of all those fellow dwellers in this holy life, who listened to these sermons and taped them for the benefit of those who would like to lend ear to them, be rewarded with success! Let a myriad *arahant* lotuses, unsmeared by water and mud, bright petalled and sweet scented, bloom all over the forest hermitage pond. May the merits accrued by giving these sermons be shared by my departed parents, who brought me up, my teachers, who gave me vision, and my friends, relatives and lay supporters, who helped keep this frail body alive. May they all attain the bliss of *Nibbāna*!
 
 May all gods and Brahmās and all beings rejoice in the merits accrued by these sermons! May it conduce to the attainment of that peaceful and excellent *Nibbāna*! May the dispensation of the Fully Enlightened One endure long in this world! Let this garland of well preached *Dhamma* words be a humble offering at the foot of the *Dhamma* shrine, which received honour and worship even from the Buddha himself.
-
-
-
- [back to top](#top)
 
 [^1]: M I 436, MahāMālunkyasutta.
 [^2]: M III 288, MahāSaḷāyatanikasutta.

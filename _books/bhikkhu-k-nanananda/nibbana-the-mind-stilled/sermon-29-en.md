@@ -28,7 +28,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
  
 
-*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[[933\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn933)
+*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[^933]
 
 "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction."
 
@@ -38,13 +38,13 @@ We made an attempt, in our last sermon, to highlight the impermanence of the sta
 
 A resonant echo of these discourses of the Buddha, suggestive of the impermanence of this drama of existence and the earth stage on which it is enacted, comes to us through the *MahāHatthipadopamasutta*, preached by the venerable Sāriputta.
 
-*Tassā hi nāma āvuso bāhirāya paṭhavīdhātuyā tāva mahallikāya aniccatā paññāyissati, khayadhammatā paññāyissati, vayadhammatā paññāyissati, vipariṇāmadhammatā paññāyissati, kiṃ pan' imassa mattaṭṭhakassa kāyassa taṇhupādiṇṇassa ahan'ti vā maman'ti vā asmī'ti vā, atha khvāssa no t' ev' ettha hoti*.[[934\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn934)
+*Tassā hi nāma āvuso bāhirāya paṭhavīdhātuyā tāva mahallikāya aniccatā paññāyissati, khayadhammatā paññāyissati, vayadhammatā paññāyissati, vipariṇāmadhammatā paññāyissati, kiṃ pan' imassa mattaṭṭhakassa kāyassa taṇhupādiṇṇassa ahan'ti vā maman'ti vā asmī'ti vā, atha khvāssa no t' ev' ettha hoti*.[^934]
 
 "Even of this external earth element, Friends, great as it is, an impermanence will become manifest, a liability to destruction will become manifest, a liability to waste away will become manifest, a liability to undergo change will become manifest, what to say of this ephemeral body clung to by craving as 'I' or 'mine' or 'am'? On the other hand there is no justification for such a clinging."
 
 This pithy paragraph of the discourse is eloquent proof of the fact that it is possible to dispel the latencies to conceit leading to 'I'-ing and 'mine'-ning by penetrating into the impermanence of this puny internal earth element through the broader perspective of the impermanence of the vast external earth element.
 
-*Animittañca bhāvehi, mānānusayamujjaha*,[[935\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn935) "Develop the signless, too, and give up the latency to conceit!", was the advice the Buddha gave to venerable Rāhula in the *Rāhulasutta* of the *Sutta Nipāta*. It is clear from this advice that, when signs fade away through the perception of impermanence, latencies to conceit also lose their hold on the mind.
+*Animittañca bhāvehi, mānānusayamujjaha*,[^935] "Develop the signless, too, and give up the latency to conceit!", was the advice the Buddha gave to venerable Rāhula in the *Rāhulasutta* of the *Sutta Nipāta*. It is clear from this advice that, when signs fade away through the perception of impermanence, latencies to conceit also lose their hold on the mind.
 
 Instead of pervertly exploiting the canonical discourses describing the impermanence of the external world with wrong reflection in order to indulge in worldly speculation, we should arouse radical reflection and project them into our own internal world in order to understand the vanity of this drama of life.
 
@@ -54,7 +54,7 @@ When dispassion sets in, signs fade away, like in a blurred water-colour paintin
 
 When the figures in the painting cannot be distinguished according to colour and shape, there is less room for the perception of diversity, *nānattasaññā*. Thereby latencies to conceit, which give rise to divisions and conflicts are also attenuated. That is why the Buddha always reminds us of the perception of impermanence as an important subject of meditation. He has recommended in particular the signless concentration, for instance in the *Khandhasaṃyutta* of the *Saṃyutta Nikāya*. 
 
-*Tayome, bhikkhave, akusalavitakkā: kāmavitakko, byāpādavitakko, vihiṃsāvitakko. Ime ca, bhikkhave, tayo akusalavitakkā kva aparisesā nirujjhanti? Catūsu vā satipaṭṭhānesu supatiṭṭhita-cittassa animittaṃ vā samādhiṃ bhāvayato*. *Yāvañcidaṃ, bhikkhave, alam eva animitto samādhi bhāvetuṃ. Animitto, bhikkhave, samādhi bhāvito bahulīkato mahapphalo hoti mahānisaṃso.*[[936\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn936)
+*Tayome, bhikkhave, akusalavitakkā: kāmavitakko, byāpādavitakko, vihiṃsāvitakko. Ime ca, bhikkhave, tayo akusalavitakkā kva aparisesā nirujjhanti? Catūsu vā satipaṭṭhānesu supatiṭṭhita-cittassa animittaṃ vā samādhiṃ bhāvayato*. *Yāvañcidaṃ, bhikkhave, alam eva animitto samādhi bhāvetuṃ. Animitto, bhikkhave, samādhi bhāvito bahulīkato mahapphalo hoti mahānisaṃso.*[^936]
 
 "Monks, there are these three kinds of unskilful thoughts: sensual thoughts, thoughts of ill-will, thoughts of harming. And where, monks, do these three unskilful thoughts cease without remainder? For one who dwells with the mind well attended by the four foundations of mindfulness, or for one who develops the signless concentration. So much so that this is reason enough for one to develop the signless concentration. Monks, when the signless concentration is developed and cultivated it is of great fruit, of great benefit."
 
@@ -62,17 +62,17 @@ From this quotation it becomes clear, that there are two methods of making the t
 
 It is because of our *saṃsāric* habit of taking in signs that thoughts and proliferations arise in us. But even in our endeavour to liberate our minds from thoughts and proliferations, we cannot help resorting to a particular mode of taking in signs. One cannot do without them altogether.
 
-We have often mentioned the reason why the Buddha proclaimed a middle path. It is in the nature of some things that, though they have to be given up, they cannot be fully dispensed with. So the middle path has also to be a gradual path, *anupubbapaṭipadā.*[[937\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn937) The middle path itself becomes a gradual path, because there has to be a graded system in the course of practice to be followed.
+We have often mentioned the reason why the Buddha proclaimed a middle path. It is in the nature of some things that, though they have to be given up, they cannot be fully dispensed with. So the middle path has also to be a gradual path, *anupubbapaṭipadā.*[^937] The middle path itself becomes a gradual path, because there has to be a graded system in the course of practice to be followed.
 
 If we are to present the fundamental idea behind these two terms, the 'middle path' and the 'gradual path', we may say that the course of practice leading to *Nibbāna* is in principle both **pragmatic** and **relative**.
 
 It is pragmatic in the sense that it has a practical value, as it is directed towards some goal. It is relative to the extent that the stages that go to make up the path have no absolute value in themselves. Each stage has only a relative value, being of significance in relation to the next stage. Every stage in the graded path is dependent and relative.
 
-On an earlier occasion, we happened to mention the simile of the relay of chariots in the *Rathavinītasutta.*[[938\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn938) Like stage coaches, the chariots run relative to each other. It is an illustration of the principle of relativity.
+On an earlier occasion, we happened to mention the simile of the relay of chariots in the *Rathavinītasutta.*[^938] Like stage coaches, the chariots run relative to each other. It is an illustration of the principle of relativity.
 
 So even in the attempt to liberate the mind from its hold on signs, we cannot help making use of a particular set of signs. In that attempt, we have to be guided by the first principles of relativity and pragmatism.
 
-In order to explain these first principles, we made use of a certain simile in one of our earlier sermons. The simile is: sharpening a razor.[[939\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn939) To refresh our memory, the main purpose of bringing up this simile was to show the difference between meditative reflection, *sammasana*, and dogmatic adherence, *parāmasana*. Whereas *parāmasana* means tenacious grasping, *sammasana* is a particular way of holding lightly for some subtle purpose. We took up the razor simile to illustrate the distinction between these two.
+In order to explain these first principles, we made use of a certain simile in one of our earlier sermons. The simile is: sharpening a razor.[^939] To refresh our memory, the main purpose of bringing up this simile was to show the difference between meditative reflection, *sammasana*, and dogmatic adherence, *parāmasana*. Whereas *parāmasana* means tenacious grasping, *sammasana* is a particular way of holding lightly for some subtle purpose. We took up the razor simile to illustrate the distinction between these two.
 
 If one grabs the razor roughly and moves it up and down the whetstone, it would get blunt. But if one catches hold of the razor in a relaxed nonchalant way, and mindfully sweeps the whetstone back and forth, it would get sharpened.
 
@@ -90,7 +90,7 @@ In the *Theragāthā* we find Venerable MahāMoggallāna Thera stating the purpo
 
 *ye pañcakkhandhe passanti*
 
-*parato no ca attato*.[[940\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn940)
+*parato no ca attato*.[^940]
 
 "They penetrate into that which is subtle,
 
@@ -108,7 +108,7 @@ Sakulā Therī in the *Therīgāthā* voices something similar in the following 
 
 *pahāsiṃ āsave sabbe*
 
-*sītibhūta 'mhi nibbutā*.[[941\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn941)
+*sītibhūta 'mhi nibbutā*.[^941]
 
 "By seeing as alien all preparations,
 
@@ -118,15 +118,15 @@ I have given up all influxes,
 
 Become cool and extinguished."
 
-In the discourses, personality view or *sakkāyadiṭṭhi* is described in such terms as *rūpaṃ attato samanupassati*, "he looks upon form as self", and *vedanaṃ attato samanupassati*, "he looks upon feeling as self".[[942\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn942) That is the way with the worlding, untaught in the *Dhamma*. But the noble disciple, who has heard the *Dhamma*, particularly the one who meditates, makes use of this looking upon as alien, *parato*. That is how his way of seeing becomes an in-sight, *vipassanā*, a contemplation, *anupassanā*. 
+In the discourses, personality view or *sakkāyadiṭṭhi* is described in such terms as *rūpaṃ attato samanupassati*, "he looks upon form as self", and *vedanaṃ attato samanupassati*, "he looks upon feeling as self".[^942] That is the way with the worlding, untaught in the *Dhamma*. But the noble disciple, who has heard the *Dhamma*, particularly the one who meditates, makes use of this looking upon as alien, *parato*. That is how his way of seeing becomes an in-sight, *vipassanā*, a contemplation, *anupassanā*. 
 
-The term *anupassanā* as a particular mode of seeing in accordance occurs in the *Satipaṭṭhānasutta* in a way that has puzzled many a scholar. Phrases like *kāye kāyānupassī viharati* and *vedanāsu vedanānupassī viharati* seem to defy translation.[[943\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn943) "In the body he dwells seeing in accordance with the body". What is this "seeing in accordance"? That is what the carpenter is doing. This meditative carpenter, too, has to direct a critical glance at the preparations in order to find out their shortcomings. He has to look upon them as alien, *parato*. That is the significance of the expression *kāye kāyānupassī*.
+The term *anupassanā* as a particular mode of seeing in accordance occurs in the *Satipaṭṭhānasutta* in a way that has puzzled many a scholar. Phrases like *kāye kāyānupassī viharati* and *vedanāsu vedanānupassī viharati* seem to defy translation.[^943] "In the body he dwells seeing in accordance with the body". What is this "seeing in accordance"? That is what the carpenter is doing. This meditative carpenter, too, has to direct a critical glance at the preparations in order to find out their shortcomings. He has to look upon them as alien, *parato*. That is the significance of the expression *kāye kāyānupassī*.
 
 If he starts off with the prejudice 'this is my body, what is wrong with this?', there is little chance that he will see its shortcomings, its impermanent, suffering, not-self characteristics.
 
 If he is to see them, he has to adjust his point of view. He has to look upon the body as alien, *parato*. From this alien point of view, the meditative carpenter not only discovers the shortcomings in his artefact, but also adopts a technique of planing to smoothen out the rough edges.
 
-What are these rough edges? The protuberances of craving, conceits and views. Though this is a pure heap of preparations, *suddhasaṅkhārapuñjo*,[[944\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn944) as Venerable Vajirā calls it, there are three protuberances, three rough edges to be planed down in the form of craving, conceit and views. To smoothen them out, the meditative carpenter resorts to a kind of planing. Let us now listen to the sound of his planing.
+What are these rough edges? The protuberances of craving, conceits and views. Though this is a pure heap of preparations, *suddhasaṅkhārapuñjo*,[^944] as Venerable Vajirā calls it, there are three protuberances, three rough edges to be planed down in the form of craving, conceit and views. To smoothen them out, the meditative carpenter resorts to a kind of planing. Let us now listen to the sound of his planing.
 
 *Na etaṃ mama, na eso 'ham asmi, na me so attā.*
 
@@ -152,7 +152,7 @@ A verse in the *Tuvaṭakasutta* of the *Aṭṭhakavagga* in the *Sutta Nipāta
 
 *evaṃ ṭhito anej'assa*
 
-*ussadaṃ bhikkhu na kareyya kuhiñci*.[[945\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn945)
+*ussadaṃ bhikkhu na kareyya kuhiñci*.[^945]
 
 "As in mid-ocean no waves arise,
 
@@ -170,7 +170,7 @@ How the principle of relativity is applicable to this meditative planing down, i
 
 The *Sakkapañhasutta* provides us with a good illustration of it in the form of a dialogue between Sakka, the king of gods, and the Buddha. The dialogue was so pithy and deep, that at the end of it Sakka attained the fruit of stream-winning. The first question that is relevant to our discussion, is worded as follows.
 
-*Chando pana, mārisa, kiṃnidāno kiṃsamudayo kiṃjātiko kiṃpabhavo; kismīm sati chando hoti, kismiṃ asati chando na hoti?*[[946\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn946)
+*Chando pana, mārisa, kiṃnidāno kiṃsamudayo kiṃjātiko kiṃpabhavo; kismīm sati chando hoti, kismiṃ asati chando na hoti?*[^946]
 
 "What, dear sir, is the cause of desire, what is its arising, what is it born of, what is its origin? When what is there, does desire come to be; when what is not there, does desire not come to be?"
 
@@ -182,7 +182,7 @@ The Buddha's answer was:
 
 In the same way, Sakka asks: "what is the cause, the arising and the origin of thinking?", and the Buddha replies: "reckonings born of prolific perception (*papañcasaññāsaṅkhā*), O King of Gods, is the cause, the arising and the origin of thinking."
 
-So then it seems that reckonings born of prolific perception, *papañcasaññāsaṅkhā,* is the cause of thinking. We happened to discuss this particular term at length in our analysis of the *Madhupiṇḍikasutta*.[[947\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn947) The term *papañca* actually stands for a proliferation of thoughts, of cravings, conceits and views. Now *saṅkhā* has the sense of "reckoning" or "designation". The Buddha's reply therefore implies that thinking arises based on those designations.
+So then it seems that reckonings born of prolific perception, *papañcasaññāsaṅkhā,* is the cause of thinking. We happened to discuss this particular term at length in our analysis of the *Madhupiṇḍikasutta*.[^947] The term *papañca* actually stands for a proliferation of thoughts, of cravings, conceits and views. Now *saṅkhā* has the sense of "reckoning" or "designation". The Buddha's reply therefore implies that thinking arises based on those designations.
 
 The next question of Sakka is:
 
@@ -214,7 +214,7 @@ So then, this discourse is one that is highly significant from a pragmatic point
 
 Sometimes a little problem might crop up here. In our discussion of the *Madhupiṇḍikasutta* in an earlier sermon, we came across the following statement:
 
-*Yaṃ vitakketi taṃ papañceti, yaṃ papañceti tatonidānaṃ purisaṃ papañcasaññāsaṅkhā samudācaranti*,[[948\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn948) "what one reasons about, one proliferates; what one proliferates, owing to that reckonings born of prolific perception beset him"etc.
+*Yaṃ vitakketi taṃ papañceti, yaṃ papañceti tatonidānaṃ purisaṃ papañcasaññāsaṅkhā samudācaranti*,[^948] "what one reasons about, one proliferates; what one proliferates, owing to that reckonings born of prolific perception beset him"etc.
 
 Apparently there is a contradiction between this statement in the *Madhupiṇḍikasutta* and the above quoted reply by the Buddha in the *Sakkapañhasutta*, where thinking is said to be the cause of desire, and reckonings born of prolific perception are said to be the cause of thinking. But actually there is no contradiction, since the raw material for thinking is the set of reckonings or worldly concepts born of prolific perception. Proliferation only aggravates the situation by further ramification of concepts, which overwhelm and obsess the person concerned.
 
@@ -234,11 +234,11 @@ We find, for instance, in the *Subhūtisutta* of the *Jaccandhavagga* of the *Ud
 
 *taṃ saṅgam aticca arūpasaññī*
 
-*catuyogātigato na jātim eti*.[[949\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn949)
+*catuyogātigato na jātim eti*.[^949]
 
 This is a verse with a very deep meaning, but before getting down to its meaning as such, we cannot help making some observations about the commentarial explanation of the term *avitakkasamādhi*, "thoughtless concentration".
 
-According to the commentary, *avitakkasamādhi* stands for all levels of concentration, both fine-material, *rūpāvacara* and immaterial, *arūpāvacara*, from the second *jhāna* upwards. This is an interpretation purely from the *samatha* or tranquillity standpoint. The commentary goes on to say that in the present context it means *arahattaphalasamādhi*, based on the fourth *jhāna*, *idha pana catutthajhānapādako arahattaphalasamādhi avitakkasamādhi'ti adhippeto*.[[950\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn950)
+According to the commentary, *avitakkasamādhi* stands for all levels of concentration, both fine-material, *rūpāvacara* and immaterial, *arūpāvacara*, from the second *jhāna* upwards. This is an interpretation purely from the *samatha* or tranquillity standpoint. The commentary goes on to say that in the present context it means *arahattaphalasamādhi*, based on the fourth *jhāna*, *idha pana catutthajhānapādako arahattaphalasamādhi avitakkasamādhi'ti adhippeto*.[^950]
 
 But we have to point out that in the light of the foregoing observations on *vitakka* and *papañca* , *avitakkasamādhi* is not a term that is relevant merely to the *samatha* aspect of Buddhist meditation. It is not simply a term that connotes all *jhāna*s devoid of thought, *vitakka*. It is a term directly relevant to insight, *vipassanā*.
 
@@ -246,7 +246,7 @@ The purpose of *samatha* is to temporarily suppress thought, *vikkhambhanappahā
 
 But now in order to clarify this point further, let us get down to the meaning of this difficult verse. It might be easier for comprehension if we explain the four lines one by one. The first line is *yassa vitakkā vidhūpitā*. There the commentary interprets *vitakkā* as all wrong thoughts, such as those of sensuality. The word *vidhūpitā* gets the following comment: *ariyamaggañāṇena santāpitā susamucchinnā*, "burnt up by the knowledge of the noble path and fully eradicated".
 
-However, we happened to mention in an earlier sermon that the word *vidhūpita* has an extremely deep meaning. Particularly in a context where the two words *sandhūpeti* and *vidhūpeti* were found together, we pointed out that the *dhūpa* element in both words is suggestive of a peculiar ritual connected with incense.[[951\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn951) Fragrant incense powder is used for the propitiation of gods, while caustic types are used for exorcising evil spirits. So *vidhūpita* could mean "smoking out" or "expelling" of thoughts in this context.
+However, we happened to mention in an earlier sermon that the word *vidhūpita* has an extremely deep meaning. Particularly in a context where the two words *sandhūpeti* and *vidhūpeti* were found together, we pointed out that the *dhūpa* element in both words is suggestive of a peculiar ritual connected with incense.[^951] Fragrant incense powder is used for the propitiation of gods, while caustic types are used for exorcising evil spirits. So *vidhūpita* could mean "smoking out" or "expelling" of thoughts in this context.
 
 Now as regards the second line, *ajjhattaṃ suvikappitā asesā*, the commentary takes *suvikappitā* as an equivalent of *susamucchinnā*, "fully eradicated". But it is more likely that the word *vikappita* basically signifies some form of "building up", since it is derived from the root *kḷp,* "to make, build, construct, fit out", from which Sanskrit words like *vikalpa, saṃkalpa, ākalpa* and *kalpanā* are derived. *Ajjhattaṃ suvikappitā* taken together would therefore mean "well constructed within". The second line could now be paraphrased as *yassa ajjhattaṃ suvikappitā vitakkā asesā vidhūpitā*, "in whom thoughts, well constructed within, have been smoked out without residue".
 
@@ -264,7 +264,7 @@ In one of our earlier sermons, we had occasion to mention that the perception of
 
 *paṭighaṃ rūpasaññā ca,*
 
-*ettha sā chijjate jaṭā.*[[952\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn952)
+*ettha sā chijjate jaṭā.*[^952]
 
 "Where name and form
 
@@ -290,7 +290,7 @@ Coming back to the question of smoking out or exorcising thoughts, it seems thou
 
 *tatiyā khuppipāsā te,*
 
-*catutthī taṇhā pavuccati.*[[953\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn953)
+*catutthī taṇhā pavuccati.*[^953]
 
 "Sense desires are your first battalion,
 
@@ -308,7 +308,7 @@ The word *kāmā* in this context does not refer to pleasurable objects as such,
 
 *tiṭṭhanti citrāni tatheva loke,*
 
-*athettha dhīrā vinayanti chandaṃ*.[[954\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn954)
+*athettha dhīrā vinayanti chandaṃ*.[^954]
 
 "They are not the pleasures, those charming things in the world,
 
@@ -328,7 +328,7 @@ For instance, hunger and thirst, *khuppipāsā*, are cited as another battalion 
 
 *ete vitakke paridevaneyye,*
 
-*vinayetha sekho aniketasārī*. [[955\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn955)
+*vinayetha sekho aniketasārī*. [^955]
 
 "What shall I eat, where shall I eat?
 
@@ -346,7 +346,7 @@ Against this background of the paramount importance attached to thoughts, we can
 
 *Vidhūpayaṃ tiṭṭhati Mārasenaṃ,*
 
-*Suriyo 'va obhāsayam antalikkhaṃ*.[[956\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn956)
+*Suriyo 'va obhāsayam antalikkhaṃ*.[^956]
 
 "When phenomena manifest themselves,
 
@@ -388,7 +388,7 @@ Now to hark back to the *avitakkasamādhi*, we come across an allusion to it in 
 
 *ariyena tuṇhībhāvena*
 
-*upeto hoti tāvade*.[[957\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn957)
+*upeto hoti tāvade*.[^957]
 
 "The Fully Awakened One's disciple,
 
@@ -402,7 +402,7 @@ This *avitakkasamādhi*, then, is none other than the *arahattaphalasamādhi*, w
 
 *Nisinnā rukkhamūlamhi*
 
-*avitakkassa lābhinī*.[[958\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn958)
+*avitakkassa lābhinī*.[^958]
 
 "Seated am I, at the root of a tree,
 
@@ -414,7 +414,7 @@ We come across a long verse in the *Dhītarosutta* of the *Mārasaṃyutta* in t
 
 *asaṅkhārāno satimā anoko*
 
-*aññāya dhammaṃ avitakkajhāyī*.[[959\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn959)
+*aññāya dhammaṃ avitakkajhāyī*.[^959]
 
 "In body relaxed, in mind well freed,
 
@@ -426,7 +426,7 @@ All this points to the fact that the *arahattaphalasamādhi* is called *avitakka
 
 In the *Cūḷavagga* of the *Udāna* we get a reference to this aspect of the *arahattaphalasamādhi*.
 
-*Tena kho pana samayena bhagavā attano papañcasaññāsaṅkhāpahānaṃ paccavekkhamāno nisinno hoti.*[[960\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn960) "At that time the Fortunate One was seated reflecting on his abandonment of reckonings born of prolific perceptions".
+*Tena kho pana samayena bhagavā attano papañcasaññāsaṅkhāpahānaṃ paccavekkhamāno nisinno hoti.*[^960] "At that time the Fortunate One was seated reflecting on his abandonment of reckonings born of prolific perceptions".
 
 At the time the mind is free from worldly concepts born of prolific perception, inwardly all thoughts are rendered powerless. Thoughts do not come up and there is no grasping of signs. It is to highlight this fact that the terms *avitakkajhāna* and *avitakkasamādhi* are used.
 
@@ -438,7 +438,7 @@ By way of further proof, we may cite the following two verses in the *Saṃyojan
 
 *kissassa vippahānena*
 
-*nibbānam iti vuccati*?[[961\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn961)
+*nibbānam iti vuccati*?[^961]
 
 "What is the fetter of the world,
 
@@ -470,7 +470,7 @@ Here, again, we have an indication of the relevance of thoughts to the question 
 
 *Bhavāsavā yassa vacī kharā ca*
 
-*vidhūpitā atthagatā na santi*.[[962\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn962)
+*vidhūpitā atthagatā na santi*.[^962]
 
 "In whom the influxes of existence,
 
@@ -478,7 +478,7 @@ And the sediments of speech as well,
 
 Are smoked out, gone down, and exist no more."
 
-The commentary takes the word *vacī kharā* to mean "harsh speech".[[963\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn963) There is some imbalance between the two terms *bhavāsavā* and *vacī kharā*, if the commentarial interpretation is granted. Harsh speech could ill afford to get coupled with influxes of existence to be cited as fundamental defilements extinct in an *arahant*. It seems *vacī kharā* has a deeper significance than that. It probably means the sediments or dregs (Sanskrit *kṣāra*) of speech, namely the worldly concepts and designations which, as *papañcasaññāsaṅkhā*, reckonings born of prolific perception, form the basis of all thoughts.
+The commentary takes the word *vacī kharā* to mean "harsh speech".[^963] There is some imbalance between the two terms *bhavāsavā* and *vacī kharā*, if the commentarial interpretation is granted. Harsh speech could ill afford to get coupled with influxes of existence to be cited as fundamental defilements extinct in an *arahant*. It seems *vacī kharā* has a deeper significance than that. It probably means the sediments or dregs (Sanskrit *kṣāra*) of speech, namely the worldly concepts and designations which, as *papañcasaññāsaṅkhā*, reckonings born of prolific perception, form the basis of all thoughts.
 
 In the *arahant*, therefore, influxes of existence as well as sediments of speech, are smoked out, gone down and made extinct. This, then, seems to be the most plausible interpretation of the two lines in question, *bhavāsavā yassa vacī kharā ca, vidhūpitā atthagatā na santi.*
 

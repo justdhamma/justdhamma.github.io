@@ -29,7 +29,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
  
 
-*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[[701\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn701)
+*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[^701]
 
 "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction."
 
@@ -47,7 +47,7 @@ The other day we happened to mention the conclusive answer given by the Buddha t
 
 When the wandering ascetic *Vacchagotta* had granted the incongruity of any statement to the effect that the extinguished fire has gone in such and such a direction, and the fact that the term *Nibbāna* is only a reckoning or a turn of speech, the Buddha follows it up with the conclusion:
 
-*Evameva kho, Vaccha, yena rūpena tathāgataṃ paññāpayamāno paññāpeyya, taṃ rūpaṃ tathāgatassa pahīnaṃ ucchinnamūlaṃ tālāvatthukataṃ anabhāvakataṃ āyatiṃ anuppādadhammaṃ. Rūpasaṅkhāvimutto kho, Vaccha, tathāgato, gambhīro appameyyo duppariyogāho, seyyathāpi mahāsamuddo. Uppajjatī'ti na upeti, na uppajjatī'ti na upeti, uppajjati ca na ca uppajjatī'ti na upeti, neva uppajjati na na uppajjatī'ti na upeti.*[[702\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn702)
+*Evameva kho, Vaccha, yena rūpena tathāgataṃ paññāpayamāno paññāpeyya, taṃ rūpaṃ tathāgatassa pahīnaṃ ucchinnamūlaṃ tālāvatthukataṃ anabhāvakataṃ āyatiṃ anuppādadhammaṃ. Rūpasaṅkhāvimutto kho, Vaccha, tathāgato, gambhīro appameyyo duppariyogāho, seyyathāpi mahāsamuddo. Uppajjatī'ti na upeti, na uppajjatī'ti na upeti, uppajjati ca na ca uppajjatī'ti na upeti, neva uppajjati na na uppajjatī'ti na upeti.*[^702]
 
 "Even so, *Vaccha*, that form by which one designating the *Tathāgata* might designate him, that has been abandoned by him, cut off at the root, made like an uprooted palm tree, made non-existent and incapable of arising again. The *Tathāgata* is free from reckoning in terms of form, *Vaccha*, he is deep, immeasurable and hard to fathom, like the great ocean. To say that he is reborn falls short of a reply, to say that he is not reborn falls short of a reply, to say that he is both reborn and is not reborn falls short of a reply, to say that he is neither reborn nor is not reborn falls short of a reply."
 
@@ -61,7 +61,7 @@ The similes reveal to us the state of the *Tathāgata* - the simile of the uproo
 
 *dukkhakkhayo anuppatto,*
 
-*patto me āsavakkhayo*.[[703\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn703)
+*patto me āsavakkhayo*.[^703]
 
 "Five aggregates, now fully understood,
 
@@ -71,7 +71,7 @@ Reached is suffering's end,
 
 Extinct for me are influxes."
 
-On reaching *arahant*-hood, one finds oneself in this strange situation. The occurrence of the word *saṅkhā* in this connection is particularly significant. This word came up in our discussion of the term *papañca* in the contexts *papañcasaṅkhā* and *papañcasaññāsaṅkhā*.[[704\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn704) There we had much to say about the word. It is synonymous with *samaññā*, "appellation", and *paññatti*, "designation". Reckoning, appellation and designation are synonymous to a great extent. So the concluding statement of the Buddha, already quoted, makes it clear that the *Tathāgata* cannot be reckoned or designated in terms of form, though he has form, he cannot be reckoned by feeling, though he experiences feeling, nor can he be reckoned by, or identified with, the aggregates of perceptions, preparations or consciousness.
+On reaching *arahant*-hood, one finds oneself in this strange situation. The occurrence of the word *saṅkhā* in this connection is particularly significant. This word came up in our discussion of the term *papañca* in the contexts *papañcasaṅkhā* and *papañcasaññāsaṅkhā*.[^704] There we had much to say about the word. It is synonymous with *samaññā*, "appellation", and *paññatti*, "designation". Reckoning, appellation and designation are synonymous to a great extent. So the concluding statement of the Buddha, already quoted, makes it clear that the *Tathāgata* cannot be reckoned or designated in terms of form, though he has form, he cannot be reckoned by feeling, though he experiences feeling, nor can he be reckoned by, or identified with, the aggregates of perceptions, preparations or consciousness.
 
 Now in order to make a reckoning, or a designation, there has to be a duality, a dichotomy. We had occasion to touch upon this normative tendency to dichotomize. By way of illustration we may refer to the fact that even the price of an article can be reckoned, so long as there is a vortex between supply and demand. There has to be some kind of vortex between two things, for there to be a designation. A vortex, or *vaṭṭa*, is an alternation between two things, a cyclic interrelation. A designation can come in only so long as there is such a cyclic process. Now the *Tathāgata* is free from this duality.
 
@@ -79,7 +79,7 @@ We have pointed out that the dichotomy between consciousness and name-and-form i
 
  *Chinnaṃ vaṭṭaṃ na vattati,*
 
-*es' ev' anto dukkhassa*.[[705\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn705)
+*es' ev' anto dukkhassa*.[^705]
 
 The whirlpool cut off whirls no more.
 
@@ -89,9 +89,9 @@ This, in fact, is a reference to the *arahant*. The vortex is between consciousn
 
 To highlight this figure of the vortex, we can bring up another significant quotation from the *Upādānaparivaṭṭasutta* and the *Sattaṭṭhānasutta* of the *Saṃyutta Nikāya*.
 
-*Ye suvimuttā te kevalino, ye kevalino vaṭṭaṃ tesaṃ n'atthi paññāpanāya*.[[706\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn706) "Those who are fully released, are truly alone, and for them who are truly alone, there is no whirling round for purposes of designation".
+*Ye suvimuttā te kevalino, ye kevalino vaṭṭaṃ tesaṃ n'atthi paññāpanāya*.[^706] "Those who are fully released, are truly alone, and for them who are truly alone, there is no whirling round for purposes of designation".
 
-This statement might sound rather queer. The term *kevalī* occurs not only in the *Saṃyutta Nikāya*, but in the *Sutta Nipāta* as well, with reference to the *arahant*. The commentary to the *Sutta Nipāta*, *Paramatthajotikā*, gives the following definition to the term when it comes up in the *Kasibhāradvāja Sutta*: *sabbaguṇaparipuṇṇaṃ sabbayogavisaṃyuttaṃ vā*.[[707\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn707) According to the commentator, this term is used for the *arahant* in the sense that he is perfect in all virtues, or else that he is released from all bonds.
+This statement might sound rather queer. The term *kevalī* occurs not only in the *Saṃyutta Nikāya*, but in the *Sutta Nipāta* as well, with reference to the *arahant*. The commentary to the *Sutta Nipāta*, *Paramatthajotikā*, gives the following definition to the term when it comes up in the *Kasibhāradvāja Sutta*: *sabbaguṇaparipuṇṇaṃ sabbayogavisaṃyuttaṃ vā*.[^707] According to the commentator, this term is used for the *arahant* in the sense that he is perfect in all virtues, or else that he is released from all bonds.
 
 But going by the implications of the word *vaṭṭa*, associated with it, we may say that the term has a deeper meaning. From the point of view of etymology, the word *kevalī* is suggestive of singularity, full integration, aloofness and solitude. We spoke of a letting go of name-and-form. The non-manifestative consciousness, released from name-and-form, is indeed symbolic of the *arahant's* singularity, wholeness, aloofness and solitude.
 
@@ -103,7 +103,7 @@ In the following verse from the *Dhammapada*, which we had quoted earlier too, t
 
 *taṃ nāmarūpasmim asajjamānaṃ,*
 
-*akiñcanaṃ nānupatanti dukkhā*.[[708\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn708)
+*akiñcanaṃ nānupatanti dukkhā*.[^708]
 
 "Let one put wrath away and conceit abandon,
 
@@ -121,7 +121,7 @@ We came across another significant reference to the same effect in the *Māghasu
 
 *kālena tesu havyaṃ pavecche,*
 
-*yo brāhmaṇo puññapekho yajetha*.[[709\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn709)
+*yo brāhmaṇo puññapekho yajetha*.[^709]
 
 "They who wander unattached in the world,
 
@@ -141,7 +141,7 @@ In reality, the vortex is merely a certain pervert state of the ocean itself. Th
 
 Only so long as there is a whirling vortex can we point out a 'here' and a 'there'. In the vast ocean, boundless as it is, where there is a vortex, or an eddy, we can point it out with a 'here' or a 'there'. Even so, in the case of the *saṃsāric* individual, as long as the whirling round is going on in the form of the vortex, there is a possibility of designation or appellation as 'so-and-so'. But once the vortex has ceased, there is actually nothing to identify with, for purposes of designation. The most one can say about it, is to refer to it as the place where a vortex has ceased.
 
-Such is the case with the *Tathāgata* too. Freedom from the duality is for him release from the vortex itself. We have explained on a previous occasion how a vortex comes to be.[[710\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn710) A current of water, trying to go against the mainstream, when its attempt is foiled, in clashing with the mainstream, gets thrown off and pushed back, but turns round to go whirling and whirling as a whirlpool. This is not the norm. This is something abnormal. Here is a perversion resulting from an attempt to do the impossible. This is how a thing called 'a vortex' comes to be.
+Such is the case with the *Tathāgata* too. Freedom from the duality is for him release from the vortex itself. We have explained on a previous occasion how a vortex comes to be.[^710] A current of water, trying to go against the mainstream, when its attempt is foiled, in clashing with the mainstream, gets thrown off and pushed back, but turns round to go whirling and whirling as a whirlpool. This is not the norm. This is something abnormal. Here is a perversion resulting from an attempt to do the impossible. This is how a thing called 'a vortex' comes to be.
 
 The condition of the *saṃsāric* being is somewhat similar. What we are taught as the four 'perversions' in the *Dhamma*, describe these four pervert attitudes of a *saṃsāric* being.
 
@@ -160,7 +160,7 @@ The *saṃsāric* individual tries to forge ahead in existence, misled by these 
 
 *niviṭṭhaṃ nāmarūpasmiṃ,*
 
-*idaṃ saccan'ti maññati*.[[711\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn711)
+*idaṃ saccan'ti maññati*.[^711]
 
 "Just see the world, with all its gods,
 
@@ -170,9 +170,9 @@ Entrenched in name-and-form it holds
 
 The conceit that this is real."
 
-What the world entrenched in name-and-form takes to be real, it seems is unreal, according to this verse. This idea is reinforced by the following refrain-like phrase in the *Uragasutta* of the *Sutta Nipāta*: *Sabbaṃ vitatham idan'ti ñatvā loke,*[[712\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn712) "knowing that everything in this world is not 'such'".
+What the world entrenched in name-and-form takes to be real, it seems is unreal, according to this verse. This idea is reinforced by the following refrain-like phrase in the *Uragasutta* of the *Sutta Nipāta*: *Sabbaṃ vitatham idan'ti ñatvā loke,*[^712] "knowing that everything in this world is not 'such'".
 
-We have referred to the special significance of the *Uragasutta* on several occasions.[[713\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn713) That discourse enjoins a giving up of everything, like the sloughing off of a worn-out skin by a serpent. Now a serpent sheds its worn-out skin by understanding that it is no longer the real skin. Similarly, one has to understand that everything in the world is not 'such'. *Tathā* is "such". Whatever is 'as-it-is', is *yathābhūta*. To be 'as-it-is', is to be 'such'. What is not 'as-it-is', is *ayathā* or *vitatha*, "unsuch" or "not such", that is to say, unreal.
+We have referred to the special significance of the *Uragasutta* on several occasions.[^713] That discourse enjoins a giving up of everything, like the sloughing off of a worn-out skin by a serpent. Now a serpent sheds its worn-out skin by understanding that it is no longer the real skin. Similarly, one has to understand that everything in the world is not 'such'. *Tathā* is "such". Whatever is 'as-it-is', is *yathābhūta*. To be 'as-it-is', is to be 'such'. What is not 'as-it-is', is *ayathā* or *vitatha*, "unsuch" or "not such", that is to say, unreal.
 
 It seems, therefore, that the vortex whirling between consciousness and name-and-form, in the case of *saṃsāric* beings, is something not 'such'. It is not the true state of affairs in the world. To be free from this aberration, this unreal state of duality, is to be an *arahant*.
 
@@ -184,15 +184,15 @@ But in this dispensation, the *Tathāgata* is defined differently. *Tathā*, "ev
 
 The vortex originated by deviating from the course of the main stream of the ocean. But if an individual, literally so-called, gave up such pervert attitudes, as seeing permanence in what is impermanent, if he got rid of the four perversions by the knowledge and insight into things as-they-are, then he comes to be known as a *Tathāgata*.
 
-He is a "thus gone", in the sense that, as is the norm of the world, 'thus' he is now. There is also an alternative explanation possible, etymologically. *Tathatā* is a term for the law of dependent arising.[[714\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn714) It means "thusness" or "suchness". This particular term, so integral to the understanding of the significance of *paṭicca samuppāda*, or "dependent arising", is almost relegated to the limbo in our tradition.
+He is a "thus gone", in the sense that, as is the norm of the world, 'thus' he is now. There is also an alternative explanation possible, etymologically. *Tathatā* is a term for the law of dependent arising.[^714] It means "thusness" or "suchness". This particular term, so integral to the understanding of the significance of *paṭicca samuppāda*, or "dependent arising", is almost relegated to the limbo in our tradition.
 
-*Tathāgata* could therefore be alternatively explained as a return to that 'thusness' or 'suchness', by comprehending it fully. In this sense, the derivation of the term could be explained analytically as *tatha + āgata*. Commentators, too, sometimes go for this etymology, though not exactly in this sense.[[715\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn715)
+*Tathāgata* could therefore be alternatively explained as a return to that 'thusness' or 'suchness', by comprehending it fully. In this sense, the derivation of the term could be explained analytically as *tatha + āgata*. Commentators, too, sometimes go for this etymology, though not exactly in this sense.[^715]
 
 According to this idea of a return to the true state of suchness, we may say that **there is neither an increase nor a decrease in the ocean, when a vortex ceases**. Why? Because what was found both inside the vortex and outside of it was simply water. So is the case with the *saṃsāric* individual.
 
 What we have to say from here onwards, regarding this *saṃsāric* individual, is directly relevant to meditation. As we mentioned on an earlier occasion, the four elements, earth, water, fire and air, are to be found both internally and externally. In the *MahāHatthipadopama Sutta* of the *Majjhima Nikāya* we come across a way of reflection that leads to insight in the following instruction.
 
-*Yā c' eva kho pana ajjhattikā paṭhavidhātu, yā ca bāhirā paṭhavidhātu, paṭhavidhātur ev' esā. Taṃ n' etaṃ mama, n' eso 'haṃ asmi, na meso attā 'ti evam etaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.*[[716\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn716)
+*Yā c' eva kho pana ajjhattikā paṭhavidhātu, yā ca bāhirā paṭhavidhātu, paṭhavidhātur ev' esā. Taṃ n' etaṃ mama, n' eso 'haṃ asmi, na meso attā 'ti evam etaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.*[^716]
 
 "Now whatever earth element that is internal, and whatever earth element that is external, both are simply earth element. That should be seen as it is with right wisdom thus: 'this is not mine, this I am not, this is not my self.'"
 
@@ -210,15 +210,15 @@ The vortical interplay between consciousness and name-and-form has the same back
 
 This germinal vortex, between consciousness and name-and-form, is an extremely subtle one that eludes the limitations of both time and space. This, indeed, is the timeless principle inherent in the law of *paṭicca samuppāda*, or "dependent arising". Therefore, the solution to the whole problem lies in the understanding of this law of dependent arising.
 
-We have mentioned on a previous occasion that the *saṅkhata*, or the "prepared", becomes *asaṅkhata*, or the "unprepared", by the very understanding of the 'prepared' nature of the *saṅkhata*.[[717\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn717) The reason is that the prepared appears to be 'so', due to the lack of understanding of its composite and prepared nature. This might well appear a riddle.
+We have mentioned on a previous occasion that the *saṅkhata*, or the "prepared", becomes *asaṅkhata*, or the "unprepared", by the very understanding of the 'prepared' nature of the *saṅkhata*.[^717] The reason is that the prepared appears to be 'so', due to the lack of understanding of its composite and prepared nature. This might well appear a riddle.
 
 The faring round in *saṃsāra* is the result of ignorance. That is why final deliverance is said to be brought about by **wisdom** in this dispensation. All in all, one extremely important fact emerges from this discussion, namely the fact that the etymology attributed to the term *Tathāgata* by the Buddha is highly significant.
 
 It effectively explains why he refused to answer the tetralemma concerning the after death state of the *Tathāgata*. When a vortex has ceased, it is problematic whether it has gone somewhere or joined the great ocean. Similarly, there is a problem of identity in the case of a *Tathāgata*, even when he is living. This simile of the ocean gives us a clue to a certain much-vexed riddle-like discourse on *Nibbāna*.
 
-Many of those scholars, who put forward views on *Nibbāna* with an eternalist bias, count on the *Pahārādasutta* found among the Eights of the *Aṅguttara Nikāya*.[[718\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn718) In fact, that discourse occurs in the *Vinaya Cūḷavagga* and in the *Udāna* as well.[[719\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn719) In the *Pahārādasutta*, the Buddha gives a sustained simile, explaining eight marvellous qualities of this dispensation to the *asura* king *Pahārāda*, by comparing them to eight marvels of the great ocean. The fifth marvellous quality is stated as follows:
+Many of those scholars, who put forward views on *Nibbāna* with an eternalist bias, count on the *Pahārādasutta* found among the Eights of the *Aṅguttara Nikāya*.[^718] In fact, that discourse occurs in the *Vinaya Cūḷavagga* and in the *Udāna* as well.[^719] In the *Pahārādasutta*, the Buddha gives a sustained simile, explaining eight marvellous qualities of this dispensation to the *asura* king *Pahārāda*, by comparing them to eight marvels of the great ocean. The fifth marvellous quality is stated as follows:
 
-*Seyyathāpi, Pahārāda, yā kāci loke savantiyo mahāsamuddam appenti, yā kāci antalikkhā dhārā papatanti, na tena mahāsamuddassa ūnattaṃ vā pūrattaṃ vā paññāyati, evam eva kho, Pahārāda, bahū ce pi bhikkhū anupādisesāya nibbānadhātuyā parinibbāyanti, na tena nibbānadhātuyā ūnattaṃ vā pūrattaṃ va paññāyati*.[[720\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn720)
+*Seyyathāpi, Pahārāda, yā kāci loke savantiyo mahāsamuddam appenti, yā kāci antalikkhā dhārā papatanti, na tena mahāsamuddassa ūnattaṃ vā pūrattaṃ vā paññāyati, evam eva kho, Pahārāda, bahū ce pi bhikkhū anupādisesāya nibbānadhātuyā parinibbāyanti, na tena nibbānadhātuyā ūnattaṃ vā pūrattaṃ va paññāyati*.[^720]
 
 "Just as, *Pahārāda*, however many rivers of the world may flow into the great ocean and however much torrential downpours may fall on it from the sky, no decrease or increase is apparent in the great ocean, even so, *Pahārāda*, although many monks may attain *parinibbāna* in the *Nibbāna* element without residual clinging, thereby no decrease or increase is apparent in the *Nibbāna* element."
 
@@ -232,7 +232,7 @@ In the light of these facts, we have to conclude that *Nibbāna* is actually the
 
 *yaṃ pare dukkhato āhu,*
 
-*tad ariyā sukhato vidū.*[[721\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn721)
+*tad ariyā sukhato vidū.*[^721]
 
 "What others may call bliss,
 
@@ -256,7 +256,7 @@ The truth of this profound declaration by the Buddha could be seen in these deep
 
 According to this discourse, when the Buddha was once dwelling in the gabled hall in *Vesalī*, a monk named *Anurādha* was living in a hut in a jungle close by. One day he was confronted with a situation, which shows that even a forest dwelling monk cannot afford to ignore questions like this. A group of wandering ascetics of other sects approached him and, seated in front of him, made this pronouncement, as if to see his response.
 
-*Yo so, āvuso Anurādha, tathāgato uttamapuriso paramapuriso paramapattipatto, taṃ tathāgataṃ imesu catūsu ṭhānesu paññāpayamāno paññāpeti: ''Hoti tathāgato paraṃ maraṇā 'ti vā 'na hoti tathāgato paraṃ maraṇā 'ti vā 'hoti ca na ca hoti tathāgato paraṃ maraṇā 'ti vā 'neva hoti na na hoti tathāgato paraṃ maraṇā 'ti vā.*[[722\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn722)
+*Yo so, āvuso Anurādha, tathāgato uttamapuriso paramapuriso paramapattipatto, taṃ tathāgataṃ imesu catūsu ṭhānesu paññāpayamāno paññāpeti: ''Hoti tathāgato paraṃ maraṇā 'ti vā 'na hoti tathāgato paraṃ maraṇā 'ti vā 'hoti ca na ca hoti tathāgato paraṃ maraṇā 'ti vā 'neva hoti na na hoti tathāgato paraṃ maraṇā 'ti vā.*[^722]
 
 "Friend *Anurādha*, as to that *Tathāgata*, the highest person, the supreme person, the one who has attained the supreme state, in designating him one does so in terms of these four propositions: 'the *Tathāgata* exists after death', 'the *Tathāgata* does not exist after death', 'the *Tathāgata* both exists and does not exist after death', 'the *Tathāgata* neither exists nor does not exist after death'."
 
@@ -338,7 +338,7 @@ A clear-cut instance of the usage of this expression comes in the *Vajirā Sutta
 
 *suddhasaṅkhārapuñjo, yaṃ,*
 
-*nayidha sattūpalabbhati*.[[723\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn723)
+*nayidha sattūpalabbhati*.[^723]
 
 "What do you mean by a 'being', 0 Māra,
 
@@ -358,7 +358,7 @@ We may take up another instance from the *Purābhedasutta* of the *Sutta Nipāta
 
 *attaṃ vāpi nirattaṃ vā,*
 
-*na tasmim upalabbhati*.[[724\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn724)
+*na tasmim upalabbhati*.[^724]
 
 "Not for him are sons and cattle,
 
@@ -382,13 +382,13 @@ On seeing the Buddha and the *arahants*, one might still say, as a way of saying
 
 The expression *aṭṭha ariyapuggalā*, "the eight noble persons", includes the *arahant* as well. Similarly in such contexts as the *Aggappasādasutta*, the term *satta* is used indiscriminately, giving way to conventional usage.
 
-*Yāvatā, bhikkhave, sattā apadā va dipadā vā catuppadā vā bahuppadā vā rūpino vā arūpino vā saññino vā asaññino vā nevasaññināsaññino vā, tathāgato tesaṃ aggamakkhāyati arahaṃ sammāsambuddho*.[[725\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn725)
+*Yāvatā, bhikkhave, sattā apadā va dipadā vā catuppadā vā bahuppadā vā rūpino vā arūpino vā saññino vā asaññino vā nevasaññināsaññino vā, tathāgato tesaṃ aggamakkhāyati arahaṃ sammāsambuddho*.[^725]
 
 "Monks, whatever kinds of beings there be, whether footless or two-footed, or four-footed, or many footed, with form or formless, percipient or non-percipient, or neither-percipient-nor-non-percipient, among them the *Tathāgata*, worthy and fully awakened, is called supreme".
 
-Although the term *satta* occurs there, it is only by way of worldly parlance. In truth and fact, however, there is no 'being' as such. In a previous sermon we happened to mention a new etymology given by the Buddha to the term *loka*, or "world".[[726\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn726) In the same way, he advanced a new etymology for the term *satta*. As mentioned in the *Rādhasaṃyutta* of the *Saṃyutta Nikāya*, Venerable *Rādha* once posed the following question to the Buddha:
+Although the term *satta* occurs there, it is only by way of worldly parlance. In truth and fact, however, there is no 'being' as such. In a previous sermon we happened to mention a new etymology given by the Buddha to the term *loka*, or "world".[^726] In the same way, he advanced a new etymology for the term *satta*. As mentioned in the *Rādhasaṃyutta* of the *Saṃyutta Nikāya*, Venerable *Rādha* once posed the following question to the Buddha:
 
-*'Satto, satto 'ti, bhante, vuccati.. Kittāvatā nu kho, bhante, 'satto 'ti vuccati?*[[727\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn727)
+*'Satto, satto 'ti, bhante, vuccati.. Kittāvatā nu kho, bhante, 'satto 'ti vuccati?*[^727]
 
 "Venerable sir, it is said 'a being', 'a being'. To what extent can one be called 'a being'."
 
@@ -398,7 +398,7 @@ Then the Buddha explains:
 
 "*Rādha*, that desire, that lust, that delight, that craving in form ... feeling ... perception ... preparations ... consciousness, with which one is attached and thoroughly attached to it, therefore is one called a 'being'."
 
-Here the Buddha is punning on the word *satta*, which has two meanings, a 'being' and 'the one attached'. The etymology attributed to that word by the Buddha brings out in sharp relief the attachment as well, whereas in his redefinition of the term *loka*, he followed an etymology that stressed the disintegrating nature of the world. [[728\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn728)
+Here the Buddha is punning on the word *satta*, which has two meanings, a 'being' and 'the one attached'. The etymology attributed to that word by the Buddha brings out in sharp relief the attachment as well, whereas in his redefinition of the term *loka*, he followed an etymology that stressed the disintegrating nature of the world. [^728]
 
 *Satto visatto, tasmā 'satto 'ti vuccati,* "attached, thoroughly attached, therefore is one called a 'being'". Having given this new definition, the Buddha follows it up with a scintillating simile.
 

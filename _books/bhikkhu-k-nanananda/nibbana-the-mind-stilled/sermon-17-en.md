@@ -28,7 +28,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
  
 
-*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[[571\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn571)
+*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[^571]
 
 "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction".
 
@@ -36,7 +36,7 @@ With the permission of the Most Venerable Great Preceptor and the assembly of th
 
 In our last sermon, we tried to analyse some discourses that give us a clue to understand what sort of an experience an *arahant* has in his realization of the cessation of existence in the *arahattaphalasamādhi*.
 
-We happened to mention that the *arahant* sees the cessation of existence with a deeply penetrative vision of the void that may be compared to a gaze that knows no horizon. We also dropped the hint that the non-manifestative consciousness, endless and lustrous on all sides, we had spoken of in an earlier sermon,[[572\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn572) is an explicit reference to this same experience.
+We happened to mention that the *arahant* sees the cessation of existence with a deeply penetrative vision of the void that may be compared to a gaze that knows no horizon. We also dropped the hint that the non-manifestative consciousness, endless and lustrous on all sides, we had spoken of in an earlier sermon,[^572] is an explicit reference to this same experience.
 
 How the *arahant*, ranging in his triple pasture of the signless deliverance, the undirected deliverance and the void deliverance, *animitta vimokkha*, *appaṇihita vimokkha* and *suññata vimokkha*, gets free from the latency to perception, transcends the duality of form and formless, and crosses over this ocean of existence unhindered by *Māra*, has been described in various ways in various discourses.
 
@@ -68,7 +68,7 @@ Let us now take up for discussion in this connection three significant verses th
 
 *deseti sammāsambuddho,*
 
-*asokaṃ virajaṃ padaṃ.*[[573\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn573)
+*asokaṃ virajaṃ padaṃ.*[^573]
 
 "Those beings that go to realms of form,
 
@@ -98,7 +98,7 @@ Proclaims the sorrow-less, taintless state."
 
 The meaning of the first verse is clear enough. Those who are in realms of form and formless realms are reborn again and again due to not understanding the fact of cessation.
 
-In the case of the second verse, there is some confusion as to the correct reading. We have mentioned earlier, too, that some of the deep discourses present considerable difficulty in determining what the correct reading is.[[574\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn574) They have not come down with sufficient clarity. Where the meaning is not clear enough, there is a likelihood for the oral tradition to become corrupt. Here we accepted the reading *asaṇṭhitā*.
+In the case of the second verse, there is some confusion as to the correct reading. We have mentioned earlier, too, that some of the deep discourses present considerable difficulty in determining what the correct reading is.[^574] They have not come down with sufficient clarity. Where the meaning is not clear enough, there is a likelihood for the oral tradition to become corrupt. Here we accepted the reading *asaṇṭhitā*.
 
 *Ye ca rūpe pariññāya,*
 
@@ -108,7 +108,7 @@ In the case of the second verse, there is some confusion as to the correct readi
 
 Do not settle in formless realms".
 
-But there is the variant reading *susaṇṭhitā*, which gives the meaning "settled well". The two readings contradict each other and so we have a problem here. The commentary accepts the reading *asaṇṭhitā*.[[575\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn575) We too followed it, for some valid reason and not simply because it accords with the commentary.
+But there is the variant reading *susaṇṭhitā*, which gives the meaning "settled well". The two readings contradict each other and so we have a problem here. The commentary accepts the reading *asaṇṭhitā*.[^575] We too followed it, for some valid reason and not simply because it accords with the commentary.
 
 However, in several modern editions of the text, the reading *asaṇṭhitā* has been replaced by *susaṇṭhitā*, probably because it seems to make sense, prima facie.
 
@@ -120,7 +120,7 @@ In the last verse it is said that the Buddha realized the relinquishment of asse
 
 *Phusanti phassā upadhiṃ paṭicca,*
 
-*Nirupadhiṃ kena phuseyyum phassā.*[[576\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn576)
+*Nirupadhiṃ kena phuseyyum phassā.*[^576]
 
 "Touches touch one because of assets,
 
@@ -132,7 +132,7 @@ To be free from touch is in itself the 'touching' of the deathless element.
 
 What we mean to say is that, as far as the fear of death is concerned, here we have the freedom from the pain of death and in fact the freedom from the concept of death itself.
 
-The Buddha and the *arahants*, with the help of that wisdom, while in that *arahattaphalasamādhi* described as *anāsavā cetovimutti paññāvimutti*,[[577\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn577) or *akuppā cetovimutti*,[[578\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn578) let go of their entire body and realized the cessation of existence, thereby freeing themselves from touch and feeling. That is why *Nibbāna* is called a bliss devoid of feeling, *avedayita sukha*. [[579\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn579)
+The Buddha and the *arahants*, with the help of that wisdom, while in that *arahattaphalasamādhi* described as *anāsavā cetovimutti paññāvimutti*,[^577] or *akuppā cetovimutti*,[^578] let go of their entire body and realized the cessation of existence, thereby freeing themselves from touch and feeling. That is why *Nibbāna* is called a bliss devoid of feeling, *avedayita sukha*. [^579]
 
 This giving up, this letting go when *Māra* is coming to grab and seize, is a very subtle affair. To give up and let go when *Māra* comes to grab is to touch the deathless, because thereby one is freed from touch and feelings. Here, then, we have a paradox. So subtle is this *Dhamma*!
 
@@ -146,7 +146,7 @@ All experiences of pleasure and pain are there so long as one is in *bhava*. The
 
 *Atha rūpā arūpā ca,*
 
-*sukhadukkhā pamuccati*.[[580\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn580)
+*sukhadukkhā pamuccati*.[^580]
 
 "And then from form and formless,
 
@@ -156,7 +156,7 @@ We explained that verse as a reference to *arahattaphalasamādhi*. Here, too, we
 
 As a matter of fact, we do come across an important discourse among the Tens of the *Aṅguttara Nikāya*, where *Nibbāna* is explicitly called *bhavanirodha*. It is in the form of a dialogue between Venerable *Ānanda* and Venerable *Sāriputta*. As usual, Venerable *Ānanda* is enquiring about that extraordinary *samādhi*.
 
-*Siyā nu kho, āvuso Sāriputta, bhikkhuno tathārūpo samādhipaṭilābho yathā neva pathaviyaṃ pathavisaññī assa, na āpasmiṃ āposaññī assa, na tejasmiṃ tejosaññī assa, na vāyasmiṃ vāyosaññī assa, na ākāsānañcāyatane ākāsānañcāyatanasaññī assa, na viññāṇañcāyatane viññāṇancāyatanasaññī assa, na ākiñcaññāyatane ākiñcaññāyatanasaññī assa, na nevasaññānāsaññāyatane nevasaññānāsaññāyatanasaññī assa, na idhaloke idhalokasaññī assa, na paraloke paralokasaññī assa, - saññī ca pana assa?*[[581\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn581)
+*Siyā nu kho, āvuso Sāriputta, bhikkhuno tathārūpo samādhipaṭilābho yathā neva pathaviyaṃ pathavisaññī assa, na āpasmiṃ āposaññī assa, na tejasmiṃ tejosaññī assa, na vāyasmiṃ vāyosaññī assa, na ākāsānañcāyatane ākāsānañcāyatanasaññī assa, na viññāṇañcāyatane viññāṇancāyatanasaññī assa, na ākiñcaññāyatane ākiñcaññāyatanasaññī assa, na nevasaññānāsaññāyatane nevasaññānāsaññāyatanasaññī assa, na idhaloke idhalokasaññī assa, na paraloke paralokasaññī assa, - saññī ca pana assa?*[^581]
 
 "Could there be, friend *Sāriputta*, for a monk such an attainment of concentration wherein he will not be conscious of earth in earth, nor of water in water, nor of fire in fire, nor of air in air, nor will he be conscious of the sphere of infinite space in the sphere of infinite space, nor of the sphere of infinite consciousness in the sphere of infinite consciousness, nor of the sphere of nothingness in the sphere of nothingness, nor of the sphere of neither-perception-nor-non-perception in the sphere of neither-perception-nor-non-perception, nor of a this world in this world, nor of a world beyond in a world beyond - and yet he will be conscious?"
 
@@ -176,21 +176,21 @@ The true significance of the simile of the twig fire is that Venerable *Sāriput
 
 The insight into a flame could be different from a mere sight of a flame. Worldlings in general see only a process of burning in a flame. To the insight meditator it can appear as an intermittent series of extinctions. It is the outcome of a penetrative vision. Just like the flame, which simulates compactness, existence, too, is a product of *saṅkhāras*, or preparations.
 
-The worldling who attends to the arising aspect and ignores the cessation aspect is carried away by the perception of the compact. But the mind, when steadied, is able to see the phenomenon of cessation: *òhitaṃ cittaṃ vippamuttaṃ, vayañcassānupassati*,[[582\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn582) "the mind steadied and released contemplates its own passing away".
+The worldling who attends to the arising aspect and ignores the cessation aspect is carried away by the perception of the compact. But the mind, when steadied, is able to see the phenomenon of cessation: *òhitaṃ cittaṃ vippamuttaṃ, vayañcassānupassati*,[^582] "the mind steadied and released contemplates its own passing away".
 
 With that steadied mind the *arahant* attends to the cessation of preparations. At its climax, he penetrates the gamut of existence made up of preparations, as in the case of a flame, and goes beyond the clutches of death.
 
-As a comparison for existence, the simile of the flame is quite apt. We happened to point out earlier, that the word *upādāna* can mean "grasping" as well as "fuel".[[583\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn583) The totality of existence is sometimes referred to as a fire.[[584\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn584) The fuel for the fire of existence is grasping itself. With the removal of that fuel, one experiences extinction.
+As a comparison for existence, the simile of the flame is quite apt. We happened to point out earlier, that the word *upādāna* can mean "grasping" as well as "fuel".[^583] The totality of existence is sometimes referred to as a fire.[^584] The fuel for the fire of existence is grasping itself. With the removal of that fuel, one experiences extinction.
 
-The dictum *bhavanirodho nibbānam* clearly shows that *Nibbāna* is the cessation of existence. There is another significant discourse which equates *Nibbāna* to the experience of the cessation of the six sense-bases, *saḷāyatananirodha*. The same experience of realization is viewed from a different angle. We have already shown that the cessation of the six sense-bases, or the six sense-spheres, is also called *Nibbāna.*[[585\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn585)
+The dictum *bhavanirodho nibbānam* clearly shows that *Nibbāna* is the cessation of existence. There is another significant discourse which equates *Nibbāna* to the experience of the cessation of the six sense-bases, *saḷāyatananirodha*. The same experience of realization is viewed from a different angle. We have already shown that the cessation of the six sense-bases, or the six sense-spheres, is also called *Nibbāna.*[^585]
 
 The discourse we are now going to take up is one in which the Buddha presented the theme as some sort of a riddle for the monks to work out for themselves.
 
-*Tasmātiha, bhikkhave, se āyatane veditabbe yattha cakkhuñca nirujjhati rūpasaññā ca virajjati, se āyatane veditabbe yattha sotañca nirujjhati saddasaññā ca virajjati, se āyatane veditabbe yattha ghānañca nirujjhati gandhasaññā ca virajjati, se āyatane veditabbe yattha jivhā ca nirujjhati rasasaññā ca virajjati, se āyatane veditabbe yattha kāyo ca nirujjhati phoṭṭabbasaññā ca virajjati, se āyatane veditabbe yattha mano ca nirujjhati dhammasaññā ca virajjati, se āyatane veditabbe, se āyatane veditabbe.*[[586\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn586)
+*Tasmātiha, bhikkhave, se āyatane veditabbe yattha cakkhuñca nirujjhati rūpasaññā ca virajjati, se āyatane veditabbe yattha sotañca nirujjhati saddasaññā ca virajjati, se āyatane veditabbe yattha ghānañca nirujjhati gandhasaññā ca virajjati, se āyatane veditabbe yattha jivhā ca nirujjhati rasasaññā ca virajjati, se āyatane veditabbe yattha kāyo ca nirujjhati phoṭṭabbasaññā ca virajjati, se āyatane veditabbe yattha mano ca nirujjhati dhammasaññā ca virajjati, se āyatane veditabbe, se āyatane veditabbe.*[^586]
 
 "Therefore, monks, that sphere should be known wherein the eye ceases and perceptions of form fade away, that sphere should be known wherein the ear ceases and perceptions of sound fade away, that sphere should be known wherein the nose ceases and perceptions of smell fade away, that sphere should be known wherein the tongue ceases and perceptions of taste fade away, that sphere should be known wherein the body ceases and perceptions of the tangible fade away, that sphere should be known wherein the mind ceases and perceptions of mind objects fade away, that sphere should be known, that sphere should be known."
 
-There is some peculiarity in the very wording of the passage, when it says, for instance, that the eye ceases, *cakkhuñca nirujjhati* and perceptions of form fade away, *rūpasaññā ca virajjati*. As we once pointed out, the word *virāga*, usually rendered by "detachment", has a nuance equivalent to "fading away" or "decolouration".[[587\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn587) Here that nuance is clearly evident. When the eye ceases, perceptions of forms fade away.
+There is some peculiarity in the very wording of the passage, when it says, for instance, that the eye ceases, *cakkhuñca nirujjhati* and perceptions of form fade away, *rūpasaññā ca virajjati*. As we once pointed out, the word *virāga*, usually rendered by "detachment", has a nuance equivalent to "fading away" or "decolouration".[^587] Here that nuance is clearly evident. When the eye ceases, perceptions of forms fade away.
 
 The Buddha is enjoining the monks to understand that sphere, not disclosing what it is, in which the eye ceases and perceptions of form fade away, and likewise the ear ceases and perceptions of sound fade away, the nose ceases and perceptions of smell fade away, the tongue ceases and perceptions of taste fade away, the body ceases and perceptions of the tangible fade away, and last of all even the mind ceases and perceptions of mind objects fade away. This last is particularly noteworthy.
 
@@ -200,11 +200,11 @@ Without giving any clue to the meaning of this brief exhortation, the Buddha got
 
 When those monks approached the Buddha and placed Venerable *Ānanda's* explanation before him, the Buddha ratified it. Hence it is clear that the term *āyatana* in the above passage refers not to any one of the six sense-spheres, but to *Nibbāna*, which is the cessation of all of them.
 
-The commentator, Venerable *Buddhaghosa*, too accepts this position in his commentary to the passage in question. *Saḷāyatananirodhan'ti saḷāyatananirodho vuccati nibbānam, tam sandhāya bhāsitan ti attho*, "the cessation of the six sense-spheres, what is called the cessation of the six sense-spheres is *Nibbāna*, the meaning is that the Buddha's sermon is a reference to it".[[588\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn588)
+The commentator, Venerable *Buddhaghosa*, too accepts this position in his commentary to the passage in question. *Saḷāyatananirodhan'ti saḷāyatananirodho vuccati nibbānam, tam sandhāya bhāsitan ti attho*, "the cessation of the six sense-spheres, what is called the cessation of the six sense-spheres is *Nibbāna*, the meaning is that the Buddha's sermon is a reference to it".[^588]
 
 The passage in question bears testimony to two important facts. Firstly that *Nibbāna* is called the cessation of the six sense-spheres. Secondly that this experience is referred to as an *āyatana*, or a 'sphere'.
 
-The fact that *Nibbāna* is sometimes called *āyatana* is further corroborated by a certain passage in the *Saḷāyatanvibhaṅgasutta*, which defines the term *nekkhammasita domanassa*.[[589\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn589) In that discourse, which deals with some deeper aspects of the *Dhamma*, the concept of *nekkhammasita domanassa*, or "unhappiness connected with renunciation", is explained as follows:
+The fact that *Nibbāna* is sometimes called *āyatana* is further corroborated by a certain passage in the *Saḷāyatanvibhaṅgasutta*, which defines the term *nekkhammasita domanassa*.[^589] In that discourse, which deals with some deeper aspects of the *Dhamma*, the concept of *nekkhammasita domanassa*, or "unhappiness connected with renunciation", is explained as follows:
 
 If one contemplates with insight wisdom the sense-objects like forms and sounds as impermanent, suffering-fraught and transient, and develops a longing for *Nibbāna*, due to that longing or expectation one might feel an unhappiness. It is such an unhappiness which, however, is superior to an unhappiness connected with the household life, that is called *nekkhammasita domanassa*, or "unhappiness connected with renunciation".
 
@@ -218,7 +218,7 @@ What are called "incomparable deliverances" are the three doorways to *Nibbāna*
 
 Now let us bring up a third:
 
-*Atthi, bhikkhave, tad āyatanaṃ, yattha n'eva pathavī na āpo na tejo na vāyo na ākāsānañcāyatanaṃ na viññāṇānañcāyatanaṃ na ākiñcaññāyatanaṃ na nevasaññānāsaññāyatanaṃ na ayaṃ loko na paraloko na ubho candimasūriyā. Tatra p'ahaṃ bhikkhave, n'eva āgatiṃ vadāmi na gatiṃ na ṭhitiṃ na cutiṃ na upapattiṃ, appatiṭṭhaṃ appavattaṃ anārammaṇaṃ eva taṃ. Es'ev'anto dukkhassā'ti*.[[590\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn590)
+*Atthi, bhikkhave, tad āyatanaṃ, yattha n'eva pathavī na āpo na tejo na vāyo na ākāsānañcāyatanaṃ na viññāṇānañcāyatanaṃ na ākiñcaññāyatanaṃ na nevasaññānāsaññāyatanaṃ na ayaṃ loko na paraloko na ubho candimasūriyā. Tatra p'ahaṃ bhikkhave, n'eva āgatiṃ vadāmi na gatiṃ na ṭhitiṃ na cutiṃ na upapattiṃ, appatiṭṭhaṃ appavattaṃ anārammaṇaṃ eva taṃ. Es'ev'anto dukkhassā'ti*.[^590]
 
 Incidentally, this happens to be the most controversial passage on *Nibbāna*. Scholars, both ancient and modern, have put forward various interpretations of this much vexed passage. Its riddle-like presentation has posed a challenge to many a philosopher bent on determining what *Nibbāna* is.
 
@@ -248,7 +248,7 @@ The concluding sentence "this itself is the end of suffering" is therefore a cle
 
 Our line of interpretation leads to such a conclusion, but of course, in case there are shortcomings in it, we could perhaps improve on it by having recourse to the commentarial interpretation.
 
-Now as to the commentarial interpretation, this is how the *Udāna* commentary explains the points we have discussed:[[591\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn591) It paraphrases the term *āyatana* by *kāraṇa*, observing that it means reason in this context. Just as much as forms stand in relation of an object to the eye, so the *asaṅkhata dhātu*, or the "unprepared element", is said to be an object to the *arahant's* mind, and here it is called *āyatana*.
+Now as to the commentarial interpretation, this is how the *Udāna* commentary explains the points we have discussed:[^591] It paraphrases the term *āyatana* by *kāraṇa*, observing that it means reason in this context. Just as much as forms stand in relation of an object to the eye, so the *asaṅkhata dhātu*, or the "unprepared element", is said to be an object to the *arahant's* mind, and here it is called *āyatana*.
 
 Then the commentary raises the question, why earth, water, fire and air are not there in that *asaṅkhata dhātu*. The four elements are representative of things prepared, *saṅkhata*. There cannot be any mingling or juxtaposition between the *saṅkhata* and the *asaṅkhata*. That is why earth, water, fire and air are not supposed to be there, in that *āyatana*.
 
@@ -268,7 +268,7 @@ More often than otherwise, commentarial interpretations of *Nibbāna* leaves roo
 
 Deep indeed is this *Dhamma* and hard to comprehend, as the Buddha once confided in Venerable *Sāriputta* with a trace of tiredness:
 
-*Saṅkhittenapi kho ahaṃ, Sāriputta, dhammaṃ deseyyaṃ, vitthārenapi kho ahaṃ, Sāriputta, dhammaṃ deseyyaṃ, saṅkhittenavitthārenapi kho ahaṃ, Sāriputta, dhammaṃ deseyyaṃ, aññātāro ca dullabhā*.[[592\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn592)
+*Saṅkhittenapi kho ahaṃ, Sāriputta, dhammaṃ deseyyaṃ, vitthārenapi kho ahaṃ, Sāriputta, dhammaṃ deseyyaṃ, saṅkhittenavitthārenapi kho ahaṃ, Sāriputta, dhammaṃ deseyyaṃ, aññātāro ca dullabhā*.[^592]
 
 "Whether I were to preach in brief, *Sāriputta*, or whether I were to preach in detail, *Sāriputta*, or whether I were to preach both in brief or in detail, *Sāriputta*, rare are those who understand."
 
@@ -298,7 +298,7 @@ We find the Buddha summing up his exhortation by quoting two verses from a *Sutt
 
 *aññāvimokhaṃ pabrūmi,*
 
-*avijjāyappabhedanaṃ*.[[593\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn593)
+*avijjāyappabhedanaṃ*.[^593]
 
 "The abandonment of both sensuous perceptions,
 
@@ -320,7 +320,7 @@ This is ample proof of the fact that the *arahattaphalasamādhi* is also called 
 
 *Acchariyaṃ, āvuso, abbhutam, āvuso, yāvañcidaṃ tena Bhagavatā jānatā passatā arahatā sammāsambuddhena sambādhe okāsādhigamo anubuddho sattānaṃ visuddhiyā sokapariddavānaṃ samatikkamāya dukkhadomanassānaṃ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya.*
 
-*Tadeva nāma cakkhuṃ bhavissati te rūpā tañcāyatanaṃ no paṭisaṃvedissati. Tadeva nāma sotaṃ bhavissati te saddā tañcāyatanaṃ no paṭisaṃvedissati. Tadeva nāma ghānaṃ bhavissati te gandhā tañcāyatanaṃ no paṭisaṃvedissati. Sā ca nāma jivhā bhavissati te rasā tañcāyatanaṃ no paṭisaṃvedissati. So ca nāma kāyo bhavissati te phoṭṭhabbā tañcāyatanaṃ no paṭisaṃvedissati.*[[594\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn594)
+*Tadeva nāma cakkhuṃ bhavissati te rūpā tañcāyatanaṃ no paṭisaṃvedissati. Tadeva nāma sotaṃ bhavissati te saddā tañcāyatanaṃ no paṭisaṃvedissati. Tadeva nāma ghānaṃ bhavissati te gandhā tañcāyatanaṃ no paṭisaṃvedissati. Sā ca nāma jivhā bhavissati te rasā tañcāyatanaṃ no paṭisaṃvedissati. So ca nāma kāyo bhavissati te phoṭṭhabbā tañcāyatanaṃ no paṭisaṃvedissati.*[^594]
 
 "It is wonderful, friends, it is marvellous, friends, that the Exalted One who knows and sees, that Worthy One, fully enlightened, has discovered an opportunity in obstructing circumstances for the purification of beings, for the transcending of sorrow and lamentation, for the ending of pain and unhappiness, for the attainment of the right path, for the realization of *Nibbāna*.
 
@@ -342,7 +342,7 @@ The question looks so highly compressed that the key words in it might need some
 
 Generally, the steadiness characteristic of a level of concentration is not much different from the apparent steadiness of a spinning top. It is the spinning that keeps the top up. But here the very freedom from that spinning has brought about a steadiness of a higher order, which in its turn gives rise to contentment.
 
-The kind of peace and contentment that comes with *samādhi* in general is brittle and irritable. That is why it is sometimes called *kuppa paṭicca santi*, "peace subject to irritability".[[595\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn595) Here, on the contrary, there is no such irritability.
+The kind of peace and contentment that comes with *samādhi* in general is brittle and irritable. That is why it is sometimes called *kuppa paṭicca santi*, "peace subject to irritability".[^595] Here, on the contrary, there is no such irritability.
 
 We can well infer from this that the allusion is to *akuppā cetovimutti*, "unshakeable deliverance of the mind". The kind of contentment born of freedom and stability is so perfect that it leaves no room for hankering, *paritassanā*.
 
@@ -354,14 +354,14 @@ However, the main point of the question posed by that nun amounts to this: What 
 
 *Aññā*, or full understanding, is one that comes with realization conferring certitude and it is the fruit of the concentration described above. Then, as if coming back to the point, Venerable *Ānanda* adds: *Evaṃ saññīpi kho, āvuso, tad āyatanaṃ no paṭisaṃvedeti*. "Being thus conscious, too, friend, one does not experience an appropriate sphere of sense."
 
-So now we have garnered sufficient evidence to substantiate the claims of this extraordinary *arahattaphalasamādhi*. It may also be mentioned that sometimes this realization of the *arahant* is summed up in a sentence like *anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati*,[[596\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn596) "having realized by himself through higher knowledge here and now the influx-free deliverance of the mind and deliverance through wisdom, he dwells having attained to it."
+So now we have garnered sufficient evidence to substantiate the claims of this extraordinary *arahattaphalasamādhi*. It may also be mentioned that sometimes this realization of the *arahant* is summed up in a sentence like *anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati*,[^596] "having realized by himself through higher knowledge here and now the influx-free deliverance of the mind and deliverance through wisdom, he dwells having attained to it."
 
 There is another significant discourse in the section of the Fours in the *Aṅguttara Nikāya* which throws some light on how one should look upon the *arahant* when he is in *arahattaphalasamādhi*. The discourse deals with four types of persons, namely:
 
 1) *anusotagāmī puggalo* "downstream bound person"
 2) *paṭisotagāmī puggalo* "upstream bound person"
 3) *ṭhitatto puggalo* "stationary person"
-4) *tiṇṇo pāragato thale tiṭṭhati brāhmaṇo* "the Brahmin standing on dry ground having crossed over and gone beyond".[[597\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn597)
+4) *tiṇṇo pāragato thale tiṭṭhati brāhmaṇo* "the Brahmin standing on dry ground having crossed over and gone beyond".[^597]
 
 The first type of person indulges in sense pleasures and commits evil deeds and is thus bound downstream in *saṃsāra*. The second type of person refrains from indulgence in sense pleasures and from evil deeds. His upstream struggle is well expressed in the following sentence: *Sahāpi dukkhena sahāpi domanassena assumukhopi rudamāno paripuṇṇaṃ parisuddhaṃ brahmacariyaṃ carati*, "even with pain, even with displeasure, with tearful face and crying he leads the holy life in its fullness and perfection."
 
@@ -381,7 +381,7 @@ The last verse of the *Paramaṭṭhakasutta* of the *Sutta Nipāta*, for instan
 
 ## na brāhmaṇo sīlavatena neyyo,
 
-## pāraṃgato na pacceti tādi.[[598\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn598)
+## pāraṃgato na pacceti tādi.[^598]
 
 "They, the *arahants*, do not formulate or put forward views,
 
@@ -391,7 +391,7 @@ The true Brahmin is not liable to be led astray by ceremonial rites and ascetic 
 
 The Such like One, who has gone to the farther shore, comes not back."
 
-It is the last line that concerns us here. For the *arahant* it uses the term *tādī*, a highly significant term which we came across earlier too. The rather literal rendering "such-like" stands for steadfastness, for the unwavering firmness to stand one's ground. So, the implication is that the *arahant*, once gone beyond, does not come back. The steadfastness associated with the epithet *tādī* is reinforced in one *Dhammapada* verse by bringing in the simile of the firm post at the city gate: *Indakhīlūpamo tādi subbato*,[[599\]](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#_edn599) "who is steadfast and well conducted like the pillar at the city gate."
+It is the last line that concerns us here. For the *arahant* it uses the term *tādī*, a highly significant term which we came across earlier too. The rather literal rendering "such-like" stands for steadfastness, for the unwavering firmness to stand one's ground. So, the implication is that the *arahant*, once gone beyond, does not come back. The steadfastness associated with the epithet *tādī* is reinforced in one *Dhammapada* verse by bringing in the simile of the firm post at the city gate: *Indakhīlūpamo tādi subbato*,[^599] "who is steadfast and well conducted like the pillar at the city gate."
 
 The verse in question, then, points to the conclusion that the steadfast one, the *arahant*, who has attained supramundane freedom, does not come back.
 
