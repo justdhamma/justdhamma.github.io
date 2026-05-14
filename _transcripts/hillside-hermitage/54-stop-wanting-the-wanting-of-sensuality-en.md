@@ -2,22 +2,21 @@
 lang: en
 layout: post
 category: transcripts
-episode: 54
-title: Stop Wanting the Wanting of Sensuality
+episode: '54'
+title: Stop Wanting The Wanting Of Sensuality
 pli_tag: kama
 eng_tag: sensuality
-description: This essay explores the root of suffering.
-excerpt: This essay explores the root of suffering.
-# youtube_url: https://www.youtube.com/watch?v=MPPi7ielaaM
+description: 'Talk no.54hh - condensed transcript '
+excerpt: ''
 youtube_url: https://youtu.be/_ttVxzlzlj0
 gem_url: /transcripts/hillside-hermitage/54hh-stop-wanting-the-wanting-of-sensuality-ne-gem/
 gpt_url: /transcripts/hillside-hermitage/54hh-stop-wanting-the-wanting-of-sensuality-ne-gpt/
 cld_url: /transcripts/hillside-hermitage/54hh-stop-wanting-the-wanting-of-sensuality-ne-cld/
 permalink: /transcripts/hillside-hermitage/54hh-stop-wanting-the-wanting-of-sensuality-en/
-previous: /transcripts/hillside-hermitage/53hh-the-right-kind-of-questioning-en/
-editor: hh
-status: draft
 channel: hillside-hermitage
+previous: /transcripts/hillside-hermitage/54hh-not-wanting-the-wanting-en/
+status: finished
+editor: hh
 ---
 
 

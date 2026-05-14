@@ -1,24 +1,22 @@
 ---
-lang: ne
-layout: post
 category: transcripts
-episode: 53
-en_title: The Right Kind of Questioning
-ne_title: के तिमी हाले वर्तमान कुरा देख्नुहुन्छस्
-en_url: "/transcripts/hillside-hermitage/53hh-the-right-kind-of-questioning-en/"
-gem_url: "/transcripts/hillside-hermitage/53hh-the-right-kind-of-questioning-ne-gem/"
-gpt_url: "/transcripts/hillside-hermitage/53hh-the-right-kind-of-questioning-ne-gpt/"
-cld_url: "/transcripts/hillside-hermitage/53hh-the-right-kind-of-questioning-ne-cld/"
-permalink: /transcripts/hillside-hermitage/53hh-the-right-kind-of-questioning-ne-gem/
-description: This essay explores the root of suffering.
-pli_tag: sammappaṭipadā, yoniso-manasikāra
-eng_tag: right speech, wise attention
-type: translation
-translator: gem
-# date: 2010-08-01
-proofread: finished
 channel: hillside-hermitage
-previous: /transcripts/hillside-hermitage/48hh-do-you-see-what-is-present-en/
+cld_url: ''
+description: Talk no.53hh - condensed transcript
+editor: hh
+eng_tag: dhamma
+episode: 53
+excerpt: ''
+gem_url: ''
+gpt_url: ''
+lang: en
+layout: post
+permalink: /transcripts/hillside-hermitage/53hh-the right kind of questioning-en/
+pli_tag: dhamma
+previous: /transcripts/hillside-hermitage/53hh-the-right-kind-of-questioning-en/
+status: finished
+title: Unknown
+youtube_url: ''
 ---
 
 <!-- ## के तिमी हाले वर्तमान कुरा देख्नुहुन्छस् -->

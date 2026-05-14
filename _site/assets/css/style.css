@@ -1363,21 +1363,23 @@ footer {
     bottom: calc(12px + env(safe-area-inset-bottom, 0px));
     left: 50%;
     flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
     align-items: center;
-    gap: 8px;
-    width: max-content;
-    max-width: calc(100vw - 24px);
+    gap: 6px;
+    width: calc(100vw - 16px);
     transform: translateX(-50%);
   }
 
   .panel-group {
     flex-direction: row;
-    padding: 6px;
+    padding: 4px;
+    gap: 4px;
   }
 
   .panel-group button {
-    width: 46px;
-    height: 40px;
+    width: 42px;
+    height: 36px;
   }
 
   .search-card {
@@ -1398,6 +1400,22 @@ footer {
 
   .site-footer__links {
     gap: 10px 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  .reader-panel {
+    gap: 4px;
+  }
+
+  .panel-group {
+    padding: 3px;
+    gap: 3px;
+  }
+
+  .panel-group button {
+    width: 32px;
+    height: 30px;
   }
 }
 

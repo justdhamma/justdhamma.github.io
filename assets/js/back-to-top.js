@@ -5,14 +5,22 @@
     const button = document.getElementById("top-toggle");
     if (!button) return;
 
-    const shouldShow = window.scrollY > VISIBILITY_THRESHOLD;
-    button.textContent = shouldShow ? "↑" : "☸";
-    button.setAttribute("aria-label", shouldShow ? "Scroll to top" : "Dharma wheel");
+    const shouldShowTop = window.scrollY > VISIBILITY_THRESHOLD;
+    button.textContent = shouldShowTop ? "↑" : "↓";
+    button.setAttribute("aria-label", shouldShowTop ? "Scroll to top" : "Scroll to bottom");
+    button.onclick = shouldShowTop ? scrollToTop : scrollToBottom;
   }
 
   window.scrollToTop = function () {
     window.scrollTo({
       top: 0,
+      behavior: "smooth"
+    });
+  };
+
+  window.scrollToBottom = function () {
+    window.scrollTo({
+      top: document.body.scrollHeight,
       behavior: "smooth"
     });
   };

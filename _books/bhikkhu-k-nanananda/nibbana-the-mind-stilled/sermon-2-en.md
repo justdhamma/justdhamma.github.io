@@ -13,24 +13,15 @@ doc_url: "https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stille
 alt_doc_url: 
 ---
 
+## MIND STILLED 02
 
+> *Namo tassa bhagavato arahato sammāsambuddhassa  
+> Namo tassa bhagavato arahato sammāsambuddhassa  
+> Namo tassa bhagavato arahato sammāsambuddhassa*
 
-**MIND STILLED** **02**
+> *Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[^47]
 
-*
-*
-
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Namo tassa bhagavato arahato sammāsambuddhassa
-
- 
-
-*Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[^47]
-
-"This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction".
+> "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction".
 
 With the permission of the Most Venerable Great Preceptor and the assembly of the venerable meditative monks.
 
@@ -38,25 +29,21 @@ The second sermon on *Nibbāna* has come up for today. Towards the end of our se
 
 In fact at some places in the canon we find the phrase *anuttara brahmacariyapariyosāna* used with reference to *Nibbāna*.[^49] It means that *Nibbāna* is the supreme consummation of the holy life. The following standard phrase announcing a new *Arahant* is very often found in the *suttas*:
 
-*Yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ brahmcariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihāsi*.[^50] "In this very life he realized by his own higher knowledge and attained to that supreme consummation of the holy life for the purpose of which clansmen of good family rightly go forth from home to homelessness."
+> *Yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti, tadanuttaraṃ brahmcariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihāsi*.[^50]  
+
+> "In this very life he realized by his own higher knowledge and attained to that supreme consummation of the holy life for the purpose of which clansmen of good family rightly go forth from home to homelessness."
 
 Now what is the justification for saying that one attains to *Nibbāna* by the very completion of the holy life? This Noble Eightfold Path is a straight path: *Ujuko nāma so maggo, abhayā nāma sā disā*.[^51] "This path is called the 'straight' and the direction it goes is called the 'fearless'." In the *Itivuttaka* we come across a verse which expresses this idea more vividly:
 
-*Sekhassa sikkhamānassa,*
+> *Sekhassa sikkhamānassa,*  
+> *ujumaggānusārino,*  
+> *khayasmiṃ paṭhamaṃ ñāṇaṃ,*  
+> *tato aññā anantarā*.[^52]
 
-*ujumaggānusārino,*
-
-*khayasmiṃ paṭhamaṃ ñāṇaṃ,*
-
-*tato aññā anantarā*.[^52]
-
-"To the learner, learning
-
-In pursuit of the straight path,
-
-First comes the knowledge of destruction
-
-And then immediately the certitude."
+> "To the learner, learning  
+> In pursuit of the straight path,  
+> First comes the knowledge of destruction  
+> And then immediately the certitude."  
 
 It is the fruit of *Arahant*-ship which gives him the certitude of the attainment of *Nibbāna*.
 
@@ -72,21 +59,15 @@ So this string of epithets testifies to the efficacy of the realization by the f
 
 We have just given a simile by way of illustration, but incidentally there is a *Dhammapada* verse which comes closer to it:
 
-*Chinda sotaṃ parakkamma,*
+> *Chinda sotaṃ parakkamma,*  
+> *kāme panuda brāhmaṇa*,  
+> *saṅkhārānaṃ khayaṃ ñatvā,*  
+> *akataññū'si brāhmaṇa*.[^56]
 
-*kāme panuda brāhmaṇa*,
-
-*saṅkhārānaṃ khayaṃ ñatvā,*
-
-*akataññū'si brāhmaṇa*.[^56]
-
-"Strive forth and cut off the stream,
-
-Discard, oh Brahmin, sense-desires,
-
-Having known the destruction of preparations, oh Brahmin,
-
-Become a knower of the un-made."
+> "Strive forth and cut off the stream,  
+> Discard, oh Brahmin, sense-desires,  
+> Having known the destruction of preparations, oh Brahmin,  
+> Become a knower of the un-made."
 
 So this verse clearly indicates what the knowledge of the path does when it arises. Just as one leaps forward and cuts off a stream of water, so it cuts off, even for a moment, the preparations connected with craving. Thereby one realizes the destruction of preparations - *saṅkhārānaṃ khayaṃ ñatvā*.
 
@@ -104,63 +85,41 @@ It seems, then, that though we say we 'attain' *Nibbāna* there is nothing to ga
 
 Now there are quite a number of synonyms for *Nibbāna*, such as *akata* and *asaṅkhata*. As already mentioned, there is even a list of thirty-three such epithets, out of which one is *dīpa*.[^58] Now *dīpa* means an island. When we are told that *Nibbāna* is an island, we tend to imagine some sort of existence in a beautiful island. But in the *Pārāyanavagga* of the *Sutta Nipāta* the Buddha gives a good corrective to that kind of imagining in his reply to a question put by the Brahmin youth *Kappa*, a pupil of *Bāvarī*. *Kappa* puts his question in the following impressive verse:
 
-*Majjhe sarasmiṃ tiṭṭhataṃ,*
+> *Majjhe sarasmiṃ tiṭṭhataṃ,*  
+> *oghe jāte mahabbhaye,*  
+> *jarāmaccuparetānaṃ,*  
+> *dīpaṃ pabrūhi mārisa,*  
+> *tvañca me dīpam akkhāhi,*  
+> *yathayidaṃ nāparaṃ siyā*.[^59]
 
-*oghe jāte mahabbhaye,*
-
-*jarāmaccuparetānaṃ,*
-
-*dīpaṃ pabrūhi mārisa,*
-
-*tvañca me dīpam akkhāhi,*
-
-*yathayidaṃ nāparaṃ siyā*.[^59]
-
-"Unto them that stand midstream,
-
-When the frightful floods flow forth,
-
-To them in decay-and-death forlorn,
-
-An island, sire, may you proclaim.
-
-An island which non else excels,
-
-Yea, such an isle, pray tell me sire."
+> "Unto them that stand midstream,
+> When the frightful floods flow forth,
+> To them in decay-and-death forlorn,
+> An island, sire, may you proclaim.
+> An island which non else excels,
+> Yea, such an isle, pray tell me sire."
 
 And the Buddha gives his answer in two inspiring verses:
 
-*Majjhe sarasmiṃ tiṭṭhataṃ,*
+> *Majjhe sarasmiṃ tiṭṭhataṃ,*
+> *oghe jāte mahabbhaye,*
+> *jarāmaccuparetānaṃ,*
+> *dīpaṃ pabrūmi Kappa te.*
+> 
+> *Akiñcanaṃ anādānaṃ,*
+> *etaṃ dīpaṃ anāparaṃ,*
+> *nibbānaṃ iti naṃ brūmi,*
+> *jarāmaccuparikkhayaṃ*.
 
-*oghe jāte mahabbhaye,*
-
-*jarāmaccuparetānaṃ,*
-
-*dīpaṃ pabrūmi Kappa te.*
-
-*Akiñcanaṃ anādānaṃ,*
-
-*etaṃ dīpaṃ anāparaṃ,*
-
-*nibbānaṃ iti naṃ brūmi,*
-
-*jarāmaccuparikkhayaṃ*.
-
-"Unto them that stand midstream,
-
-When the frightful floods flow forth,
-
-To them in decay-and-death forlorn,
-
-An island, *Kappa*, I shall proclaim.
-
-Owning naught, grasping naught,
-
-The isle is this, none else besides.
-
-*Nibbāna*, that is how I call that isle,
-
-Wherein is decay decayed and death is dead."
+> "Unto them that stand midstream,
+> When the frightful floods flow forth,
+> To them in decay-and-death forlorn,
+> An island, *Kappa*, I shall proclaim.
+>
+> Owning naught, grasping naught,
+> The isle is this, none else besides.
+> *Nibbāna*, that is how I call that isle,
+> Wherein is decay decayed and death is dead."
 
 *Akiñcanaṃ* means 'owning nothing', *anādānaṃ* means 'grasping nothing'. *Etaṃ dīpaṃ anāparaṃ*, this is the island, nothing else. *Nibbānaṃ iti naṃ brūmi, jarāmaccuparikkhayaṃ*, "and that I call *Nibbāna*, which is the extinction of decay-and-death."
 
@@ -178,29 +137,25 @@ From this context we can gather that if there is any term we can use to define *
 
 In quite a number of contexts, such as the *Bahudhātukasutta* of the *Majjhima Nikāya* and the *Bodhivagga* of the *Udāna* the law of *paṭicca samuppāda* is set out in the following manner:
 
-*Iti imasmiṃ sati idaṃ hoti,*
+> *Iti imasmiṃ sati idaṃ hoti,*
+> *imassuppādā idaṃ uppajjati*
+> 
+> *imasmiṃ asati idaṃ na hoti,*
+> *imassa nirodhā idaṃ nirujjhati -*
+>
+> *yadidaṃ avijjāpaccayā saṅkhārā, saṅkhārapaccayā viññāṇaṃ, viññāṇapaccayā nāmarūpaṃ, nāmarūpapaccayā saḷāyatanaṃ, saḷāyatanapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṃ, upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassūpāyāsā sambhavanti. Evametassa kevalassa dukkhakkhandhassa samudayo hoti.*
+>
+> *Avijjāyatveva asesavirāganirodhā saṅkhāranirodho, saṅkhāranirodhā viññāṇanirodho, viññāṇanirodhā nāmarūpanirodho, nāmarūpanirodhā saḷāyatananirodho, saḷāyatananirodhā phassanirodho, phassanirodhā vedanānirodho, vedanānirodhā taṇhānirodho, taṇhānirodhā upādānanirodho, upādānanirodhā bhavanirodho, bhavanirodhā jātinirodho, jātinirodhā jarāmaraṇaṃ sokaparidevadukkhadomanassūpāyāsā nirujjhanti. Evametassa kevalassa dukkhakkhandhassa nirodho hoti.*[^61]
 
-*imassuppādā idaṃ uppajjati*
-
-*imasmiṃ asati idaṃ na hoti,*
-
-*imassa nirodhā idaṃ nirujjhati -*
-
-*yadidaṃ avijjāpaccayā saṅkhārā, saṅkhārapaccayā viññāṇaṃ, viññāṇapaccayā nāmarūpaṃ, nāmarūpapaccayā saḷāyatanaṃ, saḷāyatanapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṃ, upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassūpāyāsā sambhavanti. Evametassa kevalassa dukkhakkhandhassa samudayo hoti.*
-
-*Avijjāyatveva asesavirāganirodhā saṅkhāranirodho, saṅkhāranirodhā viññāṇanirodho, viññāṇanirodhā nāmarūpanirodho, nāmarūpanirodhā saḷāyatananirodho, saḷāyatananirodhā phassanirodho, phassanirodhā vedanānirodho, vedanānirodhā taṇhānirodho, taṇhānirodhā upādānanirodho, upādānanirodhā bhavanirodho, bhavanirodhā jātinirodho, jātinirodhā jarāmaraṇaṃ sokaparidevadukkhadomanassūpāyāsā nirujjhanti. Evametassa kevalassa dukkhakkhandhassa nirodho hoti.*[^61]
-
-"Thus: -This being - this comes to be
-
-With the arising of this - this arises
-
-This not being - this does not come to be
-
-With the cessation of this - this ceases.
-
-\- and that is to say, dependent on ignorance, preparations come to be; dependent on preparations, consciousness; dependent on consciousness, name-and-form; dependent on name-and-form, the six sense-bases; dependent on the six sense-bases, contact; dependent on contact, feeling; dependent on feeling, craving; dependent on craving, grasping; dependent on grasping, becoming; dependent on becoming, birth; dependent on birth, decay-and-death, sorrow, lamentation, pain, grief and despair come to be. Thus is the arising of this entire mass of suffering.
-
-But with the complete fading away and cessation of ignorance, comes the cessation of preparations; with the cessation of preparations, the cessation of consciousness; with the cessation of consciousness, the cessation of name-and-form; with the cessation of name-and-form, the cessation of the six sense-bases; with the cessation of the six sense-bases, the cessation of contact; with the cessation of contact, the cessation of feeling; with the cessation of feeling, the cessation of craving; with the cessation of craving, the cessation of grasping; with the cessation of grasping, the cessation of becoming; with the cessation of becoming, the cessation of birth; with the cessation of birth, the cessation of decay-and-death, sorrow, lamentation, pain, grief and despair cease to be. Thus is the cessation of this entire mass of suffering."
+> "Thus: -This being - this comes to be
+> With the arising of this - this arises
+>
+> This not being - this does not come to be
+> With the cessation of this - this ceases.
+>
+> \- and that is to say, dependent on ignorance, preparations come to be; dependent on preparations, consciousness; dependent on consciousness, name-and-form; dependent on name-and-form, the six sense-bases; dependent on the six sense-bases, contact; dependent on contact, feeling; dependent on feeling, craving; dependent on craving, grasping; dependent on grasping, becoming; dependent on becoming, birth; dependent on birth, decay-and-death, sorrow, lamentation, pain, grief and despair come to be. Thus is the arising of this entire mass of suffering.
+>
+> But with the complete fading away and cessation of ignorance, comes the cessation of preparations; with the cessation of preparations, the cessation of consciousness; with the cessation of consciousness, the cessation of name-and-form; with the cessation of name-and-form, the cessation of the six sense-bases; with the cessation of the six sense-bases, the cessation of contact; with the cessation of contact, the cessation of feeling; with the cessation of feeling, the cessation of craving; with the cessation of craving, the cessation of grasping; with the cessation of grasping, the cessation of becoming; with the cessation of becoming, the cessation of birth; with the cessation of birth, the cessation of decay-and-death, sorrow, lamentation, pain, grief and despair cease to be. Thus is the cessation of this entire mass of suffering."
 
 This is the thematic statement of the law of *paṭicca samuppāda*. It is set out here in the form of a fundamental principle. *Imasmiṃ sati idaṃ hoti*, "this being, this comes to be." *Imassuppādā idaṃ uppajjati,* "with the arising of this, this arises." *Imasmiṃ asati idaṃ na hoti*, "this not being, this does not come to be". *Imassa nirodhā idaṃ nirujjhati*, "with the cessation of this, this ceases." It resembles an algebraical formula.
 
@@ -208,7 +163,9 @@ And then we have the conjunctive *yadidaṃ*, which means "namely this" or "that
 
 This fact is very clearly brought out in a certain *sutta* in the *Nidānavagga* of the *Saṃyutta Nikāya*. There the Buddha addresses the monks and says:
 
-*Paṭiccasamuppādañca vo, bhikkhave, desessāmi paṭiccasamuppanne ca dhamme*.[^62] "Monks, I will teach you dependent arising and things that are dependently arisen."
+> *Paṭiccasamuppādañca vo, bhikkhave, desessāmi paṭiccasamuppanne ca dhamme*.[^62] 
+> 
+> "Monks, I will teach you dependent arising and things that are dependently arisen."
 
 In this particular context the Buddha makes a distinction between dependent arising and things that are dependently arisen. In order to explain what is meant by dependent arising, or *paṭicca samuppāda*, he takes up the last two links in the formula, in the words: *jātipaccayā, bhikkhave, jarāmaraṇaṃ*, "monks, dependent on birth is decay-and-death." Then he draws attention to the importance of the basic principle involved: *Uppādā vā Tathāgatānaṃ anuppādā vā Tathāgatānaṃ, ṭhitā va sā dhātu dhammaṭṭhitatā dhammaniyāmatā idappaccayatā* (etc.). Out of the long exhortation given there, this is the part relevant to us here.
 
@@ -216,7 +173,8 @@ In this particular context the Buddha makes a distinction between dependent aris
 
 So from this it is clear that the underlying principle could be understood even with the help of a couple of links. But the commentary seems to have ignored this fact in its definition of the term *idappaccayatā*. It says: *Imesaṃ jarāmaraṇādīnaṃ paccayā idappaccayā, idappaccayāva idappaccayatā*.[^63] The word *imesaṃ* is in the plural and this indicates that the commentator has taken the dependence in a collective sense. But it is because of the fact that even two links are sufficient to illustrate the law, that the Buddha follows it up with the declaration that this is the *paṭicca samuppāda*. And then he goes on to explain what is meant by 'things dependently arisen':
 
-*Katame ca, bhikkhave, paṭiccasamuppannā dhammā*? *Jarāmaraṇaṃ, bhikkhave, aniccaṃ saṇkhataṃ paṭiccasamuppannaṃ khayadhammaṃ vayadhammaṃ virāgadhammaṃ nirodhadhammaṃ*. "What, monks, are things dependently arisen?" And then, taking up just one of the last links, he declares: "decay-and-death, monks, is impermanent, prepared, dependently arisen, of a nature to get destroyed, to pass away, fade away and cease."
+> *Katame ca, bhikkhave, paṭiccasamuppannā dhammā*? *Jarāmaraṇaṃ, bhikkhave, aniccaṃ saṇkhataṃ paṭiccasamuppannaṃ khayadhammaṃ vayadhammaṃ virāgadhammaṃ nirodhadhammaṃ*. 
+> "What, monks, are things dependently arisen?" And then, taking up just one of the last links, he declares: "decay-and-death, monks, is impermanent, prepared, dependently arisen, of a nature to get destroyed, to pass away, fade away and cease."
 
 By the way, the word *virāga* usually means detachment or dispassion. But in such contexts as *avijjāvirāgā* and *pītiyā ca virāgā* one has to render it by words like 'fading away'. So that *avijjāvirāga* could be rendered as: 'by the fading away of ignorance', and *pītiyā virāgā* would mean 'by the fading away of joy'.
 
@@ -230,7 +188,8 @@ Now birth itself is an arising. But here we can't help saying that birth 'arises
 
 Now at this point let us take up for discussion a certain significant passage in the *MahāNidānasutta* of the *Dīgha Nikāya*. In the course of an exposition of the law of *paṭicca samuppāda*, addressed to Venerable *Ānanda*, the Buddha makes the following statement:
 
-*Ettāvatā kho, Ānanda, jāyetha vā jīyetha vā mīyetha vā cavetha vā upapajjetha vā. Ettāvatā adhivacanapatho, ettāvatā niruttipatho, ettāvatā paññattipatho, ettāvatā paññāvacaraṃ, ettāvatā vaṭṭaṃ vattati itthattaṃ paññāpanāya yadidaṃ nāmarūpaṃ saha viññāṇena*.[^64] "In so far only, *Ānanda*, can one be born, or grow old, or die, or pass away, or reappear, in so far only is there any pathway for verbal expression, in so far only is there any pathway for terminology, in so far only is there any pathway for designation, in so far only is the range of wisdom, in so far only is the round kept going for there to be a designation as the this-ness, that is to say: name-and-form together with consciousness."
+> *Ettāvatā kho, Ānanda, jāyetha vā jīyetha vā mīyetha vā cavetha vā upapajjetha vā. Ettāvatā adhivacanapatho, ettāvatā niruttipatho, ettāvatā paññattipatho, ettāvatā paññāvacaraṃ, ettāvatā vaṭṭaṃ vattati itthattaṃ paññāpanāya yadidaṃ nāmarūpaṃ saha viññāṇena*.[^64] 
+> "In so far only, *Ānanda*, can one be born, or grow old, or die, or pass away, or reappear, in so far only is there any pathway for verbal expression, in so far only is there any pathway for terminology, in so far only is there any pathway for designation, in so far only is the range of wisdom, in so far only is the round kept going for there to be a designation as the this-ness, that is to say: name-and-form together with consciousness."
 
 We have rendered the term *itthatta* by 'this-ness', and what it means will become clear as we go on. In the above quotation the word *ettāvatā*, which means 'in so far only', has as its point of reference the concluding phrase *yadidaṃ nāmarūpaṃ saha viññāṇena*, "that is to say: name-and-form together with consciousness". So the statement, as it is, expresses a complete idea. But some editions have an additional phrase: *aññamaññapaccayatā pavattati*, "exists in a mutual relationship". This phrase is obviously superfluous and is probably a commentarial addition.
 
@@ -270,20 +229,14 @@ Now regarding the question of existence we happened to mention that because of a
 
 There are a couple of verses in the *Dvayatānupassanāsutta* of the *Sutta Nipāta* which bring out the meaning of this word more clearly:
 
-*Jāti maraṇa saṃsāraṃ,*
-
-*ye vajanti punappunaṃ,*
-
-*itthabhāvaññathābhāvaṃ,*
-
+*Jāti maraṇa saṃsāraṃ,*  
+*ye vajanti punappunaṃ,*  
+*itthabhāvaññathābhāvaṃ,*  
 *avijjāyeva sā gati*.[^67]
 
-*Taṇhā dutiyo puriso,*
-
-*dīgham addhāna saṃsāraṃ,*
-
-*itthabhāvaññathābhāvaṃ,*
-
+*Taṇhā dutiyo puriso,*  
+*dīgham addhāna saṃsāraṃ,*  
+*itthabhāvaññathābhāvaṃ,*  
 *saṃsāraṃ nātivattati*.[^68]
 
 *Ye jāti maraṇa saṃsāraṃ punappunaṃ* *vajanti*, "they that go on again and again the round of birth and death". *Itthabhāvaññathābhāvaṃ* "which is a this-ness and an otherwise-ness", or "which is an alternation between a this-ness and an otherwise-ness". *Sā gati avijjāya eva*, "that going of them, that faring of them, is only a journey of ignorance." *Taṇhā dutiyo puriso*, "the man with craving as his second" (or his companion). *Dīgham addhāna saṃsāraṃ*, "faring on for a long time in *saṃsāra*". *Itthabhāvaññathābhāvaṃ, saṃsāraṃ nātivattati*, "does not get away from the round which is a this-ness and an otherwise-ness", or "which is an alternation between a this-ness and an otherwise-ness". What is meant by it, is the transcendence of *saṃsāra*.
@@ -318,52 +271,37 @@ But on deeper analysis it reveals its **not-self** nature. What we have here is 
 
 **So even a whirlpool is not its own**, there is nothing really automatic about it. This then is the *dukkha*, the suffering, the conflict, the unsatisfactoriness. What the world holds on to as existence is just a process of otherwise-ness, as the Buddha vividly portrays for us in the following verses of the *Nandavagga* of the *Udāna*.
 
-*Ayaṃ loko santāpajāto, phassapareto*
-
-*rogaṃ vadati attato,*
-
-*yena yena hi maññati,*
-
-*tato taṃ hoti aññathā.*
-
-*Aññathābhāvī bhavasatto loko,*
-
-*bhavapareto bhavam evābhinandati,*
-
-*yad'abhinandati taṃ bhayaṃ,*
-
-*yassa bhāyati taṃ dukkhaṃ,*
-
+*Ayaṃ loko santāpajāto, phassapareto*  
+*rogaṃ vadati attato,*  
+*yena yena hi maññati,*  
+*tato taṃ hoti aññathā.*  
+*Aññathābhāvī bhavasatto loko,*  
+*bhavapareto bhavam evābhinandati,*  
+*yad'abhinandati taṃ bhayaṃ,*  
+*yassa bhāyati taṃ dukkhaṃ,*  
 *bhava vippahānāya kho panidaṃ brahmacariyaṃ vussati.*[^77]
 
-"This anguished world, fully given to contact,
-
-Speaks of a disease as self.
-
-In whatever terms it conceives of,
-
+"This anguished world, fully given to contact,  
+Speaks of a disease as self.  
+In whatever terms it conceives of,  
 Even thereby it turns otherwise.
 
 The world, attached to becoming,Given fully to becoming,
 
 Though becoming otherwise, Yet delights in becoming.
 
-What it delights in is a fear
-
-What it fears from is a suffering.
-
+What it delights in is a fear  
+What it fears from is a suffering.  
 But then this holy life is lived for the abandoning of that very becoming."
 
 **Just a few lines - but how deep they go!** The world is in anguish and is enslaved by contact. What it calls self is nothing but a disease. *Maññati* is a word of deeper significance. *Maññanā* is conceiving under the influence of craving, conceit and views. Whatever becomes an object of that conceiving, by that very conception it becomes otherwise. That is to say that an opportunity arises for an otherwise-ness, even as 'death' has come together with 'birth'.
 
 So conceiving, or conception, is itself the reason for otherwise-ness. Before a '**thing**' becomes '**otherwise**', it has to become a '**thing**'. And it becomes a 'thing' only when attention is focussed on it under the influence of craving, conceit and views and it is separated from the whole world and grasped as a '**thing'**. And that is why it is said:
 
-*Yaṃ yañhi lokasmim upādiyanti,*
-
+*Yaṃ yañhi lokasmim upādiyanti,*  
 *teneva Māro anveti jantuṃ.*[^78]
 
-"Whatever one grasps in the world,
-
+"Whatever one grasps in the world,  
 By that itself *Māra* pursues a being."
 
 The world is attached to becoming and is fully given to becoming. Therefore its very nature is otherwise-ness, *aññathābhāvī*. And then the Buddha declares the inevitable outcome of this contradictory position: *yad abhinandati taṃ bhayaṃ*, whatever one delights in, that is a fear, that is a danger. What one delights in, is 'becoming' and that is a source of fear. And *yassa bhāyati taṃ dukkhaṃ*, what one fears, or is afraid of, that is suffering. And of what is one afraid? One is afraid of the otherwise-ness of the thing that one holds on to as existing. So the otherwise-ness is the suffering and the thing grasped is a source of fear.
@@ -384,22 +322,15 @@ It seems that even the colour or shade of decay-and-death can fade away and that
 
 This, then, is something deeper than the whirlpool itself. The whirlpool can be pointed out because of its activity. But not so easily the emancipated ones and that is why there is so much controversy regarding the nature of the *Tathāgatha*. The image of the whirlpool in its relation to the emancipated ones is beautifully presented in the following verse from the *Cūḷavagga* of the *Udāna*:
 
-*Acchecchi vaṭṭaṃ byagā nirāsaṃ,*
-
-*visukkhā saritā na sandati,*
-
-*chinnaṃ vaṭṭaṃ na vattati,*
-
+*Acchecchi vaṭṭaṃ byagā nirāsaṃ,*  
+*visukkhā saritā na sandati,*  
+*chinnaṃ vaṭṭaṃ na vattati,*  
 *es' ev' anto dukkhassa*.[^81]
 
-"He has cut off the whirlpool
-
-And reached desirelessness,
-
-The stream dried up now no longer flows.
-
-The whirlpool cut off whirls no more.
-
+"He has cut off the whirlpool  
+And reached desirelessness,  
+The stream dried up now no longer flows.  
+The whirlpool cut off whirls no more.  
 This, even this, is suffering's end."
 
 What has the *Arahant* done? He has cut off the whirlpool. He has breached it and has reached the desireless state. The stream of craving is dried up and flows no more. The whirlpool cut off at the root no more whirls. And this is the end of suffering. The cutting off of the whirlpool is the realization of cessation, which is *Arahant*-hood.
@@ -407,43 +338,28 @@ What has the *Arahant* done? He has cut off the whirlpool. He has breached it an
 It is because of the accent on the arising aspect that the current tries to move against the main stream. When that attempt is given up, the rest happens as a matter of course. This idea is even more clearly brought out by the following two verses in the *Sagāthavagga* of the *Saṃyutta Nikāya*. They are in the form of a dialogue between a deity and the Buddha. The deity asks:
 
 *Kuto sarā nivattanti,*
-
 *kattha vaṭṭaṃ na vattati,*
-
 *kattha nāmañca rūpañca*
-
 *asesaṃ uparujjhati*?[^82]
 
 "From where do currents turn back,
-
 Where whirls no more the whirlpool,
-
 Where is it that name-and-form
-
 Is held in check in a way complete?"
 
 The Buddha gives the answer in the following verse:
 
 *Yattha āpo ca paṭhavī,*
-
 *tejo vāyo na gādhati,*
-
 *ato sarā nivattanti,*
-
 *ettha vaṭṭaṃ na vattati,*
-
 *ettha nāmañca rūpañca,*
-
 *asesaṃ uparujjhati*.
 
 "Where earth and water, fire and wind no footing find,
-
 From there it is that currents turn back.
-
 There the whirlpool whirls no more
-
 And there it is that name-and-form
-
 Is held in check in a way complete."
 
 The reference here is to *Nibbāna*. Whether it is called *sabbasaṅkhārasamatha*, the stilling of all preparations, or *asaṅkhatadhātu*, the unprepared element, it means the state of cessation. And when the *Arahant's* mind is in that state, the four elements, which are like ghosts, do not haunt him. They do not get a '**footing**' in that consciousness. When they fade away, due to detachment, those currents do not flow and the whirlpool whirls no more. Name and form are fully held in check there.
@@ -453,9 +369,3 @@ Now as far as the meaning of *rūpa* in *nāma-rūpa* in this reference is conce
 Supposing someone, walking in the darkness of the night, has a hallucination of a devil and runs away to escape from it. He thinks he is running away from the devil, but he is taking the devil with him. The devil is in his mind, it is something imagined. Similarly, until the Buddha came into the scene, the worldlings grasped *arūpa* in order to get away from *rūpa*. But because of the dichotomy between *rūpa* and *arūpa*, even when they swung as far as the highest formless realms, they were still in bondage to *saṅkhāras*, or preparations. As soon as the momentum of their swing of *saṅkhāras* got fully spent, they swung back to *rūpa*. So here too we see the question of duality and dichotomy.
 
 This sermon has served its purpose if it has drawn attention to the importance of the questions of duality, dichotomy and the relatedness of this to that, *idappaccayatā*. So this is enough for today.
-
- 
-
-[back to top](https://seeingthroughthenet.net/wp-content/uploads/2018/03/Mind-Stilled_HTML.htm#top)
-
- 

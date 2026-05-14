@@ -15,13 +15,15 @@ alt_doc_url:
 
 <!-- ## MIND STILLED 01 -->
 
-> Namo tassa bhagavato arahato sammāsambuddhassa
-> Namo tassa bhagavato arahato sammāsambuddhassa
-> Namo tassa bhagavato arahato sammāsambuddhassa
+> *Namo tassa bhagavato arahato sammāsambuddhassa  
+> Namo tassa bhagavato arahato sammāsambuddhassa  
+> Namo tassa bhagavato arahato sammāsambuddhassa*
 
-> *Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[^1]
+> *Etaṃ santaṃ, etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho  
+> sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.[^1]
 
-> "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction".
+> "This is peaceful, this is excellent, namely the stilling of all preparations, 
+> the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction".
 
 With the permission of the Most Venerable Great Preceptor and the assembly of the venerable meditative monks.
 
@@ -29,9 +31,11 @@ Recently we have had an occasion to listen to a series of sermons on *Nibbāna* 
 
 At first, for many reasons, I hesitated to accept this invitation for a serious task, but then, as the venerable Great Preceptor repeatedly encouraged me on this, I gave some thought as to how best I could set about doing it. And it occurred to me that it would be best if I could address these sermons directly to the task before us in this Nissarana Vanaya, and that is meditative attention, rather than dealing with those deep controversial *suttas* in academic isolation. And that is why I have selected the above quotation as the theme for the entire set of sermons, hoping that it would help create the correct atmosphere of meditative attention.
 
-> *Etaṃ santaṃ etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.
+> *Etaṃ santaṃ etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho  
+> sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ*.
 
-> "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction".
+> "This is peaceful, this is excellent, namely the stilling of all preparations,  
+> the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction".
 
 This in fact is a meditation subject in itself, a *kammaṭṭhāna*. This is the reflection on the peace of *Nibbāna, upasamānussati*. So if we can successfully make use of this as both the heading and the theme of these sermons, we would be in a position to understand those six qualities of the *Dhamma*. We are told that the *Dhamma* is *svākkhāta*, that it is well-proclaimed, *sandiṭṭhika*, can be seen here and now, *akālika*, timeless, *ehipassika*, inviting one to come and see, *opanayika*, leading one onwards, *paccattaṃ veditabbo viññūhi*, that it can be understood by the wise each one by himself.[^2]
 
@@ -43,7 +47,9 @@ There is a popular belief that the commentaries are finally traceable to a misce
 
 In the *Āṇisutta* of the *Nidānavagga* in the *Saṃyutta Nikāya* we find the Buddha making certain prophetic utterances regarding the dangers that will befall the *Sāsana* in the future. It is said that in times to come, monks will lose interest in those deep *suttas* which deal with matters transcendental, that they would not listen to those *suttas* that have to do with the idea of emptiness, *suññatā*. They would not think it even worthwhile learning or pondering over the meanings of those *suttas*:
 
-> *Ye te suttantā tathāgatabhāsitā gambhīrā gambhīratthā lokuttarā suññatappaṭisaṃyuttā, tesu bhaññamānesu na sussūssisanti na sotaṃ odahissanti na aññā cittaṃ upaṭṭhāpessanti na te dhamme uggahetabbaṃ pariyāpuṇitabbaṃ maññissanti*.[^3]
+> *Ye te suttantā tathāgatabhāsitā gambhīrā gambhīratthā lokuttarā suññatappaṭisaṃyuttā,  
+> tesu bhaññamānesu na sussūssisanti na sotaṃ odahissanti na aññā cittaṃ upaṭṭhāpessanti  
+> na te dhamme uggahetabbaṃ pariyāpuṇitabbaṃ maññissanti*.[^3]
 
 There is also another historical reason that can be adduced. An idea got deeply rooted at a certain stage in the *Sāsana* history that what is contained in the *Sutta Piṭaka* is simply the conventional teaching and so it came to imply that there is nothing so deep in these *suttas*. This notion also had its share in the present lack of interest in these *suttas*. According to *Manorathapūraṇī*, the *Aṅguttara* commentary, already at an early stage in the *Sāsana* history of Sri Lanka, there had been a debate between those who upheld the precept and those who stood for realization.[^4] And it is said that those who upheld the precept won the day. The final conclusion was that, for the continuity of the *Sāsana*, precept itself is enough, not so much the realization.
 
@@ -59,7 +65,9 @@ Also there have been certain semantic developments in the commentarial period, a
 
 This is the second out of the ten questions Buddha had put to the Venerable *sāmanera Sopāka* who had attained *Arahant-*ship at the age of seven. It is like asking a child: "Can you count up to ten?" All the ten questions were deep, the tenth being on *Arahant*-ship. But of course Venerable *Sopāka* gave the right answer each time. Now it is the second question and its answer that we are concerned with here: *nāmañca rūpañca*. In fact, this is a basic teaching in insight training.
 
-It is obvious that *nāma* means 'name', and in the *suttas* also, *nāma*, when used by itself, means 'name'. However when we come to the commentaries we find some kind of hesitation to recognize this obvious meaning. Even in the present context, the commentary, *Paramatthajotikā*, explains the word 'name' so as to mean 'bending'. It says that all immaterial states are called *nāma*, in the sense that they bend towards their respective objects and also because the mind has the nature of inclination: *Ārammaṇābhimukhaṃ namanato, cittassa ca natihetuto sabbampi arūpaṃ 'nāman'ti vuccati*.[^6]
+It is obvious that *nāma* means 'name', and in the *suttas* also, *nāma*, when used by itself, means 'name'. However when we come to the commentaries we find some kind of hesitation to recognize this obvious meaning. Even in the present context, the commentary, *Paramatthajotikā*, explains the word 'name' so as to mean 'bending'. It says that all immaterial states are called *nāma*, in the sense that they bend towards their respective objects and also because the mind has the nature of inclination:  
+
+> *Ārammaṇābhimukhaṃ namanato, cittassa ca natihetuto sabbampi arūpaṃ 'nāman'ti vuccati*.[^6]
 
 And this is the standard definition of *nāma* in *Abhidhamma* compendiums and commentaries. The idea of bending towards an object is brought in to explain the word *nāma*. It may be that they thought it too simple an interpretation to explain *nāma* with reference to 'name', particularly because it is a term that has to do with deep insight. However as far as the teachings in the *suttas* are concerned, *nāma* still has a great depth even when it is understood in the sense of 'name'.
 
@@ -75,23 +83,27 @@ And this is the standard definition of *nāma* in *Abhidhamma* compendiums and c
 
 Also there is another verse of the same type, but unfortunately its original meaning is often ignored by the present day commentators:
 
-> *Akkheyyasaññino sattā,*
-> *akkheyyasmiṃ patiṭṭhitā,*
-> *akkheyyaṃ apariññāya,*
+> *Akkheyyasaññino sattā,*  
+> *akkheyyasmiṃ patiṭṭhitā,*  
+> *akkheyyaṃ apariññāya,*  
 > *yogam āyanti maccuno*.[^8]
 
-> "Beings are conscious of what can be named,
-> They are established on the nameable,
-> By not comprehending the nameable things,
+> "Beings are conscious of what can be named,  
+> They are established on the nameable,  
+> By not comprehending the nameable things,  
 > They come under the yoke of death."
 
 All this shows that the word *nāma* has a deep significance even when it is taken in the sense of 'name'.
 
 But now let us see whether there is something wrong in rendering *nāma* by 'name' in the case of the term *nāma-rūpa*. To begin with, let us turn to the definition of *nāma-rūpa* as given by the Venerable *Sāriputta* in the *Sammādiṭṭhisutta* of the *Majjhima Nikāya*.
 
-> *Vedanā, saññā, cetanā, phasso, manasikāro - idaṃ vuccatāvuso, nāmaṃ*; *cattāri ca mahābhūtāni, catunnañca mahābhūtānaṃ upādāyarūpaṃ - idaṃ vuccatāvuso, rūpaṃ. Iti idañca nāmaṃ idañca rūpaṃ - idam vuccatāvuso nāma-rūpaṃ.*[^9] 
+> *Vedanā, saññā, cetanā, phasso, manasikāro - idaṃ vuccatāvuso, nāmaṃ*;  
+> *cattāri ca mahābhūtāni, catunnañca mahābhūtānaṃ upādāyarūpaṃ - idaṃ vuccatāvuso, rūpaṃ.  
+> Iti idañca nāmaṃ idañca rūpaṃ - idam vuccatāvuso nāma-rūpaṃ.*[^9] 
 
-> "Feeling, perception, intention, contact, attention - this, friend, is called 'name'. The four great primaries and form dependent on the four great primaries - this, friend, is called 'form'. So this is 'name' and this is 'form' - this, friend, is called 'name-and-form'."
+> "Feeling, perception, intention, contact, attention - this, friend, is called 'name'.  
+> The four great primaries and form dependent on the four great primaries - this, friend, is called 'form'.  
+> So this is 'name' and this is 'form' - this, friend, is called 'name-and-form'."
 
 Well, this seems lucid enough as a definition but let us see, whether there is any justification for regarding feeling, perception, intention, contact and attention as 'name'. Suppose there is a little child, a toddler, who is still unable to speak or understand language. Someone gives him a rubber ball and the child has seen it for the first time. If the child is told that it is a rubber ball, he might not understand it. How does he get to know that object? He smells it, feels it, and tries to eat it, and finally rolls it on the floor. At last he understands that it is a plaything. Now the child has recognised the rubber ball not by the name that the world has given it, but by those factors included under 'name' in *nāma-rūpa*, namely feeling, perception, intention, contact and attention.
 

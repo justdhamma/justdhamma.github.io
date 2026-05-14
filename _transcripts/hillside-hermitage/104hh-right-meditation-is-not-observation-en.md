@@ -1,25 +1,22 @@
 ---
-
-layout: post
-
-episode: 104
-
-title: Right Meditation is Not Observation
-
-description: This essay explores the concept of right meditation vs observation.
-
 lang: en
-
-excerpt: This essay explores the concept of right meditation vs observation.
-
+layout: post
 category: transcripts
-
+episode: 104
+title: Right Meditation is Not Observation
+pli_tag: samadhi
+eng_tag: meditation
+description: Talk no.104hh - condensed transcript
+excerpt: 
 youtube_url: 
-
-status: published
-
+gem_url: 
+gpt_url: 
+cld_url: 
+permalink: /transcripts/hillside-hermitage/104hh-right-meditation-is-not-observation-en/
+previous: /transcripts/hillside-hermitage/83hh-dont-be-faithful-to-ignorance-en/
 channel: hillside-hermitage
-
+status: finished
+editor: hh
 ---
 
 
