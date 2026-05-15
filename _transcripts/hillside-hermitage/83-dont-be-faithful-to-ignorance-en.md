@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '83'
+episode: 83
 title: Dont Be Faithful To Ignorance
 pli_tag: dhamma
 eng_tag: dhamma

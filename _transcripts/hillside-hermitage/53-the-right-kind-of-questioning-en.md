@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '53'
+episode: 53
 title: The Right Kind Of Questioning
 pli_tag: dhamma
 eng_tag: dhamma

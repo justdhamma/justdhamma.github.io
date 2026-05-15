@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '67'
+episode: 67
 title: Comprehending The Mindfulness Of Breathing And Death
 pli_tag: anicca
 eng_tag: impermanence

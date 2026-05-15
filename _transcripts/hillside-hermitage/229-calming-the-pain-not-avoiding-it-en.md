@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '229'
+episode: 229
 title: Calming The Pain Not Avoiding It
 pli_tag: dukkha
 eng_tag: suffering

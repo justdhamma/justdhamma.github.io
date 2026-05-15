@@ -2,19 +2,19 @@
 lang: en
 layout: post
 category: transcripts
-episode: '06'
+episode: 6
 title: Why Is Generosity Good
 pli_tag: dana
 eng_tag: generosity
 description: 'Talk no.06hh - condensed transcript '
 excerpt: ''
 youtube_url: https://www.youtube.com/watch?v=lTuxOUOPfgk
-gem_url: /transcripts/hillside-hermitage/06hh-why-is-generosity-good-ne-gem/
-gpt_url: /transcripts/hillside-hermitage/06hh-why-is-generosity-good-ne-gpt/
-cld_url: /transcripts/hillside-hermitage/06hh-why-is-generosity-good-ne-cld/
-permalink: /transcripts/hillside-hermitage/06hh-why-is-generosity-good-en/
+gem_url: /transcripts/hillside-hermitage/6hh-why-is-generosity-good-ne-gem/
+gpt_url: /transcripts/hillside-hermitage/6hh-why-is-generosity-good-ne-gpt/
+cld_url: /transcripts/hillside-hermitage/6hh-why-is-generosity-good-ne-cld/
+permalink: /transcripts/hillside-hermitage/6hh-why-is-generosity-good-en/
 channel: hillside-hermitage
-previous: /transcripts/hillside-hermitage/05hh-purpose-of-the-precepts-en/
+previous: /transcripts/hillside-hermitage/5hh-purpose-of-the-precepts-en/
 status: finished
 editor: hh
 ---

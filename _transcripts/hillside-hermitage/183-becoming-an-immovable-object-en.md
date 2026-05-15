@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '183'
+episode: 183
 title: Becoming An Immovable Object
 pli_tag: dhamma
 eng_tag: dhamma

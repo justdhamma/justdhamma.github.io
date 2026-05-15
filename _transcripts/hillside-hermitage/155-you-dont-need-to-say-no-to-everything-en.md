@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '155'
+episode: 155
 title: You Dont Need To Say No To Everything
 pli_tag: dhamma
 eng_tag: dhamma

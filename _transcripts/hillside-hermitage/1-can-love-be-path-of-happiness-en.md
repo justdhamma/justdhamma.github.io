@@ -2,17 +2,17 @@
 lang: en
 layout: post
 category: transcripts
-episode: '01'
+episode: 1
 title: Can Love Be Path Of Happiness
 pli_tag: pema
 eng_tag: love
 description: 'Talk no.01hh - condensed transcript '
 excerpt: ''
 youtube_url: https://www.youtube.com/watch?v=tCYWGlw3cSE
-gem_url: /transcripts/hillside-hermitage/01hh-can-love-be-path-of-happiness-ne-gem/
-gpt_url: /transcripts/hillside-hermitage/01hh-can-love-be-path-of-happiness-ne-gpt/
-cld_url: /transcripts/hillside-hermitage/01hh-can-love-be-path-of-happiness-ne-cld/
-permalink: /transcripts/hillside-hermitage/01hh-can-love-be-path-of-happiness-en/
+permalink: /transcripts/hillside-hermitage/1hh-can-love-be-path-of-happiness-en/
+gem_url: /transcripts/hillside-hermitage/1hh-can-love-be-path-of-happiness-ne-gem/
+gpt_url: /transcripts/hillside-hermitage/1hh-can-love-be-path-of-happiness-ne-gpt/
+cld_url: /transcripts/hillside-hermitage/1hh-can-love-be-path-of-happiness-ne-cld/
 channel: hillside-hermitage
 previous: ''
 status: finished

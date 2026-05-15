@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '28'
+episode: 28
 title: Sense Of Shame And Fear Of Wrongdoing
 pli_tag: hiri
 eng_tag: shame

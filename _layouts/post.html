@@ -110,22 +110,24 @@ layout: base
         {% elsif page.ne_url %}
           · <a href="{{ page.ne_url }}">Nepali</a>
         {% endif %}
-      {% elsif page.lang == "en" and nepali_translations.size > 0 %}
+      {% elsif page.lang == "en" %}
         {% if page.youtube_url %}
           | <button type="button" class="transcript-video-trigger" data-youtube-url="{{ page.youtube_url }}" aria-expanded="false" aria-controls="transcript-video-embed">Watch Here</button>
           · <a href="{{ page.youtube_url }}" target="_blank" rel="noopener noreferrer">Watch on YT</a>
         {% endif %}
-        {% if gem_translation %}
-          – <a href="{{ gem_translation.url }}">Gemini</a>
-        {% endif %}
-        {% if gpt_translation %}
-          · <a href="{{ gpt_translation.url }}">GPT</a>
-        {% endif %}
-        {% if cld_translation %}
-          · <a href="{{ cld_translation.url }}">Claude</a>
-        {% endif %}
-        {% if perplexity_translation %}
-          · <a href="{{ perplexity_translation.url }}">Perplexity</a>
+        {% if nepali_translations.size > 0 %}
+          {% if gem_translation %}
+            – <a href="{{ gem_translation.url }}">Gemini</a>
+          {% endif %}
+          {% if gpt_translation %}
+            · <a href="{{ gpt_translation.url }}">GPT</a>
+          {% endif %}
+          {% if cld_translation %}
+            · <a href="{{ cld_translation.url }}">Claude</a>
+          {% endif %}
+          {% if perplexity_translation %}
+            · <a href="{{ perplexity_translation.url }}">Perplexity</a>
+          {% endif %}
         {% endif %}
       {% elsif page.lang == "ne" and page.translator %}
         {% assign translator_name = page.translator | capitalize %}

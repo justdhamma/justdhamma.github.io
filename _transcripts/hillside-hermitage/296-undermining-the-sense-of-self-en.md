@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '296'
+episode: 296
 title: Undermining The Sense Of Self
 pli_tag: dhamma
 eng_tag: dhamma
@@ -23,7 +23,9 @@ a summarized transcription
 
 by **Ajahn Nyanamoli Thero**
 
-[\[video\]](https://www.youtube.com/watch?v=HIDVvlTYxIc) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20221121%20%20-%20296hh%20-%20Undermining%20the%20sense%20of%20self.mp3)
+[\[video\]](https://www.youtube.com/watch?v=HIDVvlTYxIc) 
+
+[\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20221121%20%20-%20296hh%20-%20Undermining%20the%20sense%20of%20self.mp3)
 
 **Ajahn Nyanamoli:** What would be the measure of success in this
 practice?

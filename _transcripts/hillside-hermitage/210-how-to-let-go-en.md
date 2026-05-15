@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '210'
+episode: 210
 title: How To Let Go
 pli_tag: dhamma
 eng_tag: dhamma

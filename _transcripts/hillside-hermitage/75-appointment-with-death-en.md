@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '75'
+episode: 75
 title: Appointment With Death
 pli_tag: anicca
 eng_tag: impermanence

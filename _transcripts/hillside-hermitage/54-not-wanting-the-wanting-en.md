@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '54'
+episode: 54
 title: Not Wanting The Wanting
 pli_tag: dhamma
 eng_tag: dhamma

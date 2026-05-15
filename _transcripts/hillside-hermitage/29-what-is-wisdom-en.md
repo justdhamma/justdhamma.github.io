@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '29'
+episode: 29
 title: What Is Wisdom
 pli_tag: panna
 eng_tag: wisdom

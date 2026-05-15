@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '230'
+episode: 230
 title: Stilling Of All Activities
 pli_tag: dhamma
 eng_tag: dhamma

@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '173'
+episode: 173
 title: Dukkha In Anicca Anatta In Dukkha
 pli_tag: dukkha
 eng_tag: suffering

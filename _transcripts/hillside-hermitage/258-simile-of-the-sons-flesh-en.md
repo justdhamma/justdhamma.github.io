@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '258'
+episode: 258
 title: Simile Of The Sons Flesh
 pli_tag: dhamma
 eng_tag: dhamma

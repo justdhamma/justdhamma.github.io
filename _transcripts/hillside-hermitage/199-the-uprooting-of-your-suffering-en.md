@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '199'
+episode: 199
 title: The Uprooting Of Your Suffering
 pli_tag: dukkha
 eng_tag: suffering

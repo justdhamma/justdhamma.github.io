@@ -2,19 +2,19 @@
 lang: en
 layout: post
 category: transcripts
-episode: '04'
+episode: 4
 title: Do We Live Only Once
 pli_tag: anicca
 eng_tag: impermanence
 description: 'Talk no.04hh - condensed transcript '
 excerpt: ''
 youtube_url: https://youtu.be/QXdTop65GTQ
-gem_url: /transcripts/hillside-hermitage/04hh-do-we-live-only-once-ne-gem/
-gpt_url: /transcripts/hillside-hermitage/04hh-do-we-live-only-once-ne-gpt/
-cld_url: /transcripts/hillside-hermitage/04hh-do-we-live-only-once-ne-cld/
-permalink: /transcripts/hillside-hermitage/04hh-do-we-live-only-once-en/
+gem_url: /transcripts/hillside-hermitage/4hh-do-we-live-only-once-ne-gem/
+gpt_url: /transcripts/hillside-hermitage/4hh-do-we-live-only-once-ne-gpt/
+cld_url: /transcripts/hillside-hermitage/4hh-do-we-live-only-once-ne-cld/
+permalink: /transcripts/hillside-hermitage/4hh-do-we-live-only-once-en/
 channel: hillside-hermitage
-previous: /transcripts/hillside-hermitage/03hh-how-to-overcome-attachments-en/
+previous: /transcripts/hillside-hermitage/3hh-how-to-overcome-attachments-en/
 status: finished
 editor: hh
 ---

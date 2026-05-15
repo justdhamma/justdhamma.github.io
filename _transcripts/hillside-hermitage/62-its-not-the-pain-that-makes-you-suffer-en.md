@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '62'
+episode: 62
 title: Its Not The Pain That Makes You Suffer
 pli_tag: dukkha
 eng_tag: suffering

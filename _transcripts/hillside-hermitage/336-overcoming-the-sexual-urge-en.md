@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '336'
+episode: 336
 title: Overcoming The Sexual Urge
 pli_tag: dhamma
 eng_tag: dhamma

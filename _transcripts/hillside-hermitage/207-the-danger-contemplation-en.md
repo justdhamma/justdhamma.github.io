@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '207'
+episode: 207
 title: The Danger Contemplation
 pli_tag: dhamma
 eng_tag: dhamma

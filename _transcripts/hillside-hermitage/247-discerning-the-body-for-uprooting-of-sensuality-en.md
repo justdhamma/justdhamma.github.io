@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '247'
+episode: 247
 title: Discerning The Body For Uprooting Of Sensuality
 pli_tag: kama
 eng_tag: sensuality

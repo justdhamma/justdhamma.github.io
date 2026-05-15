@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '48'
+episode: 48
 title: Do You See What Is Present
 pli_tag: dhamma
 eng_tag: dhamma

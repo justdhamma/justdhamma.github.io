@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '223'
+episode: 223
 title: Practice Of Generosity
 pli_tag: dana
 eng_tag: generosity

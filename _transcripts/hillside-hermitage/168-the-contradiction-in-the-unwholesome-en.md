@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '168'
+episode: 168
 title: The Contradiction In The Unwholesome
 pli_tag: dhamma
 eng_tag: dhamma

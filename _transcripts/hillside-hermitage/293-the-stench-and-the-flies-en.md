@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '293'
+episode: 293
 title: The Stench And The Flies
 pli_tag: dhamma
 eng_tag: dhamma

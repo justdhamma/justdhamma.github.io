@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '51'
+episode: 51
 title: Guided Contemplation At The Old Guards Cave
 pli_tag: dhamma
 eng_tag: dhamma

@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '68'
+episode: 68
 title: Die Before You Die
 pli_tag: dhamma
 eng_tag: dhamma

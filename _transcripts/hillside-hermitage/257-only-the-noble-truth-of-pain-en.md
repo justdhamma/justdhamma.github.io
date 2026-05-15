@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '257'
+episode: 257
 title: Only The Noble Truth Of Pain
 pli_tag: dukkha
 eng_tag: suffering

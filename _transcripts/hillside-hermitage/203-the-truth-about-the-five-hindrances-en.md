@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '203'
+episode: 203
 title: The Truth About The Five Hindrances
 pli_tag: dhamma
 eng_tag: dhamma

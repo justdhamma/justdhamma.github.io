@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '256'
+episode: 256
 title: Seven Factors Of Enlightenment
 pli_tag: dhamma
 eng_tag: dhamma

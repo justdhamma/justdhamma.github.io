@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '171'
+episode: 171
 title: The Beautiful Side Of Ugly The Living Side Of Death
 pli_tag: anicca
 eng_tag: impermanence

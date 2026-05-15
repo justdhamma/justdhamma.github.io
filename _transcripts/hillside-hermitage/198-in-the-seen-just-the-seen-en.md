@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '198'
+episode: 198
 title: In The Seen Just The Seen
 pli_tag: dhamma
 eng_tag: dhamma

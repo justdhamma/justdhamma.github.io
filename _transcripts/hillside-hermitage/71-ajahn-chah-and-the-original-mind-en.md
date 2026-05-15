@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '71'
+episode: 71
 title: Ajahn Chah And The Original Mind
 pli_tag: dhamma
 eng_tag: dhamma

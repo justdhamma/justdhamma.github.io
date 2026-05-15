@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '281'
+episode: 281
 title: Abundant Theory And Lack Of Endurance
 pli_tag: dhamma
 eng_tag: dhamma

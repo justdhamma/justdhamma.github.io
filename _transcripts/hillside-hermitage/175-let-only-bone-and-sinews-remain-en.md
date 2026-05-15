@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '175'
+episode: 175
 title: Let Only Bone And Sinews Remain
 pli_tag: dhamma
 eng_tag: dhamma

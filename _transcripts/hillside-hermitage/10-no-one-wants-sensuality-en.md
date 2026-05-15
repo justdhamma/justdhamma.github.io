@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '10'
+episode: 10
 title: No One Wants Sensuality
 pli_tag: kama
 eng_tag: sensuality

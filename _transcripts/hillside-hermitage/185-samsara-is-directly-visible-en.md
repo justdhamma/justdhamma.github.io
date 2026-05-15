@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '185'
+episode: 185
 title: Samsara Is Directly Visible
 pli_tag: dhamma
 eng_tag: dhamma

@@ -1,22 +1,24 @@
 ---
 category: transcripts
 channel: hillside-hermitage
-cld_url: ''
 description: Talk no.01hh - condensed transcript
 editor: hh
 eng_tag: dhamma
 episode: 1
 excerpt: ''
-gem_url: ''
-gpt_url: ''
-lang: en
+lang: ne
 layout: post
-permalink: /transcripts/hillside-hermitage/01hh-can love be path of happiness-en/
 pli_tag: dhamma
 previous: ''
 status: finished
-title: Unknown
-youtube_url: ''
+title: के माया नै खुसीको बाटो हो?
+translator: gem
+cld_url: '/transcripts/hillside-hermitage/1hh-can-love-be-path-of-happiness-ne-cld/'
+gem_url: '/transcripts/hillside-hermitage/1hh-can-love-be-path-of-happiness-ne-gem/'
+gpt_url: '/transcripts/hillside-hermitage/1hh-can-love-be-path-of-happiness-ne-gpt/'
+permalink: /transcripts/hillside-hermitage/1hh-can-love-be-path-of-happiness-ne-gem/
+en_url: /transcripts/hillside-hermitage/1hh-can-love-be-path-of-happiness-en/
+youtube_url: 'https://www.youtube.com/watch?v=tCYWGlw3cSE'
 ---
 
 <!-- # के माया नै खुसीको बाटो हो? -->

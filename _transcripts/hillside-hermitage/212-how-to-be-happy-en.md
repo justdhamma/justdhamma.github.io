@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '212'
+episode: 212
 title: How To Be Happy
 pli_tag: dhamma
 eng_tag: dhamma

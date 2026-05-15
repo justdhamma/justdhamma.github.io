@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '204'
+episode: 204
 title: The Six Sensed Animal
 pli_tag: dhamma
 eng_tag: dhamma

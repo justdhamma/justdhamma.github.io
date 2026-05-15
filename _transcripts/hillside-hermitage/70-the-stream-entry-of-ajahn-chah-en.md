@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '70'
+episode: 70
 title: The Stream Entry Of Ajahn Chah
 pli_tag: dhamma
 eng_tag: dhamma

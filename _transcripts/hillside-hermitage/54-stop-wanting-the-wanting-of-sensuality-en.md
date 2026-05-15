@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '54'
+episode: 54
 title: Stop Wanting The Wanting Of Sensuality
 pli_tag: kama
 eng_tag: sensuality

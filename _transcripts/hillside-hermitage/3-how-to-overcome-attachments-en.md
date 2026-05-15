@@ -2,19 +2,19 @@
 lang: en
 layout: post
 category: transcripts
-episode: '03'
+episode: 3
 title: How To Overcome Attachments
 pli_tag: brahmacariya
 eng_tag: celibacy
 description: 'Talk no.03hh - condensed transcript '
 excerpt: ''
 youtube_url: https://www.youtube.com/watch?v=YL_1067l0qw
-gem_url: /transcripts/hillside-hermitage/03hh-how-to-overcome-attachments-ne-gem/
-gpt_url: /transcripts/hillside-hermitage/03hh-how-to-overcome-attachments-ne-gpt/
-cld_url: /transcripts/hillside-hermitage/03hh-how-to-overcome-attachments-ne-cld/
-permalink: /transcripts/hillside-hermitage/03hh-how-to-overcome-attachments-en/
+gem_url: /transcripts/hillside-hermitage/3hh-how-to-overcome-attachments-ne-gem/
+gpt_url: /transcripts/hillside-hermitage/3hh-how-to-overcome-attachments-ne-gpt/
+cld_url: /transcripts/hillside-hermitage/3hh-how-to-overcome-attachments-ne-cld/
+permalink: /transcripts/hillside-hermitage/3hh-how-to-overcome-attachments-en/
 channel: hillside-hermitage
-previous: /transcripts/hillside-hermitage/02hh-why-is-celibacy-important-en/
+previous: /transcripts/hillside-hermitage/2hh-why-is-celibacy-important-en/
 status: finished
 editor: hh
 ---

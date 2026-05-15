@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '41'
+episode: 41
 title: Contemplation And Awareness
 pli_tag: sati
 eng_tag: mindfulness

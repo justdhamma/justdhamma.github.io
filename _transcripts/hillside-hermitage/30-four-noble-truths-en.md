@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '30'
+episode: 30
 title: Four Noble Truths
 pli_tag: ariya_sacca
 eng_tag: noble_truths

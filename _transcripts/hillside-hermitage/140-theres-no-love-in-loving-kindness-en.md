@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '140'
+episode: 140
 title: Theres No Love In Loving Kindness
 pli_tag: pema
 eng_tag: love

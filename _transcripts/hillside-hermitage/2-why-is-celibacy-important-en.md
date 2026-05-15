@@ -2,19 +2,19 @@
 lang: en
 layout: post
 category: transcripts
-episode: '02'
+episode: 2
 title: Why Is Celibacy Important
 pli_tag: brahmacariya
 eng_tag: celibacy
 description: 'Talk no.02hh - condensed transcript '
 excerpt: ''
 youtube_url: https://www.youtube.com/watch?v=GdluMyOR8VQ
-gem_url: /transcripts/hillside-hermitage/02hh-why-is-celibacy-important-ne-gem/
-gpt_url: /transcripts/hillside-hermitage/02hh-why-is-celibacy-important-ne-gpt/
-cld_url: /transcripts/hillside-hermitage/02hh-why-is-celibacy-important-ne-cld/
-permalink: /transcripts/hillside-hermitage/02hh-why-is-celibacy-important-en/
+gem_url: /transcripts/hillside-hermitage/2hh-why-is-celibacy-important-ne-gem/
+gpt_url: /transcripts/hillside-hermitage/2hh-why-is-celibacy-important-ne-gpt/
+cld_url: /transcripts/hillside-hermitage/2hh-why-is-celibacy-important-ne-cld/
+permalink: /transcripts/hillside-hermitage/2hh-why-is-celibacy-important-en/
 channel: hillside-hermitage
-previous: /transcripts/hillside-hermitage/01hh-can-love-be-path-of-happiness-en/
+previous: /transcripts/hillside-hermitage/1hh-can-love-be-path-of-happiness-en/
 status: finished
 editor: hh
 ---

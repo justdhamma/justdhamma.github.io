@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '170'
+episode: 170
 title: How To Develop Solitude
 pli_tag: dhamma
 eng_tag: dhamma

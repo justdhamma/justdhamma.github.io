@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '64'
+episode: 64
 title: Responsibility Can Free You From Suffering
 pli_tag: dukkha
 eng_tag: suffering

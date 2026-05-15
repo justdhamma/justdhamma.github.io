@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '205'
+episode: 205
 title: Jhana Is A Lifestyle
 pli_tag: jhana
 eng_tag: absorption

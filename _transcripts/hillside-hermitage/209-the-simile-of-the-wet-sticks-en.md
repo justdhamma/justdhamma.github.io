@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '209'
+episode: 209
 title: The Simile Of The Wet Sticks
 pli_tag: dhamma
 eng_tag: dhamma

@@ -9,9 +9,9 @@ episode: 53
 excerpt: ''
 gem_url: ''
 gpt_url: ''
-lang: en
+lang: ne
 layout: post
-permalink: /transcripts/hillside-hermitage/53hh-the right kind of questioning-en/
+permalink: /transcripts/hillside-hermitage/53hh-the-right-kind-of-questioning-ne-gpt/
 pli_tag: dhamma
 previous: /transcripts/hillside-hermitage/53hh-the-right-kind-of-questioning-en/
 status: finished

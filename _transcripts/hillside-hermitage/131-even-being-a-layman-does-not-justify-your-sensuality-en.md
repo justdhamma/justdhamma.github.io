@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '131'
+episode: 131
 title: Even Being A Layman Does Not Justify Your Sensuality
 pli_tag: kama
 eng_tag: sensuality

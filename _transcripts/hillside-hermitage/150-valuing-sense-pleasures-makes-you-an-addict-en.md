@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '150'
+episode: 150
 title: Valuing Sense Pleasures Makes You An Addict
 pli_tag: dhamma
 eng_tag: dhamma

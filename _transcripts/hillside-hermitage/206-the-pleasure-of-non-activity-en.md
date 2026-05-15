@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '206'
+episode: 206
 title: The Pleasure Of Non Activity
 pli_tag: dhamma
 eng_tag: dhamma
@@ -23,12 +23,10 @@ a summarized transcription
 
 by **Ajahn Nyanamoli Thero**
 
-[\[video\]](https://www.youtube.com/watch?v=Fs7Mj2Ig3Hw) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20210501%20-%20206hh%20-%20Pleasure%20of%20non-activity%20-%20Thag%2019.1%20AN%203.68%20SN%209.10%20SN%2021.4%20SN%2035.240.mp3)
+<!-- [\[video\]](https://www.youtube.com/watch?v=Fs7Mj2Ig3Hw) [\[audio\]](https://archive.org/download/hillside-hermitage-audio-archive/20210501%20-%20206hh%20-%20Pleasure%20of%20non-activity%20-%20Thag%2019.1%20AN%203.68%20SN%209.10%20SN%2021.4%20SN%2035.240.mp3) -->
 
 <cite>[Theragatha 19.1 -
 Talaputta](https://suttacentral.net/thag19.1)</cite>:
-
-<div lang="en">
 
 > “Oh, when will I stay in a mountain cave,  
 > alone, with no companion,  
@@ -54,7 +52,6 @@ Talaputta](https://suttacentral.net/thag19.1)</cite>:
 > they are ignorant and fall under Māra’s control;  
 > loving life, they’re your disciples, mind.”
 
-</div>
 
 **Nm:** That’s everyone’s relationship with their mind, the only
 difference is how much perspective you have towards it or how much you
@@ -135,8 +132,6 @@ unruly mind that is trying to harass me with these thoughts.”
 
 **Q:**
 
-<div lang="en">
-
 > “…The Blessed One said,”Monks, if you are asked by wanderers of other
 > sects, ‘Friends, there are these three qualities. Which three? Lust,
 > aversion, and delusion. These are the three qualities. Now what is the
@@ -147,8 +142,6 @@ unruly mind that is trying to harass me with these thoughts.”
 > quick to fade. Delusion carries great blame and is slow to fade…”
 >
 > — [AN 3.68](https://suttacentral.net/an3.68)
-
-</div>
 
 **Nm:** Delusion is not a missing piece of information, it’s an
 existential attitude that you have towards your senses. That’s why I
@@ -198,8 +191,6 @@ will be cultivating it.
 **Q:** <cite>[SN 9.10 Sajjhāya
 Sutta](https://suttacentral.net/sn9.10)</cite>:
 
-<div lang="en">
-
 > “On one occasion a certain bhikkhu was dwelling among the Kosalans in
 > a certain woodland thicket. Now on that occasion that bhikkhu had been
 > excessively engrossed in recitation, but on a later occasion he passed
@@ -214,8 +205,6 @@ Sutta](https://suttacentral.net/sn9.10)</cite>:
 > Dhamma-stanzas, so long as I had not achieved dispassion. But from the
 > time I achieved dispassion, I dwell in what the good men call:”The
 > laying down by final knowledge of whatever is seen, heard, or sensed.”
-
-</div>
 
 **Nm:** Are you delighting in projects and work? If yes, that means you
 are delighting in distraction. Just try abide in true non-activity for
@@ -314,8 +303,6 @@ will be agreeable, will be felt pleasantly from the point of view of
 being so withdrawn, and that’s why the Buddha encouraged the venerable
 Anuruddha to develop jhana:
 
-<div lang="en">
-
 > “…Now, when you think these eight thoughts of a great person and
 > become a person who can attain at will, without trouble or difficulty,
 > these four jhānas—heightened mental states providing a pleasant
@@ -349,15 +336,11 @@ Anuruddha to develop jhana:
 >
 > — <cite>[AN 8.30](https://suttacentral.net/an8.30)</cite>
 
-</div>
-
 You don’t need to fear enjoying rough robes and thinking that it is
 sensuality. Only a person who is not free from sensuality would use that
 as a reference and think everything is sensuality because that’s the
 only reference they have. Even the Buddha himself initially thought that
 the pleasure of withdrawal is unwholesome:
-
-<div lang="en">
 
 > “I (the Buddha) thought: ‘I recall once, when my father the Sakyan was
 > working, and I was sitting in the cool shade of a rose-apple tree,
@@ -374,8 +357,6 @@ the pleasure of withdrawal is unwholesome:
 >
 > — <cite>[MN 36](https://suttacentral.net/mn36)</cite>
 
-</div>
-
 If you are enjoying living in the jungle wearing rough robes and
 enduring insects, if you find that agreeable, you don’t need to fear
 that as though it was sensuality, because it is not. That agreeability
@@ -386,8 +367,6 @@ because your mind can attain jhanas at will. In other words, if your
 mind can reestablish itself as fully withdrawn and independent of any
 sense at any time, then how could it be bothered by anything that comes
 through any sense?
-
-<div lang="en">
 
 > “Then Venerable Mahākassapa went up to the Buddha, bowed, and sat down
 > to one side. The Buddha said to him:”You’re old now, Kassapa. Those
@@ -421,8 +400,6 @@ through any sense?
 >
 > — <cite>[SN 16.5](https://suttacentral.net/sn16.5)</cite>
 
-</div>
-
 The relativity of hardship and endurance is determined by how much your
 mind is withdrawn from these things or not and that’s why it’s not
 incidental that boredom is that thing that nobody wants to deal with,
@@ -451,8 +428,6 @@ he can become an Arahant in this life, but some get distracted with work
 talk and sleep which becomes an obstruction to their own progress.
 That’s why the Buddha admonished some of his ariyan disciples:
 
-<div lang="en">
-
 > “…Now on that occasion the venerable Ānanda, along with many bhikkhus,
 > were busy making robes at Ghāṭā the Sakyan’s dwelling. Then, when it
 > was evening, the Blessed One rose from retreat and went to Ghāṭā the
@@ -480,8 +455,6 @@ That’s why the Buddha admonished some of his ariyan disciples:
 > renunciation, the bliss of seclusion, the bliss of peace, the bliss of
 > Nibbana…”
 
-</div>
-
 > — <cite>[MN 122](https://suttacentral.net/mn122)</cite>
 
 The amount of work that they were engaged with was obviously not
@@ -500,8 +473,6 @@ the Dhamma.
 
 **Nm:** Well it’s the effort in protecting the mind of non-activity, as
 it is praised in the suttas:
-
-<div lang="en">
 
 > “…then the Blessed One addressed a certain bhikkhu thus:”Come,
 > bhikkhu, tell that bhikkhu in my name that the Teacher calls him.”
@@ -532,8 +503,6 @@ it is praised in the suttas:
 >
 > — <cite>[SN 21.4](https://suttacentral.net/sn21.4)</cite>
 
-</div>
-
 That pleasant abiding here and now paired with your right view is
 basically jhana that leads you to nibbana. But as I said many times,
 jhana is not a product of your activity, jhana is a product of
@@ -544,8 +513,7 @@ and not whether you are motionless or moving about. You might jump to
 the conclusion that non-activity means being motionless for 3 hours,
 refusing to move because that will be a distraction from non-activity.
 No, non-activity means non-distraction (\*devoted to
-vigilance/watchfulness/non-distraction -
-<span lang="pi">*jagariyam-anuyoga*</span>).
+vigilance/watchfulness/non-distraction - *jagariyam-anuyoga*).
 
 Just sit in your room and you will see in just a short time the mind
 will present you with something to do. If you are relishing that offer,

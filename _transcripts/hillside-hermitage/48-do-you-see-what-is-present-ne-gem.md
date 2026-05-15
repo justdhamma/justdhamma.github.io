@@ -9,9 +9,9 @@ episode: 48
 excerpt: ''
 gem_url: ''
 gpt_url: ''
-lang: en
+lang: ne
 layout: post
-permalink: /transcripts/hillside-hermitage/48hh-do you see what is present-en/
+permalink: /transcripts/hillside-hermitage/48hh-do-you-see-what-is-present-ne-gem/
 pli_tag: dhamma
 previous: /transcripts/hillside-hermitage/48hh-do-you-see-what-is-present-en/
 status: finished

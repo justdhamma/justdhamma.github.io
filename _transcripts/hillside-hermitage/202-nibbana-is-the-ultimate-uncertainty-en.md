@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '202'
+episode: 202
 title: Nibbana Is The Ultimate Uncertainty
 pli_tag: nibbana
 eng_tag: liberation

@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '284'
+episode: 284
 title: The Meaning Of Right Samadhi
 pli_tag: samadhi
 eng_tag: meditation

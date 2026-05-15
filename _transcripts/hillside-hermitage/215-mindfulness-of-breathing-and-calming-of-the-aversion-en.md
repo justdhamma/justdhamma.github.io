@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '215'
+episode: 215
 title: Mindfulness Of Breathing And Calming Of The Aversion
 pli_tag: sati
 eng_tag: mindfulness

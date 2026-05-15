@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '200'
+episode: 200
 title: Gateway To Nibbana
 pli_tag: nibbana
 eng_tag: liberation

@@ -2,7 +2,7 @@
 lang: en
 layout: post
 category: transcripts
-episode: '63'
+episode: 63
 title: Overcoming Anxiety
 pli_tag: dhamma
 eng_tag: dhamma
